@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Clothing IDs</title>
+  <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="https://cdn.datatables.net/1.13.6/css/jquery.dataTables.min.css">
+  <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+  <script src="https://cdn.datatables.net/1.13.6/js/jquery.dataTables.min.js"></script>
+</head>
+<body>
+  <h1 style="text-align:center;">👕 Clothing IDs</h1>
+  <table id="clothingTable" class="display" style="width:95%; margin:auto;"></table>
+
+  <script>
+    fetch("clothing.json")
+      .then(response => response.json())
+      .then(data => {
+        $('#clothingTable').DataTable({
+          data: data,
+          columns: [
+            { title: "ID", data: "id" },
+            { title: "Name", data: "name" },
+            { title: "Type", data: "type" },
+            { title: "Size", data: "size" },
+            { title: "Storage", data: "storage" },
+            { title: "Damage Reduction", data: "damageReduction" },
+            { title: "Movement Speed", data: "movementSpeed" },
+            { title: "Protection", data: "protection" },
+            { title: "Faction", data: "faction" },
+            { title: "Mod Source", data: "modSource" }
+          ],
+          pageLength: 25,
+          order: [[0, "asc"]]
+        });
+      });
+  </script>
+</body>
+</html>
