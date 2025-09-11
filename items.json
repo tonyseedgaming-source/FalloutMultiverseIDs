@@ -1,7 +1,0 @@
-[
-  { "id": 10944, "name": "Laser Pistol", "storage": "-", "category": "Weapons" },
-  { "id": 31001, "name": "10mm Pistol", "storage": "-", "category": "Weapons" },
-  { "id": 41045, "name": "Stimpak", "storage": "-", "category": "Supplies" },
-  { "id": 52012, "name": "Rusty Car", "storage": "Vehicle Storage 32", "category": "Vehicles" },
-  { "id": 61000, "name": "Wooden Wall", "storage": "-", "category": "Buildables" }
-]
