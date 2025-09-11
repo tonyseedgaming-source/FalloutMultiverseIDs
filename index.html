@@ -2,55 +2,19 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>Item ID List</title>
+  <title>Fallout Multiverse ID List</title>
   <link rel="stylesheet" href="style.css">
-  <link rel="stylesheet" href="https://cdn.datatables.net/1.13.6/css/jquery.dataTables.min.css">
-  <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
-  <script src="https://cdn.datatables.net/1.13.6/js/jquery.dataTables.min.js"></script>
 </head>
 <body>
-  <h1 style="text-align:center;">📦 Item ID List</h1>
+  <h1 style="text-align:center;">Fallout Multiverse Item IDs</h1>
+  <p style="text-align:center;">Select a category below:</p>
 
-  <!-- Category Filter -->
-  <div style="text-align:center; margin-bottom:15px;">
-    <label for="categoryFilter">Category: </label>
-    <select id="categoryFilter">
-      <option value="">All</option>
-      <option value="Weapons">Weapons</option>
-      <option value="Clothing">Clothing</option>
-      <option value="Supplies">Supplies</option>
-      <option value="Vehicles">Vehicles</option>
-      <option value="Buildables">Buildables</option>
-    </select>
-  </div>
-
-  <!-- DataTable -->
-  <table id="idList" class="display" style="width:90%; margin:auto;"></table>
-
-  <script>
-    let table;
-
-    fetch("items.json")
-      .then(response => response.json())
-      .then(data => {
-        table = $('#idList').DataTable({
-          data: data,
-          columns: [
-            { title: "ID", data: "id" },
-            { title: "Name", data: "name" },
-            { title: "Storage", data: "storage" },
-            { title: "Category", data: "category" }
-          ],
-          pageLength: 25,
-          order: [[0, "asc"]]
-        });
-
-        // Category filter
-        $('#categoryFilter').on('change', function() {
-          let val = $(this).val();
-          table.column(3).search(val).draw();
-        });
-      });
-  </script>
+  <ul style="text-align:center; list-style:none; padding:0;">
+    <li><a href="clothing.html">Clothing</a></li>
+    <li><a href="weapons.html">Weapons</a></li>
+    <li><a href="supplies.html">Supplies</a></li>
+    <li><a href="vehicles.html">Vehicles</a></li>
+    <li><a href="buildables.html">Buildables</a></li>
+  </ul>
 </body>
 </html>
