@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Tazer",
+    "id": "1101",
+    "sizeInInventory": "2x1",
+    "strength": "Medium",
+    "rarity": "Uncommon",
+    "modSource": "Base Game"
+  },
+  {
+    "name": "Net Launcher",
+    "id": "1102",
+    "sizeInInventory": "3x2",
+    "strength": "High",
+    "rarity": "Rare",
+    "modSource": "Utility Mod"
+  },
+  {
+    "name": "Stun Baton",
+    "id": "1103",
+    "sizeInInventory": "2x1",
+    "strength": "Low",
+    "rarity": "Common",
+    "modSource": "Base Game"
+  }
+]

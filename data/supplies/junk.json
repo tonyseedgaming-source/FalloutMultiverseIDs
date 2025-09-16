@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Scrap Metal",
+    "id": "7001",
+    "sizeInInventory": "1x1",
+    "rarity": "Common",
+    "modSource": "Base Game"
+  },
+  {
+    "name": "Electronics Parts",
+    "id": "7002",
+    "sizeInInventory": "1x1",
+    "rarity": "Uncommon",
+    "modSource": "Base Game"
+  },
+  {
+    "name": "Plastic Bottles",
+    "id": "7003",
+    "sizeInInventory": "1x1",
+    "rarity": "Common",
+    "modSource": "Base Game"
+  }
+]

@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Barricades - Fallout Multiverse IDs</title>
+  <link rel="stylesheet" href="../../style.css">
+</head>
+<body>
+  <h1>Barricades</h1>
+  <p><a href="../../index.html">← Back to Main List</a></p>
+  
+  <table id="data-table">
+    <thead>
+      <tr>
+        <th>Name</th>
+        <th>ID</th>
+        <th>Size in Inventory</th>
+        <th>Storage Capacity</th>
+        <th>Armor Tier</th>
+        <th>Health</th>
+        <th>Mod Source</th>
+      </tr>
+    </thead>
+    <tbody>
+      <!-- Data will be loaded here -->
+    </tbody>
+  </table>
+
+  <script>
+    fetch('../../data/buildables/barricades.json')
+      .then(response => response.json())
+      .then(data => {
+        const tableBody = document.querySelector('#data-table tbody');
+        data.forEach(item => {
+          const row = document.createElement('tr');
+          row.innerHTML = `
+            <td>${item.name}</td>
+            <td>${item.id}</td>
+            <td>${item.sizeInInventory}</td>
+            <td>${item.storageCapacity}</td>
+            <td>${item.armorTier}</td>
+            <td>${item.health}</td>
+            <td>${item.modSource}</td>
+          `;
+          tableBody.appendChild(row);
+        });
+      })
+      .catch(error => console.error('Error loading data:', error));
+  </script>
+</body>
+</html>

@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Steel Ingot",
+    "id": "7101",
+    "sizeInInventory": "1x2",
+    "rarity": "Uncommon",
+    "modSource": "Base Game"
+  },
+  {
+    "name": "Wood Planks",
+    "id": "7102",
+    "sizeInInventory": "2x1",
+    "rarity": "Common",
+    "modSource": "Base Game"
+  },
+  {
+    "name": "Chemical Compound",
+    "id": "7103",
+    "sizeInInventory": "1x1",
+    "rarity": "Rare",
+    "modSource": "Chemistry Mod"
+  }
+]

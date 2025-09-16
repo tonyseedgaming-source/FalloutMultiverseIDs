@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Wind Turbine",
+    "id": "2001",
+    "sizeInInventory": "6x6",
+    "range": "Medium",
+    "capacity": "100 kW",
+    "burnRate": "0/hour",
+    "health": "500",
+    "workTime": "24 hours",
+    "rarity": "Rare",
+    "modSource": "Green Energy Mod"
+  },
+  {
+    "name": "Diesel Generator",
+    "id": "2002",
+    "sizeInInventory": "4x4",
+    "range": "Small",
+    "capacity": "50 kW",
+    "burnRate": "5L/hour",
+    "health": "300",
+    "workTime": "12 hours",
+    "rarity": "Common",
+    "modSource": "Base Game"
+  },
+  {
+    "name": "Nuclear Reactor",
+    "id": "2003",
+    "sizeInInventory": "8x8",
+    "range": "Large",
+    "capacity": "1000 kW",
+    "burnRate": "1 rod/day",
+    "health": "1000",
+    "workTime": "72 hours",
+    "rarity": "Legendary",
+    "modSource": "Nuclear Mod"
+  }
+]

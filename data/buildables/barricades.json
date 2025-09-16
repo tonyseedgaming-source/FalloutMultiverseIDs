@@ -1,0 +1,29 @@
+[
+  {
+    "name": "Wooden Barricade",
+    "id": "3001",
+    "sizeInInventory": "3x2",
+    "storageCapacity": "20 slots",
+    "armorTier": "Tier 1",
+    "health": "200",
+    "modSource": "Base Game"
+  },
+  {
+    "name": "Metal Barrier",
+    "id": "3002",
+    "sizeInInventory": "4x2",
+    "storageCapacity": "40 slots",
+    "armorTier": "Tier 3",
+    "health": "500",
+    "modSource": "Industrial Mod"
+  },
+  {
+    "name": "Reinforced Wall",
+    "id": "3003",
+    "sizeInInventory": "5x3",
+    "storageCapacity": "80 slots",
+    "armorTier": "Tier 5",
+    "health": "1000",
+    "modSource": "Defense Mod"
+  }
+]

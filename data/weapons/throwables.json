@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Frag Grenade",
+    "id": "6001",
+    "sizeInInventory": "1x1",
+    "explosionRange": "8m",
+    "playerDamage": "80",
+    "zombieDamage": "120",
+    "barricadeDamage": "60",
+    "vehicleDamage": "40",
+    "rarity": "Rare",
+    "modSource": "Military Mod"
+  },
+  {
+    "name": "Molotov Cocktail",
+    "id": "6002",
+    "sizeInInventory": "1x1",
+    "explosionRange": "5m",
+    "playerDamage": "45",
+    "zombieDamage": "65",
+    "barricadeDamage": "80",
+    "vehicleDamage": "30",
+    "rarity": "Common",
+    "modSource": "Base Game"
+  },
+  {
+    "name": "Smoke Grenade",
+    "id": "6003",
+    "sizeInInventory": "1x1",
+    "explosionRange": "12m",
+    "playerDamage": "0",
+    "zombieDamage": "0",
+    "barricadeDamage": "0",
+    "vehicleDamage": "0",
+    "rarity": "Uncommon",
+    "modSource": "Tactical Mod"
+  }
+]

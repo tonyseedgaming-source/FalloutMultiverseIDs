@@ -1,0 +1,38 @@
+[
+  {
+    "name": "AK-47",
+    "id": "4001",
+    "sizeInInventory": "4x2",
+    "ammoType": "7.62x39mm",
+    "maxRange": "400m",
+    "playerDamage": "45",
+    "zombieDamage": "65",
+    "highCaliber": "Y",
+    "rarity": "Uncommon",
+    "modSource": "Military Mod"
+  },
+  {
+    "name": "Pistol",
+    "id": "4002",
+    "sizeInInventory": "2x1",
+    "ammoType": "9mm",
+    "maxRange": "50m",
+    "playerDamage": "25",
+    "zombieDamage": "35",
+    "highCaliber": "N",
+    "rarity": "Common",
+    "modSource": "Base Game"
+  },
+  {
+    "name": "Sniper Rifle",
+    "id": "4003",
+    "sizeInInventory": "5x2",
+    "ammoType": ".308",
+    "maxRange": "800m",
+    "playerDamage": "85",
+    "zombieDamage": "120",
+    "highCaliber": "Y",
+    "rarity": "Rare",
+    "modSource": "Military Mod"
+  }
+]

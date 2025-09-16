@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Jerry Can",
+    "id": "1201",
+    "sizeInInventory": "2x2",
+    "fuelCapacity": "20L",
+    "rarity": "Common",
+    "modSource": "Base Game"
+  },
+  {
+    "name": "Industrial Tank",
+    "id": "1202",
+    "sizeInInventory": "4x4",
+    "fuelCapacity": "200L",
+    "rarity": "Rare",
+    "modSource": "Industrial Mod"
+  },
+  {
+    "name": "Portable Fuel Cell",
+    "id": "1203",
+    "sizeInInventory": "1x2",
+    "fuelCapacity": "5L",
+    "rarity": "Uncommon",
+    "modSource": "Tech Mod"
+  }
+]

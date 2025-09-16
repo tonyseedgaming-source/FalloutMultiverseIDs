@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Guns & Munitions</title>
+  <link rel="stylesheet" href="../../style.css">
+</head>
+<body>
+  <h1>Guns & Munitions</h1>
+  <table>
+    <thead>
+      <tr>
+        <th>Name</th>
+        <th>ID</th>
+        <th>Size in Inventory</th>
+        <th>Ammo Type</th>
+        <th>Max Range</th>
+        <th>Player Damage</th>
+        <th>Zombie Damage</th>
+        <th>High Caliber (Y/N)</th>
+        <th>Rarity</th>
+        <th>Mod Source</th>
+      </tr>
+    </thead>
+    <tbody>
+      <!-- Add items here -->
+    </tbody>
+  </table>
+  <p><a href="../../index.html">⬅ Back to Index</a></p>
+
+  <script>
+    fetch('../../data/weapons/guns.json')
+      .then(response => response.json())
+      .then(data => {
+        const tableBody = document.querySelector('tbody');
+        data.forEach(item => {
+          const row = document.createElement('tr');
+          row.innerHTML = `
+            <td>${item.name}</td>
+            <td>${item.id}</td>
+            <td>${item.sizeInInventory}</td>
+            <td>${item.ammoType}</td>
+            <td>${item.maxRange}</td>
+            <td>${item.playerDamage}</td>
+            <td>${item.zombieDamage}</td>
+            <td>${item.highCaliber}</td>
+            <td>${item.rarity}</td>
+            <td>${item.modSource}</td>
+          `;
+          tableBody.appendChild(row);
+        });
+      })
+      .catch(error => console.error('Error loading data:', error));
+  </script>
+</body>
+</html>

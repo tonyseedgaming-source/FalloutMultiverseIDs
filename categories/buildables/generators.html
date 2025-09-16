@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Generators</title>
+  <link rel="stylesheet" href="../../style.css">
+</head>
+<body>
+  <h1>Generators</h1>
+  <table>
+    <thead>
+      <tr>
+        <th>Name</th>
+        <th>ID</th>
+        <th>Size in Inventory</th>
+        <th>Range</th>
+        <th>Capacity</th>
+        <th>Burn Rate</th>
+        <th>Health</th>
+        <th>Work Time</th>
+        <th>Rarity</th>
+        <th>Mod Source</th>
+      </tr>
+    </thead>
+    <tbody>
+      <!-- Add items here -->
+    </tbody>
+  </table>
+  <p><a href="../../index.html">⬅ Back to Index</a></p>
+
+  <script>
+    fetch('../../data/buildables/generators.json')
+      .then(response => response.json())
+      .then(data => {
+        const tableBody = document.querySelector('tbody');
+        data.forEach(item => {
+          const row = document.createElement('tr');
+          row.innerHTML = `
+            <td>${item.name}</td>
+            <td>${item.id}</td>
+            <td>${item.sizeInInventory}</td>
+            <td>${item.range}</td>
+            <td>${item.capacity}</td>
+            <td>${item.burnRate}</td>
+            <td>${item.health}</td>
+            <td>${item.workTime}</td>
+            <td>${item.rarity}</td>
+            <td>${item.modSource}</td>
+          `;
+          tableBody.appendChild(row);
+        });
+      })
+      .catch(error => console.error('Error loading data:', error));
+  </script>
+</body>
+</html>
