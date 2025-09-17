@@ -1,38 +1,38 @@
 [
   {
-    "name": "Baseball Bat",
-    "id": "5001",
-    "sizeInInventory": "3x1",
+    "name": "Blowtorch",
+    "id": "76",
+    "sizeInInventory": "2x1",
     "range": "1.5m",
-    "playerDamage": "30",
-    "zombieDamage": "40",
-    "barricadeDamage": "15",
-    "vehicleDamage": "5",
-    "rarity": "Common",
-    "modSource": "Base Game"
+    "playerDamage": "11",
+    "zombieDamage": "11",
+    "barricadeDamage": "10",
+    "vehicleDamage": "10",
+    "rarity": "Uncommon",
+    "modSource": "Vanilla"
   },
   {
-    "name": "Katana",
-    "id": "5002",
-    "sizeInInventory": "4x1",
-    "range": "2m",
+    "name": "Saw",
+    "id": "141",
+    "sizeInInventory": "1x2",
+    "range": "1.75m",
     "playerDamage": "55",
     "zombieDamage": "75",
-    "barricadeDamage": "25",
-    "vehicleDamage": "10",
-    "rarity": "Rare",
-    "modSource": "Martial Arts Mod"
+    "barricadeDamage": "15",
+    "vehicleDamage": "25",
+    "rarity": "Common",
+    "modSource": "Vanilla"
   },
   {
-    "name": "Crowbar",
-    "id": "5003",
+    "name": "Hammer",
+    "id": "138",
     "sizeInInventory": "2x1",
-    "range": "1.2m",
-    "playerDamage": "25",
-    "zombieDamage": "35",
-    "barricadeDamage": "35",
-    "vehicleDamage": "20",
+    "range": "1.75m",
+    "playerDamage": "27",
+    "zombieDamage": "27",
+    "barricadeDamage": "15",
+    "vehicleDamage": "25",
     "rarity": "Common",
-    "modSource": "Base Game"
+    "modSource": "Vanilla"
   }
 ]
