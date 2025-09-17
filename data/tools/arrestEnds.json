@@ -1,23 +1,9 @@
 [
   {
-    "name": "Basic Handcuffs",
-    "id": "1001",
+    "name": "Handcuffs Key",
+    "id": "1196",
     "sizeInInventory": "1x1",
     "rarity": "Common",
-    "modSource": "Base Game"
-  },
-  {
-    "name": "Steel Shackles",
-    "id": "1002",
-    "sizeInInventory": "1x1",
-    "rarity": "Uncommon",
-    "modSource": "Base Game"
-  },
-  {
-    "name": "Electronic Restraints",
-    "id": "1003",
-    "sizeInInventory": "1x2",
-    "rarity": "Rare",
-    "modSource": "Tech Mod"
+    "modSource": "Vanilla"
   }
 ]
