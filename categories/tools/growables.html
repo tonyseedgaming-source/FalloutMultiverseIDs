@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <title>Growables - Tools</title>
-  <link rel="stylesheet" href="../style.css">
+  <link rel="stylesheet" href="../../style.css">
 </head>
 <body>
   <h1>Growables (Tools)</h1>
@@ -11,17 +11,34 @@
     <thead>
       <tr>
         <th>Name</th>
-        <th>ID</th>
         <th>Size in Inventory</th>
         <th>Rarity</th>
         <th>Mod Source</th>
       </tr>
     </thead>
     <tbody>
-      <!-- Add items here -->
+      <!-- Data will load here -->
     </tbody>
   </table>
-  <p><a href="../index.html">⬅ Back to Index</a></p>
+  <p><a href="../../index.html">⬅ Back to Index</a></p>
+
+  <script>
+    fetch('../../data/tools/growables.json')
+      .then(response => response.json())
+      .then(data => {
+        const tableBody = document.querySelector('tbody');
+        data.forEach(item => {
+          const row = document.createElement('tr');
+          row.innerHTML = `
+            <td>${item.name}</td>
+            <td>${item.sizeInInventory}</td>
+            <td>${item.rarity}</td>
+            <td>${item.modSource}</td>
+          `;
+          tableBody.appendChild(row);
+        });
+      })
+      .catch(error => console.error('Error loading data:', error));
+  </script>
 </body>
 </html>
-
