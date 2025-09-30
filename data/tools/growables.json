@@ -1,1 +1,101 @@
+[
+  {
+    "name": "Vermillion Berry Seed",
+    "id": 1110,
+    "sizeInInventory": "1x1",
+    "rarity": "Common",
+    "modSource": "Vanilla"
+  },
+  {
+    "name": "Teal Berry Seed",
+    "id": 1109,
+    "sizeInInventory": "1x1",
+    "rarity": "Common",
+    "modSource": "Vanilla"
+  },
+  {
+    "name": "Russet Berry Seed",
+    "id": 1108,
+    "sizeInInventory": "1x1",
+    "rarity": "Common",
+    "modSource": "Vanilla"
+  },
+  {
+    "name": "Mauve Berry Seed",
+    "id": 1107,
+    "sizeInInventory": "1x1",
+    "rarity": "Common",
+    "modSource": "Vanilla"
+  },
+  {
+    "name": "Jade Berry Seed",
+    "id": 1106,
+    "sizeInInventory": "1x1",
+    "rarity": "Common",
+    "modSource": "Vanilla"
+  },
+  {
+    "name": "Indigo Berry Seed",
+    "id": 1105,
+    "sizeInInventory": "1x1",
+    "rarity": "Common",
+    "modSource": "Vanilla"
+  },
+  {
+    "name": "Amber Berry Seed",
+    "id": 1104,
+    "sizeInInventory": "1x1",
+    "rarity": "Common",
+    "modSource": "Vanilla"
+  },
+  {
+    "name": "Pumpkin Seed",
+    "id": 1045,
+    "sizeInInventory": "1x1",
+    "rarity": "Common",
+    "modSource": "Vanilla"
+  },
+  {
+    "name": "Wheat Seed",
+    "id": 345,
+    "sizeInInventory": "1x1",
+    "rarity": "Common",
+    "modSource": "Vanilla"
+  },
+  {
+    "name": "Potato Seed",
+    "id": 343,
+    "sizeInInventory": "1x1",
+    "rarity": "Common",
+    "modSource": "Vanilla"
+  },
+  {
+    "name": "Tomato Seed",
+    "id": 341,
+    "sizeInInventory": "1x1",
+    "rarity": "Common",
+    "modSource": "Vanilla"
+  },
+  {
+    "name": "Lettuce Seed",
+    "id": 339,
+    "sizeInInventory": "1x1",
+    "rarity": "Common",
+    "modSource": "Vanilla"
+  },
+  {
+    "name": "Corn Seed",
+    "id": 336,
+    "sizeInInventory": "1x1",
+    "rarity": "Common",
+    "modSource": "Vanilla"
+  },
+  {
+    "name": "Carrot Seed",
+    "id": 330,
+    "sizeInInventory": "1x1",
+    "rarity": "Common",
+    "modSource": "Vanilla"
+  }
+]
 
