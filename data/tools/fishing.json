@@ -1,35 +1,35 @@
 [
   {
     "name": "Upgraded Fishing Rod",
-    "id": 1432,
+    "id": "1432",
     "sizeInInventory": "3x1",
     "rarity": "Epic",
     "modSource": "Vanilla"
   },
   {
     "name": "Pine Rod",
-    "id": 508,
+    "id": "508",
     "sizeInInventory": "3x1",
     "rarity": "Common",
     "modSource": "Vanilla"
   },
   {
     "name": "Maple Rod",
-    "id": 507,
+    "id": "507",
     "sizeInInventory": "3x1",
     "rarity": "Common",
     "modSource": "Vanilla"
   },
   {
     "name": "Birch Rod",
-    "id": 506,
+    "id": "506",
     "sizeInInventory": "3x1",
     "rarity": "Common",
     "modSource": "Vanilla"
   },
   {
     "name": "Fishing Rod",
-    "id": 503,
+    "id": "503",
     "sizeInInventory": "3x1",
     "rarity": "Uncommon",
     "modSource": "Vanilla"
