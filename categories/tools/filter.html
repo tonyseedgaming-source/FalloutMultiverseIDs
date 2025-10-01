@@ -21,6 +21,25 @@
     </tbody>
   </table>
   <p><a href="../index.html">⬅ Back to Index</a></p>
+  <script>
+    fetch('../../data/tools/fishing.json')
+      .then(response => response.json())
+      .then(data => {
+        const tableBody = document.querySelector('tbody');
+        data.forEach(item => {
+          const row = document.createElement('tr');
+          row.innerHTML = `
+            <td>${item.name}</td>
+            <td>${item.id}</td>
+            <td>${item.sizeInInventory}</td>
+            <td>${item.rarity}</td>
+            <td>${item.modSource}</td>
+          `;
+          tableBody.appendChild(row);
+        });
+      })
+      .catch(error => console.error('Error loading data:', error));
+  </script>
 </body>
 </html>
 
