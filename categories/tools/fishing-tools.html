@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <title>Fishing Tools - Tools</title>
-  <link rel="stylesheet" href="../style.css">
+  <link rel="stylesheet" href="../../style.css">
 </head>
 <body>
   <h1>Fishing Tools (Tools)</h1>
@@ -18,9 +18,15 @@
       </tr>
     </thead>
     <tbody>
-      <!-- Add items here -->
+      <!-- Rows will load from JSON -->
     </tbody>
   </table>
-  <p><a href="../index.html">⬅ Back to Index</a></p>
-</body>
-</html>
+  <p><a href="../../index.html">⬅ Back to Index</a></p>
+
+  <script>
+    fetch('../../data/tools/fishing.json')
+      .then(response => response.json())
+      .then(data => {
+        const tableBody = document.querySelector('tbody');
+        data.forEach(item => {
+          const row
