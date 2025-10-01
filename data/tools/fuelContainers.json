@@ -1,26 +1,43 @@
 [
   {
-    "name": "Jerry Can",
-    "id": "1201",
-    "sizeInInventory": "2x2",
-    "fuelCapacity": "20L",
-    "rarity": "Common",
-    "modSource": "Base Game"
-  },
-  {
-    "name": "Industrial Tank",
-    "id": "1202",
-    "sizeInInventory": "4x4",
-    "fuelCapacity": "200L",
+    "name": "Industrial Gas Can",
+    "id": "1440",
+    "sizeInInventory": "3x3",
+    "fuelCapacity": "2,500L",
     "rarity": "Rare",
-    "modSource": "Industrial Mod"
+    "modSource": "Vanilla"
   },
   {
-    "name": "Portable Fuel Cell",
-    "id": "1203",
-    "sizeInInventory": "1x2",
-    "fuelCapacity": "5L",
+    "name": "Pine Jerrycan",
+    "id": "1116",
+    "sizeInInventory": "2x2",
+    "fuelCapacity": "325L",
+    "rarity": "Common",
+    "modSource": "Vanilla"
+  },
+  {
+    "name": "Birch Jerrycan",
+    "id": "1115",
+    "sizeInInventory": "2x2",
+    "fuelCapacity": "275L",
+    "rarity": "Common",
+    "modSource": "Vanilla"
+  },
+  {
+    "name": "Maple Jerrycan",
+    "id": "1114",
+    "sizeInInventory": "2x2",
+    "fuelCapacity": "300L",
+    "rarity": "Common",
+    "modSource": "Vanilla"
+  },
+    {
+    "name": "Portable Gas Can",
+    "id": "28",
+    "sizeInInventory": "2x2",
+    "fuelCapacity": "500L",
     "rarity": "Uncommon",
-    "modSource": "Tech Mod"
+    "modSource": "Vanilla"
   }
+  
 ]
