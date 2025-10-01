@@ -11,13 +11,14 @@
     <thead>
       <tr>
         <th>Name</th>
+        <th>ID</th>
         <th>Size in Inventory</th>
         <th>Rarity</th>
         <th>Mod Source</th>
       </tr>
     </thead>
     <tbody>
-      <!-- Data will load here -->
+      <!-- Rows will load from JSON -->
     </tbody>
   </table>
   <p><a href="../../index.html">⬅ Back to Index</a></p>
@@ -31,6 +32,7 @@
           const row = document.createElement('tr');
           row.innerHTML = `
             <td>${item.name}</td>
+            <td>${item.id}</td>
             <td>${item.sizeInInventory}</td>
             <td>${item.rarity}</td>
             <td>${item.modSource}</td>
