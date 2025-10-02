@@ -1,1 +1,149 @@
-
+[
+  {
+    "name": "Housing Planner",
+    "id": "1764",
+    "sizeInInventory": "1x1",
+    "rarity": "Uncommon",
+    "modSource": "Vanilla"
+  },
+  {
+    "name": "Walkie Talkie",
+    "id": "1445",
+    "sizeInInventory": "1x2",
+    "rarity": "Rare",
+    "modSource": "Vanilla"
+  },
+  {
+    "name": "Stealy Wheely Automobiley",
+    "id": "1353",
+    "sizeInInventory": "1x2",
+    "rarity": "Uncommon",
+    "modSource": "Vanilla"
+  },
+  {
+    "name": "Carjack",
+    "id": "277",
+    "sizeInInventory": "2x1",
+    "rarity": "Uncommon",
+    "modSource": "Vanilla"
+  },
+  {
+    "name": "Blowtorch",
+    "id": "76",
+    "sizeInInventory": "1x2",
+    "rarity": "Uncommon",
+    "modSource": "Vanilla"
+  },
+  {
+    "name": "Kitchen Knife",
+    "id": "120",
+    "sizeInInventory": "1x2",
+    "rarity": "Common",
+    "modSource": "Vanilla"
+  },
+  {
+    "name": "Butcher Knife",
+    "id": "137",
+    "sizeInInventory": "1x2",
+    "rarity": "Common",
+    "modSource": "Vanilla"
+  },
+  {
+    "name": "Hammer",
+    "id": "138",
+    "sizeInInventory": "1x2",
+    "rarity": "Common",
+    "modSource": "Vanilla"
+  },
+  {
+    "name": "Saw",
+    "id": "141",
+    "sizeInInventory": "2x1",
+    "rarity": "Common",
+    "modSource": "Vanilla"
+  },
+  {
+    "name": "Frying Pan",
+    "id": "1030",
+    "sizeInInventory": "2x3",
+    "rarity": "Common",
+    "modSource": "Vanilla"
+  },
+  {
+    "name": "Yellow Umbrella",
+    "id": "1128",
+    "sizeInInventory": "2x2",
+    "rarity": "Uncommon",
+    "modSource": "Vanilla"
+  },
+  {
+    "name": "White Umbrella",
+    "id": "1127",
+    "sizeInInventory": "2x2",
+    "rarity": "Uncommon",
+    "modSource": "Vanilla"
+  },
+  {
+    "name": "Red Umbrella",
+    "id": "1126",
+    "sizeInInventory": "2x2",
+    "rarity": "Uncommon",
+    "modSource": "Vanilla"
+  },
+  {
+    "name": "Purple Umbrella",
+    "id": "1125",
+    "sizeInInventory": "2x2",
+    "rarity": "Uncommon",
+    "modSource": "Vanilla"
+  },
+  {
+    "name": "Orange Umbrella",
+    "id": "1124",
+    "sizeInInventory": "2x2",
+    "rarity": "Uncommon",
+    "modSource": "Vanilla"
+  },
+  {
+    "name": "Green Umbrella",
+    "id": "1123",
+    "sizeInInventory": "2x2",
+    "rarity": "Uncommon",
+    "modSource": "Vanilla"
+  },
+  {
+    "name": "Blue Umbrella",
+    "id": "1122",
+    "sizeInInventory": "2x2",
+    "rarity": "Uncommon",
+    "modSource": "Vanilla"
+  },
+  {
+    "name": "Black Umbrella",
+    "id": "1103",
+    "sizeInInventory": "2x2",
+    "rarity": "Uncommon",
+    "modSource": "Vanilla"
+  },
+  {
+    "name": "Binoculars",
+    "id": "333",
+    "sizeInInventory": "2x2",
+    "rarity": "Uncommon",
+    "modSource": "Vanilla"
+  },
+  {
+    "name": "Detonator",
+    "id": "1240",
+    "sizeInInventory": "2x2",
+    "rarity": "Rare",
+    "modSource": "Vanilla"
+  },
+  {
+    "name": "Fertilizer",
+    "id": "332",
+    "sizeInInventory": "1x2",
+    "rarity": "Uncommon",
+    "modSource": "Vanilla"
+  }
+]
