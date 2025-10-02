@@ -1,1 +1,23 @@
-
+[
+  {
+    "name": "Socketwrench",
+    "id": "1507",
+    "sizeInInventory": "2x1",
+    "rarity": "Uncommon",
+    "modSource": "Vanilla"
+  },
+  {
+    "name": "Tire",
+    "id": "1451",
+    "sizeInInventory": "2x2",
+    "rarity": "Uncommon",
+    "modSource": "Vanilla"
+  },
+  {
+    "name": "Vehicle Battery",
+    "id": "1450",
+    "sizeInInventory": "2x2",
+    "rarity": "Uncommon",
+    "modSource": "Vanilla"
+  }
+]
