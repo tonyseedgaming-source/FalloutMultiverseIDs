@@ -3,10 +3,10 @@
 <head>
   <meta charset="UTF-8">
   <title>Tools - Tools</title>
-  <link rel="stylesheet" href="../style.css">
+  <link rel="stylesheet" href="../../style.css">
 </head>
 <body>
-  <h1>Tools (General)</h1>
+  <h1>Tools (Tools)</h1>
   <table>
     <thead>
       <tr>
@@ -18,10 +18,27 @@
       </tr>
     </thead>
     <tbody>
-      <!-- Add items here -->
     </tbody>
   </table>
-  <p><a href="../index.html">⬅ Back to Index</a></p>
+  <p><a href="../../index.html">⬅ Back to Index</a></p>
+  <script>
+    fetch('../../data/tools/Tools.json')
+      .then(response => response.json())
+      .then(data => {
+        const tableBody = document.querySelector('tbody');
+        data.forEach(item => {
+          const row = document.createElement('tr');
+          row.innerHTML = `
+            <td>${item.name}</td>
+            <td>${item.id}</td>
+            <td>${item.sizeInInventory}</td>
+            <td>${item.rarity}</td>
+            <td>${item.modSource}</td>
+          `;
+          tableBody.appendChild(row);
+        });
+      })
+      .catch(error => console.error('Error loading data:', error));
+  </script>
 </body>
 </html>
-
