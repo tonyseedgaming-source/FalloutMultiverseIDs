@@ -1,1 +1,23 @@
-
+[
+  {
+    "name": "Compass",
+    "id": "1508",
+    "sizeInInventory": "1x1",
+    "rarity": "Epic",
+    "modSource": "Vanilla"
+  },
+  {
+    "name": "GPS",
+    "id": "1176",
+    "sizeInInventory": "1x1",
+    "rarity": "Epic",
+    "modSource": "Vanilla"
+  },
+  {
+    "name": "Chart",
+    "id": "1175",
+    "sizeInInventory": "1x1",
+    "rarity": "Uncommon",
+    "modSource": "Vanilla"
+  }
+]
