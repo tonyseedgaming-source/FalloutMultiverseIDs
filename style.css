@@ -1,43 +1,38 @@
-body {
-  font-family: Arial, sans-serif;
+/* HOME PAGE */
+
+.home {
+  background: #0b0b0b;
+  color: white;
+}
+
+.home-container {
+  text-align: center;
+  margin-top: 120px;
+}
+
+.portal {
+  display: flex;
+  justify-content: center;
+  gap: 40px;
+  margin-top: 60px;
+}
+
+.portal-card {
+  width: 320px;
+  padding: 30px;
   background: #111;
-  color: #eee;
-  margin: 0;
-  padding: 20px;
-}
-
-h1 {
-  text-align: center;
-  margin-bottom: 20px;
-}
-
-table {
-  width: 100%;
-  border-collapse: collapse;
-  background: #222;
-  margin-bottom: 40px;
-}
-
-th, td {
-  padding: 10px;
-  border: 1px solid #444;
-  text-align: center;
-}
-
-th {
-  background: #333;
-  font-weight: bold;
-}
-
-tr:nth-child(even) {
-  background: #1a1a1a;
-}
-
-a {
-  color: #4fc3f7;
+  border: 2px solid #444;
+  border-radius: 10px;
   text-decoration: none;
+  color: white;
+  transition: 0.2s;
 }
 
-a:hover {
-  text-decoration: underline;
+.portal-card:hover {
+  border-color: #00bfff;
+  transform: scale(1.05);
+}
+
+.portal-card h2 {
+  margin-top: 0;
 }
