@@ -79,6 +79,7 @@
   display: flex;
   padding: 15px;
   gap: 15px;
+  align-items: center;
 }
 
 /* ICON */
@@ -89,7 +90,15 @@
   border-radius: 10px;
 }
 
-/* TEXT */
+/* TEXT + CENTERING FIX */
+
+.server-info {
+  display: flex;
+  flex-direction: column;
+  align-items: center;   /* centers everything horizontally */
+  text-align: center;    /* centers text */
+  flex: 1;
+}
 
 .server-info h2 {
   margin: 0;
@@ -110,6 +119,7 @@
   text-decoration: none;
   border-radius: 5px;
   font-weight: bold;
+  margin-top: 10px;
 }
 
 .join-btn:hover {
