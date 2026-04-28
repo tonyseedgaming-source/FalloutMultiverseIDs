@@ -7,6 +7,12 @@ body {
   color: white;
 }
 
+/* Prevent oversized images everywhere */
+img {
+  max-width: 100%;
+  height: auto;
+}
+
 /* ========================= */
 /* NAVBAR */
 /* ========================= */
@@ -36,6 +42,14 @@ body {
 .nav-logo {
   width: 40px;
   height: 40px;
+  object-fit: contain;   /* ensures proper scaling */
+}
+
+/* OPTIONAL: if you ever use a large logo on page */
+.main-logo {
+  width: 200px;
+  height: auto;
+  margin-bottom: 20px;
 }
 
 .nav-title {
@@ -61,14 +75,14 @@ body {
   color: #00bfff;
 }
 
-/* ACTIVE PAGE (optional highlight) */
+/* ACTIVE PAGE */
 
 .nav-links a.active {
   color: #00bfff;
   border-bottom: 2px solid #00bfff;
 }
 
-/* PAGE OFFSET (prevents overlap with navbar) */
+/* PAGE OFFSET */
 
 .page-content {
   margin-top: 90px;
@@ -83,7 +97,7 @@ body {
 }
 
 /* ========================= */
-/* PORTAL (HOME PAGE) */
+/* PORTAL */
 /* ========================= */
 
 .portal {
@@ -189,7 +203,7 @@ body {
 }
 
 /* ========================= */
-/* DASHBOARD (ID PAGE TOP) */
+/* DASHBOARD */
 /* ========================= */
 
 .dashboard {
