@@ -1,0 +1,19 @@
+"Metadata"
+{
+	"GUID" "1ec183d7518e43f999bc4a107ae4686e"
+	"Type" "SDG.Unturned.ItemCurrencyAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+}
+"Asset"
+{
+	"ValueFormat" "{0:N0}x Crusader"
+	"Entries"
+	[
+		{
+			"Item"
+			{
+				"GUID" "8c86d55306e6493c91b32e3237b68c0f"
+			}
+			"Value" "1"
+		}
+	]
+}
