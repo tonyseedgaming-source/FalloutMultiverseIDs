@@ -1,0 +1,16 @@
+GUID 1f06c58f59334be79b4f6b7abf6d1c68
+Type Food
+Useable Consumeable
+ID 41258
+
+Size_X 1
+Size_Y 1
+Size_Z 0.24
+
+Health 5
+Food 25
+
+Use_Auto_Icon_Measurements false
+Procedurally_Animate_Inertia false
+ConsumeAudioClip Consumables/Use_Food_13.mp3
+Instantiated_Item_Name_Override 42171
