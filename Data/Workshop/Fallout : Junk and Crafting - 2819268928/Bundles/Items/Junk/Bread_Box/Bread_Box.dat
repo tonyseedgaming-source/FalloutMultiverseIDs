@@ -1,0 +1,21 @@
+GUID 135ac855cf5249b88b4e8bd39b26ff43
+Type Supply
+Rarity Uncommon
+ID 60055
+
+Size_X 3
+Size_Y 2
+Size_Z 0.4
+Size2_Z 0.6
+
+Blueprints 1
+Blueprint_0_Type Gear
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 60055
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Outputs 1
+Blueprint_0_Output_0_ID 60026
+Blueprint_0_Output_0_Amount 3
+Blueprint_0_Build 32
+
+Asset_Bundle_Version 3
