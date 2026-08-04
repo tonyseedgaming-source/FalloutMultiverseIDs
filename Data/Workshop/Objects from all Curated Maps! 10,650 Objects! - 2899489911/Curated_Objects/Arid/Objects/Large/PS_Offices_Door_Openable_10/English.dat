@@ -1,0 +1,5 @@
+Name PS Offices Door Openable #11 [B4]
+
+Interactability_Condition_0 Missing B4 Key
+
+Interact Use [{0}]
