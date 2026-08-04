@@ -1,0 +1,72 @@
+GUID 9d8673eac1124ea1b3ffdebb2367d275
+Type Spawn
+ID 10207
+
+Tables
+[
+	{
+		// YumYum Deviled Eggs (Food Item)
+		Guid 55067b00ebd24f7280b1658bcd062cc6
+		Weight 4
+	}
+	{
+		// BlamCo Mac & Cheese (Food Item)
+		Guid 966e151707ff4f7da9718d850a4394bd
+		Weight 4
+	}
+	{
+		// Fancy Lads Snack Cakes (Food Item)
+		Guid e78f64189f9b4db9ae2b16b6085a3cef
+		Weight 4
+	}
+	{
+		// Beer (Water Item)
+		Guid 79099bfa994c4f4eaf10f954583f568f
+		Weight 4
+	}
+	{
+		// Nuka Cola (Water Item)
+		Guid bf4e39922d5746018cf8997a92ba19ab
+		Weight 4
+	}
+	{
+		// Whiskey (Water Item)
+		Guid 9c0cc4a979cb4b3e8e798c6544cd202f
+		Weight 4
+	}
+	{
+		// Water Bottle (Water Item)
+		Guid f03f12f467af4160a3cc5bc76f199e34
+		Weight 4
+	}
+	{
+		// Sugar Bombs (Food Item)
+		Guid d258f3c50eb04bba85495f0ef530ec24
+		Weight 4
+	}
+	{
+		// MRE (Food Item)
+		Guid c3234dd2af954b27898413fe7d188951
+		Weight 3
+	}
+	{
+		// 5.56mm Magazine (Magazine Item)
+		Guid 0045d362d7674974b05f5b9028f0f935
+		Weight 2
+	}
+	{
+		// 5.56mm Extended Magazine (Magazine Item)
+		Guid 4277b0c2e3054b43835a4089ca2ee1a1
+		Weight 2
+	}
+	{
+		// Service Rifle (Gun Item)
+		Guid 3dd128f07d6d469e9105ca658043db6a
+		Weight 1
+	}
+	{
+		// 12.7mm Submachine Gun (Gun Item)
+		Guid 443d7083eb414a3cad3fe98fac5eadbd
+		Weight 1
+	}
+]
