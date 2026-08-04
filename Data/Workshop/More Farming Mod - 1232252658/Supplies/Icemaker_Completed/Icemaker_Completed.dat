@@ -1,0 +1,29 @@
+GUID c9ff570205e0423c9017e717465736b0
+Type Supply
+ID 42317
+
+Size_X 2
+Size_Y 2
+Size_Z 0.35
+
+Blueprints 1
+Blueprint_0_Type Utilities
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 42317
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Outputs 2
+Blueprint_0_Output_0_ID 42318
+Blueprint_0_Output_0_Amount 4
+Blueprint_0_Output_1_ID 42315
+Blueprint_0_Output_1_Amount 1
+Blueprint_0_Build 27
+
+Actions 1
+Action_0_Type Blueprint
+Action_0_Source 42317
+Action_0_Blueprints 1
+Action_0_Blueprint_0_Index 0
+Action_0_Text Take Ice
+Action_0_Tooltip Take out 4 ice cubes and empty the ice maker.
+
+Use_Auto_Icon_Measurements false
