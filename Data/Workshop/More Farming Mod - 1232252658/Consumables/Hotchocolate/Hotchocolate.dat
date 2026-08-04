@@ -1,0 +1,16 @@
+GUID a6cfa8dc13ae4af6814491846dbf717c
+Type Water
+Useable Consumeable
+ID 42230
+
+Size_X 1
+Size_Y 1
+Size_Z 0.28
+
+Water 25
+Food 25
+Warmth 2245
+
+Use_Auto_Icon_Measurements false
+Procedurally_Animate_Inertia false
+InspectAudioDef Consumables/Inspect_Coffee.mp3
