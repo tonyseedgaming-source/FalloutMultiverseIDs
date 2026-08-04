@@ -1,0 +1,12 @@
+GUID 46294f02b6a04bc7994be2fa27f5d989
+Type Medium
+ID 49205
+
+Interactability Rubble
+Interactability_Reset 250
+Interactability_Health 35
+Interactability_Effect 65
+
+Asset_Bundle_Version 2
+
+Exclude_From_Master_Bundle
