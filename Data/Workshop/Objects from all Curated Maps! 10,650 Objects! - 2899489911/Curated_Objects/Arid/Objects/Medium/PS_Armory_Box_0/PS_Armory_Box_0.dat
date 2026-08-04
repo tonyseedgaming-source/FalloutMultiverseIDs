@@ -1,0 +1,24 @@
+GUID 97e7d68bdbfc4f47a7b432c043c1d174
+
+Type Medium
+
+Has_Clip_Prefab False
+
+ID 60123
+
+Interactability_Rewards 1
+Interactability_Reward_0_Type Item
+Interactability_Reward_0_ID 59389
+Interactability_Reward_0_Amount 1
+Interactability_Reward_0_Origin World
+
+Interactability_Conditions 1
+Interactability_Condition_0_Type Item
+Interactability_Condition_0_ID 59725
+Interactability_Condition_0_Amount 1
+Interactability_Condition_0_Reset
+
+Interactability Quest
+Interactability_Effect 7
+
+Exclude_From_Level_Batching true
