@@ -1,0 +1,42 @@
+GUID 5e403fee76d848319f88bd8c6730e96d
+Type Barricade
+Useable Barricade
+Build Barricade
+ID 41152
+
+Size_X 3
+Size_Y 2
+Size_Z 0.32
+
+Health 100
+Range 4
+Radius 0.01
+Offset 0.5
+
+Explosion 37
+
+Blueprints 1
+Blueprint_0_Type Supply
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 41152
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Outputs 2
+Blueprint_0_Output_0_ID 41150
+Blueprint_0_Output_0_Amount 2
+Blueprint_0_Output_1_ID 41153
+Blueprint_0_Output_1_Amount 1
+Blueprint_0_Build 27
+
+Actions 1
+Action_0_Type Blueprint
+Action_0_Source 41152
+Action_0_Blueprints 1
+Action_0_Blueprint_0_Index 0
+Action_0_Text Take Servings
+Action_0_Tooltip Take two servings of roast turkey.
+
+Use_Auto_Icon_Measurements false
+Procedurally_Animate_Inertia false
+PlacementAudioClip Furniture/Placement_01.mp3
+Salvage_Duration_Multiplier 0.5
+Has_Clip_Prefab false
