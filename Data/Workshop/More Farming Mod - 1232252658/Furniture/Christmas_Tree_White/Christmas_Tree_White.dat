@@ -1,0 +1,24 @@
+GUID 42684bc5e5144c5e9c2cad1db33bda76
+Type Barricade
+Useable Barricade
+Build Barricade
+ID 47241
+
+Size_X 1
+Size_Y 2
+Size_Z 0.56
+
+Health 1
+Range 4
+Radius 0.2
+Offset 1
+
+Explosion 19
+Vulnerable
+
+Use_Auto_Icon_Measurements false
+Procedurally_Animate_Inertia false
+PlacementAudioClip Furniture/Placement_Medium_03.mp3
+Salvage_Duration_Multiplier 0.5
+Has_Clip_Prefab false
+PlacementPreviewPrefab Furniture/Christmas_Tree/Preview.prefab
