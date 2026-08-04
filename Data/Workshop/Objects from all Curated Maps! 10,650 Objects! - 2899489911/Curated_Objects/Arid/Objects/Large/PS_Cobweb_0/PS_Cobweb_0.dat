@@ -1,0 +1,12 @@
+GUID 581c4a711bb24f5ebf06caac158513e4
+
+Type Large
+
+Has_Clip_Prefab False
+
+ID 59752
+
+Conditions 1
+Condition_0_Type Holiday
+Condition_0_Value HALLOWEEN
+Condition_0_Logic Equal
