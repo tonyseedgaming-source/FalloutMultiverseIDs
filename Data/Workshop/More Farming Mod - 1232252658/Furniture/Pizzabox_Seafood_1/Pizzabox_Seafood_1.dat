@@ -1,0 +1,41 @@
+GUID 9ef8f913385d4e3eac3b96eb819c0e6f
+Type Barricade
+Rarity Common
+Useable Barricade
+Build Campfire
+ID 41235
+
+Size_X 2
+Size_Y 2
+Size_Z 0.34
+
+Health 300
+Range 4
+Radius 0.01
+Offset 0.14
+
+Explosion 36
+
+Blueprints 1
+Blueprint_0_Type Supply
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 41235
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Outputs 1
+Blueprint_0_Output_0_ID 41231
+Blueprint_0_Output_0_Amount 1
+Blueprint_0_Build 27
+
+Actions 1
+Action_0_Type Blueprint
+Action_0_Source 41235
+Action_0_Blueprints 1
+Action_0_Blueprint_0_Index 0
+Action_0_Text Take A Piece
+Action_0_Tooltip Take a piece of pizza.
+
+Use_Auto_Icon_Measurements false
+Procedurally_Animate_Inertia false
+Bypass_Pickup_Ownership true
+Salvage_Duration_Multiplier 0.2
+Has_Clip_Prefab false
