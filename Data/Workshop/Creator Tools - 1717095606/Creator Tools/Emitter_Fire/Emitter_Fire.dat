@@ -1,0 +1,15 @@
+GUID 98b84d5ded1d4296b6b11fb6ba7daa53
+Type Barricade
+Useable Barricade
+Build Campfire
+ID 16653
+
+Size_X 1
+Size_Y 1
+Size_Z 1
+
+Health 100
+Range 4
+Offset 0.1
+
+Vulnerable
