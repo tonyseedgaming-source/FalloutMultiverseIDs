@@ -1,0 +1,25 @@
+GUID 9a70f5a63fa84d24beb3829f7a9e4212
+Type Water
+Rarity Mythical
+Useable Consumeable
+ID 5631
+
+Size_X 1
+Size_Y 2
+Size_Z 0.4
+
+Water 100
+Food 100
+Disinfectant 100
+Energy 100
+Health 100
+Bleeding
+Broken
+
+Blueprints 1
+Blueprint_0_Type Repair
+Blueprint_0_Supply_0_ID 392
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Build 27
+
+Exclude_From_Master_Bundle
