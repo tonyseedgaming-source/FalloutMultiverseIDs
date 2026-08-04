@@ -1,0 +1,46 @@
+GUID 0c84632ff7a44db8ba28f7d9f339ee9d
+Type Barricade
+Useable Barricade
+Build Barricade
+ID 47213
+
+Size_X 2
+Size_Y 2
+Size_Z 0.37
+
+Health 300
+Range 4
+Radius 0.02
+Offset 0.05
+
+Explosion 36
+
+Blueprints 1
+Blueprint_0_Type Utilities
+Blueprint_0_Supplies 5
+Blueprint_0_Supply_0_ID 68
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Supply_1_ID 1056
+Blueprint_0_Supply_1_Amount 8
+Blueprint_0_Supply_2_ID 1057
+Blueprint_0_Supply_2_Amount 8
+Blueprint_0_Supply_3_ID 70
+Blueprint_0_Supply_3_Amount 1
+Blueprint_0_Supply_4_ID 49130
+Blueprint_0_Supply_4_Amount 1
+Blueprint_0_Level 3
+Blueprint_0_Skill Craft
+Blueprint_0_Outputs 3
+Blueprint_0_Output_0_ID 47213
+Blueprint_0_Output_0_Amount 1
+Blueprint_0_Output_1_ID 47214
+Blueprint_0_Output_1_Amount 1
+Blueprint_0_Output_2_ID 47215
+Blueprint_0_Output_2_Amount 1
+Blueprint_0_Build 47101
+
+Use_Auto_Icon_Measurements false
+Procedurally_Animate_Inertia false
+PlacementAudioClip Furniture/Placement_01.mp3
+Salvage_Duration_Multiplier 2
+Has_Clip_Prefab false
