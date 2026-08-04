@@ -1,0 +1,48 @@
+GUID bb953725c41e4fb3a6328b8d2b1d07ad
+Type Food
+Useable Consumeable
+ID 41166
+
+Size_X 1
+Size_Y 1
+Size_Z 0.25
+
+Backward
+
+Food 30
+
+Blueprints 3
+Blueprint_0_Type Supply
+Blueprint_0_Supplies 2
+Blueprint_0_Supply_0_ID 1121
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Supply_0_Critical
+Blueprint_0_Supply_1_ID 37
+Blueprint_0_Supply_1_Amount 1
+Blueprint_0_Level 2
+Blueprint_0_Skill Cook
+Blueprint_0_Build 47103
+Blueprint_1_Type Supply
+Blueprint_1_Supplies 2
+Blueprint_1_Supply_0_ID 1121
+Blueprint_1_Supply_0_Amount 1
+Blueprint_1_Supply_0_Critical
+Blueprint_1_Supply_1_ID 39
+Blueprint_1_Supply_1_Amount 1
+Blueprint_1_Level 2
+Blueprint_1_Skill Cook
+Blueprint_1_Build 47103
+Blueprint_2_Type Supply
+Blueprint_2_Supplies 2
+Blueprint_2_Supply_0_ID 1121
+Blueprint_2_Supply_0_Amount 1
+Blueprint_2_Supply_0_Critical
+Blueprint_2_Supply_1_ID 41
+Blueprint_2_Supply_1_Amount 1
+Blueprint_2_Level 2
+Blueprint_2_Skill Cook
+Blueprint_2_Build 47103
+
+Use_Auto_Icon_Measurements false
+Procedurally_Animate_Inertia false
+ConsumeAudioClip Consumables/Use_Food_04.mp3
