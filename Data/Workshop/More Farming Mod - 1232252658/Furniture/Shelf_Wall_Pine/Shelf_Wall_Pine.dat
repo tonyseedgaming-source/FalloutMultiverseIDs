@@ -1,0 +1,35 @@
+GUID 970de51b04cc43c792979a09fb50d856
+Type Storage
+Useable Barricade
+Build Storage_Wall
+ID 47358
+
+Size_X 2
+Size_Y 1
+Size_Z 0.22
+
+Health 200
+Range 4
+Offset 0.4
+
+Storage_X 5
+Storage_Y 3
+
+Explosion 29
+
+Blueprints 1
+Blueprint_0_Type Furniture
+Blueprint_0_Supplies 2
+Blueprint_0_Supply_0_ID 63
+Blueprint_0_Supply_0_Amount 4
+Blueprint_0_Supply_1_ID 71
+Blueprint_0_Supply_1_Amount 1
+Blueprint_0_Tool 138
+Blueprint_0_Level 2
+Blueprint_0_Skill Craft
+Blueprint_0_Build 47101
+
+Use_Auto_Icon_Measurements false
+Procedurally_Animate_Inertia false
+PlacementAudioClip Furniture/Placement_01.mp3
+Has_Clip_Prefab false
