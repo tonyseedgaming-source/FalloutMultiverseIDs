@@ -1,0 +1,24 @@
+GUID a8bb3665cf9d43c78c8da8607ce1d2fb
+Type Barricade
+Useable Barricade
+Build Freeform
+ID 47450
+
+Size_X 2
+Size_Y 2
+Size_Z 0.38
+
+Health 1
+Range 6
+Radius 0.1
+Offset 0.8
+
+Explosion 36
+Vulnerable
+
+Use_Auto_Icon_Measurements false
+Procedurally_Animate_Inertia false
+PlacementAudioClip Furniture/Placement_Medium_03.mp3
+Salvage_Duration_Multiplier 0.5
+Has_Clip_Prefab false
+PlacementPreviewPrefab Furniture/Halloween_Scythe/Preview.prefab
