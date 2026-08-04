@@ -1,0 +1,17 @@
+GUID a1f1c970ebd84b24947694979f2f7f8c
+Type Food
+Useable Consumeable
+ID 42176
+
+Size_X 1
+Size_Y 1
+Size_Z 0.27
+
+Backward
+
+Food 20
+
+Use_Auto_Icon_Measurements false
+Procedurally_Animate_Inertia false
+ConsumeAudioClip Consumables/Use_Food_14.mp3
+Instantiated_Item_Name_Override 42172
