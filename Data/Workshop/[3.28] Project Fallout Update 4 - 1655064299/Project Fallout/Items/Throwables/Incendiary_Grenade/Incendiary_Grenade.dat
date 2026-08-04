@@ -1,0 +1,54 @@
+GUID 6b987dfec4e84c48a223a503b48155ce
+Type Throwable
+Rarity Rare
+Useable Throwable
+ID 5702
+
+Size_X 1
+Size_Y 1
+Size_Z 0.3
+
+Player_Damage 80
+Zombie_Damage 175
+Animal_Damage 175
+Barricade_Damage 50
+Structure_Damage 50
+Vehicle_Damage 100
+Resource_Damage 100
+Object_Damage 100
+
+Range 10
+Explosion 119
+
+Explosive
+
+Splatter 4
+Splatters 32
+Splatter_Liquid
+Splatter_Temperature Acid
+Splatter_Lifetime 13
+Splatter_Lifetime_Spread 1
+
+Blueprints 2
+Blueprint_0_Type Tool
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 5702
+Blueprint_0_Product 5711
+Blueprint_0_Products 2
+Blueprint_0_Build 27
+Blueprint_1_Type Tool
+Blueprint_1_Supplies 5
+Blueprint_1_Supply_0_ID 5728
+Blueprint_1_Supply_0_Amount 2
+Blueprint_1_Supply_1_ID 5712
+Blueprint_1_Supply_1_Amount 2
+Blueprint_1_Supply_2_ID 5724
+Blueprint_1_Supply_2_Amount 1
+Blueprint_1_Supply_3_ID 5725
+Blueprint_1_Supply_3_Amount 1
+Blueprint_1_Supply_4_ID 5721
+Blueprint_1_Supply_4_Amount 4
+Blueprint_1_Build 32
+
+Exclude_From_Master_Bundle
+Exclude_From_Master_Bundle
