@@ -1,0 +1,25 @@
+GUID b08c901856924f9babaa3cfab473fc7f
+Type Food
+Useable Consumeable
+ID 42215
+
+Size_X 1
+Size_Y 1
+Size_Z 0.24
+
+Backward
+
+Quality_Max 50
+
+Food 15
+Water 15
+
+Actions 1
+Action_0_Type Blueprint
+Action_0_Source 42214
+Action_0_Blueprints 1
+Action_0_Blueprint_0_Index 0
+Action_0_Key Craft_Seed
+
+Use_Auto_Icon_Measurements false
+Procedurally_Animate_Inertia false
