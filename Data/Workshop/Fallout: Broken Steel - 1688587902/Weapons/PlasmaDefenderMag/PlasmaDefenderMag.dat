@@ -1,0 +1,20 @@
+GUID 01636041f8164ee39f0c2902b9ec5f21
+
+Type Magazine
+Rarity Uncommon
+ID 6505
+
+Size_X 1
+Size_Y 1
+Size_Z 0.1
+
+Amount 16
+Count_Min 6
+Count_Max 15
+
+Calibers 1
+Caliber_0 20
+
+Tracer 94
+
+Exclude_From_Master_Bundle
