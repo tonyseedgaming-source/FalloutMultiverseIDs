@@ -1,0 +1,14 @@
+GUID 56c4cf669cc247e7afce3d41e01e5ad5
+Type Small
+ID 32434
+
+LOD Mesh
+
+Interactability Rubble
+Interactability_Reset 60
+Interactability_Health 1
+Interactability_Effect 58
+
+Asset_Bundle_Version 2
+
+Exclude_From_Master_Bundle
