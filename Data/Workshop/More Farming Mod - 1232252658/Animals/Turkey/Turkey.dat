@@ -1,0 +1,17 @@
+GUID f5cd43289a874c7c821c205a59992cf4
+Type Animal
+ID 41147
+
+Speed_Run 11
+Speed_Walk 2
+
+Behaviour Defense
+
+Health 100
+
+Reward_ID 41147
+Reward_XP 10
+Reward_Min 1
+Reward_Max 1
+
+Panics 1
