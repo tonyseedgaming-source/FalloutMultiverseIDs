@@ -1,0 +1,16 @@
+GUID f14ccf6417394ec499b713ddd7fa529e
+Type Spawn
+ID 41160
+Roots 1
+Root_0_Spawn_ID 524
+Root_0_Weight 100
+
+Tables 4
+Table_0_Asset_ID 1120
+Table_0_Weight 25
+Table_1_Asset_ID 462
+Table_1_Weight 25
+Table_2_Asset_ID 41113
+Table_2_Weight 30
+Table_3_Asset_ID 41160
+Table_3_Weight 20
