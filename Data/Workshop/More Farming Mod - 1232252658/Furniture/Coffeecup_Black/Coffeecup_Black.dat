@@ -1,0 +1,48 @@
+GUID 6783dfc265b745e0bb0ac166a9a724d9
+Type Storage
+Useable Barricade
+Build Storage
+ID 47288
+
+Size_X 1
+Size_Y 1
+Size_Z 0.29
+
+Health 150
+Range 4
+Radius 0.01
+Offset 0.23
+
+Storage_X 1
+Storage_Y 1
+Display
+
+Explosion 28
+
+Blueprints 1
+Blueprint_0_Type Furniture
+Blueprint_0_Supplies 2
+Blueprint_0_Supply_0_ID 47119
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Supply_1_ID 49130
+Blueprint_0_Supply_1_Amount 1
+Blueprint_0_Build 27
+
+Actions 1
+Action_0_Type Blueprint
+Action_0_Source 42102
+Action_0_Blueprints 3
+Action_0_Blueprint_0_Index 0
+Action_0_Blueprint_0_Link
+Action_0_Blueprint_1_Index 1
+Action_0_Blueprint_1_Link
+Action_0_Blueprint_2_Index 2
+Action_0_Blueprint_2_Link
+Action_0_Text View Recipe
+Action_0_Tooltip View item recipes that fit in this display.
+
+Use_Auto_Icon_Measurements false
+Procedurally_Animate_Inertia false
+PlacementAudioClip Furniture/Placement_Small_01.mp3
+Salvage_Duration_Multiplier 0.5
+Has_Clip_Prefab false
