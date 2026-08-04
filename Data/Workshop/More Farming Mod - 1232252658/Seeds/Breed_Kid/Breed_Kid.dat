@@ -1,0 +1,25 @@
+GUID 45f7285738f4414487b145669b6b4093
+Type Farm
+Useable Barricade
+Build Farm
+ID 41141
+
+Size_X 1
+Size_Y 2
+Size_Z 0.63
+
+Health 1
+Range 4
+Radius 0.5
+Offset 0.82
+
+Growth 22000
+Grow 41142
+
+Explosion 47109
+
+Use_Auto_Icon_Measurements false
+Procedurally_Animate_Inertia false
+Has_Clip_Prefab false
+Affected_By_Agriculture_Skill false
+PlacementPreviewPrefab Seeds/Breed_Kid/Preview.prefab
