@@ -1,0 +1,15 @@
+GUID 900295fe8d4c44e88aee0611cf2d751f
+
+Type Medium
+
+Has_Clip_Prefab False
+
+ID 59606
+
+Master_Bundle_Override loco_curated_objects.masterbundle
+Bundle_Override_Path /Objects/Medium/PS_Exit_Door_00
+
+Interactability Quest
+Interactability_Rewards 1
+Interactability_Reward_0_Type Teleport
+Interactability_Reward_0_Spawnpoint EXIT_RADAR
