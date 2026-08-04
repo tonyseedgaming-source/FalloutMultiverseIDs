@@ -1,0 +1,21 @@
+GUID 10ca6b5c2d844342a1672226b746b2c4
+Type Barrel
+Rarity Rare
+ID 5517
+
+Size_X 2
+Size_Y 1
+Size_Z 0.15
+
+Calibers 1
+Caliber_0 5516
+
+Spread 0.5
+
+Damage 1.5
+
+Volume 1.5
+
+Firerate 1.25
+
+Exclude_From_Master_Bundle
