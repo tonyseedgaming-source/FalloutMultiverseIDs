@@ -1,0 +1,23 @@
+GUID 110488075d1f4f1fad769b28993d8eef
+Type Barricade
+Useable Barricade
+Build Campfire
+ID 47290
+
+Size_X 1
+Size_Y 1
+Size_Z 0.16
+
+Health 1
+Range 4
+Radius 0
+Offset 1.0
+
+Vulnerable
+
+Use_Auto_Icon_Measurements false
+Procedurally_Animate_Inertia false
+Bypass_Pickup_Ownership true
+Salvage_Duration_Multiplier 0.0
+Has_Clip_Prefab false
+Allow_Placement_Inside_Clip_Volumes true
