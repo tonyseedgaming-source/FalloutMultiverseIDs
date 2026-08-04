@@ -1,0 +1,35 @@
+GUID eb056c96c63f4038e15485b93fa010e6
+Type Barricade
+Rarity Legendary
+Useable Barricade
+Build Claim
+ID 9836
+
+Size_X 2
+Size_Y 2
+Size_Z 0.55
+
+Health 100
+Range 4
+Radius 0.99
+
+Explosion 36
+Vulnerable
+Proof_Explosion
+
+Blueprints 1
+Blueprint_0_Type Utilities
+Blueprint_0_Supplies 3
+Blueprint_0_Supply_0_ID 1158
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Supply_1_ID 75
+Blueprint_0_Supply_1_Amount 2
+Blueprint_0_Supply_2_ID 67
+Blueprint_0_Supply_2_Amount 4
+Blueprint_0_Map Germany
+Blueprint_0_Tool 76
+Blueprint_0_Level 3
+Blueprint_0_Skill Craft
+Blueprint_0_Build 27
+
+Asset_Bundle_Version 3
