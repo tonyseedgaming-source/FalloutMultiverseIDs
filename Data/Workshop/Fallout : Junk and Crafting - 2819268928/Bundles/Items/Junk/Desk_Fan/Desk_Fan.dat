@@ -1,0 +1,25 @@
+GUID f980b28d7ef047e68351ded9ae29bb02
+Type Supply
+Rarity Rare
+ID 60070
+
+Size_X 2
+Size_Y 2
+Size_Z 0.4
+Size2_Z 0.6
+
+Blueprints 1
+Blueprint_0_Type Gear
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 60070
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Outputs 3
+Blueprint_0_Output_0_ID 60019
+Blueprint_0_Output_0_Amount 1
+Blueprint_0_Output_1_ID 60028
+Blueprint_0_Output_1_Amount 1
+Blueprint_0_Output_2_ID 60031
+Blueprint_0_Output_2_Amount 2
+Blueprint_0_Build 32
+
+Asset_Bundle_Version 3
