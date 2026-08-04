@@ -1,0 +1,30 @@
+GUID 644aa0c8081c4cee94f6dbbf2d1e841d
+Type Trap
+Rarity Epic
+Useable Barricade
+Build Spike
+ID 9801
+
+Size_X 4
+Size_Y 3
+Size_Z 0.45
+
+Health 500
+Range 8
+Radius 0.2
+Offset 0.25
+
+Player_Damage 25
+Zombie_Damage 55
+Animal_Damage 55
+
+Explosion 29
+
+Blueprints 1
+Blueprint_0_Type Barricade
+Blueprint_0_Supply_0_ID 41
+Blueprint_0_Supply_0_Amount 10
+Blueprint_0_Tool 120
+Blueprint_0_Level 3
+Blueprint_0_Skill Craft
+Blueprint_0_Build 27
