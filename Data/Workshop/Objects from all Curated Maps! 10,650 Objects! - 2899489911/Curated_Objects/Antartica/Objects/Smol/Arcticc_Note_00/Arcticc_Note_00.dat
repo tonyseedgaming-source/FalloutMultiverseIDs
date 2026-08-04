@@ -1,0 +1,12 @@
+GUID 0351f40030c14c75b00273b86feb258c
+Type Medium
+Has_Clip_Prefab False
+ID 22500
+
+Interactability Note
+Interactability_Hint Use
+Interactability_Text_Lines 9
+
+Asset_Bundle_Version 3
+Master_Bundle_Override core.masterbundle
+Bundle_Override_Path /Objects/Medium/Furniture/Note
