@@ -1,0 +1,77 @@
+GUID 64a4a9a576364a179edf0cd5b3787fa9
+Type Spawn
+ID 10236
+
+Tables
+[
+	{
+		// Dirty Pre-War Businesswear Top (Shirt Item)
+		Guid 9d9d616379544d08ba9cde37d8c8a392
+		Weight 1
+	}
+	{
+		// Pre-War Red Sweater (Shirt Item)
+		Guid 3ec5e05e6fe24d579f6c506413966b46
+		Weight 1
+	}
+	{
+		// Pre-War Gray Shirt (Shirt Item)
+		Guid 60c831c9a11540c4b53fd3b70aeba62e
+		Weight 1
+	}
+	{
+		// Pre-War Green Sweater (Shirt Item)
+		Guid 6d4f983bf1004c80b9cf80f959f025e0
+		Weight 1
+	}
+	{
+		// Pre-War Red Plaid Shirt (Shirt Item)
+		Guid 77b50bc858674723902adb2ba03820d0
+		Weight 1
+	}
+	{
+		// Dirty Pre-War Businesswear Bottom (Pants Item)
+		Guid 11f1728b009242a89202eb6d589a372d
+		Weight 1
+	}
+	{
+		// Pre-War Brown Trousers (Pants Item)
+		Guid 3569017d61e8440a91f5f49570e662e8
+		Weight 1
+	}
+	{
+		// Pre-War Jeans (Pants Item)
+		Guid ec62c1ab5b13438ab8a392ab3a83e8fe
+		Weight 1
+	}
+	{
+		// Pre-War Tan Trousers (Pants Item)
+		Guid d0d17f19ba8e493f819f3ad74c298da2
+		Weight 1
+	}
+	{
+		// Pre-War Trousers (Pants Item)
+		Guid 595d967c1ad94bd3a952abce1807b5c0
+		Weight 1
+	}
+	{
+		// Field Hand Top (Shirt Item)
+		Guid e4e95d9cf19345488c81b8adcf13a668
+		Weight 1
+	}
+	{
+		// Field Hand Pants (Pants Item)
+		Guid 2e0376488bed46a484bff3bd0a94cc28
+		Weight 1
+	}
+	{
+		// Cattleman Cowboy Hat (Hat Item)
+		Guid b3c6d75d371f4d36bb7270d641fd3720
+		Weight 1
+	}
+	{
+		// Eyeglasses (Glasses Item)
+		Guid bb1390761f0f43c29cf7f20fd39eaa50
+		Weight 1
+	}
+]
