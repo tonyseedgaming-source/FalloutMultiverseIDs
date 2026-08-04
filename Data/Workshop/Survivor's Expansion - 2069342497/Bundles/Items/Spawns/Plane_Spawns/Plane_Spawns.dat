@@ -1,0 +1,25 @@
+GUID ed8956f57e184d8648969a776c67a37a
+Type Spawn
+ID 9799
+
+Roots 1
+Root_0_Spawn_ID 613
+Root_0_Weight 100
+
+Tables 8
+Table_0_Asset_ID 9845
+Table_0_Weight 100
+Table_1_Asset_ID 9846
+Table_1_Weight 100
+Table_2_Asset_ID 9847
+Table_2_Weight 100
+Table_3_Asset_ID 9848
+Table_3_Weight 100
+Table_4_Asset_ID 9849
+Table_4_Weight 100
+Table_5_Asset_ID 9850
+Table_5_Weight 100
+Table_6_Asset_ID 9851
+Table_6_Weight 100
+Table_7_Asset_ID 9852
+Table_7_Weight 100
