@@ -1,0 +1,24 @@
+GUID 07a019ccdd8b4e0db2f0279f02371ec9
+Type Barrel
+Rarity Rare
+ID 5509
+
+Size_X 2
+Size_Y 1
+Size_Z 0.15
+
+Calibers 1
+Caliber_0 5507
+
+Silenced 
+Volume 0.25
+Durability 1000
+
+Quality_Min 90
+Quality_Max 100
+
+Recoil_X 0.8
+Recoil_Y 0.6
+Ballistic_Drop 0.9
+
+Exclude_From_Master_Bundle
