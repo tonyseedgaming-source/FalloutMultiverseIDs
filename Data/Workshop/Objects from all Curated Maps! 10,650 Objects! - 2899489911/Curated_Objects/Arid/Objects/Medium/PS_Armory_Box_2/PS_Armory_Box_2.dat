@@ -1,0 +1,39 @@
+GUID 51ce5b87735f44a5a08dde1ef70724d7
+
+Type Medium
+
+Has_Clip_Prefab False
+
+ID 60125
+
+Interactability_Rewards 4
+Interactability_Reward_0_Type Item
+Interactability_Reward_0_ID 60024
+Interactability_Reward_0_Amount 1
+Interactability_Reward_0_Origin World
+
+Interactability_Reward_1_Type Item
+Interactability_Reward_1_ID 60025
+Interactability_Reward_1_Amount 1
+Interactability_Reward_1_Origin World
+
+Interactability_Reward_2_Type Item
+Interactability_Reward_2_ID 60026
+Interactability_Reward_2_Amount 1
+Interactability_Reward_2_Origin World
+
+Interactability_Reward_3_Type Item
+Interactability_Reward_3_ID 60027
+Interactability_Reward_3_Amount 1
+Interactability_Reward_3_Origin World
+
+Interactability_Conditions 1
+Interactability_Condition_0_Type Item
+Interactability_Condition_0_ID 59725
+Interactability_Condition_0_Amount 1
+Interactability_Condition_0_Reset
+
+Interactability Quest
+Interactability_Effect 7
+
+Exclude_From_Level_Batching true
