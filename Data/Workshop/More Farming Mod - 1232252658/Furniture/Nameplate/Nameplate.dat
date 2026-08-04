@@ -1,0 +1,35 @@
+GUID c0172a7db92c468b8b71abbd3ae5d2ac
+Type Barricade
+Useable Barricade
+Build Sign_Wall
+ID 47396
+
+Size_X 1
+Size_Y 1
+Size_Z 0.28
+
+Health 400
+Range 4
+Offset 0.2
+
+Locked
+
+Explosion 36
+
+Blueprints 1
+Blueprint_0_Type Furniture
+Blueprint_0_Supplies 2
+Blueprint_0_Supply_0_ID 68
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Supply_1_ID 71
+Blueprint_0_Supply_1_Amount 1
+Blueprint_0_Tool 76
+Blueprint_0_Level 2
+Blueprint_0_Skill Craft
+Blueprint_0_Build 27
+
+Should_Close_When_Outside_Range true
+Use_Auto_Icon_Measurements false
+Procedurally_Animate_Inertia false
+PlacementAudioClip Furniture/Placement_Small_01.mp3
+Has_Clip_Prefab false
