@@ -1,0 +1,17 @@
+GUID 9f71ae3291db4d048f85d97b573d945e
+Type Food
+Useable Consumeable
+ID 41190
+
+Size_X 1
+Size_Y 1
+Size_Z 0.29
+
+Backward
+
+Item_Reward_Spawn_ID 41172
+Max_Item_Rewards 1
+Min_Item_Rewards 1
+
+Use_Auto_Icon_Measurements false
+Procedurally_Animate_Inertia false
