@@ -1,0 +1,17 @@
+GUID 473a5460c1c548aeb548c31045fb6b0f
+
+Type Resource
+Has_Clip_Prefab false
+ID 36029
+
+Health 1
+Radius 10
+Scale 0
+
+Reward_ID 36014
+Reward_XP 0
+Reward_Min 1
+Reward_Max 1
+Forage
+
+Reset 300
