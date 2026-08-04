@@ -1,0 +1,22 @@
+GUID d8e905cc615b4f0b87e79e0efdeab948
+Type Water
+Useable Consumeable
+ID 5630
+
+Size_X 1
+Size_Y 2
+Size_Z 0.4
+
+Quality_Max 50
+
+Water 50
+Disinfectant 10
+Energy 25
+
+Blueprints 1
+Blueprint_0_Type Repair
+Blueprint_0_Supply_0_ID 392
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Build 27
+
+Exclude_From_Master_Bundle
