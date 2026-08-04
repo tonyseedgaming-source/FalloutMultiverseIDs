@@ -1,0 +1,59 @@
+GUID eff6141ab9a54c2a84902d7841090c87
+Type Water
+Useable Consumeable
+ID 42102
+
+Size_X 1
+Size_Y 1
+Size_Z 0.28
+
+Water 25
+Energy 100
+Warmth 2245
+
+Blueprints 3
+Blueprint_0_Type Supply
+Blueprint_0_Supplies 3
+Blueprint_0_Supply_0_ID 42104
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Supply_1_ID 14
+Blueprint_0_Supply_1_Amount 1
+Blueprint_0_Supply_2_ID 66
+Blueprint_0_Supply_2_Amount 1
+Blueprint_0_Tool 1030
+Blueprint_0_Level 2
+Blueprint_0_Skill Cook
+Blueprint_0_Build 47102
+
+Blueprint_1_Type Supply
+Blueprint_1_Supplies 3
+Blueprint_1_Supply_0_ID 42104
+Blueprint_1_Supply_0_Amount 1
+Blueprint_1_Supply_1_ID 462
+Blueprint_1_Supply_1_Amount 1
+Blueprint_1_Supply_2_ID 66
+Blueprint_1_Supply_2_Amount 1
+Blueprint_1_Tool 1030
+Blueprint_1_Level 2
+Blueprint_1_Skill Cook
+Blueprint_1_Product 42103
+Blueprint_1_Build 47102
+
+Blueprint_2_Type Supply
+Blueprint_2_Supplies 3
+Blueprint_2_Supply_0_ID 83
+Blueprint_2_Supply_0_Amount 1
+Blueprint_2_Supply_1_ID 462
+Blueprint_2_Supply_1_Amount 1
+Blueprint_2_Supply_2_ID 42228
+Blueprint_2_Supply_2_Amount 1
+Blueprint_2_Tool 1030
+Blueprint_2_Level 2
+Blueprint_2_Skill Cook
+Blueprint_2_Product 42230
+Blueprint_2_Build 47102
+
+Use_Auto_Icon_Measurements false
+Procedurally_Animate_Inertia false
+ConsumeAudioClip Consumables/Use_Coffee_01.mp3
+InspectAudioDef Consumables/Inspect_Coffee.mp3
