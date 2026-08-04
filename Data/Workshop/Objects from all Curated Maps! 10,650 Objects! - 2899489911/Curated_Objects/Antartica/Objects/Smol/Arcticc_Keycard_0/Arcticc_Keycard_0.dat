@@ -1,0 +1,18 @@
+GUID 23c390a4cc4f4f6c9619e59fe3550d3f
+Type Small
+ID 22500
+
+Conditions 1
+Condition_0_Type Flag_Bool
+Condition_0_ID 201
+Condition_0_Value False
+Condition_0_Logic Equal
+Condition_0_Allow_Unset
+
+Interactability Quest
+Interactability_Rewards 1
+Interactability_Reward_0_Type Flag_Bool
+Interactability_Reward_0_ID 201
+Interactability_Reward_0_Value True
+
+Has_Clip_Prefab false
