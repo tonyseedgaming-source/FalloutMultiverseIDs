@@ -1,0 +1,20 @@
+GUID f03f12f467af4160a3cc5bc76f199e34
+Type Water
+Useable Consumeable
+ID 5641
+
+Size_X 1
+Size_Y 1
+Size_Z 0.4
+
+Quality_Max 50
+
+Water 25
+
+Blueprints 1
+Blueprint_0_Type Repair
+Blueprint_0_Supply_0_ID 392
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Build 27
+
+Exclude_From_Master_Bundle
