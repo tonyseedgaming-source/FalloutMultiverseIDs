@@ -1,0 +1,11 @@
+GUID f5b4dd5a62464d57aef9667fdf3cae0a
+Type Large
+ID 22500
+
+Snowshoe
+
+Interactability Rubble
+Interactability_Reset 300
+Interactability_Health 25
+Interactability_Effect 72
+Has_Clip_Prefab false
