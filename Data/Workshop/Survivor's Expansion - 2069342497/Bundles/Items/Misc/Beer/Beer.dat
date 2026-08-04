@@ -1,0 +1,21 @@
+GUID f3f6ca98d830f5858c746d438bc94e3e
+Type Water
+Rarity Rare
+Useable Consumeable
+ID 9826
+
+Size_X 1
+Size_Y 3
+Size_Z 0.65
+
+Health 10
+Food 8
+Water 35
+Virus 5
+Vision 180
+
+Blueprints 1
+Blueprint_0_Type Repair
+Blueprint_0_Supply_0_ID 392
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Build 27
