@@ -1,0 +1,13 @@
+GUID 5709e9cb06c842dc8ac9cb7547991f46
+Type Spawn
+ID 41111
+
+Tables 4
+Table_0_Asset_ID 41118
+Table_0_Weight 40
+Table_1_Asset_ID 41111
+Table_1_Weight 35
+Table_2_Asset_ID 41113
+Table_2_Weight 15
+Table_3_Asset_ID 41116
+Table_3_Weight 10
