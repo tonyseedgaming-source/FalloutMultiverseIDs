@@ -1,0 +1,16 @@
+GUID 5781f88ca22b4fa58042772b6f70d4b2
+
+
+Type Medium
+
+Has_Clip_Prefab False
+
+ID 59946
+
+Master_Bundle_Override loco_curated_objects.masterbundle
+Bundle_Override_Path /Objects/Medium/PS_Exit_Door_00
+
+Interactability Quest
+Interactability_Rewards 1
+Interactability_Reward_0_Type Teleport
+Interactability_Reward_0_Spawnpoint EXIT_APARTMENT_ANK
