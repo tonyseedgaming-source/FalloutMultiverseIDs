@@ -1,0 +1,22 @@
+GUID a85256fab8f54553b779229ac27b9c94
+
+Type Magazine
+Rarity Rare
+ID 6523
+
+Size_X 1
+Size_Y 1
+Size_Z 0.075
+
+Amount 12
+Count_Min 8
+Count_Max 12
+
+Calibers 1
+Caliber_0 28
+
+Tracer 94
+
+Paintable
+
+Exclude_From_Master_Bundle
