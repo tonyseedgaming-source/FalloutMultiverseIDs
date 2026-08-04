@@ -1,0 +1,32 @@
+GUID 2513dacb0d524f77b0ff9b2d469d564e
+Type Food
+Useable Consumeable
+ID 42223
+
+Size_X 1
+Size_Y 1
+Size_Z 0.31
+
+Food 50
+
+Blueprints 1
+Blueprint_0_Type Supply
+Blueprint_0_Supplies 5
+Blueprint_0_Supply_0_ID 42218
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Supply_1_ID 42219
+Blueprint_0_Supply_1_Amount 1
+Blueprint_0_Supply_2_ID 42220
+Blueprint_0_Supply_2_Amount 1
+Blueprint_0_Supply_3_ID 42221
+Blueprint_0_Supply_3_Amount 1
+Blueprint_0_Supply_4_ID 42222
+Blueprint_0_Supply_4_Amount 1
+Blueprint_0_Tool 1030
+Blueprint_0_Level 3
+Blueprint_0_Skill Cook
+Blueprint_0_Build 47103
+
+Use_Auto_Icon_Measurements false
+Procedurally_Animate_Inertia false
+InspectAudioDef Consumables/Candy_Lollipop/Inspect_Lollipop.mp3
