@@ -1,0 +1,47 @@
+GUID 24e7cfb128c04a07a2ed5f1d603ccc0e
+Type Spawn
+ID 10230
+
+Tables
+[
+	{
+		// Oil Can (Supply Item)
+		Guid 898c7ffca36f4341bf1f2786cf6d6406
+		Weight 1
+	}
+	{
+		// Sledgehammer (Melee Item)
+		Guid 6ea9c6ed98444f65ab97435b1bce3b9c
+		Weight 1
+	}
+	{
+		// Lead Pipe (Melee Item)
+		Guid e9632c69d498410a8bf134a0bf586268
+		Weight 1
+	}
+	{
+		// Tire Iron (Melee Item)
+		Guid dbbf3c66a2544b669bf974b6dc46c5f5
+		Weight 1
+	}
+	{
+		// Hammer (Melee Item)
+		Guid b0d48d63525544aa8ee95d4e686858b1
+		Weight 1
+	}
+	{
+		// Saw (Melee Item)
+		Guid fd6bee4579884ee9ad0b729baf423ab1
+		Weight 1
+	}
+	{
+		// Flashlight (Melee Item)
+		Guid 922c5bfe21864487a9405f3e2e0f5d97
+		Weight 1
+	}
+	{
+		// Hammer (Melee Item)
+		Guid efcae69c5bd0469092e99809422d540b
+		Weight 1
+	}
+]
