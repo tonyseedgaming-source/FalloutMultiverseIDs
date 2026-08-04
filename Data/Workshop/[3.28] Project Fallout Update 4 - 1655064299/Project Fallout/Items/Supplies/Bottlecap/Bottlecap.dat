@@ -1,0 +1,21 @@
+GUID ba0ce00f0b944443a13e8634e525a8b3
+Type Supply
+Rarity Common
+ID 5654
+
+Size_X 1
+Size_Y 1
+Size_Z 0.1
+
+Recover 5623
+
+Blueprints 1
+Blueprint_0_Type Gear
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 5655
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Product_0_ID 5654
+Blueprint_0_Products 10
+Blueprint_0_Build 30
+
+Exclude_From_Master_Bundle
