@@ -1,0 +1,5 @@
+Name PS Airfield Door Openable #2 [SACR 2]
+
+Interactability_Condition_0 Missing SACR2 Key
+
+Interact Use [{0}]
