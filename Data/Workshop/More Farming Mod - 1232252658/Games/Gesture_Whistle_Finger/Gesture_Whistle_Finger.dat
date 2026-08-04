@@ -1,0 +1,40 @@
+GUID 28b9096415904b66830e6d5053eca853
+Type Medical
+Useable Consumeable
+ID 48104
+
+Size_X 1
+Size_Y 1
+Size_Z 0.26
+
+Food 0
+
+Blueprints 2
+Blueprint_0_Type Tool
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 1327
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Level 3
+Blueprint_0_Skill Craft
+Blueprint_0_Build 27
+
+Blueprint_1_Type Tool
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 48104
+Blueprint_1_Supply_0_Amount 1
+Blueprint_1_Outputs 1
+Blueprint_1_Output_0_ID 1327
+Blueprint_1_Output_0_Amount 1
+Blueprint_1_Build 27
+
+Actions 1
+Action_0_Type Blueprint
+Action_0_Source 48104
+Action_0_Blueprints 1
+Action_0_Blueprint_0_Index 1
+Action_0_Text Rewrite
+Action_0_Tooltip Rewrite the gesture book.
+
+Use_Auto_Icon_Measurements false
+Procedurally_Animate_Inertia false
+Should_Delete_After_Use false
