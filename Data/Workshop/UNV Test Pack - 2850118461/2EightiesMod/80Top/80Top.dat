@@ -1,0 +1,16 @@
+GUID f4885c348a8f4552bc08aba74e0e5184
+Type Shirt
+Useable Clothing
+ID 27778
+Rarity Rare
+
+Size_X 3
+Size_Y 2
+Size_Z 0.6
+
+Width 5
+Height 3
+
+Armor 0.68
+
+Exclude_From_Master_Bundle
