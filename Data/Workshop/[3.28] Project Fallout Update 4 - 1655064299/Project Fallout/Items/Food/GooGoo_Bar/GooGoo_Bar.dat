@@ -1,0 +1,27 @@
+GUID 4e7f1a0d77de4524a2c02f62a537a079
+Rarity Legendary
+Type Food
+Useable Consumeable
+ID 5671
+
+Size_X 2
+Size_Y 1
+Size_Z 0.2
+
+Quality_Max 50
+
+Food 100
+
+Range 100
+Explosion 45
+
+Player_Damage 1000
+Zombie_Damage 2000
+Animal_Damage 2000
+Barricade_Damage 100
+Structure_Damage 100
+Vehicle_Damage 100
+Resource_Damage 200
+Object_Damage 100
+
+Exclude_From_Master_Bundle
