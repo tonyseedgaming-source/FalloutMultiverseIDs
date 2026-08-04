@@ -1,0 +1,31 @@
+GUID 2029f1c345c0445cbae6d6828010ae4c
+Type Supply
+ID 49104
+
+Size_X 2
+Size_Y 2
+Size_Z 0.71
+
+Blueprints 2
+Blueprint_0_Type Gear
+Blueprint_0_Supply_0_ID 49103
+Blueprint_0_Supply_0_Amount 10
+Blueprint_0_Build 27
+
+Blueprint_1_Type Gear
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 49104
+Blueprint_1_Outputs 1
+Blueprint_1_Output_0_ID 49103
+Blueprint_1_Output_0_Amount 10
+Blueprint_1_Build 27
+
+Actions 1
+Action_0_Type Blueprint
+Action_0_Source 49104
+Action_0_Blueprints 1
+Action_0_Blueprint_0_Index 1
+Action_0_Text Unstacking
+Action_0_Tooltip Unstacking into 10 10 Cloths.
+
+Use_Auto_Icon_Measurements false
