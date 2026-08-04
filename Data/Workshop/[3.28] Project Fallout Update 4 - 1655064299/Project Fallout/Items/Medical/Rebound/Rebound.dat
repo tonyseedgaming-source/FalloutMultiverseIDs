@@ -1,0 +1,27 @@
+GUID a38cd143b1d74d4d9b33e0509608f44e
+Type Medical
+Rarity Rare
+Useable Consumeable
+ID 5610
+
+Size_X 1
+Size_Y 1
+Size_Z 0.25
+
+Aid
+Energy 50
+
+Blueprints 1
+Blueprint_0_Type Supply
+Blueprint_0_Supplies 4
+Blueprint_0_Supply_0_ID 5736
+Blueprint_0_Supply_0_Amount 3
+Blueprint_0_Supply_1_ID 5717
+Blueprint_0_Supply_1_Amount 2
+Blueprint_0_Supply_2_ID 5731
+Blueprint_0_Supply_2_Amount 1
+Blueprint_0_Supply_3_ID 5711
+Blueprint_0_Supply_3_Amount 1
+Blueprint_0_Build 32
+
+Exclude_From_Master_Bundle
