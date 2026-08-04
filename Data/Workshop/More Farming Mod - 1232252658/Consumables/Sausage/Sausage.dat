@@ -1,0 +1,72 @@
+GUID 40d70dbf45ae4ec7abe0d94e16defbe4
+Type Food
+Useable Consumeable
+ID 41114
+
+Size_X 1
+Size_Y 1
+Size_Z 0.34
+
+Backward
+
+Health 10
+Food 35
+
+Blueprints 5
+Blueprint_0_Type Supply
+Blueprint_0_Supplies 2
+Blueprint_0_Supply_0_ID 41113
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Supply_1_ID 1121
+Blueprint_0_Supply_1_Amount 1
+Blueprint_0_Tool 1030
+Blueprint_0_Level 2
+Blueprint_0_Skill Cook
+Blueprint_0_Build 47103
+
+Blueprint_1_Type Supply
+Blueprint_1_Supplies 2
+Blueprint_1_Supply_0_ID 41113
+Blueprint_1_Supply_0_Amount 1
+Blueprint_1_Supply_1_ID 1118
+Blueprint_1_Supply_1_Amount 1
+Blueprint_1_Tool 1030
+Blueprint_1_Level 2
+Blueprint_1_Skill Cook
+Blueprint_1_Build 47103
+
+Blueprint_2_Type Supply
+Blueprint_2_Supplies 2
+Blueprint_2_Supply_0_ID 41113
+Blueprint_2_Supply_0_Amount 1
+Blueprint_2_Supply_1_ID 515
+Blueprint_2_Supply_1_Amount 1
+Blueprint_2_Tool 1030
+Blueprint_2_Level 2
+Blueprint_2_Skill Cook
+Blueprint_2_Build 47103
+
+Blueprint_3_Type Supply
+Blueprint_3_Supplies 2
+Blueprint_3_Supply_0_ID 41113
+Blueprint_3_Supply_0_Amount 1
+Blueprint_3_Supply_1_ID 41112
+Blueprint_3_Supply_1_Amount 1
+Blueprint_3_Tool 1030
+Blueprint_3_Level 2
+Blueprint_3_Skill Cook
+Blueprint_3_Build 47103
+
+Blueprint_4_Type Supply
+Blueprint_4_Supplies 2
+Blueprint_4_Supply_0_ID 41113
+Blueprint_4_Supply_0_Amount 1
+Blueprint_4_Supply_1_ID 41131
+Blueprint_4_Supply_1_Amount 1
+Blueprint_4_Tool 1030
+Blueprint_4_Level 2
+Blueprint_4_Skill Cook
+Blueprint_4_Build 47103
+
+Use_Auto_Icon_Measurements false
+Procedurally_Animate_Inertia false
