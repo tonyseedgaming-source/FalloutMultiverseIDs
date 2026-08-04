@@ -1,0 +1,50 @@
+GUID 86f13ffc1bec4b8bbea2d2bbe936ebe8
+Type Barricade
+Useable Barricade
+Build Oxygenator
+ID 48479
+
+Size_X 1
+Size_Y 1
+Size_Z 0.32
+
+Health 10000
+Range 6
+Radius 0.0
+Offset 0.4
+
+Wirerange 256.0
+
+Explosion 36
+
+Blueprints 1
+Blueprint_0_Type Utilities
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 48388
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Outputs 1
+Blueprint_0_Output_0_ID 48386
+Blueprint_0_Output_0_Amount 1
+Blueprint_0_Build 48321
+
+Actions 1
+Action_0_Type Blueprint
+Action_0_Source 48388
+Action_0_Blueprints 1
+Action_0_Blueprint_0_Index 0
+Action_0_Text Range Reduction
+Action_0_Tooltip Reduce the electricity supply range to 16 m.
+
+Armor_Tier High
+Proof_Explosion
+Allow_Placement_Inside_Clip_Volumes true
+Bypass_Claim
+Can_Be_Damaged false
+Unsalvageable
+
+Has_Clip_Prefab false
+Use_Auto_Icon_Measurements false
+Procedurally_Animate_Inertia false
+Should_Drop_On_Death false
+Bundle_Override_Path Barricades/Generator
+PlacementAudioClip Barricades/Generator/Use.mp3
