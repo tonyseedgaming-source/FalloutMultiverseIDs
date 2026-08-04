@@ -1,0 +1,27 @@
+GUID a1618e699d884ccebbc22bc9d108da5f
+Type Supply
+Rarity Rare
+ID 5755
+
+Size_X 2
+Size_Y 2
+Size_Z 0.5
+
+Blueprints 1
+Blueprint_0_Type Tool
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 5755
+Blueprint_0_Outputs 5
+Blueprint_0_Output_0_ID 5717
+Blueprint_0_Output_0_Amount 3
+Blueprint_0_Output_1_ID 5719
+Blueprint_0_Output_1_Amount 2
+Blueprint_0_Output_2_ID 5735
+Blueprint_0_Output_2_Amount 2
+Blueprint_0_Output_3_ID 5730
+Blueprint_0_Output_3_Amount 1
+Blueprint_0_Output_4_ID 5729
+Blueprint_0_Output_4_Amount 3
+Blueprint_0_Build 27
+
+Exclude_From_Master_Bundle
