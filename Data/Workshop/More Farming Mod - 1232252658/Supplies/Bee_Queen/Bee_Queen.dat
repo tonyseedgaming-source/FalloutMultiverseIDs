@@ -1,0 +1,22 @@
+GUID 5b518fc7e7404c1c9b29b65c42266491
+Type Supply
+ID 42193
+
+Size_X 1
+Size_Y 1
+Size_Z 0.2
+
+Actions 1
+Action_0_Type Blueprint
+Action_0_Source 42192
+Action_0_Blueprints 3
+Action_0_Blueprint_0_Index 0
+Action_0_Blueprint_0_Link
+Action_0_Blueprint_1_Index 1
+Action_0_Blueprint_1_Link
+Action_0_Blueprint_2_Index 2
+Action_0_Blueprint_2_Link
+Action_0_Text Beekeeping
+Action_0_Tooltip Make beekeeping frame using queen bee and flowers.
+
+Use_Auto_Icon_Measurements false
