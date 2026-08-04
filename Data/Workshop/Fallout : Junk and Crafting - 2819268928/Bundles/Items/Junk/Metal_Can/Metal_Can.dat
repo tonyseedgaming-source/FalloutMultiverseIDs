@@ -1,0 +1,23 @@
+GUID b8ecd8f981dd4a10be82328def3b4a85
+Type Supply
+Rarity Uncommon
+ID 60091
+
+Size_X 1
+Size_Y 1
+Size_Z 0.4
+Size2_Z 0.6
+
+Blueprints 1
+Blueprint_0_Type Gear
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 60091
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Outputs 3
+Blueprint_0_Output_0_ID 60002
+Blueprint_0_Output_0_Amount 1
+Blueprint_0_Output_1_ID 60022
+Blueprint_0_Output_1_Amount 1
+Blueprint_0_Build 32
+
+Asset_Bundle_Version 3
