@@ -1,0 +1,44 @@
+GUID cc33589cd1a246ef800ea78971747160
+Type Barricade
+Useable Barricade
+Build Barricade
+ID 42126
+
+Size_X 1
+Size_Y 1
+Size_Z 0.35
+
+Health 100
+Range 4
+Radius 0.01
+Offset 0.53
+
+Explosion 96
+
+Blueprints 1
+Blueprint_0_Type Furniture
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 42126
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Product 42138
+Blueprint_0_Build 27
+
+Actions 2
+Action_0_Type Blueprint
+Action_0_Source 42125
+Action_0_Blueprints 1
+Action_0_Blueprint_0_Index 0
+Action_0_Key Craft_Seed
+
+Action_1_Type Blueprint
+Action_1_Source 42126
+Action_1_Blueprints 1
+Action_1_Blueprint_0_Index 0
+Action_1_Text Unvase
+Action_1_Tooltip Take flower out of the vase.
+
+Use_Auto_Icon_Measurements false
+Procedurally_Animate_Inertia false
+PlacementAudioClip Furniture/Placement_Small_01.mp3
+Has_Clip_Prefab false
+Salvage_Duration_Multiplier 0.5
