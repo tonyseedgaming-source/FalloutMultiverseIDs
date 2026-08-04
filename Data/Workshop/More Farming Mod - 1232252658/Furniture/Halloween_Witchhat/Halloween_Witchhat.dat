@@ -1,0 +1,23 @@
+GUID b18e1a398d1049cd831fdfc471d03309
+Type Barricade
+Useable Barricade
+Build Freeform
+ID 47429
+
+Size_X 1
+Size_Y 1
+Size_Z 0.34
+
+Health 1
+Range 6
+Radius 0.01
+Offset 0.2
+
+Explosion 47244
+Vulnerable
+
+Use_Auto_Icon_Measurements false
+Procedurally_Animate_Inertia false
+PlacementAudioClip Furniture/Placement_Cloth.mp3
+Salvage_Duration_Multiplier 0.5
+Has_Clip_Prefab false
