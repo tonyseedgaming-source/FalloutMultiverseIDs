@@ -1,0 +1,28 @@
+GUID 776d657fcd61493baf8c50ef5c35fe8a
+Type Pants
+Rarity Rare
+Useable Clothing
+ID 5615
+
+Size_X 2
+Size_Y 2
+Size_Z 0.65
+
+Width 5
+Height 3
+
+Armor 0.85
+
+Blueprints 2
+Blueprint_0_Type Apparel
+Blueprint_0_Supply_0_ID 5615
+Blueprint_0_Product 5718
+Blueprint_0_Products 1
+Blueprint_0_Build 32
+Blueprint_1_Type Repair
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 5718
+Blueprint_1_Supply_0_Amount 1
+Blueprint_1_Build 32
+
+Exclude_From_Master_Bundle
