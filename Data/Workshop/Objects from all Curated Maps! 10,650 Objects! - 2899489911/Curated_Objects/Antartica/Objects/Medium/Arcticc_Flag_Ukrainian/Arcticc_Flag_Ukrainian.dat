@@ -1,0 +1,10 @@
+GUID df04ac8aa0594436a4a276476cf149e1
+Type Medium
+ID 25200
+
+Snowshoe
+
+Has_Clip_Prefab false
+
+Master_Bundle_Override core.masterbundle
+Bundle_Override_Path /Objects/Medium/Parks/Flag_Ukrainian
