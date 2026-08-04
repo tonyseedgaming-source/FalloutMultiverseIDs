@@ -1,0 +1,37 @@
+GUID 74293445cbd64bb68ee24e07f5c47189
+Type Spawn
+ID 10211
+
+Tables
+[
+	{
+		// Stimpak (Medical Item)
+		Guid 7c47c945d6df43faa6b9f3cf6fe4ca43
+		Weight 3
+	}
+	{
+		// RadAway (Medical Item)
+		Guid 07cf082df16445e3a1ce29ec8f88f928
+		Weight 3
+	}
+	{
+		// Fixer (Medical Item)
+		Guid 227fd4f9ce28471e89dd3f5dd0e809e8
+		Weight 3
+	}
+	{
+		// Super Stimpak (Medical Item)
+		Guid ca12c5d5d8da4fabb702b57120fb4fa8
+		Weight 2
+	}
+	{
+		// Small First Aid Kit (Medical Item)
+		Guid ae2150c07ba344dca3054b5a41dba609
+		Weight 2
+	}
+	{
+		// Large First Aid Kit (Medical Item)
+		Guid 8e1d570225724c189149abd0d24ba5a5
+		Weight 1
+	}
+]
