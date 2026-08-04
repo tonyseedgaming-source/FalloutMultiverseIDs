@@ -1,0 +1,17 @@
+GUID 61ece4ab2a734bb3ad134ce172bae670
+
+Type Large
+
+Has_Clip_Prefab False
+
+ID 60259
+
+Material_Palette 12462313f3564243861a841ca2d5b56d
+
+Soft
+Snowshoe
+Chart Ground
+
+
+Master_Bundle_Override core.masterbundle
+Bundle_Override_Path /Objects/Large/Scenery/Boulder_02
