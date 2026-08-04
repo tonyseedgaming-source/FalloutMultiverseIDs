@@ -1,0 +1,32 @@
+GUID e04843d123a54a4d9c55328327a5c31c
+Type Supply
+ID 42111
+
+Size_X 1
+Size_Y 1
+Size_Z 0.31
+
+Blueprints 1
+Blueprint_0_Type Gear
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 42111
+Blueprint_0_Outputs 1
+Blueprint_0_Output_0_ID 66
+Blueprint_0_Output_0_Amount 1
+Blueprint_0_Build 27
+
+Actions 2
+Action_0_Type Blueprint
+Action_0_Source 42110
+Action_0_Blueprints 1
+Action_0_Blueprint_0_Index 0
+Action_0_Key Craft_Seed
+
+Action_1_Type Blueprint
+Action_1_Source 42111
+Action_1_Blueprints 1
+Action_1_Blueprint_0_Index 0
+Action_1_Text Make Cloth
+Action_1_Tooltip Make a cloth from cotton.
+
+Use_Auto_Icon_Measurements false
