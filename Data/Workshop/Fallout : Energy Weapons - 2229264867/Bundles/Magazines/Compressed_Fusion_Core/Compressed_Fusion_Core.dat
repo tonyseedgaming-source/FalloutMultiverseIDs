@@ -1,0 +1,25 @@
+GUID d9367bbba0a44a58a7d68a15fc48c00f
+Type Magazine
+Rarity Legendary
+ID 50105
+
+Size_X 1
+Size_Y 2
+Size_Z 0.15
+
+Amount 15
+Count_Min 1
+Count_Max 15
+
+Calibers 1
+Caliber_0 50125
+
+Tracer 49
+
+Blueprints 1
+Blueprint_0_Type Ammo
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 50103
+Blueprint_0_Build 30
+
+Delete_Empty
