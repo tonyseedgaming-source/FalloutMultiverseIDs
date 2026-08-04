@@ -1,0 +1,49 @@
+GUID 9fada4ed136740b7b83919c7be9a076c
+Type Supply
+ID 42272
+
+Size_X 3
+Size_Y 1
+Size_Z 0.5
+
+Blueprints 2
+Blueprint_0_Type Gear
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 42272
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Tool 141
+Blueprint_0_Outputs 2
+Blueprint_0_Output_0_ID 41
+Blueprint_0_Output_0_Amount 5
+Blueprint_0_Output_1_ID 42271
+Blueprint_0_Output_1_Amount 1
+Blueprint_0_Build 47110
+
+Blueprint_1_Type Gear
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 42272
+Blueprint_1_Supply_0_Amount 2
+Blueprint_1_Tool 141
+Blueprint_1_Outputs 2
+Blueprint_1_Output_0_ID 49119
+Blueprint_1_Output_0_Amount 1
+Blueprint_1_Output_1_ID 42271
+Blueprint_1_Output_1_Amount 2
+Blueprint_1_Build 47110
+
+Actions 2
+Action_0_Type Blueprint
+Action_0_Source 42272
+Action_0_Blueprints 1
+Action_0_Blueprint_0_Index 0
+Action_0_Text Make Logs
+Action_0_Tooltip Cut into logs and sapling using a saw.
+
+Action_1_Type Blueprint
+Action_1_Source 42272
+Action_1_Blueprints 1
+Action_1_Blueprint_0_Index 1
+Action_1_Text Make Stacked Logs
+Action_1_Tooltip Two unprocessed logs are cut into stacked logs and two saplings using a saw.
+
+Use_Auto_Icon_Measurements false
