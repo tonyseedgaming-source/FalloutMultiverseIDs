@@ -1,0 +1,32 @@
+GUID 50d4e1bd687943cf98aca317badd5f3c
+Type Fisher
+Rarity Rare
+Useable Fisher
+ID 43101
+
+Size_X 3
+Size_Y 1
+Size_Z 0.24
+
+Backward
+
+Reward_ID 43101
+
+Blueprints 1
+Blueprint_0_Type Tool
+Blueprint_0_Supplies 4
+Blueprint_0_Supply_0_ID 285
+Blueprint_0_Supply_0_Amount 4
+Blueprint_0_Supply_1_ID 69
+Blueprint_0_Supply_1_Amount 1
+Blueprint_0_Supply_2_ID 64
+Blueprint_0_Supply_2_Amount 1
+Blueprint_0_Supply_3_ID 71
+Blueprint_0_Supply_3_Amount 1
+Blueprint_0_Tool 76
+Blueprint_0_Level 2
+Blueprint_0_Skill Craft
+Blueprint_0_Build 27
+
+Use_Auto_Icon_Measurements false
+Procedurally_Animate_Inertia false
