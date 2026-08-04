@@ -1,0 +1,77 @@
+GUID b509c396f62a4bae8dd1f06b9e494220
+Type Spawn
+ID 10209
+
+Tables
+[
+	{
+		// Trifold Flag (Supply Item)
+		Guid 126c2db2650a473394deb382a5568d07
+		Weight 4
+	}
+	{
+		// MRE (Food Item)
+		Guid c3234dd2af954b27898413fe7d188951
+		Weight 4
+	}
+	{
+		// Beer (Water Item)
+		Guid 79099bfa994c4f4eaf10f954583f568f
+		Weight 4
+	}
+	{
+		// Stimpak (Medical Item)
+		Guid 7c47c945d6df43faa6b9f3cf6fe4ca43
+		Weight 4
+	}
+	{
+		// 10 Bottlecaps (Supply Item)
+		Guid 0b84750561ef436e95550eeac2aea591
+		Weight 4
+	}
+	{
+		// Bottlecap (Supply Item)
+		Guid ba0ce00f0b944443a13e8634e525a8b3
+		Weight 4
+	}
+	{
+		// Combat Armor Helmet (Hat Item)
+		Guid 4682e9e18038463886638b968b14ce6a
+		Weight 3
+	}
+	{
+		// Combat Armor Chestplate (Vest Item)
+		Guid 87e030c91969453a8245c438b750d491
+		Weight 3
+	}
+	{
+		// Combat Armor Shirt (Shirt Item)
+		Guid 9c5f2ba280fd4a85af201dbaf2708415
+		Weight 3
+	}
+	{
+		// Combat Armor Pants (Pants Item)
+		Guid 13e73822dfe24162a65b098e1e3afe87
+		Weight 3
+	}
+	{
+		// Microfusion cell, optimized (Magazine Item)
+		Guid 56d1e66b36794ab4b75ef7074b955b88
+		Weight 2
+	}
+	{
+		// Plasma Pistol Cell (Magazine Item)
+		Guid ae795e1333c14442bd86ad28ca133af3
+		Weight 2
+	}
+	{
+		// Plasma Pistol (Gun Item)
+		Guid e0cd4fe1b1724f7cab29c247a5758db3
+		Weight 1
+	}
+	{
+		// Plasma Rifle (Gun Item)
+		Guid 084fca459d2c49408fdd6e8b10ded3a3
+		Weight 1
+	}
+]
