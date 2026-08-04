@@ -1,0 +1,31 @@
+GUID 44ed447124e340678eb60569528f80d3
+Type Spawn
+ID 60008
+
+Roots 6
+Root_0_Spawn_ID 551
+Root_0_Weight 75
+Root_1_Spawn_ID 570
+Root_1_Weight 100
+Root_2_Spawn_ID 682
+Root_2_Weight 75
+Root_3_Spawn_ID 685
+Root_3_Weight 75
+Root_4_Spawn_ID 334
+Root_4_Weight 65
+Root_5_Spawn_ID 114
+Root_5_Weight 65
+
+Tables 6
+Table_0_Asset_ID 60054
+Table_0_Weight 20
+Table_1_Asset_ID 60093
+Table_1_Weight 10
+Table_2_Asset_ID 60118
+Table_2_Weight 10
+Table_3_Asset_ID 60095
+Table_3_Weight 10
+Table_4_Asset_ID 60094
+Table_4_Weight 5
+Table_5_Asset_ID 60046
+Table_5_Weight 5
