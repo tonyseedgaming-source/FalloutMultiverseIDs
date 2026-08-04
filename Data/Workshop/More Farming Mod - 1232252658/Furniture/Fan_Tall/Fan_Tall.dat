@@ -1,0 +1,41 @@
+GUID d93ec54ba3da461a9db8d824aa39d8a9
+Type Barricade
+Rarity Rare
+Useable Barricade
+Build Spot
+ID 47405
+
+Size_X 2
+Size_Y 2
+Size_Z 0.37
+
+Health 300
+Range 4
+Radius 0.1
+Offset 1.32
+
+Explosion 36
+
+Blueprints 1
+Blueprint_0_Type Furniture
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 47405
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Outputs 1
+Blueprint_0_Output_0_ID 47404
+Blueprint_0_Output_0_Amount 1
+Blueprint_0_Build 27
+
+Actions 1
+Action_0_Type Blueprint
+Action_0_Source 47405
+Action_0_Blueprints 1
+Action_0_Blueprint_0_Index 0
+Action_0_Text Shorten Neck
+Action_0_Tooltip Shorten the neck of the fan.
+
+Use_Auto_Icon_Measurements false
+Procedurally_Animate_Inertia false
+PlacementAudioClip Furniture/Placement_Medium_02.mp3
+Has_Clip_Prefab false
+PlacementPreviewPrefab Furniture/Fan_Tall/Preview.prefab
