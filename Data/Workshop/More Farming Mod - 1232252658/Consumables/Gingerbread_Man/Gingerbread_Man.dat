@@ -1,0 +1,13 @@
+GUID d1d07e7700474da8901e97460526981e
+Type Food
+Useable Consumeable
+ID 42333
+
+Size_X 1
+Size_Y 1
+Size_Z 0.25
+
+Food 20
+
+Use_Auto_Icon_Measurements false
+Procedurally_Animate_Inertia false
