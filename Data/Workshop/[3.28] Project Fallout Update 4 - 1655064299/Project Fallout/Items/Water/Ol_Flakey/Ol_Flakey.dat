@@ -1,0 +1,21 @@
+GUID 3f2e456b35164917bbf9bcaa767e4d9d
+Type Water
+Useable Consumeable
+ID 5634
+
+Size_X 1
+Size_Y 2
+Size_Z 0.4
+
+Quality_Max 50
+
+Water 10
+Vision 40
+
+Blueprints 1
+Blueprint_0_Type Repair
+Blueprint_0_Supply_0_ID 392
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Build 27
+
+Exclude_From_Master_Bundle
