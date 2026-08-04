@@ -1,0 +1,33 @@
+GUID b87a30d4e3fa47dfbe334c051cf3c975
+Type Fuel
+Rarity Uncommon
+Useable Fuel
+ID 5776
+
+Size_X 2
+Size_Y 2
+Size_Z 0.6
+
+Blueprints 2
+Blueprint_0_Type Tool
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 5776
+Blueprint_0_Outputs 2
+Blueprint_0_Output_0_ID 5721
+Blueprint_0_Output_0_Amount 5
+Blueprint_0_Output_1_ID 5711
+Blueprint_0_Output_1_Amount 2
+Blueprint_0_Build 27
+Blueprint_1_Type Tool
+Blueprint_1_Supplies 3
+Blueprint_1_Supply_0_ID 5721
+Blueprint_1_Supply_0_Amount 5
+Blueprint_1_Supply_1_ID 5711
+Blueprint_1_Supply_1_Amount 5
+Blueprint_1_Supply_2_ID 5726
+Blueprint_1_Supply_2_Amount 2
+Blueprint_1_Build 32
+
+Fuel 500
+
+Exclude_From_Master_Bundle
