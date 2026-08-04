@@ -1,0 +1,22 @@
+GUID 966b39e217de469dbb474b4cd9b041fb
+
+Type Large
+
+Has_Clip_Prefab False
+
+ID 60227
+
+Interactability_Conditions 1
+Interactability_Condition_0_Type Flag_Bool
+Interactability_Condition_0_ID 59116
+Interactability_Condition_0_Value True
+Interactability_Condition_0_Logic Equal
+
+Interactability Binary_State
+Interactability_Delay 4
+Interactability_Hint Use
+
+Material_Palette 6b68dafe852c4ce29957c8a393d8806c
+
+Master_Bundle_Override loco_curated_objects.masterbundle
+Bundle_Override_Path /Objects/Large/PS_Offices_Door_Openable_7
