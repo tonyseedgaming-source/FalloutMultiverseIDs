@@ -1,0 +1,25 @@
+GUID 0364008410ea469087e7b3ab0188025b
+Type Storage
+Useable Barricade
+Build Storage_Wall
+ID 47248
+
+Size_X 1
+Size_Y 1
+Size_Z 0.28
+
+Health 1
+Range 4
+Offset 0.3
+
+Storage_X 5
+Storage_Y 2
+
+Explosion 86
+Vulnerable
+
+Use_Auto_Icon_Measurements false
+Procedurally_Animate_Inertia false
+PlacementAudioClip Seeds/Use_Seed_01.mp3
+Salvage_Duration_Multiplier 0.5
+Has_Clip_Prefab false
