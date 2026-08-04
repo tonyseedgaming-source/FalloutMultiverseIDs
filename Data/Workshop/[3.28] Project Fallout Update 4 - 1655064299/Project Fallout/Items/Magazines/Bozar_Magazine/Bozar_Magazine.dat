@@ -1,0 +1,36 @@
+GUID ee52ab9e9479467e8314e037f24cc443
+Type Magazine
+Rarity Legendary
+ID 5622
+
+Size_X 2
+Size_Y 2
+Size_Z 0.2
+
+Amount 60
+Count_Min 20
+Count_Max 60
+
+Calibers 1
+Caliber_0 5620
+
+Tracer 48
+
+Blueprints 2
+
+Blueprint_0_Type Ammo
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 5531
+Blueprint_0_Build 30
+
+Blueprint_1_Type Ammo
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 5526
+Blueprint_1_Build 30
+
+Blueprint_2_Type Ammo
+Blueprint_2_Supplies 1
+Blueprint_2_Supply_0_ID 5522
+Blueprint_2_Build 30
+
+Exclude_From_Master_Bundle
