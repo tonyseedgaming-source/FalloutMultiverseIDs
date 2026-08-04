@@ -1,0 +1,25 @@
+GUID 55afd3060cf343dbb18fc972eb181939
+Type Farm
+Useable Barricade
+Build Farm
+ID 41116
+
+Size_X 1
+Size_Y 2
+Size_Z 0.63
+
+Health 1
+Range 4
+Radius 0.5
+Offset 0.83
+
+Growth 22000
+Grow 41117
+
+Explosion 47108
+
+Use_Auto_Icon_Measurements false
+Procedurally_Animate_Inertia false
+Has_Clip_Prefab false
+Affected_By_Agriculture_Skill false
+PlacementPreviewPrefab Seeds/Breed_Lamb/Preview.prefab
