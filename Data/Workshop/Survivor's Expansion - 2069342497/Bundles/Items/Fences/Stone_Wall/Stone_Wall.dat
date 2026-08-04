@@ -1,0 +1,33 @@
+GUID bdbfa484f2d04f1075e2f1f2ad783142
+Type Barricade
+Rarity Rare
+Useable Barricade
+Build Barricade
+ID 9807
+
+Size_X 2
+Size_Y 2
+Size_Z 0.62
+
+Health 700
+Range 8
+Radius 0.5
+Offset 0
+
+Explosion 36
+
+Blueprints 1
+Blueprint_0_Type Barricade
+Blueprint_0_Supplies 3
+Blueprint_0_Supply_0_ID 74
+Blueprint_0_Supply_0_Amount 3
+Blueprint_0_Supply_1_ID 68
+Blueprint_0_Supply_1_Amount 1
+Blueprint_0_Supply_2_ID 75
+Blueprint_0_Supply_2_Amount 1
+Blueprint_0_Tool 138
+Blueprint_0_Level 2
+Blueprint_0_Skill Craft
+Blueprint_0_Build 27
+
+Armor_Tier High
