@@ -1,0 +1,46 @@
+GUID f604be787f31498590935daa23e8453f
+Type Supply
+ID 41161
+
+Size_X 3
+Size_Y 2
+Size_Z 1.00
+
+Blueprints 1
+Blueprint_0_Type Supply
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 41161
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Tool 137
+Blueprint_0_Outputs 3
+Blueprint_0_Output_0_ID 1120
+Blueprint_0_Output_0_Amount 1
+Blueprint_0_Output_1_ID 41113
+Blueprint_0_Output_1_Amount 1
+Blueprint_0_Output_2_ID 516
+Blueprint_0_Output_2_Amount 1
+Blueprint_0_Build 47104
+
+Actions 3
+Action_0_Type Blueprint
+Action_0_Source 42233
+Action_0_Blueprints 1
+Action_0_Blueprint_0_Index 2
+Action_0_Text Feed
+Action_0_Tooltip Feed cow with hay, get the milk.
+
+Action_1_Type Blueprint
+Action_1_Source 41161
+Action_1_Blueprints 1
+Action_1_Blueprint_0_Index 0
+Action_1_Text Butcher
+Action_1_Tooltip Use a butcher knife to turn them into meat.
+
+Action_2_Type Blueprint
+Action_2_Source 42233
+Action_2_Blueprints 1
+Action_2_Blueprint_0_Index 3
+Action_2_Text Breed
+Action_2_Tooltip Feed cow with two hay, get the calf.
+
+Use_Auto_Icon_Measurements false
