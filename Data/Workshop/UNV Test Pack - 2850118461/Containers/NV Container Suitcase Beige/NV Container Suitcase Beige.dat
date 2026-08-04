@@ -1,0 +1,92 @@
+GUID cb6acd61da264830b7ced194d177a59f
+Type Spawn
+ID 10226
+
+Tables
+[
+	{
+		// Grimy Pre-War Suit Top (Shirt Item)
+		Guid ce9b66b78c884dd6b228a795cbc629b8
+		Weight 1
+	}
+	{
+		// Baseball Cap (Hat Item)
+		Guid 40e4345f768c40db8bd8d3efbc44b2e5
+		Weight 1
+	}
+	{
+		// Settler Jeans (Pants Item)
+		Guid d84ae1275d564781b90b92308f888b39
+		Weight 1
+	}
+	{
+		// Pre-War Trousers (Pants Item)
+		Guid bd1af2bffd5d448db997ef511090eba9
+		Weight 1
+	}
+	{
+		// Pre-War Tan Trousers (Pants Item)
+		Guid 29a44a3df92443bbbaee324ef98ed276
+		Weight 1
+	}
+	{
+		// Pre-War Suit Bottom (Pants Item)
+		Guid c94b18802e7a41ac817d61f24f071402
+		Weight 1
+	}
+	{
+		// Pre-War Jeans (Pants Item)
+		Guid b5c40303ab584880b79ae5816ec37796
+		Weight 1
+	}
+	{
+		// Nuka-Cola Cap (Hat Item)
+		Guid 9b736e0c6be74172915a3038a45bcb51
+		Weight 1
+	}
+	{
+		// Pre-War Brown Trousers (Pants Item)
+		Guid aca89d6bd3d240459385afe8818345bb
+		Weight 1
+	}
+	{
+		// Settler Top (Shirt Item)
+		Guid a7e0d12cb9334376ad82ea48ed2ed9f0
+		Weight 1
+	}
+	{
+		// Pre-War Suit Top (Shirt Item)
+		Guid 2d751e10f88c468a87c6238bfe4192ec
+		Weight 1
+	}
+	{
+		// Pre-War Red Sweater (Shirt Item)
+		Guid 4bbba6162d444f34a1ef64eb92ce1f1e
+		Weight 1
+	}
+	{
+		// Pre-War Red Plaid Shirt (Shirt Item)
+		Guid 3dd3b9462c3948ed9e728971d5d9ecef
+		Weight 1
+	}
+	{
+		// Pre-War Green Sweater (Shirt Item)
+		Guid 4994a747c7e14dd29f5038f2d6e0897b
+		Weight 1
+	}
+	{
+		// Pre-War Gray Shirt (Shirt Item)
+		Guid 82576af63b774d70a7c63c732825ba8d
+		Weight 1
+	}
+	{
+		// Grimy Pre-War Suit Bottom (Pants Item)
+		Guid 5af88205aa0b489380e0a2a54d26c671
+		Weight 1
+	}
+	{
+		// Grimy Pre-War Fedora (Hat Item)
+		Guid 7b479ab880224f6c87323361586ad211
+		Weight 1
+	}
+]
