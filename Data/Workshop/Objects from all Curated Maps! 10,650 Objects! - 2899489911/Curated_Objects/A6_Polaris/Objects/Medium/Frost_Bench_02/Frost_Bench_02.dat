@@ -1,0 +1,8 @@
+GUID 1d77ac7705ea4bd7a93bfe5c15e83716
+
+Type Medium
+Has_Clip_Prefab false
+ID 36000
+
+Master_Bundle_Override loco_curated_objects.masterbundle
+Bundle_Override_Path A6_Polaris/Objects/Medium/Frost_Bench_00
