@@ -1,0 +1,24 @@
+GUID bd6b2936d11c407eae046de9653ce706
+Type Barrel
+Rarity Rare
+ID 5697
+
+Size_X 1
+Size_Y 1
+Size_Z 0.15
+
+Calibers 1
+Caliber_0 5693
+
+Durability 1000
+
+Quality_Min 500
+Quality_Max 1000
+
+Recoil_X 0.8
+Recoil_Y 0.6
+Ballistic_Drop 0.9
+
+Spread 0.6
+
+Exclude_From_Master_Bundle
