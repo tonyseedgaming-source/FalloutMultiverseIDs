@@ -1,0 +1,81 @@
+GUID fd87e943c0e24b8e99f49208a0e5e52c
+Type Gun
+Rarity Legendary
+Useable Gun
+Slot Primary
+ID 51603
+
+Size_X 5
+Size_Y 2
+Size_Z 0.35
+
+Magazine 51604
+
+Ammo_Min 100
+Ammo_Max 240
+
+Auto
+
+Caliber 51602
+
+Range 150
+Firerate 1
+Action Minigun
+
+Player_Damage 25
+Player_Leg_Multiplier 0.7
+Player_Arm_Multiplier 0.7
+Player_Spine_Multiplier 0.8
+Player_Skull_Multiplier 1.2
+
+Zombie_Damage 25
+Zombie_Leg_Multiplier 0.7
+Zombie_Arm_Multiplier 0.7
+Zombie_Spine_Multiplier 0.8
+Zombie_Skull_Multiplier 1.2
+
+Animal_Damage 25
+Animal_Leg_Multiplier 0.7
+Animal_Spine_Multiplier 0.8
+Animal_Skull_Multiplier 1.2
+
+Barricade_Damage 10
+Structure_Damage 10
+Vehicle_Damage 10
+Resource_Damage 10
+Object_Damage 10
+
+Durability 0.1
+
+Spread_Aim 0.01
+Spread_Hip 10
+
+Recoil_Min_X -0.5
+Recoil_Min_Y 3
+Recoil_Max_X 0.5
+Recoil_Max_Y 6
+
+Recover_X 0.75
+Recover_Y 0.75
+
+Shake_Min_X -0.00625
+Shake_Min_Y 0.015
+Shake_Max_X 0.00625
+Shake_Max_Y 0.0175
+
+Muzzle 4
+
+Blueprints 2
+Blueprint_0_Type Repair
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 67
+Blueprint_0_Supply_0_Amount 8
+Blueprint_0_Tool 76
+Blueprint_0_Build 27
+Blueprint_1_Type Tool
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 51603
+Blueprint_1_Outputs 1
+Blueprint_1_Output_0_ID 67
+Blueprint_1_Output_0_Amount 10
+Blueprint_1_Build 27
