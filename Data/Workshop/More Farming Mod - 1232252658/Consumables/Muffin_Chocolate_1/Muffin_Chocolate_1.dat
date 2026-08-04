@@ -1,0 +1,15 @@
+GUID ef67f1128c9d4ce2b6b949af9da7cf1b
+Type Food
+Useable Consumeable
+ID 42200
+
+Size_X 1
+Size_Y 1
+Size_Z 0.22
+
+Food 20
+
+Use_Auto_Icon_Measurements false
+Procedurally_Animate_Inertia false
+ConsumeAudioClip Consumables/Use_Food_09.mp3
+Instantiated_Item_Name_Override 42197
