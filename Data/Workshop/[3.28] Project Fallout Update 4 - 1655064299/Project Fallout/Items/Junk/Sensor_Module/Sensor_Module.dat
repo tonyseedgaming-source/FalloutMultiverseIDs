@@ -1,0 +1,25 @@
+GUID ca46dc7f61324d32a3eb4ee3a7b2f6d2
+Type Supply
+Rarity Uncommon
+ID 5756
+
+Size_X 1
+Size_Y 1
+Size_Z 0.2
+
+Blueprints 1
+Blueprint_0_Type Tool
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 5756
+Blueprint_0_Outputs 4
+Blueprint_0_Output_0_ID 5711
+Blueprint_0_Output_0_Amount 1
+Blueprint_0_Output_1_ID 5719
+Blueprint_0_Output_1_Amount 2
+Blueprint_0_Output_2_ID 5730
+Blueprint_0_Output_2_Amount 1
+Blueprint_0_Output_3_ID 5729
+Blueprint_0_Output_3_Amount 2
+Blueprint_0_Build 27
+
+Exclude_From_Master_Bundle
