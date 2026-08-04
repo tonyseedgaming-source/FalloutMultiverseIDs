@@ -1,0 +1,68 @@
+GUID 861bfa07daba4e37ad646145ececff8b
+Type Spawn
+ID 50102
+
+Roots 13
+
+//Miliary_America
+Root_0_Spawn_ID 334
+Root_0_Weight 5
+
+//Military_Canada
+Root_1_Spawn_ID 114
+Root_1_Weight 5
+
+//Military_Low (Russia)
+Root_2_Spawn_ID 553
+Root_2_Weight 20
+
+//Military_High_Peaks
+Root_3_Spawn_ID 684
+Root_3_Weight 20
+
+//Special_Canada
+Root_4_Spawn_ID 133
+Root_4_Weight 50
+
+//Special_America
+Root_5_Spawn_ID 347
+Root_5_Weight 50
+
+//Special_Low
+Root_6_Spawn_ID 555
+Root_6_Weight 50
+
+//Special_Low_Peaks
+Root_7_Spawn_ID 689
+Root_7_Weight 50
+
+//Beacon
+Root_8_Spawn_ID 1
+Root_8_Weight 75
+
+//Carepackage_America
+Root_9_Spawn_ID 540
+Root_9_Weight 100
+
+//Carepackage_Canada
+Root_10_Spawn_ID 542
+Root_10_Weight 100
+
+//Carepackage_Peaks
+Root_11_Spawn_ID 680
+Root_11_Weight 100
+
+//Carepackage_Russia
+Root_12_Spawn_ID 615
+Root_12_Weight 100
+
+
+Tables 4
+Table_0_Asset_ID 50126
+Table_0_Weight 50
+Table_1_Asset_ID 50134
+Table_1_Weight 50
+Table_2_Asset_ID 50102
+Table_2_Weight 150
+Table_3_Asset_ID 50105
+Table_3_Weight 150
