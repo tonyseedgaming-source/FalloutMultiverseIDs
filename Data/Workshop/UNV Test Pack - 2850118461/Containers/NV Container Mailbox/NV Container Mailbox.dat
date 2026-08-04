@@ -1,0 +1,52 @@
+GUID 46b49dbb9c6b412797de0597ebbb80f8
+Type Spawn
+ID 10220
+
+Tables
+[
+	{
+		// Bottlecap (Supply Item)
+		Guid ba0ce00f0b944443a13e8634e525a8b3
+		Weight 5
+	}
+	{
+		// 10 Bottlecaps (Supply Item)
+		Guid 0b84750561ef436e95550eeac2aea591
+		Weight 4
+	}
+	{
+		// Jet (Medical Item)
+		Guid 2f270ce8473242e28447e2446491c5e0
+		Weight 4
+	}
+	{
+		// Nuka Cola (Water Item)
+		Guid bf4e39922d5746018cf8997a92ba19ab
+		Weight 4
+	}
+	{
+		// Varmint Rifle 5 Round Magazine (Magazine Item)
+		Guid d11896c230df4fc8bb629fadb7dd6174
+		Weight 3
+	}
+	{
+		// 9mm Ammunition Box (Supply Item)
+		Guid 049d29b429e74b65996d9cd5f6a83c12
+		Weight 3
+	}
+	{
+		// 10mm HP Ammunition Box (Supply Item)
+		Guid 07565a0a3c3148c6b1d09c6413ba2380
+		Weight 3
+	}
+	{
+		// 5.56mm Extended Magazine (Magazine Item)
+		Guid 4277b0c2e3054b43835a4089ca2ee1a1
+		Weight 2
+	}
+	{
+		// 12.7mm Ammo Box (Supply Item)
+		Guid ca3aa62524c0469b82e15398804373c1
+		Weight 1
+	}
+]
