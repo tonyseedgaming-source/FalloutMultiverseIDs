@@ -1,0 +1,17 @@
+GUID b3f7369d392e4e01921952912dadecb7
+Type Spawn
+ID 60004
+
+Roots 3
+Root_0_Spawn_ID 397
+Root_0_Weight 20
+Root_1_Spawn_ID 282
+Root_1_Weight 10
+Root_2_Spawn_ID 755
+Root_2_Weight 10
+
+Tables 2
+Table_0_Asset_ID 60060
+Table_0_Weight 20
+Table_1_Asset_ID 60076
+Table_1_Weight 10
