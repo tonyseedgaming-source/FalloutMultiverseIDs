@@ -1,0 +1,26 @@
+GUID 2654e804681b4260a311b6885f41df98
+Type Water
+Useable Consumeable
+ID 42162
+
+Size_X 1
+Size_Y 1
+Size_Z 0.28
+
+Water 60
+
+Blueprints 1
+Blueprint_0_Type Supply
+Blueprint_0_Supplies 2
+Blueprint_0_Supply_0_ID 42108
+Blueprint_0_Supply_0_Amount 2
+Blueprint_0_Supply_1_ID 42152
+Blueprint_0_Supply_1_Amount 1
+Blueprint_0_Tool 120
+Blueprint_0_Level 2
+Blueprint_0_Skill Cook
+Blueprint_0_Build 47102
+
+Use_Auto_Icon_Measurements false
+Procedurally_Animate_Inertia false
+ConsumeAudioClip Consumables/Use_Juice_01.mp3
