@@ -1,0 +1,18 @@
+GUID 42957dc9a93f41208f885182900457b9
+Type Water
+Useable Consumeable
+ID 42103
+
+Size_X 1
+Size_Y 1
+Size_Z 0.28
+
+Water 25
+Energy 100
+Warmth 2245
+
+Use_Auto_Icon_Measurements false
+Procedurally_Animate_Inertia false
+ConsumeAudioClip Consumables/Use_Coffee_01.mp3
+InspectAudioDef Consumables/Inspect_Coffee.mp3
+Instantiated_Item_Name_Override 42102
