@@ -1,0 +1,38 @@
+GUID 2e666ec731af404eb38907ba591083ff
+Type Food
+Useable Consumeable
+ID 42196
+
+Size_X 1
+Size_Y 1
+Size_Z 0.24
+
+Food 20
+
+Blueprints 1
+Blueprint_0_Type Supply
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 42196
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Outputs 1
+Blueprint_0_Output_0_ID 42197
+Blueprint_0_Output_0_Amount 2
+Blueprint_0_Build 27
+
+Quest_Rewards 1
+Quest_Reward_0_Type Item
+Quest_Reward_0_ID 42197
+Quest_Reward_0_Amount 1
+
+Actions 1
+Action_0_Type Blueprint
+Action_0_Source 42196
+Action_0_Blueprints 1
+Action_0_Blueprint_0_Index 0
+Action_0_Text Take One
+Action_0_Tooltip Take one muffin.
+
+Use_Auto_Icon_Measurements false
+Procedurally_Animate_Inertia false
+ConsumeAudioClip Consumables/Use_Food_09.mp3
+Instantiated_Item_Name_Override 42197
