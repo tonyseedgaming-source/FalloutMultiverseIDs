@@ -1,0 +1,12 @@
+GUID e4ce333d130341e48484fbe2c6eb2b97
+
+Type Large
+
+Has_Clip_Prefab False
+
+ID 59851
+
+Interactability Quest
+Interactability_Rewards 1
+Interactability_Reward_0_Type Teleport
+Interactability_Reward_0_Spawnpoint DESERT_BASEMENT_1
