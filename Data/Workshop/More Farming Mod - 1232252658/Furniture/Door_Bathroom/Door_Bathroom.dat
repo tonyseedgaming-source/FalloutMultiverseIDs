@@ -1,0 +1,37 @@
+GUID 82bfd90d71334516ab5c029941b37b50
+Type Barricade
+Rarity Rare
+Useable Barricade
+Build Door
+ID 47188
+
+Size_X 1
+Size_Y 2
+Size_Z 0.54
+
+Health 300
+Range 6
+Radius 0.1
+Offset 1.25
+
+Explosion 36
+
+Blueprints 1
+Blueprint_0_Type Barricade
+Blueprint_0_Supplies 3
+Blueprint_0_Supply_0_ID 68
+Blueprint_0_Supply_0_Amount 2
+Blueprint_0_Supply_1_ID 1297
+Blueprint_0_Supply_1_Amount 1
+Blueprint_0_Supply_2_ID 71
+Blueprint_0_Supply_2_Amount 1
+Blueprint_0_Tool 138
+Blueprint_0_Level 3
+Blueprint_0_Skill Craft
+Blueprint_0_Build 47101
+
+Use_Auto_Icon_Measurements false
+Procedurally_Animate_Inertia false
+PlacementAudioClip Furniture/Placement_02.mp3
+Allow_Collision_While_Animating true
+Has_Clip_Prefab false
