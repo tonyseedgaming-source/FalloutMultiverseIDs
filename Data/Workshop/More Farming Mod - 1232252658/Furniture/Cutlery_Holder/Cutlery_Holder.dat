@@ -1,0 +1,39 @@
+GUID ae036f3d89954e6d9a4a98fc44a740d5
+Type Storage
+Useable Barricade
+Build Storage
+ID 47346
+
+Size_X 1
+Size_Y 2
+Size_Z 0.4
+
+Health 200
+Range 4
+Radius 0.03
+Offset 0.45
+
+Storage_X 3
+Storage_Y 2
+
+Explosion 36
+
+Blueprints 1
+Blueprint_0_Type Furniture
+Blueprint_0_Supplies 4
+Blueprint_0_Supply_0_ID 47340
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Supply_1_ID 47341
+Blueprint_0_Supply_1_Amount 1
+Blueprint_0_Supply_2_ID 47342
+Blueprint_0_Supply_2_Amount 1
+Blueprint_0_Supply_3_ID 72
+Blueprint_0_Supply_3_Amount 1
+Blueprint_0_Level 1
+Blueprint_0_Skill Craft
+Blueprint_0_Build 27
+
+Use_Auto_Icon_Measurements false
+Procedurally_Animate_Inertia false
+PlacementAudioClip Furniture/Placement_Small_01.mp3
+Has_Clip_Prefab false
