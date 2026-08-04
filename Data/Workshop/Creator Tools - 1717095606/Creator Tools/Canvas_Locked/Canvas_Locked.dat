@@ -1,0 +1,15 @@
+GUID 62debb73bd204ffd990478e364a6b9e2
+Type Barricade
+Useable Barricade
+Build Note
+ID 16657
+
+Size_X 1
+Size_Y 1
+Size_Z 1
+
+Health 100
+Range 4
+Offset 0.025
+
+Locked
