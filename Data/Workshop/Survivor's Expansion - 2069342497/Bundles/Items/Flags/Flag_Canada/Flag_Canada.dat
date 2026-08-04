@@ -1,0 +1,49 @@
+GUID 96510810f032c0df71f90e13e6503845
+Type Barricade
+Rarity Legendary
+Useable Barricade
+Build Claim
+ID 9833
+
+Size_X 2
+Size_Y 2
+Size_Z 0.55
+
+Health 100
+Range 4
+Radius 0.99
+
+Explosion 36
+Vulnerable
+Proof_Explosion
+
+Blueprints 2
+Blueprint_0_Type Utilities
+Blueprint_0_Supplies 3
+Blueprint_0_Supply_0_ID 1158
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Supply_1_ID 75
+Blueprint_0_Supply_1_Amount 2
+Blueprint_0_Supply_2_ID 67
+Blueprint_0_Supply_2_Amount 4
+Blueprint_0_Map PEI
+Blueprint_0_Tool 76
+Blueprint_0_Level 3
+Blueprint_0_Skill Craft
+Blueprint_0_Build 27
+
+Blueprint_1_Type Utilities
+Blueprint_1_Supplies 3
+Blueprint_1_Supply_0_ID 1158
+Blueprint_1_Supply_0_Amount 1
+Blueprint_1_Supply_1_ID 75
+Blueprint_1_Supply_1_Amount 2
+Blueprint_1_Supply_2_ID 67
+Blueprint_1_Supply_2_Amount 4
+Blueprint_1_Map Yukon
+Blueprint_1_Tool 76
+Blueprint_1_Level 3
+Blueprint_1_Skill Craft
+Blueprint_1_Build 27
+
+Asset_Bundle_Version 3
