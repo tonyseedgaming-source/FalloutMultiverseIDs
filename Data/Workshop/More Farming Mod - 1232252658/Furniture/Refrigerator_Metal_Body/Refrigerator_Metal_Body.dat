@@ -1,0 +1,88 @@
+GUID f66bddc077d64bbf9700920a16d06ed3
+Type Storage
+Rarity Epic
+Useable Barricade
+Build Storage
+ID 47393
+
+Size_X 2
+Size_Y 2
+Size_Z 0.44
+
+Health 500
+Range 4
+Radius 0.01
+Offset 0.75
+
+Storage_X 8
+Storage_Y 10
+
+Locked
+
+Explosion 36
+
+Blueprints 3
+Blueprint_0_Type Furniture
+Blueprint_0_Supplies 3
+Blueprint_0_Supply_0_ID 1249
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Supply_0_Critical
+Blueprint_0_Supply_1_ID 42315
+Blueprint_0_Supply_1_Amount 1
+Blueprint_0_Supply_2_ID 378
+Blueprint_0_Supply_2_Amount 1
+Blueprint_0_Outputs 2
+Blueprint_0_Output_0_ID 47393
+Blueprint_0_Output_0_Amount 1
+Blueprint_0_Output_1_ID 47394
+Blueprint_0_Output_1_Amount 1
+Blueprint_0_Tool 76
+Blueprint_0_Level 3
+Blueprint_0_Skill Craft
+Blueprint_0_Build 47101
+
+Blueprint_1_Type Furniture
+Blueprint_1_Supplies 3
+Blueprint_1_Supply_0_ID 47393
+Blueprint_1_Supply_0_Amount 1
+Blueprint_1_Supply_1_ID 47394
+Blueprint_1_Supply_1_Amount 1
+Blueprint_1_Supply_2_ID 259
+Blueprint_1_Supply_2_Amount 1
+Blueprint_1_Outputs 2
+Blueprint_1_Output_0_ID 47433
+Blueprint_1_Output_0_Amount 1
+Blueprint_1_Output_1_ID 47434
+Blueprint_1_Output_1_Amount 1
+Blueprint_1_Build 27
+
+Blueprint_2_Type Furniture
+Blueprint_2_Supplies 3
+Blueprint_2_Supply_0_ID 47393
+Blueprint_2_Supply_0_Amount 1
+Blueprint_2_Supply_1_ID 47394
+Blueprint_2_Supply_1_Amount 1
+Blueprint_2_Supply_2_ID 49130
+Blueprint_2_Supply_2_Amount 1
+Blueprint_2_Outputs 2
+Blueprint_2_Output_0_ID 47439
+Blueprint_2_Output_0_Amount 1
+Blueprint_2_Output_1_ID 47440
+Blueprint_2_Output_1_Amount 1
+Blueprint_2_Build 27
+
+Actions 1
+Action_0_Type Blueprint
+Action_0_Source 47393
+Action_0_Blueprints 2
+Action_0_Blueprint_0_Index 1
+Action_0_Blueprint_0_Link
+Action_0_Blueprint_1_Index 2
+Action_0_Blueprint_1_Link
+Action_0_Text Change Color
+Action_0_Tooltip Change the color of the refrigerator.
+
+Use_Auto_Icon_Measurements false
+Procedurally_Animate_Inertia false
+PlacementAudioClip Furniture/Placement_02.mp3
+Has_Clip_Prefab false
