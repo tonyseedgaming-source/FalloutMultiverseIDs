@@ -1,0 +1,22 @@
+GUID 14a3567686b24d12ab9a7e15dfaddc63
+Type Spawn
+ID 10566
+
+Tables
+[
+	{
+		// Scrap Metal (Supply Item)
+		Guid 0ea2cf8a0137477e9d57fbc738375510
+		Weight 1
+	}
+	{
+		// 10 Bottlecaps (Supply Item)
+		Guid 0b84750561ef436e95550eeac2aea591
+		Weight 1
+	}
+	{
+		// Bottlecap (Supply Item)
+		Guid ba0ce00f0b944443a13e8634e525a8b3
+		Weight 1
+	}
+]
