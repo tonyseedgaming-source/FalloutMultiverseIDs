@@ -1,0 +1,5 @@
+Name PS Offices Door Openable #7 [B14]
+
+Interactability_Condition_0 Missing EUS B14 Key
+
+Interact Use [{0}]
