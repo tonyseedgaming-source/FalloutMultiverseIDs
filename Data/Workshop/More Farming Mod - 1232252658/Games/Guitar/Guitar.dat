@@ -1,0 +1,102 @@
+GUID cb0bc593ce394268b0f99690e162dd09
+Type Gun
+Rarity Rare
+Useable Gun
+Slot Primary
+ID 48102
+
+Size_X 2
+Size_Y 3
+Size_Z 0.89
+
+Magazine 48111
+
+Ammo_Min 1
+Ammo_Max 1
+
+Semi
+
+Caliber 48102
+
+Range 1
+Firerate 50
+Action Bolt
+
+Can_Aim_During_Sprint true
+Aiming_Movement_Speed_Multiplier 1
+Requires_NonZero_Attachment_Caliber true
+
+Ballistic_Steps 250
+Ballistic_Travel 0.1
+Bullet_Gravity_Multiplier 0
+
+Player_Damage 0
+Player_Leg_Multiplier 0
+Player_Arm_Multiplier 0
+Player_Spine_Multiplier 0
+Player_Skull_Multiplier 0
+
+Zombie_Damage 0
+Zombie_Leg_Multiplier 0
+Zombie_Arm_Multiplier 0
+Zombie_Spine_Multiplier 0
+Zombie_Skull_Multiplier 0
+
+Animal_Damage 0
+Animal_Leg_Multiplier 0
+Animal_Spine_Multiplier 0
+Animal_Skull_Multiplier 0
+
+Barricade_Damage 0
+Structure_Damage 0
+Vehicle_Damage 0
+Resource_Damage 0
+Object_Damage 0
+
+Durability 0
+
+Spread_Aim 0
+Spread_Hip 0
+
+Recoil_Min_X 0
+Recoil_Min_Y 0
+Recoil_Max_X 0
+Recoil_Max_Y 0
+
+Recover_X 1
+Recover_Y 1
+
+Shake_Min_X 0
+Shake_Min_Y 0
+Shake_Min_Z 0
+Shake_Max_X 0
+Shake_Max_Y 0
+Shake_Max_Z 0
+
+Backward
+
+Blueprints 1
+Blueprint_0_Type Tool
+Blueprint_0_Supplies 4
+Blueprint_0_Supply_0_ID 63
+Blueprint_0_Supply_0_Amount 6
+Blueprint_0_Supply_1_ID 41113
+Blueprint_0_Supply_1_Amount 1
+Blueprint_0_Supply_2_ID 65
+Blueprint_0_Supply_2_Amount 1
+Blueprint_0_Supply_3_ID 70
+Blueprint_0_Supply_3_Amount 1
+Blueprint_0_Tool 138
+Blueprint_0_Outputs 2
+Blueprint_0_Output_0_ID 48102
+Blueprint_0_Output_0_Amount 1
+Blueprint_0_Output_1_ID 48107
+Blueprint_0_Output_1_Amount 1
+Blueprint_0_Level 3
+Blueprint_0_Skill Craft
+Blueprint_0_Build 47101
+
+Use_Auto_Icon_Measurements false
+Procedurally_Animate_Inertia false
+Infinite_Ammo true
+Can_Use_Underwater true
