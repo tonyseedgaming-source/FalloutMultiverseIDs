@@ -1,0 +1,6 @@
+Name PS Offices Door Openable #3 [A5]
+
+
+Interactability_Condition_0 Missing EUS A5 Key
+
+Interact Use [{0}]
