@@ -1,0 +1,24 @@
+GUID 227fd4f9ce28471e89dd3f5dd0e809e8
+Type Medical
+Rarity Rare
+Useable Consumeable
+ID 5605
+
+Size_X 1
+Size_Y 1
+Size_Z 0.2
+
+Disinfectant 10
+
+Blueprints 1
+Blueprint_0_Type Supply
+Blueprint_0_Supplies 3
+Blueprint_0_Supply_0_ID 5711
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Supply_1_ID 5720
+Blueprint_0_Supply_1_Amount 1
+Blueprint_0_Supply_2_ID 5735
+Blueprint_0_Supply_2_Amount 1
+Blueprint_0_Build 32
+
+Exclude_From_Master_Bundle
