@@ -1,0 +1,25 @@
+GUID fdaf5b28ee7644c096d49c0ffc962ccd
+Type Supply
+Rarity Rare
+ID 5738
+
+Size_X 2
+Size_Y 2
+Size_Z 0.4
+
+Blueprints 1
+Blueprint_0_Type Tool
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 5738
+Blueprint_0_Outputs 4
+Blueprint_0_Output_0_ID 5735
+Blueprint_0_Output_0_Amount 2
+Blueprint_0_Output_1_ID 5731
+Blueprint_0_Output_1_Amount 8
+Blueprint_0_Output_2_ID 5715
+Blueprint_0_Output_2_Amount 2
+Blueprint_0_Output_3_ID 5720
+Blueprint_0_Output_3_Amount 1
+Blueprint_0_Build 27
+
+Exclude_From_Master_Bundle
