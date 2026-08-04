@@ -1,0 +1,33 @@
+GUID 7ae6bccb823e44e0805d721f8bd71761
+Type Vest
+Rarity Rare
+Useable Clothing
+ID 60163
+
+Size_X 2
+Size_Y 2
+Size_Z 0.35
+
+Armor 0.8
+
+Width 4
+Height 4
+
+Blueprints 2
+Blueprint_0_Type Apparel
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 60163
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Outputs 2
+Blueprint_0_Output_0_ID 60005
+Blueprint_0_Output_0_Amount 2
+Blueprint_0_Output_1_ID 60017
+Blueprint_0_Output_1_Amount 1
+Blueprint_0_Build 32
+Blueprint_1_Type Repair
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 60005
+Blueprint_1_Supply_0_Amount 2
+Blueprint_1_Build 32
+
+Asset_Bundle_Version 3
