@@ -1,0 +1,11 @@
+GUID 42e914fc77ad4584859a5d620eeb5eef
+
+Type Large
+Has_Clip_Prefab false
+ID 36000
+
+LOD Area
+Soft
+Collision_Important
+
+Material_Palette 853a6c49920d49499fea19ea91b9ea58
