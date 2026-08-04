@@ -1,0 +1,17 @@
+GUID e4005306919d48929a1c1be223a81bbe
+Type Food
+Useable Consumeable
+ID 41130
+
+Size_X 2
+Size_Y 1
+Size_Z 0.24
+
+Health 5
+Food 25
+Virus 35
+
+Use_Auto_Icon_Measurements false
+Procedurally_Animate_Inertia false
+ConsumeAudioClip Consumables/Use_Food_01.mp3
+Instantiated_Item_Name_Override 41111
