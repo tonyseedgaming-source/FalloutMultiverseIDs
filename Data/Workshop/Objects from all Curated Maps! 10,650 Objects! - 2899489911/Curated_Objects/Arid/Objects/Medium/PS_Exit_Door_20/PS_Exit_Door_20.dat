@@ -1,0 +1,15 @@
+GUID 29dc7c95f043491fa48b577b0e2b3003
+
+Type Medium
+
+Has_Clip_Prefab False
+
+ID 60190
+
+Master_Bundle_Override loco_curated_objects.masterbundle
+Bundle_Override_Path /Objects/Medium/PS_Exit_Door_01
+
+Interactability Quest
+Interactability_Rewards 1
+Interactability_Reward_0_Type Teleport
+Interactability_Reward_0_Spawnpoint AG19_Exit
