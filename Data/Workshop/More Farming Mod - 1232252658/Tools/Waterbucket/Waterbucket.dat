@@ -1,0 +1,30 @@
+GUID 9075ab51b2b940b59c2f967c6cd05aa4
+Type Fisher
+Rarity Rare
+Useable Fisher
+ID 43102
+
+Size_X 2
+Size_Y 2
+Size_Z 0.46
+
+Backward
+
+Reward_ID 43102
+
+Blueprints 1
+Blueprint_0_Type Tool
+Blueprint_0_Supplies 3
+Blueprint_0_Supply_0_ID 68
+Blueprint_0_Supply_0_Amount 2
+Blueprint_0_Supply_1_ID 65
+Blueprint_0_Supply_1_Amount 1
+Blueprint_0_Supply_2_ID 64
+Blueprint_0_Supply_2_Amount 1
+Blueprint_0_Tool 76
+Blueprint_0_Level 2
+Blueprint_0_Skill Craft
+Blueprint_0_Build 27
+
+Use_Auto_Icon_Measurements false
+Procedurally_Animate_Inertia false
