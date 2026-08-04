@@ -1,0 +1,13 @@
+GUID f26632d1518046c1991337c122c16a56
+
+Type Large
+Has_Clip_Prefab false
+ID 36000
+
+Soft
+
+Interactability Fuel
+Interactability_Reset 500
+Interactability_Resource 500
+
+Material_Palette b9a442a3442f4114b1ce5ffb5e138e8b
