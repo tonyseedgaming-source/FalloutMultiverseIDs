@@ -1,0 +1,22 @@
+GUID 03c308a51842478bbd637bd6cb22f4b8
+Type Barricade
+Useable Barricade
+Build Barricade
+ID 41261
+
+Size_X 1
+Size_Y 1
+Size_Z 0.25
+
+Health 1
+Range 4
+Radius 0.01
+Offset 0.1
+
+Explosion 43
+Vulnerable
+
+Use_Auto_Icon_Measurements false
+Procedurally_Animate_Inertia false
+PlacementAudioClip Furniture/Placement_Sticky.mp3
+Has_Clip_Prefab false
