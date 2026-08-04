@@ -1,0 +1,14 @@
+GUID c7644da7b40e49c1940d488a49777f0c
+Type Arrest_End
+Useable Arrest_End
+ID 48355
+
+Size_X 1
+Size_Y 1
+Size_Z 0.31
+
+Recover 48354
+
+Use_Auto_Icon_Measurements false
+Procedurally_Animate_Inertia false
+Should_Drop_On_Death false
