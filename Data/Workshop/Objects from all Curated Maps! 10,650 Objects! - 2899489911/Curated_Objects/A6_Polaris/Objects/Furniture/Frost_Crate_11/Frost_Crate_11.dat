@@ -1,0 +1,12 @@
+GUID bebc7ea4557f4af7bbc12f45bc3e5b9d
+
+Type Medium
+Has_Clip_Prefab false
+ID 36000
+
+Rubble Destroy
+Rubble_Reset 300
+Rubble_Health 1
+Rubble_Effect 36016
+Rubble_Reward_ID 36119
+Rubble_Reward_XP 2
