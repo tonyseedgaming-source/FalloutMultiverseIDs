@@ -1,0 +1,15 @@
+GUID edfa43c6aaef48c09057add0ba3d11fc
+Type Food
+Rarity Rare
+Useable Consumeable
+ID 5660
+
+Size_X 1
+Size_Y 1
+Size_Z 0.35
+
+Quality_Max 50
+
+Food 15
+
+Exclude_From_Master_Bundle
