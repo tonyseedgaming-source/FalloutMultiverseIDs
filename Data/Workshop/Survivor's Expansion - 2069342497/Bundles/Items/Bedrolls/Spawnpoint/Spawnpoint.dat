@@ -1,0 +1,18 @@
+GUID ad9ae72dc0a16b8e35d1be9d81a2c04c
+Type Barricade
+Rarity Common
+Useable Barricade
+Build Bed
+ID 9829
+
+Size_X 1
+Size_Y 1
+Size_Z 0.50
+
+Health 10000
+Range 4
+Radius 0.2
+Offset 0
+
+Explosion 37
+Unvulnerable
