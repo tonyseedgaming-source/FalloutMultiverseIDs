@@ -1,0 +1,15 @@
+GUID 34a8f2d4b231477e8c8c370fc0609492
+Type Tactical
+Rarity Rare
+ID 5525
+
+Size_X 2
+Size_Y 1
+Size_Z 0.2
+
+Calibers 1
+Caliber_0 5522
+
+Melee
+
+Exclude_From_Master_Bundle
