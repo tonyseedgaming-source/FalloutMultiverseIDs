@@ -1,0 +1,18 @@
+GUID fbe736627b484fc087509d4605e19976
+
+Type Medium
+
+Has_Clip_Prefab False
+
+ID 59611
+
+Interactability_Conditions 1
+Interactability_Condition_0_Type Flag_Bool
+Interactability_Condition_0_ID 59000
+Interactability_Condition_0_Value True
+Interactability_Condition_0_Logic Equal
+
+Interactability Quest
+Interactability_Rewards 1
+Interactability_Reward_0_Type Teleport
+Interactability_Reward_0_Spawnpoint AG17_2
