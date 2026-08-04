@@ -1,0 +1,24 @@
+GUID aa2c0f6d177b4384bd396b64e15a9b38
+Type Water
+Useable Consumeable
+ID 42278
+
+Size_X 1
+Size_Y 1
+Size_Z 0.28
+
+Water 27
+
+Blueprints 1
+Blueprint_0_Type Supply
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 14
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_State_Transfer
+Blueprint_0_Product 42278
+Blueprint_0_Products 2
+Blueprint_0_Build 47102
+
+Use_Auto_Icon_Measurements false
+Procedurally_Animate_Inertia false
+ConsumeAudioClip Consumables/Use_Water_05.mp3
