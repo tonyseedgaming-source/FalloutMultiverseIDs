@@ -1,0 +1,18 @@
+GUID 6a06b35fa0a042ac9a4905b354b2d8ce
+Type Resource
+ID 60000
+
+Health 800
+Radius 4
+Scale 0.1
+
+Explosion 23
+Reward_ID 516
+Reward_XP 5
+Reward_Min 6
+Reward_Max 9
+
+Reset 750
+
+Auto_Skybox
+Exclude_From_Master_Bundle
