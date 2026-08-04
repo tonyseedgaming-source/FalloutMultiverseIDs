@@ -1,0 +1,22 @@
+GUID fd65f00016b24d2c9d85f66bffcca69e
+
+
+Type Medium
+
+Has_Clip_Prefab False
+
+ID 59948
+
+Master_Bundle_Override loco_curated_objects.masterbundle
+Bundle_Override_Path /Objects/Medium/PS_Exit_Door_00
+
+Interactability Quest
+Interactability_Rewards 1
+Interactability_Reward_0_Type Teleport
+Interactability_Reward_0_Spawnpoint AG18_2
+
+Interactability_Conditions 1
+Interactability_Condition_0_Type Flag_Bool
+Interactability_Condition_0_ID 59066
+Interactability_Condition_0_Value True
+Interactability_Condition_0_Logic Equal
