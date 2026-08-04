@@ -1,0 +1,20 @@
+GUID 7f6345eeb77942f88462e5007fd378af
+
+
+Type Sight
+ID 2505
+
+Size_X 1
+Size_Y 1
+Size_Z 0.1
+
+Paintable
+
+Blueprints 1
+Blueprint_0_Type Tool
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID this
+Blueprint_0_Product "67" // Metal Scrap
+Blueprint_0_Products 1
+Blueprint_0_Build 27
+Exclude_From_Master_Bundle
