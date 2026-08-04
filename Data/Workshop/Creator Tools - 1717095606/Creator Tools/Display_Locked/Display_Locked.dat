@@ -1,0 +1,18 @@
+GUID 7dfc939d40154234bad0337c142b496e
+Type Storage
+Useable Barricade
+Build Storage
+ID 16652
+
+Size_X 1
+Size_Y 1
+Size_Z 1
+
+Health 100
+Range 4
+Offset 0.1
+
+Storage_X 7
+Storage_Y 7
+Display
+Locked
