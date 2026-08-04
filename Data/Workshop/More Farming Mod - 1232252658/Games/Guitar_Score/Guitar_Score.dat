@@ -1,0 +1,18 @@
+GUID 64790dd766014a14aaf61550aa5d82b4
+Type Magazine
+ID 48111
+
+Size_X 1
+Size_Y 1
+Size_Z 0.26
+
+Amount 1
+Count_Min 1
+Count_Max 1
+
+Calibers 1
+Caliber_0 48102
+
+Tracer 48111
+
+Use_Auto_Icon_Measurements false
