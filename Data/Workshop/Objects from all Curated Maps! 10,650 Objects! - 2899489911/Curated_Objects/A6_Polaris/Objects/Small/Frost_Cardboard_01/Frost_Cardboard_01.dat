@@ -1,0 +1,15 @@
+GUID 214747014c5148b5b7d091cee101921a
+
+Type Small
+Has_Clip_Prefab false
+ID 36000
+
+Rubble Destroy
+Rubble_Reset 60
+Rubble_Health 1
+Rubble_Effect 58
+
+Master_Bundle_Override core.masterbundle
+Bundle_Override_Path /Objects/Small/Business/Cardboard_1
+
+Material_Palette 509f5a2643c54ebaac30a527c139f59c
