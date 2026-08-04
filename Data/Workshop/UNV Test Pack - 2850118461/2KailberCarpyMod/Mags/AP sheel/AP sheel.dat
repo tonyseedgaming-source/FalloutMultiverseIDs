@@ -1,0 +1,27 @@
+GUID c9a4a54c17fd4425ba7b6a2f5230c3bf
+
+Type Magazine
+Rarity Rare
+ID 2149
+
+Size_X 2
+Size_Y 1
+Size_Z 0.225
+
+Amount 1
+
+Calibers 1
+Caliber_0 2148
+Player_Damage 120
+Zombie_Damage 125
+Animal_Damage 125
+Barricade_Damage 100
+Structure_Damage 100
+Vehicle_Damage 600
+Resource_Damage 2000
+Object_Damage 200
+Explosion 53
+Explosive
+Range 2
+Delete_Empty
+Exclude_From_Master_Bundle
