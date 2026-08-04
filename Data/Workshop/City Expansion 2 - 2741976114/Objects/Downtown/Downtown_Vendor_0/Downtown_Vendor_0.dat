@@ -1,0 +1,18 @@
+GUID e9a19c5424c74125b532a6ce4d1152b9
+Type Large
+ID 49255
+
+Interactability Dropper
+Interactability_Delay 5
+Interactability_Hint Use
+Interactability_Power None
+Interactability_Reward_ID 158
+Interactability_Conditions 1
+Interactability_Condition_0_Type Experience
+Interactability_Condition_0_Value 10
+Interactability_Condition_0_Logic Greater_Than_Or_Equal_To
+Interactability_Condition_0_Reset
+
+Asset_Bundle_Version 3
+
+Exclude_From_Master_Bundle
