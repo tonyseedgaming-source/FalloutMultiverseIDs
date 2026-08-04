@@ -1,0 +1,23 @@
+GUID a7f7410a4cda45d98e402432ef115d27
+Type Magazine
+Rarity Legendary
+ID 51604
+
+Size_X 1
+Size_Y 1
+Size_Z 0.1
+
+Amount 240
+Count_Min 100
+Count_Max 240
+
+Calibers 1
+Caliber_0 51602
+
+Tracer 48
+
+Blueprints 1
+Blueprint_0_Type Ammo
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 51604
+Blueprint_0_Build 30
