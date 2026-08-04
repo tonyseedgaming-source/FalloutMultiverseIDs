@@ -1,0 +1,33 @@
+GUID 68bf71e479574fee824187225bd49db2
+Type Supply
+ID 42315
+
+Size_X 2
+Size_Y 2
+Size_Z 0.35
+
+Blueprints 1
+Blueprint_0_Type Utilities
+Blueprint_0_Supplies 4
+Blueprint_0_Supply_0_ID 1283
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Supply_1_ID 458
+Blueprint_0_Supply_1_Amount 1
+Blueprint_0_Supply_2_ID 1450
+Blueprint_0_Supply_2_Amount 1
+Blueprint_0_Supply_3_ID 75
+Blueprint_0_Supply_3_Amount 4
+Blueprint_0_Tool 76
+Blueprint_0_Level 3
+Blueprint_0_Skill Craft
+Blueprint_0_Build 47101
+
+Actions 1
+Action_0_Type Blueprint
+Action_0_Source 42316
+Action_0_Blueprints 1
+Action_0_Blueprint_0_Index 0
+Action_0_Text Add Water
+Action_0_Tooltip Fill the ice maker with bottled water.
+
+Use_Auto_Icon_Measurements false
