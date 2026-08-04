@@ -1,0 +1,34 @@
+GUID 94105eda421f445d8046131da9c49825
+
+Type Magazine
+Rarity Epic
+ID 6501
+
+Size_X 2
+Size_Y 2
+Size_Z 0.2
+
+Amount 20
+Count_Min 11
+Count_Max 18
+
+Calibers 1
+Caliber_0 42
+
+Pellets 9
+
+Tracer 48
+
+Blueprints 2
+Blueprint_0_Type Ammo
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 113
+Blueprint_0_Build 30
+Blueprint_1_Type Ammo
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 6501
+Blueprint_1_Build 30
+
+Paintable
+
+Exclude_From_Master_Bundle
