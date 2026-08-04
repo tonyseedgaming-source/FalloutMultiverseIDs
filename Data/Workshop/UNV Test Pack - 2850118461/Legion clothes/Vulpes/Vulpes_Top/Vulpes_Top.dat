@@ -1,0 +1,26 @@
+GUID 382c70bcd9fb4f92ab9de30c07d3036c
+Type Shirt
+Rarity Rare
+Useable Clothing
+ID 54522
+
+Size_X 3
+Size_Y 2
+Size_Z 0.6
+
+Width 7
+Height 4
+
+Armor 0.25
+
+Blueprints 2
+Blueprint_0_Type Apparel
+Blueprint_0_Supply_0_ID 54522
+Blueprint_0_Product 67
+Blueprint_0_Products 2
+Blueprint_0_Build 27
+Blueprint_1_Type Repair
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 67
+Blueprint_1_Supply_0_Amount 15
+Blueprint_1_Build 27
