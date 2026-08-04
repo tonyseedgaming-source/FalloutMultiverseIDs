@@ -1,0 +1,38 @@
+GUID ddf2a67be00f46889b5ecf86f4cc7afd
+Type Barricade
+Useable Barricade
+Build Torch
+ID 42291
+
+Size_X 1
+Size_Y 2
+Size_Z 0.5
+
+Health 100
+Range 6
+Offset 0.3
+
+Explosion 43
+
+Blueprints 1
+Blueprint_0_Type Furniture
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 42291
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Product 42290
+Blueprint_0_Build 27
+
+Actions 1
+Action_0_Type Blueprint
+Action_0_Source 42291
+Action_0_Blueprints 1
+Action_0_Blueprint_0_Index 0
+Action_0_Text Pot
+Action_0_Tooltip Change to be floor standing.
+
+Use_Auto_Icon_Measurements false
+Procedurally_Animate_Inertia false
+PlacementAudioClip Seeds/Use_Seed_01.mp3
+Has_Clip_Prefab false
+Salvage_Duration_Multiplier 0.5
+PlacementPreviewPrefab Furniture/Flower_Vine_Wall/Preview.prefab
