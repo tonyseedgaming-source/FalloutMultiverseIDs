@@ -1,0 +1,45 @@
+GUID 9dc0ab3c32a6408d874d3fabfd0cc2fa
+Type Storage
+Rarity Epic
+Useable Barricade
+Build Storage
+ID 47233
+
+Size_X 2
+Size_Y 2
+Size_Z 0.35
+
+Health 1200
+Range 4
+Radius 0.4
+Offset 0.75
+
+Storage_X 8
+Storage_Y 16
+
+Locked
+
+Explosion 36
+
+Blueprints 1
+Blueprint_0_Type Furniture
+Blueprint_0_Supplies 4
+Blueprint_0_Supply_0_ID 328
+Blueprint_0_Supply_0_Amount 2
+Blueprint_0_Supply_0_Critical
+Blueprint_0_Supply_1_ID 286
+Blueprint_0_Supply_1_Amount 1
+Blueprint_0_Supply_2_ID 365
+Blueprint_0_Supply_2_Amount 4
+Blueprint_0_Supply_3_ID 277
+Blueprint_0_Supply_3_Amount 1
+Blueprint_0_Tool 76
+Blueprint_0_Level 3
+Blueprint_0_Skill Craft
+Blueprint_0_Build 47101
+
+Armor_Tier High
+Use_Auto_Icon_Measurements false
+Procedurally_Animate_Inertia false
+PlacementAudioClip Furniture/Placement_02.mp3
+Has_Clip_Prefab false
