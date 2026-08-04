@@ -1,0 +1,16 @@
+GUID dea95f1ed5cf4e90bc543a6acd5371d3
+Type Food
+Useable Consumeable
+ID 41111
+
+Size_X 2
+Size_Y 1
+Size_Z 0.24
+
+Health 3
+Food 20
+Virus 30
+
+Use_Auto_Icon_Measurements false
+Procedurally_Animate_Inertia false
+ConsumeAudioClip Consumables/Use_Food_01.mp3
