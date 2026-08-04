@@ -1,0 +1,30 @@
+GUID edf533e7899244219d6ca549cd2b5e67
+
+Type Magazine
+Rarity Uncommon
+ID 6525
+
+Size_X 1
+Size_Y 2
+Size_Z 0.375
+
+Amount 20
+Count_Min 9
+Count_Max 18
+
+Calibers 1
+Caliber_0 4
+
+Tracer 48
+
+Blueprints 2
+Blueprint_0_Type Ammo
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 44
+Blueprint_0_Build 30
+Blueprint_1_Type Ammo
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 6525
+Blueprint_1_Build 30
+
+Exclude_From_Master_Bundle
