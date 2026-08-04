@@ -1,0 +1,30 @@
+GUID ea7ecb079ade4e14956a801623c95d50
+Type Barricade
+Rarity Rare
+Useable Barricade
+Build Gate
+ID 10760
+
+Size_X 1
+Size_Y 2
+Size_Z 0.65
+
+Health 900
+Range 4
+Radius 1.5
+Offset 1.25
+
+Locked
+
+Explosion 36
+
+Blueprints 1
+Blueprint_0_Type Barricade
+Blueprint_0_Supplies 2
+Blueprint_0_Supply_0_ID 68
+Blueprint_0_Supply_0_Amount 4
+Blueprint_0_Supply_1_ID 67
+Blueprint_0_Supply_1_Amount 1
+Blueprint_0_Level 3
+Blueprint_0_Skill Craft
+Blueprint_0_Build 27
