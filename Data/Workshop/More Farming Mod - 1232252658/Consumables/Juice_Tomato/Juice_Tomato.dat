@@ -1,0 +1,29 @@
+GUID fec0f9ef5f654ef1a28349dc4c7dd392
+Type Water
+Useable Consumeable
+ID 42294
+
+Size_X 1
+Size_Y 1
+Size_Z 0.28
+
+Food 10
+Water 30
+Disinfectant 5
+
+Blueprints 1
+Blueprint_0_Type Supply
+Blueprint_0_Supplies 2
+Blueprint_0_Supply_0_ID 340
+Blueprint_0_Supply_0_Amount 2
+Blueprint_0_Supply_1_ID 329
+Blueprint_0_Supply_1_Amount 1
+Blueprint_0_Tool 120
+Blueprint_0_Level 2
+Blueprint_0_Skill Cook
+Blueprint_0_Build 47102
+
+Use_Auto_Icon_Measurements false
+Procedurally_Animate_Inertia false
+ConsumeAudioClip Consumables/Use_Water_05.mp3
+Instantiated_Item_Name_Override 42278
