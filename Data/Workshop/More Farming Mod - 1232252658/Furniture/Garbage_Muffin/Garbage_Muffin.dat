@@ -1,0 +1,22 @@
+GUID ff34ec9830ec41f88fa84a71af6fa775
+Type Barricade
+Useable Barricade
+Build Barricade
+ID 41264
+
+Size_X 1
+Size_Y 1
+Size_Z 0.21
+
+Health 1
+Range 4
+Radius 0.01
+Offset 0.1
+
+Explosion 43
+Vulnerable
+
+Use_Auto_Icon_Measurements false
+Procedurally_Animate_Inertia false
+PlacementAudioClip Furniture/Placement_Sticky.mp3
+Has_Clip_Prefab false
