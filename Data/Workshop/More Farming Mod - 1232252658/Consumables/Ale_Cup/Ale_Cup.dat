@@ -1,0 +1,16 @@
+GUID 8320f469a7df4d1e851091f893488c08
+Type Water
+Rarity Rare
+Useable Consumeable
+ID 42261
+
+Size_X 1
+Size_Y 1
+Size_Z 0.25
+
+Water 30
+Disinfectant 15
+
+Use_Auto_Icon_Measurements false
+Procedurally_Animate_Inertia false
+ConsumeAudioClip Consumables/Use_Water_04.mp3
