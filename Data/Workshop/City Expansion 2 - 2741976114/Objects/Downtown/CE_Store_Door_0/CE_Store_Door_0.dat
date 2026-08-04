@@ -1,0 +1,12 @@
+GUID 9b24cf68fcfd4fcf9a64c8b9c1b2337b
+Type Medium
+ID 49246
+
+Interactability Rubble
+Interactability_Reset 120
+Interactability_Health 24
+Interactability_Effect 64
+
+Asset_Bundle_Version 2
+
+Exclude_From_Master_Bundle
