@@ -1,0 +1,26 @@
+GUID deedea6d501444eaab5dcdcd5916b2a8
+Type Vest
+Rarity Rare
+Useable Clothing
+ID 51614
+
+Size_X 2
+Size_Y 2
+Size_Z 0.4
+
+Width 1
+Height 2
+
+Armor 0.85
+
+Blueprints 2
+Blueprint_0_Type Apparel
+Blueprint_0_Supply_0_ID 51614
+Blueprint_0_Product 67
+Blueprint_0_Products 3
+Blueprint_0_Build 32
+Blueprint_1_Type Repair
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 67
+Blueprint_1_Supply_0_Amount 3
+Blueprint_1_Build 32
