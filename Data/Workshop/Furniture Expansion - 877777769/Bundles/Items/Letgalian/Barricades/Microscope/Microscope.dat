@@ -1,0 +1,41 @@
+GUID c5e313b8bab7494a88d18e3cbddb9a02
+Type Storage
+Rarity Legendary
+Useable Barricade
+Build Storage
+ID 17665
+
+Size_X 1
+Size_Y 2
+Size_Z 0.4
+
+Health 100
+Range 4
+Radius 0.1
+Offset 0.25
+
+Storage_X 1
+Storage_Y 1
+
+Display
+
+Explosion 36
+Vulnerable
+
+Blueprints 1
+Blueprint_0_Type Furniture
+Blueprint_0_Supplies 4
+Blueprint_0_Supply_0_ID 68
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Supply_1_ID 285
+Blueprint_0_Supply_1_Amount 2
+Blueprint_0_Supply_2_ID 72
+Blueprint_0_Supply_2_Amount 1
+Blueprint_0_Supply_3_ID 75
+Blueprint_0_Supply_3_Amount 1
+Blueprint_0_Tool 76
+Blueprint_0_Level 3
+Blueprint_0_Skill Craft
+Blueprint_0_Build 27
+
+Asset_Bundle_Version 2
