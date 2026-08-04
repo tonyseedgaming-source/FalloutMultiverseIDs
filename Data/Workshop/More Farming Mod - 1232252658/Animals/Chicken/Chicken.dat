@@ -1,0 +1,17 @@
+GUID f4f5c3e36b00440c8f48881311dfe8df
+Type Animal
+ID 41100
+
+Speed_Run 6
+Speed_Walk 1
+
+Behaviour Ignore
+
+Health 40
+
+Reward_ID 41101
+Reward_XP 5
+Reward_Min 1
+Reward_Max 2
+
+Panics 1
