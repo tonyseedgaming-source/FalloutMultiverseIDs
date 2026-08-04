@@ -1,0 +1,14 @@
+GUID 996fd739fc5a4a07a1e5b56aaab41816
+Type Medium
+ID 32225
+
+Interactability Rubble
+Interactability_Reset 300
+Interactability_Health 275
+Interactability_Effect 68
+
+Asset_Bundle_Version 2
+
+LOD Mesh
+
+Exclude_From_Master_Bundle
