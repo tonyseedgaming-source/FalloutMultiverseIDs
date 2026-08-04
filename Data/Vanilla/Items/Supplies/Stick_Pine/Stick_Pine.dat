@@ -1,0 +1,54 @@
+GUID 55d9700ea53c477685458171932251f1
+Type Supply
+Rarity Rare
+ID 42
+
+Size_X 1
+Size_Y 1
+Size_Z 0.4
+
+Fishing_Catchable
+{
+	Min_Relocate_Interval 0.3
+	Max_Relocate_Interval 1
+	Max_Upward_Acceleration 0.3
+	Max_Downward_Acceleration 0.3
+	Max_Upward_Speed 0.1
+	Max_Downward_Speed 0.1
+	Upper_Restitution 0
+	Lower_Restitution 0
+	Min_Target_Delta 0.05
+	Max_Target_Delta 0.15
+	Min_Target_Position 0.67
+	Max_Target_Position 1
+	Capture_Duration 1
+	Escape_Duration 4
+	Spring_Stiffness 16
+	Spring_Damping 8
+}
+
+Blueprints
+[
+	{
+		CategoryTag "cdb2df24b76d4c6e9d8411c940d8337f" // Gear
+		InputItems
+		[
+			{
+				ID "719bfdf2c2dc4be6ad5be44d044583e4" // Pine Plank
+			}
+			{
+				ID "fd6bee4579884ee9ad0b729baf423ab1" // Saw
+				Delete false
+			}
+		]
+		OutputItems this x 4
+		Effect "84347b13028340b8976033c08675d458" // Wrench
+	}
+]
+
+Actions 1
+Action_0_Type Blueprint
+Action_0_Source 1908
+Action_0_Blueprints 1
+Action_0_Blueprint_0_Index 0
+Action_0_Key Stack
