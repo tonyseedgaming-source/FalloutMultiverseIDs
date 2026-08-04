@@ -1,0 +1,22 @@
+GUID 9cf48cf3857b49878cd9f19d0c83b3ad
+Type Spawn
+ID 10203
+
+Tables
+[
+	{
+		// 10 Bottlecaps (Supply Item)
+		Guid 0b84750561ef436e95550eeac2aea591
+		Weight 4
+	}
+	{
+		// Bottlecap (Supply Item)
+		Guid ba0ce00f0b944443a13e8634e525a8b3
+		Weight 3
+	}
+	{
+		// 100 Bottlecaps (Supply Item)
+		Guid 22cb7139c9b2470393a9325275ba6324
+		Weight 1
+	}
+]
