@@ -1,0 +1,27 @@
+GUID ca12c5d5d8da4fabb702b57120fb4fa8
+Type Medical
+Rarity Rare
+Useable Consumeable
+ID 5597
+
+Size_X 2
+Size_Y 2
+Size_Z 0.4
+
+Aid
+Health 50
+
+Blueprints 1
+Blueprint_0_Type Supply
+Blueprint_0_Supplies 4
+Blueprint_0_Supply_0_ID 5711
+Blueprint_0_Supply_0_Amount 2
+Blueprint_0_Supply_1_ID 5731
+Blueprint_0_Supply_1_Amount 5
+Blueprint_0_Supply_2_ID 5722
+Blueprint_0_Supply_2_Amount 2
+Blueprint_0_Supply_3_ID 5716
+Blueprint_0_Supply_3_Amount 1
+Blueprint_0_Build 32
+
+Exclude_From_Master_Bundle
