@@ -1,0 +1,43 @@
+GUID 85e6b9b9c239451d87c885ba2166c380
+Type Farm
+Rarity Rare
+Useable Barricade
+Build Farm
+ID 42244
+
+Size_X 2
+Size_Y 2
+Size_Z 0.4
+
+Health 1
+Range 4
+Radius 0.4
+Offset 1.55
+
+Growth 20000
+Grow 42248
+
+Ignore_Soil_Restrictions
+Allow_Fertilizer False
+Unrepairable
+
+Explosion 42252
+
+Blueprints 1
+Blueprint_0_Type Supply
+Blueprint_0_Supplies 2
+Blueprint_0_Supply_0_ID 42240
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Supply_1_ID 42161
+Blueprint_0_Supply_1_Amount 8
+Blueprint_0_Tool 138
+Blueprint_0_Level 3
+Blueprint_0_Skill Cook
+Blueprint_0_Build 47101
+
+Use_Auto_Icon_Measurements false
+Procedurally_Animate_Inertia false
+PlacementAudioClip Furniture/Placement_Medium_01.mp3
+Has_Clip_Prefab false
+Affected_By_Agriculture_Skill false
+Rain_Affects_Growth false
