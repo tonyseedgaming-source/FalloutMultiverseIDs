@@ -1,0 +1,26 @@
+GUID 771a7b8ab1cd408f8a8d394d2543f981
+Type Food
+Useable Consumeable
+ID 43121
+
+Size_X 1
+Size_Y 1
+Size_Z 0.28
+
+Food 90
+
+Blueprints 1
+Blueprint_0_Type Supply
+Blueprint_0_Supplies 2
+Blueprint_0_Supply_0_ID 460
+Blueprint_0_Supply_0_Amount 2
+Blueprint_0_Supply_1_ID 43106
+Blueprint_0_Supply_1_Amount 2
+Blueprint_0_Level 2
+Blueprint_0_Skill Cook
+Blueprint_0_Build 47103
+
+Use_Auto_Icon_Measurements false
+Procedurally_Animate_Inertia false
+ConsumeAudioClip Consumables/Use_Food_05.mp3
+Instantiated_Item_Name_Override 41106
