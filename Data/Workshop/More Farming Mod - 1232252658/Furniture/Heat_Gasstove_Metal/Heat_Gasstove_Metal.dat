@@ -1,0 +1,34 @@
+GUID 68306d7ef64244a8a4c8a65316fb3560
+Type Barricade
+Rarity Rare
+Useable Barricade
+Build Oven
+ID 47381
+
+Size_X 2
+Size_Y 2
+Size_Z 0.32
+
+Health 300
+Range 4
+Radius 0.5
+Offset 0.75
+
+Explosion 36
+
+Blueprints 1
+Blueprint_0_Type Furniture
+Blueprint_0_Supplies 2
+Blueprint_0_Supply_0_ID 1250
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Supply_1_ID 1248
+Blueprint_0_Supply_1_Amount 1
+Blueprint_0_Tool 76
+Blueprint_0_Level 3
+Blueprint_0_Skill Craft
+Blueprint_0_Build 47101
+
+Use_Auto_Icon_Measurements false
+Procedurally_Animate_Inertia false
+PlacementAudioClip Furniture/Placement_02.mp3
+Has_Clip_Prefab false
