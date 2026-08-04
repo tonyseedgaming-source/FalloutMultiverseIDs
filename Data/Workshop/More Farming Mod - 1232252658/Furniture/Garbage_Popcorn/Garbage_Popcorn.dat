@@ -1,0 +1,22 @@
+GUID 345303a3a3cb47469fd1b71cb20e1eac
+Type Barricade
+Useable Barricade
+Build Barricade
+ID 41199
+
+Size_X 1
+Size_Y 1
+Size_Z 0.26
+
+Health 1
+Range 4
+Radius 0.01
+Offset 0.1
+
+Explosion 43
+Vulnerable
+
+Use_Auto_Icon_Measurements false
+Procedurally_Animate_Inertia false
+PlacementAudioClip Seeds/Use_Seed_01.mp3
+Has_Clip_Prefab false
