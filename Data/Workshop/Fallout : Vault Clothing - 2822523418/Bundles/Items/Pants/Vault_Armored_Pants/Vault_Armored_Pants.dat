@@ -1,0 +1,34 @@
+GUID d375d9aa3d024889af4ba266b85eb0c8
+Type Pants
+Rarity Rare
+Useable Clothing
+ID 60153
+
+Size_X 2
+Size_Y 2
+Size_Z 0.35
+
+Armor 0.85
+
+Width 5
+Height 3
+
+Blueprints 2
+Blueprint_0_Type Apparel
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 60153
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Amount_1
+Blueprint_0_Outputs 2
+Blueprint_0_Output_0_ID 60010
+Blueprint_0_Output_0_Amount 2
+Blueprint_0_Output_1_ID 60023
+Blueprint_0_Output_1_Amount 1
+Blueprint_0_Build 27
+Blueprint_1_Type Repair
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 60023
+Blueprint_1_Supply_0_Amount 2
+Blueprint_1_Build 27
+
+Asset_Bundle_Version 3
