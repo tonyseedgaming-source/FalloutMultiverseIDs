@@ -1,0 +1,21 @@
+GUID e9a41194c7af45fdbe57cba43d282e72
+Type Barricade
+Useable Barricade
+Build Barricade
+ID 42181
+
+Size_X 1
+Size_Y 2
+Size_Z 0.67
+
+Health 150
+Range 4
+Radius 0.2
+Offset 1.6
+
+Explosion 96
+
+Use_Auto_Icon_Measurements false
+Procedurally_Animate_Inertia false
+PlacementAudioClip Furniture/Placement_01.mp3
+Has_Clip_Prefab false
