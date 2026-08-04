@@ -1,0 +1,25 @@
+GUID da102557566c4afe90feede04110998d
+Type Water
+Useable Consumeable
+ID 42331
+
+Size_X 1
+Size_Y 1
+Size_Z 0.27
+
+Water 70
+Energy 100
+
+Blueprints 1
+Blueprint_0_Type Supply
+Blueprint_0_Supplies 2
+Blueprint_0_Supply_0_ID 42103
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Supply_1_ID 42318
+Blueprint_0_Supply_1_Amount 1
+Blueprint_0_Build 47102
+
+Use_Auto_Icon_Measurements false
+Procedurally_Animate_Inertia false
+ConsumeAudioClip Consumables/Use_Water_07.mp3
+Instantiated_Item_Name_Override 42330
