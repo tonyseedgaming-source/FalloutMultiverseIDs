@@ -1,0 +1,25 @@
+GUID ecb2b85b7d544c9f8de6a83a24bef558
+Type Supply
+Rarity Epic
+ID 60050
+
+Size_X 2
+Size_Y 2
+Size_Z 0.4
+Size2_Z 0.6
+
+Blueprints 1
+Blueprint_0_Type Gear
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 60050
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Outputs 3
+Blueprint_0_Output_0_ID 60004
+Blueprint_0_Output_0_Amount 1
+Blueprint_0_Output_1_ID 60016
+Blueprint_0_Output_1_Amount 1
+Blueprint_0_Output_2_ID 60024
+Blueprint_0_Output_2_Amount 1
+Blueprint_0_Build 32
+
+Asset_Bundle_Version 3
