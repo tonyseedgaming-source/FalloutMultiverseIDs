@@ -1,0 +1,27 @@
+GUID 22cb7139c9b2470393a9325275ba6324
+Type Supply
+Rarity Rare
+ID 5656
+
+Size_X 2
+Size_Y 1
+Size_Z 0.2
+
+Blueprints 2
+Blueprint_0_Type Gear
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 5655
+Blueprint_0_Supply_0_Amount 10
+Blueprint_0_Product_0_ID 5656
+Blueprint_0_Products 1
+Blueprint_0_Build 30
+
+Blueprint_1_Type Gear
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 5657
+Blueprint_1_Supply_0_Amount 1
+Blueprint_1_Product_0_ID 5656
+Blueprint_1_Products 10
+Blueprint_1_Build 30
+
+Exclude_From_Master_Bundle
