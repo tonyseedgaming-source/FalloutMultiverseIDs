@@ -1,0 +1,37 @@
+GUID b9dd1886219b4fc198eee70ebcc17a00
+Type Throwable
+Rarity Uncommon
+Useable Throwable
+ID 5699
+
+Size_X 1
+Size_Y 2
+Size_Z 0.3
+
+Player_Damage 150
+Zombie_Damage 150
+Animal_Damage 150
+Resource_Damage 500
+Object_Damage 250
+
+Range 6
+Explosion 34
+
+Explosive
+
+Blueprints 2
+Blueprint_0_Type Tool
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 5699
+Blueprint_0_Product 5711
+Blueprint_0_Products 2
+Blueprint_0_Build 27
+Blueprint_1_Type Tool
+Blueprint_1_Supplies 2
+Blueprint_1_Supply_0_ID 5728
+Blueprint_1_Supply_0_Amount 4
+Blueprint_1_Supply_1_ID 5715
+Blueprint_1_Supply_1_Amount 2
+Blueprint_1_Build 32
+
+Exclude_From_Master_Bundle
