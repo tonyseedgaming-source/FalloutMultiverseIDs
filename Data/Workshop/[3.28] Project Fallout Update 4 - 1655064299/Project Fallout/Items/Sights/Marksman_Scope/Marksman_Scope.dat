@@ -1,0 +1,16 @@
+GUID 4cfa093070a84193a385ca43174868e8
+Type Sight
+Rarity Rare
+ID 5533
+
+Attachment_Calibers 1
+Attachment_Caliber_0 5533
+
+Size_X 2
+Size_Y 1
+Size_Z 0.1
+
+Spread 0.7
+Zoom 8
+
+Exclude_From_Master_Bundle
