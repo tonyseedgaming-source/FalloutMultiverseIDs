@@ -1,0 +1,12 @@
+GUID 08bedbf3f2ae482894389581c777f24b
+
+Type Large
+
+Has_Clip_Prefab False
+
+ID 59841
+
+Interactability Quest
+Interactability_Rewards 1
+Interactability_Reward_0_Type Teleport
+Interactability_Reward_0_Spawnpoint WAREHOUSE_BASEMENT_0
