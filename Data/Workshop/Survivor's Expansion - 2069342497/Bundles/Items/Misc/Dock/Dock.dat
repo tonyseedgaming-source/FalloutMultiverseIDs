@@ -1,0 +1,32 @@
+GUID 3594b74f989b1fbc72f7372fbe5fa640
+Type Structure
+Rarity Rare
+Useable Structure
+Construct Floor
+ID 9831
+
+Size_X 2
+Size_Y 2
+Size_Z 0.60
+
+Health 400
+Range 8
+Offset 1
+
+Explosion 29
+
+Blueprints 1
+Blueprint_0_Type Structure
+Blueprint_0_Supplies 4
+Blueprint_0_Supply_0_ID 39
+Blueprint_0_Supply_0_Amount 8
+Blueprint_0_Supply_1_ID 61
+Blueprint_0_Supply_1_Amount 9
+Blueprint_0_Supply_2_ID 71
+Blueprint_0_Supply_2_Amount 2
+Blueprint_0_Supply_3_ID 69
+Blueprint_0_Supply_3_Amount 2
+Blueprint_0_Tool 138
+Blueprint_0_Level 2
+Blueprint_0_Skill Craft
+Blueprint_0_Build 27
