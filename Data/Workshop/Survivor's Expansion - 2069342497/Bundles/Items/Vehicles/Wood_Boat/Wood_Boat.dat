@@ -1,0 +1,27 @@
+GUID 25334d9c59e6a689be50b2494d8fbed2
+Type Vehicle
+ID 9853
+
+Speed_Min -4
+Speed_Max 6
+
+Steer_Min 8
+Steer_Max 4
+
+Fuel_Min 200
+Fuel_Max 400
+Fuel 1000
+
+Bicycle
+Stamina_Powered
+Stamina_Boost 0.2
+
+Health_Min 50
+Health_Max 100
+Health 150
+
+Zip
+Engine Boat
+
+Trunk_Storage_X 3
+Trunk_Storage_Y 2
