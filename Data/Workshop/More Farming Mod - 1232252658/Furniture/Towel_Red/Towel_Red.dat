@@ -1,0 +1,23 @@
+GUID 97ef14ccf2c5409d8d280de42f188c98
+Type Storage
+Useable Barricade
+Build Storage_Wall
+ID 47355
+
+Size_X 2
+Size_Y 2
+Size_Z 0.44
+
+Health 150
+Range 4
+Offset 0.25
+
+Storage_X 2
+Storage_Y 2
+
+Explosion 36
+
+Use_Auto_Icon_Measurements false
+Procedurally_Animate_Inertia false
+PlacementAudioClip Furniture/Placement_02.mp3
+Has_Clip_Prefab false
