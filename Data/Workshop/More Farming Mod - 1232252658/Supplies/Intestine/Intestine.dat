@@ -1,0 +1,34 @@
+GUID ea60d6c338bc4e3aaaf8427c0efefd78
+Type Supply
+ID 41113
+
+Size_X 1
+Size_Y 1
+Size_Z 0.37
+
+Use_Auto_Icon_Measurements false
+
+Blueprints 2
+Blueprint_0_Type Gear
+Blueprint_0_Supplies 2
+Blueprint_0_Supply_0_ID 516
+Blueprint_0_Supply_0_Amount 4
+Blueprint_0_Supply_1_ID 14
+Blueprint_0_Supply_1_Amount 1
+Blueprint_0_Tool 1030
+Blueprint_0_Level 1
+Blueprint_0_Skill Cook
+Blueprint_0_Product 70
+Blueprint_0_Build 27
+
+Blueprint_1_Type Gear
+Blueprint_1_Supplies 2
+Blueprint_1_Supply_0_ID 41113
+Blueprint_1_Supply_0_Amount 2
+Blueprint_1_Supply_1_ID 14
+Blueprint_1_Supply_1_Amount 1
+Blueprint_1_Tool 1030
+Blueprint_1_Level 1
+Blueprint_1_Skill Cook
+Blueprint_1_Product 70
+Blueprint_1_Build 27
