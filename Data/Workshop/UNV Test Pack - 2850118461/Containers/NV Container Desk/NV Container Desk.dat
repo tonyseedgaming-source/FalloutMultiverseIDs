@@ -1,0 +1,57 @@
+GUID ee478002ba804ebfb52c7a377c65f9a7
+Type Spawn
+ID 10204
+
+Tables
+[
+	{
+		// Alarm Clock (Supply Item)
+		Guid 23f2c4204ae240ed96e892fbe370b88d
+		Weight 2
+	}
+	{
+		// Ashtray (Supply Item)
+		Guid 5a1ec1db65494128955e684562d4a54d
+		Weight 2
+	}
+	{
+		// Clipboard (Supply Item)
+		Guid e331dead423943f0b1db36227c853f29
+		Weight 2
+	}
+	{
+		// Cigar Box (Supply Item)
+		Guid f4c32d9af3df45e2bcd53b7c54f6ea25
+		Weight 2
+	}
+	{
+		// Paperweight (Supply Item)
+		Guid 28eb1ad4d7484ea9a3cd8935f0fdb030
+		Weight 2
+	}
+	{
+		// Pencil (Supply Item)
+		Guid 468f6ed3cd3b473b9fb9e347373d1f8b
+		Weight 2
+	}
+	{
+		// Pen (Supply Item)
+		Guid 5994e4c0df3d4687af4a80049a063cb9
+		Weight 2
+	}
+	{
+		// Wonderglue (Supply Item)
+		Guid affeb28c5b2941d9a173b126890b72e6
+		Weight 2
+	}
+	{
+		// Lightbulb (Supply Item)
+		Guid cc94332fdab34eb392498c1bef7f9889
+		Weight 2
+	}
+	{
+		// Switchblade (Melee Item)
+		Guid 363fa56aff534b5385476e990046fcc1
+		Weight 1
+	}
+]
