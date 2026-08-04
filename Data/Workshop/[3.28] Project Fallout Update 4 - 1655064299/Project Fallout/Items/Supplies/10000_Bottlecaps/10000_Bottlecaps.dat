@@ -1,0 +1,19 @@
+GUID aabd273129ba44baaa0c58ecd15cfe4b
+Type Supply
+Rarity Legendary
+ID 5658
+
+Size_X 2
+Size_Y 1
+Size_Z 0.2
+
+Blueprints 1
+Blueprint_0_Type Gear
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 5657
+Blueprint_0_Supply_0_Amount 10
+Blueprint_0_Product_0_ID 5658
+Blueprint_0_Products 1
+Blueprint_0_Build 30
+
+Exclude_From_Master_Bundle
