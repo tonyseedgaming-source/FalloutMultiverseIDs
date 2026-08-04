@@ -1,0 +1,32 @@
+GUID a87614c6cde84d0dafe3e33ba42b7c2c
+Type Hat
+Rarity Rare
+Useable Clothing
+ID 60164
+
+Size_X 2
+Size_Y 2
+Size_Z 0.35
+
+Armor 0.8
+
+Beard
+
+Blueprints 2
+Blueprint_0_Type Apparel
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 60164
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Outputs 2
+Blueprint_0_Output_0_ID 60017
+Blueprint_0_Output_0_Amount 2
+Blueprint_0_Output_1_ID 60020
+Blueprint_0_Output_1_Amount 1
+Blueprint_0_Build 32
+Blueprint_1_Type Repair
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 60017
+Blueprint_1_Supply_0_Amount 2
+Blueprint_1_Build 32
+
+Asset_Bundle_Version 3
