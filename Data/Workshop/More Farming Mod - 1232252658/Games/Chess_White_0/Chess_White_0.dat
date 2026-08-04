@@ -1,0 +1,150 @@
+GUID 919e36f0cb044b7899df611032573ee7
+Type Supply
+ID 47214
+
+Size_X 1
+Size_Y 1
+Size_Z 0.17
+
+Blueprints 7
+Blueprint_0_Type Utilities
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 47214
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Outputs 2
+Blueprint_0_Output_0_ID 47203
+Blueprint_0_Output_0_Amount 1
+Blueprint_0_Output_1_ID 47290
+Blueprint_0_Output_1_Amount 1
+Blueprint_0_Build 27
+
+Blueprint_1_Type Utilities
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 47214
+Blueprint_1_Supply_0_Amount 1
+Blueprint_1_Outputs 2
+Blueprint_1_Output_0_ID 47203
+Blueprint_1_Output_0_Amount 1
+Blueprint_1_Output_1_ID 47291
+Blueprint_1_Output_1_Amount 1
+Blueprint_1_Build 27
+
+Blueprint_2_Type Utilities
+Blueprint_2_Supplies 1
+Blueprint_2_Supply_0_ID 47214
+Blueprint_2_Supply_0_Amount 1
+Blueprint_2_Outputs 2
+Blueprint_2_Output_0_ID 47203
+Blueprint_2_Output_0_Amount 1
+Blueprint_2_Output_1_ID 47292
+Blueprint_2_Output_1_Amount 1
+Blueprint_2_Build 27
+
+Blueprint_3_Type Utilities
+Blueprint_3_Supplies 1
+Blueprint_3_Supply_0_ID 47214
+Blueprint_3_Supply_0_Amount 1
+Blueprint_3_Outputs 2
+Blueprint_3_Output_0_ID 47203
+Blueprint_3_Output_0_Amount 1
+Blueprint_3_Output_1_ID 47293
+Blueprint_3_Output_1_Amount 1
+Blueprint_3_Build 27
+
+Blueprint_4_Type Utilities
+Blueprint_4_Supplies 1
+Blueprint_4_Supply_0_ID 47214
+Blueprint_4_Supply_0_Amount 1
+Blueprint_4_Outputs 2
+Blueprint_4_Output_0_ID 47203
+Blueprint_4_Output_0_Amount 1
+Blueprint_4_Output_1_ID 47294
+Blueprint_4_Output_1_Amount 1
+Blueprint_4_Build 27
+
+Blueprint_5_Type Utilities
+Blueprint_5_Supplies 1
+Blueprint_5_Supply_0_ID 47214
+Blueprint_5_Supply_0_Amount 1
+Blueprint_5_Outputs 2
+Blueprint_5_Output_0_ID 47203
+Blueprint_5_Output_0_Amount 1
+Blueprint_5_Output_1_ID 47295
+Blueprint_5_Output_1_Amount 1
+Blueprint_5_Build 27
+
+Blueprint_6_Type Utilities
+Blueprint_6_Supplies 2
+Blueprint_6_Supply_0_ID 47214
+Blueprint_6_Supply_0_Amount 1
+Blueprint_6_Supply_0_Critical
+Blueprint_6_Supply_1_ID 67
+Blueprint_6_Supply_1_Amount 1
+Blueprint_6_Outputs 7
+Blueprint_6_Output_0_ID 47203
+Blueprint_6_Output_0_Amount 1
+Blueprint_6_Output_1_ID 47290
+Blueprint_6_Output_1_Amount 8
+Blueprint_6_Output_2_ID 47291
+Blueprint_6_Output_2_Amount 2
+Blueprint_6_Output_3_ID 47292
+Blueprint_6_Output_3_Amount 2
+Blueprint_6_Output_4_ID 47293
+Blueprint_6_Output_4_Amount 2
+Blueprint_6_Output_5_ID 47294
+Blueprint_6_Output_5_Amount 1
+Blueprint_6_Output_6_ID 47295
+Blueprint_6_Output_6_Amount 1
+Blueprint_6_Build 27
+
+Actions 7
+Action_0_Type Blueprint
+Action_0_Source 47214
+Action_0_Blueprints 1
+Action_0_Blueprint_0_Index 0
+Action_0_Text Take Pawn
+Action_0_Tooltip Take a pawn piece.
+
+Action_1_Type Blueprint
+Action_1_Source 47214
+Action_1_Blueprints 1
+Action_1_Blueprint_0_Index 1
+Action_1_Text Take Knight
+Action_1_Tooltip Take a knight piece.
+
+Action_2_Type Blueprint
+Action_2_Source 47214
+Action_2_Blueprints 1
+Action_2_Blueprint_0_Index 2
+Action_2_Text Take Bishop
+Action_2_Tooltip Take a bishop piece.
+
+Action_3_Type Blueprint
+Action_3_Source 47214
+Action_3_Blueprints 1
+Action_3_Blueprint_0_Index 3
+Action_3_Text Take Rook
+Action_3_Tooltip Take a rook piece.
+
+Action_4_Type Blueprint
+Action_4_Source 47214
+Action_4_Blueprints 1
+Action_4_Blueprint_0_Index 4
+Action_4_Text Take Queen
+Action_4_Tooltip Take a queen piece.
+
+Action_5_Type Blueprint
+Action_5_Source 47214
+Action_5_Blueprints 1
+Action_5_Blueprint_0_Index 5
+Action_5_Text Take King
+Action_5_Tooltip Take a king piece.
+
+Action_6_Type Blueprint
+Action_6_Source 47214
+Action_6_Blueprints 1
+Action_6_Blueprint_0_Index 6
+Action_6_Text Take All Pieces
+Action_6_Tooltip Take all 16 chess pieces. (Requires 1 Metal Scrap)
+
+Use_Auto_Icon_Measurements false
