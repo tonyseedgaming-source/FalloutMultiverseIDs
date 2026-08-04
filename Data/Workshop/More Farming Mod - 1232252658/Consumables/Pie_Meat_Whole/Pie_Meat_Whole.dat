@@ -1,0 +1,57 @@
+GUID 3591efbc882949e9ac40236144e25210
+Type Food
+Useable Consumeable
+ID 41256
+
+Size_X 2
+Size_Y 2
+Size_Z 0.4
+
+Food 20
+
+Blueprints 2
+Blueprint_0_Type Supply
+Blueprint_0_Supplies 5
+Blueprint_0_Supply_0_ID 1162
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Supply_1_ID 1121
+Blueprint_0_Supply_1_Amount 1
+Blueprint_0_Supply_2_ID 41114
+Blueprint_0_Supply_2_Amount 1
+Blueprint_0_Supply_3_ID 42117
+Blueprint_0_Supply_3_Amount 1
+Blueprint_0_Supply_4_ID 340
+Blueprint_0_Supply_4_Amount 1
+Blueprint_0_Tool 1030
+Blueprint_0_Level 3
+Blueprint_0_Skill Cook
+Blueprint_0_Build 47103
+
+Blueprint_1_Type Supply
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 41256
+Blueprint_1_Supply_0_Amount 1
+Blueprint_1_Outputs 2
+Blueprint_1_Output_0_ID 41258
+Blueprint_1_Output_0_Amount 1
+Blueprint_1_Output_1_ID 41257
+Blueprint_1_Output_1_Amount 1
+Blueprint_1_Build 27
+
+Quest_Rewards 1
+Quest_Reward_0_Type Item
+Quest_Reward_0_ID 41257
+Quest_Reward_0_Amount 1
+
+Actions 1
+Action_0_Type Blueprint
+Action_0_Source 41256
+Action_0_Blueprints 1
+Action_0_Blueprint_0_Index 1
+Action_0_Text Cut
+Action_0_Tooltip Slice the pie and take a piece.
+
+Use_Auto_Icon_Measurements false
+Procedurally_Animate_Inertia false
+ConsumeAudioClip Consumables/Use_Food_13.mp3
+Instantiated_Item_Name_Override 42171
