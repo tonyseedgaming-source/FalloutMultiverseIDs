@@ -1,0 +1,22 @@
+GUID 047097ef527d452fb6bc0bbdb49fc36c
+Type Barricade
+Useable Barricade
+Build Torch
+ID 47242
+
+Size_X 1
+Size_Y 1
+Size_Z 0.39
+
+Health 1
+Range 4
+Offset 0.3
+
+Explosion 43
+Vulnerable
+
+Use_Auto_Icon_Measurements false
+Procedurally_Animate_Inertia false
+PlacementAudioClip Seeds/Use_Seed_01.mp3
+Salvage_Duration_Multiplier 0.5
+Has_Clip_Prefab false
