@@ -1,0 +1,47 @@
+GUID 5bcd0fbf9dd7472fa47440fd3b389056
+Type Spawn
+ID 10202
+
+Tables
+[
+	{
+		// 9mm Pistol Magazine (Magazine Item)
+		Guid c1ee2be424c94689aee6b40ae14651bb
+		Weight 4
+	}
+	{
+		// 5.56mm Magazine (Magazine Item)
+		Guid 0045d362d7674974b05f5b9028f0f935
+		Weight 4
+	}
+	{
+		// Varmint Rifle 5 Round Magazine (Magazine Item)
+		Guid d11896c230df4fc8bb629fadb7dd6174
+		Weight 4
+	}
+	{
+		// 10mm Magazine (Magazine Item)
+		Guid 5ce87339c10b4d108547a3a12d52e641
+		Weight 4
+	}
+	{
+		// M&A 9mm Pistol (Gun Item)
+		Guid 41e542375fb64d5a80f10b9324cc5365
+		Weight 3
+	}
+	{
+		// 10mm Pistol (Gun Item)
+		Guid 8ce5cba3a67441828fbddf4b57b56e07
+		Weight 3
+	}
+	{
+		// Varmint Rifle (Gun Item)
+		Guid ae39fac76b1b487aacd2ba40da4eb3bf
+		Weight 2
+	}
+	{
+		// Ripper (Melee Item)
+		Guid 86febb68293f4bff969008dd1e7da192
+		Weight 1
+	}
+]
