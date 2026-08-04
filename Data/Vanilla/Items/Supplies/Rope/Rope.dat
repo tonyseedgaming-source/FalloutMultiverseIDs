@@ -1,0 +1,50 @@
+GUID 5ff4bcf752554990bf06e103b996cef2
+Type Supply
+ID 64
+
+Size_X 1
+Size_Y 1
+Size_Z 0.45
+
+Fishing_Catchable
+{
+	Min_Relocate_Interval 3
+	Max_Relocate_Interval 5
+	Max_Upward_Acceleration 0.3
+	Max_Downward_Acceleration 0.3
+	Max_Upward_Speed 0.1
+	Max_Downward_Speed 0.1
+	Upper_Restitution 0
+	Lower_Restitution 20
+	Min_Target_Delta 0.5
+	Max_Target_Delta 0.5
+	Min_Target_Position 0
+	Max_Target_Position 0.5
+	Capture_Duration 1.5
+	Escape_Duration 4
+	Spring_Stiffness 16
+	Spring_Damping 1
+}
+
+Blueprints
+[
+	{
+		CategoryTag "cdb2df24b76d4c6e9d8411c940d8337f" // Gear
+		InputItems "14901f32cd3240179fd6124324cc27e5 x 4" // Cloth
+		OutputItems this
+		Effect "84347b13028340b8976033c08675d458" // Wrench
+	}
+	{
+		CategoryTag "7ed29f9101ae4523a3b2e389414b7bd9" // Salvage
+		InputItems this
+		OutputItems "14901f32cd3240179fd6124324cc27e5 x 3" // Cloth
+		Effect "84347b13028340b8976033c08675d458" // Wrench
+	}
+]
+
+Actions 1
+Action_0_Type Blueprint
+Action_0_Source 1914
+Action_0_Blueprints 1
+Action_0_Blueprint_0_Index 0
+Action_0_Key Stack
