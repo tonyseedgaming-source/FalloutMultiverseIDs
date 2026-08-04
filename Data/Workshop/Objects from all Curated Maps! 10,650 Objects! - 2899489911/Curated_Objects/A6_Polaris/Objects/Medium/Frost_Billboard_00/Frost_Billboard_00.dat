@@ -1,0 +1,10 @@
+GUID 206ce38fbaa84235b4f92889cca2f13d
+
+Type Medium
+Has_Clip_Prefab false
+ID 36000
+
+Rubble Destroy
+Rubble_Reset 120
+Rubble_Health 100
+Rubble_Effect 72
