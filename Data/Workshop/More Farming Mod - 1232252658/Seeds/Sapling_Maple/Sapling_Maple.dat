@@ -1,0 +1,35 @@
+GUID c906e7431ef846d798eeedc1f9180c1b
+Type Farm
+Useable Barricade
+Build Farm
+ID 42267
+
+Size_X 1
+Size_Y 2
+Size_Z 0.55
+
+Health 1
+Range 4
+Radius 0.5
+Offset 0.7
+
+Growth 20000
+Grow 42268
+
+Explosion 42267
+
+Blueprints 1
+Blueprint_0_Type Gear
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 42267
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Outputs 1
+Blueprint_0_Output_0_ID 40
+Blueprint_0_Output_0_Amount 1
+Blueprint_0_Build 27
+
+Use_Auto_Icon_Measurements false
+Procedurally_Animate_Inertia false
+PlacementAudioClip Seeds/Use_Seed_01.mp3
+Has_Clip_Prefab false
+PlacementPreviewPrefab Seeds/Sapling_Maple/Preview.prefab
