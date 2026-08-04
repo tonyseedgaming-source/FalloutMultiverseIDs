@@ -1,0 +1,16 @@
+GUID 9f30e443355746618f5e96b8b728765f
+Type Medium
+ID 45831
+
+Interactability Rubble
+Interactability_Reset 300
+Interactability_Health 275
+Interactability_Effect 68
+
+LOD Mesh
+
+Collision_Important
+
+Asset_Bundle_Version 2
+
+Exclude_From_Master_Bundle
