@@ -1,0 +1,46 @@
+GUID 6fca5ae86aaf4be0b0d65bd9cecdcb9b
+Type Magazine
+Rarity Rare
+ID 5507
+
+Size_X 1
+Size_Y 2
+Size_Z 0.3
+
+Amount 30
+Count_Min 10
+Count_Max 30
+
+Calibers 1
+Caliber_0 5507
+
+Tracer 48
+
+Blueprints 5
+
+Blueprint_0_Type Ammo
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 5500
+Blueprint_0_Build 30
+
+Blueprint_1_Type Ammo
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 5502
+Blueprint_1_Build 30
+
+Blueprint_2_Type Ammo
+Blueprint_2_Supplies 1
+Blueprint_2_Supply_0_ID 5508
+Blueprint_2_Build 30
+
+Blueprint_3_Type Ammo
+Blueprint_3_Supplies 1
+Blueprint_3_Supply_0_ID 5501
+Blueprint_3_Build 30
+
+Blueprint_4_Type Ammo
+Blueprint_4_Supplies 1
+Blueprint_4_Supply_0_ID 5507
+Blueprint_4_Build 30
+
+Exclude_From_Master_Bundle
