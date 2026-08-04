@@ -1,0 +1,25 @@
+GUID d6d06a0de8ec472d8e32629281055880
+Type Magazine
+Rarity Rare
+ID 50103
+
+Size_X 1
+Size_Y 1
+Size_Z 0.08
+
+Amount 15
+Count_Min 5
+Count_Max 15
+
+Calibers 1
+Caliber_0 50123
+
+Tracer 49
+
+Blueprints 1
+Blueprint_0_Type Ammo
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 50103
+Blueprint_0_Build 30
+
+Delete_Empty
