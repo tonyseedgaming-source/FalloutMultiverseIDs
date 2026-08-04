@@ -1,0 +1,40 @@
+GUID a68b71318de347ca8f7820d257385d82
+Type Barricade
+Useable Barricade
+Build Barricade
+ID 42297
+
+Size_X 2
+Size_Y 2
+Size_Z 0.38
+
+Health 100
+Range 4
+Radius 0.01
+Offset 0.4
+
+Explosion 28
+
+Blueprints 1
+Blueprint_0_Type Supply
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 42297
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Outputs 1
+Blueprint_0_Output_0_ID 460
+Blueprint_0_Output_0_Amount 6
+Blueprint_0_Build 27
+
+Actions 1
+Action_0_Type Blueprint
+Action_0_Source 42297
+Action_0_Blueprints 1
+Action_0_Blueprint_0_Index 0
+Action_0_Text Cut
+Action_0_Tooltip Cut into six slices of bread.
+
+Use_Auto_Icon_Measurements false
+Procedurally_Animate_Inertia false
+PlacementAudioClip Furniture/Placement_01.mp3
+Salvage_Duration_Multiplier 0.5
+Has_Clip_Prefab false
