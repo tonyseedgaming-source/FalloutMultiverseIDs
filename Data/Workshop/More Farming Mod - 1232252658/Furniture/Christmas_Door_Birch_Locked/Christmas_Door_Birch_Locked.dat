@@ -1,0 +1,42 @@
+GUID 7bbb44cd52e04e18af089260e512b177
+Type Barricade
+Useable Barricade
+Build Door
+ID 47467
+
+Size_X 1
+Size_Y 2
+Size_Z 0.55
+
+Health 300
+Range 4
+Radius 0.1
+Offset 1.25
+
+Locked
+
+Explosion 28
+
+Blueprints 1
+Blueprint_0_Type Furniture
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 47467
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Outputs 1
+Blueprint_0_Output_0_ID 47463
+Blueprint_0_Output_0_Amount 1
+Blueprint_0_Build 27
+
+Actions 1
+Action_0_Type Blueprint
+Action_0_Source 47467
+Action_0_Blueprints 1
+Action_0_Blueprint_0_Index 0
+Action_0_Text Unlock
+Action_0_Tooltip Replace with a public door.
+
+Use_Auto_Icon_Measurements false
+Procedurally_Animate_Inertia false
+PlacementAudioClip Furniture/Placement_01.mp3
+Has_Clip_Prefab false
+Bundle_Override_Path Furniture/Christmas_Door_Birch
