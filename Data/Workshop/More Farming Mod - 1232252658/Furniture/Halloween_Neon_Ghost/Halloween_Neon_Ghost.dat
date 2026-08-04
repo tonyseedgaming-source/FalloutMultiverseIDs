@@ -1,0 +1,22 @@
+GUID ce4c89435ba34dc2bf00253f3becbb93
+Type Barricade
+Useable Barricade
+Build Torch
+ID 47426
+
+Size_X 2
+Size_Y 2
+Size_Z 0.33
+
+Health 1
+Range 6
+Offset 0.3
+
+Explosion 96
+Vulnerable
+
+Use_Auto_Icon_Measurements false
+Procedurally_Animate_Inertia false
+PlacementAudioClip Furniture/Placement_02.mp3
+Salvage_Duration_Multiplier 0.5
+Has_Clip_Prefab false
