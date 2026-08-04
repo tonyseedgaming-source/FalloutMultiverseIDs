@@ -1,0 +1,39 @@
+GUID 818252c8db1342e1a1584fb5aaeec6d0
+Type Barricade
+Useable Barricade
+Build Campfire
+ID 47332
+
+Size_X 1
+Size_Y 1
+Size_Z 0.14
+
+Health 1
+Range 4
+Radius 0
+Offset 1.02
+
+Vulnerable
+
+Blueprints 1
+Blueprint_0_Type Utilities
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 47332
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Product 47331
+Blueprint_0_Build 27
+
+Actions 1
+Action_0_Type Blueprint
+Action_0_Source 47332
+Action_0_Blueprints 1
+Action_0_Blueprint_0_Index 0
+Action_0_Text Change Normal Piece
+Action_0_Tooltip Change to black normal piece.
+
+Use_Auto_Icon_Measurements false
+Procedurally_Animate_Inertia false
+Bypass_Pickup_Ownership true
+Salvage_Duration_Multiplier 0.0
+Has_Clip_Prefab false
+Allow_Placement_Inside_Clip_Volumes true
