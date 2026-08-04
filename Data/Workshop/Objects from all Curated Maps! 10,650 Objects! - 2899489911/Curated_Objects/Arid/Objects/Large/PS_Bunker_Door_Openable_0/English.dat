@@ -1,0 +1,5 @@
+Name PS Bunker Door Openable #1 [AG-19-MS]
+
+Interactability_Condition_0 Missing AG-19-MS Key
+
+Interact Use [{0}]
