@@ -1,0 +1,39 @@
+GUID a0cea0b2eb85425186678c85c9019c74
+Type Farm
+Useable Barricade
+Build Farm
+ID 42316
+
+Size_X 2
+Size_Y 2
+Size_Z 0.35
+
+Health 1
+Range 4
+Radius 0.3
+Offset 0.6
+
+Growth 3000
+Grow 42317
+
+Ignore_Soil_Restrictions
+Allow_Fertilizer false
+Affected_By_Agriculture_Skill false
+
+Explosion 42316
+
+Blueprints 1
+Blueprint_0_Type Utilities
+Blueprint_0_Supplies 2
+Blueprint_0_Supply_0_ID 42315
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Supply_0_Critical
+Blueprint_0_Supply_1_ID 14
+Blueprint_0_Supply_1_Amount 1
+Blueprint_0_Build 47102
+
+Use_Auto_Icon_Measurements false
+Procedurally_Animate_Inertia false
+PlacementAudioClip Furniture/Placement_Medium_02.mp3
+Has_Clip_Prefab false
+Rain_Affects_Growth false
