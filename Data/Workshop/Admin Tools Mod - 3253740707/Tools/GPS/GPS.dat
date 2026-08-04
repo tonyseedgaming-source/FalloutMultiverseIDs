@@ -1,0 +1,32 @@
+GUID 4c3c632390de460c8c046b008a3acc61
+Type Map
+ID 48382
+
+Size_X 1
+Size_Y 1
+Size_Z 0.46
+
+Enables_Map
+Enables_Chart
+Enables_Compass
+
+Blueprints 1
+Blueprint_0_Type Tool
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 48382
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Outputs 1
+Blueprint_0_Output_0_ID 48383
+Blueprint_0_Output_0_Amount 1
+Blueprint_0_Build 48321
+
+Actions 1
+Action_0_Type Blueprint
+Action_0_Source 48382
+Action_0_Blueprints 1
+Action_0_Blueprint_0_Index 0
+Action_0_Text Hide Compass
+Action_0_Tooltip Turn off the compass display.
+
+Use_Auto_Icon_Measurements false
+Should_Drop_On_Death false
