@@ -1,0 +1,22 @@
+GUID 74cd9c6f1f8f4275967c44d7c5722627
+
+Type Magazine
+Rarity Rare
+ID 6519
+
+Size_X 1
+Size_Y 1
+Size_Z 0.075
+
+Amount 30
+Count_Min 18
+Count_Max 30
+
+Calibers 1
+Caliber_0 31
+
+Tracer 49
+
+Paintable
+
+Exclude_From_Master_Bundle
