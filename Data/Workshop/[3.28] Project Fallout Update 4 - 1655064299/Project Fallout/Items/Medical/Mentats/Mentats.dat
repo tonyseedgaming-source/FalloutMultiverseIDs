@@ -1,0 +1,26 @@
+GUID 0648bfd73cd34617ab7f260a7b0fa9ac
+Type Medical
+Rarity Rare
+Useable Consumeable
+ID 5604
+
+Size_X 1
+Size_Y 1
+Size_Z 0.2
+
+Health 10
+Food 10
+Energy 50
+
+Blueprints 1
+Blueprint_0_Type Supply
+Blueprint_0_Supplies 3
+Blueprint_0_Supply_0_ID 5711
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Supply_1_ID 5720
+Blueprint_0_Supply_1_Amount 1
+Blueprint_0_Supply_2_ID 5735
+Blueprint_0_Supply_2_Amount 1
+Blueprint_0_Build 32
+
+Exclude_From_Master_Bundle
