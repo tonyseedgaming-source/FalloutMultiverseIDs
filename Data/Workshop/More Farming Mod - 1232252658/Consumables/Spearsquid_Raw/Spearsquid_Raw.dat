@@ -1,0 +1,16 @@
+GUID 82101ba93dfe4722a5dd9ec9e8c4f0b9
+Type Food
+Rarity Uncommon
+Useable Consumeable
+ID 43130
+
+Size_X 2
+Size_Y 1
+Size_Z 0.21
+
+Food 20
+Virus 20
+
+Use_Auto_Icon_Measurements false
+Procedurally_Animate_Inertia false
+ConsumeAudioClip Consumables/Use_Fish_01.mp3
