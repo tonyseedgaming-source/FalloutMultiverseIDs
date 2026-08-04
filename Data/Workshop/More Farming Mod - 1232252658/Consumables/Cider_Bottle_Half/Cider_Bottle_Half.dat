@@ -1,0 +1,34 @@
+GUID cbabc2808b4142ecbf0a7c6181566237
+Type Water
+Rarity Rare
+Useable Consumeable
+ID 42258
+
+Size_X 1
+Size_Y 2
+Size_Z 0.44
+
+Water 30
+Disinfectant 15
+
+Blueprints 1
+Blueprint_0_Type Supply
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 42258
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Outputs 1
+Blueprint_0_Output_0_ID 42264
+Blueprint_0_Output_0_Amount 1
+Blueprint_0_Build 47102
+
+Actions 1
+Action_0_Type Blueprint
+Action_0_Source 42258
+Action_0_Blueprints 1
+Action_0_Blueprint_0_Index 0
+Action_0_Text Pour
+Action_0_Tooltip Pour the contents of the bottle into the cup.
+
+Use_Auto_Icon_Measurements false
+Procedurally_Animate_Inertia false
+ConsumeAudioClip Consumables/Use_Water_03.mp3
