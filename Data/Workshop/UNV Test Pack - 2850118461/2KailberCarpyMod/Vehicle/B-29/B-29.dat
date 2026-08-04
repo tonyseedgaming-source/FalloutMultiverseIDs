@@ -1,0 +1,94 @@
+GUID 8a6e094969314b7c91db044ee95b0534
+
+Type Vehicle
+Rarity Legendary
+ID 2137
+
+Speed_Min -4
+Speed_Max 28
+
+Steer_Min 8
+Steer_Max 28
+
+Brake 32
+Lift 5
+
+Fuel 3000
+
+Health_Min 1500
+Health_Max 3000
+Health 5000
+
+LockMouse
+Engine Plane
+Sleds
+Traction
+Reclined
+
+Cam_Follow_Distance 8
+
+Air_Turn_Responsiveness 4
+Air_Steer_Min 32
+Air_Steer_Max 44
+
+Trunk_Storage_X 10
+Trunk_Storage_Y 10
+
+Explosion 20
+Invulnerable
+Tires_Invulnerable
+
+Pitch_Drive 0.008
+
+Turrets 6
+Turret_0_Seat_Index 1
+Turret_0_Item_ID 2140
+Turret_0_Yaw_Min -9999
+Turret_0_Yaw_Max 9999
+Turret_0_Pitch_Min 10
+Turret_0_Pitch_Max 100
+
+Turret_1_Seat_Index 2
+Turret_1_Item_ID 2142
+Turret_1_Yaw_Min -0
+Turret_1_Yaw_Max 0
+Turret_1_Pitch_Min 0
+Turret_1_Pitch_Max 90
+
+Turret_2_Seat_Index 3
+Turret_2_Item_ID 2138
+Turret_2_Yaw_Min -9999
+Turret_2_Yaw_Max 9999
+Turret_2_Pitch_Min 10
+Turret_2_Pitch_Max 100
+
+Turret_3_Seat_Index 4
+Turret_3_Item_ID 2138
+Turret_3_Yaw_Min -9999
+Turret_3_Yaw_Max 9999
+Turret_3_Pitch_Min 10
+Turret_3_Pitch_Max 100
+
+Turret_4_Seat_Index 5
+Turret_4_Item_ID 2138
+Turret_4_Yaw_Min -9999
+Turret_4_Yaw_Max 9999
+Turret_4_Pitch_Min 10
+Turret_4_Pitch_Max 100
+
+Turret_5_Seat_Index 6
+Turret_5_Item_ID 2138
+Turret_5_Yaw_Min -65
+Turret_5_Yaw_Max 65
+Turret_5_Pitch_Min 10
+Turret_5_Pitch_Max 160
+
+Turret_6_Seat_Index 7
+Turret_6_Item_ID 2138
+Turret_6_Yaw_Min -9999
+Turret_6_Yaw_Max 9999
+Turret_6_Pitch_Min 100
+Turret_6_Pitch_Max 20
+
+Has_Clip_Prefab false
+Exclude_From_Master_Bundle
