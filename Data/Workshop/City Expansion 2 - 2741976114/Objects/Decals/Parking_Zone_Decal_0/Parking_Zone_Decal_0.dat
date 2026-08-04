@@ -1,0 +1,11 @@
+GUID 400e8d6d216a40268f7d0a35f8f0530e
+Type Decal
+ID 32205
+
+Decal_X 6
+Decal_Y 3
+Decal_LOD_Bias 1
+
+Exclude_From_Master_Bundle
+
+// Bundle contains a transparent texture called "Decal"
