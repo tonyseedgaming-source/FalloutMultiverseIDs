@@ -1,0 +1,28 @@
+GUID 2eedb4b5c45443ffaf4ba2fd9dbc8c38
+Type Barricade
+Rarity Legendary
+Useable Barricade
+Build Barricade
+ID 9803
+
+Size_X 3
+Size_Y 5
+Size_Z 0.80
+
+Health 1200
+Range 8
+Radius 0.5
+Offset 0
+
+Explosion 36
+
+Blueprints 1
+Blueprint_0_Type Barricade
+Blueprint_0_Supply_0_ID 9802
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Tool 138
+Blueprint_0_Level 3
+Blueprint_0_Skill Craft
+Blueprint_0_Build 27
+
+Armor_Tier High
