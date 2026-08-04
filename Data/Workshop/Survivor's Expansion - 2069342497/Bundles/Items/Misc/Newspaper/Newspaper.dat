@@ -1,0 +1,26 @@
+GUID 60e5dfa0ec3687eacb08405f89e6392c
+Type Barricade
+Rarity Common
+Useable Barricade
+Build Note
+ID 9832
+
+Size_X 2
+Size_Y 2
+Size_Z 0.25
+
+Health 50
+Range 4
+Offset 0.025
+
+Explosion 58
+Vulnerable
+
+Blueprints 1
+Blueprint_0_Type Furniture
+Blueprint_0_Supplies 2
+Blueprint_0_Supply_0_ID 66
+Blueprint_0_Supply_0_Amount 8
+Blueprint_0_Supply_1_ID 69
+Blueprint_0_Supply_1_Amount 2
+Blueprint_0_Build 27
