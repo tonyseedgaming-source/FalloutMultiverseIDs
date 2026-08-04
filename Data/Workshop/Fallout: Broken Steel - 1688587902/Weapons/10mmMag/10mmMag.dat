@@ -1,0 +1,30 @@
+GUID 0f9f3a5393404bbc886cefc039f95b12
+
+Type Magazine
+Rarity Uncommon
+ID 6503
+
+Size_X 1
+Size_Y 1
+Size_Z 0.2
+
+Amount 12
+Count_Min 6
+Count_Max 10
+
+Calibers 1
+Caliber_0 3
+
+Tracer 48
+
+Blueprints 2
+Blueprint_0_Type Ammo
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 44
+Blueprint_0_Build 30
+Blueprint_1_Type Ammo
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 6503
+Blueprint_1_Build 30
+
+Exclude_From_Master_Bundle
