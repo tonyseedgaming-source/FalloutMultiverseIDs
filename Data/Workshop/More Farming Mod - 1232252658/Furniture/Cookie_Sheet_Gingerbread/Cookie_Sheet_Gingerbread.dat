@@ -1,0 +1,58 @@
+GUID ed3b11464f0a4be8b99b73273ef6f468
+Type Barricade
+Useable Barricade
+Build Barricade
+ID 42332
+
+Size_X 2
+Size_Y 2
+Size_Z 0.32
+
+Health 100
+Range 4
+Radius 0.01
+Offset 0.2
+
+Explosion 36
+
+Blueprints 2
+Blueprint_0_Type Supply
+Blueprint_0_Supplies 6
+Blueprint_0_Supply_0_ID 344
+Blueprint_0_Supply_0_Amount 4
+Blueprint_0_Supply_1_ID 462
+Blueprint_0_Supply_1_Amount 1
+Blueprint_0_Supply_2_ID 470
+Blueprint_0_Supply_2_Amount 1
+Blueprint_0_Supply_3_ID 42152
+Blueprint_0_Supply_3_Amount 2
+Blueprint_0_Supply_4_ID 42336
+Blueprint_0_Supply_4_Amount 1
+Blueprint_0_Supply_5_ID 68
+Blueprint_0_Supply_5_Amount 1
+Blueprint_0_Level 3
+Blueprint_0_Skill Cook
+Blueprint_0_Build 47103
+
+Blueprint_1_Type Supply
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 42332
+Blueprint_1_Supply_0_Amount 1
+Blueprint_1_Outputs 1
+Blueprint_1_Output_0_ID 42333
+Blueprint_1_Output_0_Amount 6
+Blueprint_1_Build 27
+
+Actions 1
+Action_0_Type Blueprint
+Action_0_Source 42332
+Action_0_Blueprints 1
+Action_0_Blueprint_0_Index 1
+Action_0_Text Take Cookies
+Action_0_Tooltip Take all gingerbread cookies from the baking sheet.
+
+Use_Auto_Icon_Measurements false
+Procedurally_Animate_Inertia false
+PlacementAudioClip Furniture/Placement_Medium_02.mp3
+Salvage_Duration_Multiplier 0.5
+Has_Clip_Prefab false
