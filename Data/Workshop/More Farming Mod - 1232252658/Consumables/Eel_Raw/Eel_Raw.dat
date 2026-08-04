@@ -1,0 +1,15 @@
+GUID 622e752ab5d8452b8b5835bffbb94a58
+Type Food
+Useable Consumeable
+ID 43117
+
+Size_X 2
+Size_Y 1
+Size_Z 0.21
+
+Food 20
+Virus 20
+
+Use_Auto_Icon_Measurements false
+Procedurally_Animate_Inertia false
+ConsumeAudioClip Consumables/Use_Fish_01.mp3
