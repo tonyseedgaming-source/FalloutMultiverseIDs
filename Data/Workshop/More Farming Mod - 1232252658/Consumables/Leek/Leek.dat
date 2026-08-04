@@ -1,0 +1,23 @@
+GUID 93c62add34444ce0a34a0130139aebbe
+Type Food
+Useable Consumeable
+ID 42117
+
+Size_X 1
+Size_Y 2
+Size_Z 0.36
+
+Quality_Max 50
+
+Food 25
+Water 5
+
+Actions 1
+Action_0_Type Blueprint
+Action_0_Source 42116
+Action_0_Blueprints 1
+Action_0_Blueprint_0_Index 0
+Action_0_Key Craft_Seed
+
+Use_Auto_Icon_Measurements false
+Procedurally_Animate_Inertia false
