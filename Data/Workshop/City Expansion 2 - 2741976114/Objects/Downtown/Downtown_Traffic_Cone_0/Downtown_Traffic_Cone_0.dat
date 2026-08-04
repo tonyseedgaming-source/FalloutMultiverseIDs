@@ -1,0 +1,12 @@
+GUID 8dbb99ac19854ae8b85b8c0c5a3cb915
+Type Medium
+ID 41058
+
+Rubble Destroy
+Rubble_Reset 300
+Rubble_Health 75
+Rubble_Effect 70
+
+Asset_Bundle_Version 2
+
+Exclude_From_Master_Bundle
