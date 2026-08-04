@@ -1,0 +1,41 @@
+GUID c6122d51abf74d96b3aba6a55abc5b7c
+Type Water
+Rarity Rare
+Useable Consumeable
+ID 42252
+
+Size_X 1
+Size_Y 2
+Size_Z 0.41
+
+Water 30
+Disinfectant 15
+
+Blueprints 1
+Blueprint_0_Type Supply
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 42252
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Outputs 2
+Blueprint_0_Output_0_ID 42262
+Blueprint_0_Output_0_Amount 1
+Blueprint_0_Output_1_ID 42256
+Blueprint_0_Output_1_Amount 1
+Blueprint_0_Build 47102
+
+Quest_Rewards 1
+Quest_Reward_0_Type Item
+Quest_Reward_0_ID 42256
+Quest_Reward_0_Amount 1
+
+Actions 1
+Action_0_Type Blueprint
+Action_0_Source 42252
+Action_0_Blueprints 1
+Action_0_Blueprint_0_Index 0
+Action_0_Text Pour
+Action_0_Tooltip Pour half of the bottle into the cup.
+
+Use_Auto_Icon_Measurements false
+Procedurally_Animate_Inertia false
+ConsumeAudioClip Consumables/Use_Water_02.mp3
