@@ -1,0 +1,21 @@
+GUID 599e6f25c40647f3a644b8d42c4d5826
+Type Supply
+Rarity Rare
+ID 5747
+
+Size_X 1
+Size_Y 1
+Size_Z 0.4
+
+Blueprints 1
+Blueprint_0_Type Tool
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 5747
+Blueprint_0_Outputs 2
+Blueprint_0_Output_0_ID 5724
+Blueprint_0_Output_0_Amount 4
+Blueprint_0_Output_1_ID 5715
+Blueprint_0_Output_1_Amount 2
+Blueprint_0_Build 27
+
+Exclude_From_Master_Bundle
