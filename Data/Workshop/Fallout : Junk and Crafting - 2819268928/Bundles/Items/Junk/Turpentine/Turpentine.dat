@@ -1,0 +1,22 @@
+GUID c1559e7894d3434ea17673534c97d375
+Type Supply
+Rarity Rare
+ID 60119
+
+Size_X 2
+Size_Y 1
+Size_Z 0.4
+Size2_Z 0.6
+
+Blueprints 1
+Blueprint_0_Type Gear
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 60119
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Outputs 2
+Blueprint_0_Output_0_ID 60003
+Blueprint_0_Output_0_Amount 2
+Blueprint_0_Output_1_ID 60031
+Blueprint_0_Output_1_Amount 2
+
+Asset_Bundle_Version 3
