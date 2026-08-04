@@ -1,0 +1,67 @@
+GUID edb474b0b16542c9aaadc119690d7209
+Type Spawn
+ID 10201
+
+Tables
+[
+	{
+		// 9mm Pistol Magazine (Magazine Item)
+		Guid c1ee2be424c94689aee6b40ae14651bb
+		Weight 3
+	}
+	{
+		// Varmint Rifle 5 Round Magazine (Magazine Item)
+		Guid d11896c230df4fc8bb629fadb7dd6174
+		Weight 3
+	}
+	{
+		// 5 Round 5.56 Clip (Magazine Item)
+		Guid d5ab4bebe5864b279b518cd9bc10ada6
+		Weight 3
+	}
+	{
+		// 5.56mm Magazine (Magazine Item)
+		Guid 0045d362d7674974b05f5b9028f0f935
+		Weight 2
+	}
+	{
+		// 30 Round 5.56 Magazine (Magazine Item)
+		Guid eca54b0e23dc4aa98b39911d1d6b3d54
+		Weight 2
+	}
+	{
+		// Sniper Rifle Magazine (Magazine Item)
+		Guid 07b577caf0744007b7b28f14647dbaa7
+		Weight 2
+	}
+	{
+		// Hunting Rifle Magazine (Magazine Item)
+		Guid a55c448d17d943aca51d5951876b282c
+		Weight 2
+	}
+	{
+		// Small Energy Cell (Magazine Item)
+		Guid 7874eba1696c40319197da4fa24fb2ee
+		Weight 2
+	}
+	{
+		// 9mm Ammunition Box (Supply Item)
+		Guid 049d29b429e74b65996d9cd5f6a83c12
+		Weight 1
+	}
+	{
+		// 5.56 Ammo Box (Supply Item)
+		Guid 741c90dd86254bce982e4ed8aa6cbf93
+		Weight 1
+	}
+	{
+		// 10mm HP Ammunition Box (Supply Item)
+		Guid 07565a0a3c3148c6b1d09c6413ba2380
+		Weight 1
+	}
+	{
+		// .308 Ammunition Box (Supply Item)
+		Guid e082b2ec1e2443f886b42ce5a04199fa
+		Weight 1
+	}
+]
