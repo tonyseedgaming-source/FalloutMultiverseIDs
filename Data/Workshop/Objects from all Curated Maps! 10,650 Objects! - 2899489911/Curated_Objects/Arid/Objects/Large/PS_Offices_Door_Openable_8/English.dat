@@ -1,0 +1,5 @@
+Name PS Offices Door Openable #9 [Bank]
+
+Interactability_Condition_0 Missing B2 Key
+
+Interact Use [{0}]
