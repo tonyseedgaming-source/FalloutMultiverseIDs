@@ -1,0 +1,60 @@
+GUID 7f6eb008135a4668bb1c8d25d7bc82a1
+Type Farm
+Useable Barricade
+Build Farm
+ID 42192
+
+Size_X 2
+Size_Y 2
+Size_Z 0.26
+
+Health 1
+Range 4
+Radius 0.5
+Offset 0.5
+
+Growth 12000
+Grow 42187
+Allow_Fertilizer False
+
+Explosion 42192
+
+Blueprints 3
+Blueprint_0_Type Utilities
+Blueprint_0_Supplies 2
+Blueprint_0_Supply_0_ID 42193
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Supply_1_ID 42137
+Blueprint_0_Supply_1_Amount 1
+Blueprint_0_Tool 138
+Blueprint_0_Level 3
+Blueprint_0_Skill Craft
+Blueprint_0_Build 47101
+
+Blueprint_1_Type Utilities
+Blueprint_1_Supplies 2
+Blueprint_1_Supply_0_ID 42193
+Blueprint_1_Supply_0_Amount 1
+Blueprint_1_Supply_1_ID 42138
+Blueprint_1_Supply_1_Amount 1
+Blueprint_1_Tool 138
+Blueprint_1_Level 3
+Blueprint_1_Skill Craft
+Blueprint_1_Build 47101
+
+Blueprint_2_Type Utilities
+Blueprint_2_Supplies 2
+Blueprint_2_Supply_0_ID 42193
+Blueprint_2_Supply_0_Amount 1
+Blueprint_2_Supply_1_ID 42139
+Blueprint_2_Supply_1_Amount 1
+Blueprint_2_Tool 138
+Blueprint_2_Level 3
+Blueprint_2_Skill Craft
+Blueprint_2_Build 47101
+
+Use_Auto_Icon_Measurements false
+Procedurally_Animate_Inertia false
+PlacementAudioClip Furniture/Placement_Medium_01.mp3
+Has_Clip_Prefab false
+PlacementPreviewPrefab Seeds/Beekeeping/Preview.prefab
