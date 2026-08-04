@@ -1,0 +1,24 @@
+GUID 839eb6047844498db4d6c49cbdd7c30f
+Type Supply
+ID 42305
+
+Size_X 1
+Size_Y 1
+Size_Z 0.26
+
+Blueprints 1
+Blueprint_0_Type Supply
+Blueprint_0_Supplies 2
+Blueprint_0_Supply_0_ID 344
+Blueprint_0_Supply_0_Amount 3
+Blueprint_0_Supply_1_ID 470
+Blueprint_0_Supply_1_Amount 1
+Blueprint_0_Outputs 1
+Blueprint_0_Output_0_ID 42305
+Blueprint_0_Output_0_Amount 3
+Blueprint_0_Tool 120
+Blueprint_0_Level 2
+Blueprint_0_Skill Cook
+Blueprint_0_Build 27
+
+Use_Auto_Icon_Measurements false
