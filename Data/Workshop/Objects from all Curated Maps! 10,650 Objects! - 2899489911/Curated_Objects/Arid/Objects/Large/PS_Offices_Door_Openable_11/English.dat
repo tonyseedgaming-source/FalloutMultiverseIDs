@@ -1,0 +1,5 @@
+Name PS Offices Door Openable #12 [Hospital]
+
+Interactability_Condition_0 Missing Hospital Key
+
+Interact Use [{0}]
