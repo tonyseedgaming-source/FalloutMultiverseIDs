@@ -1,0 +1,31 @@
+GUID c80f93ac4e32207ac4581f8675b793d2
+Type Barricade
+Rarity Epic
+Useable Barricade
+Build Barricade
+ID 9809
+
+Size_X 2
+Size_Y 2
+Size_Z 0.80
+
+Health 900
+Range 8
+Radius 0.5
+Offset 0
+
+Explosion 36
+
+Blueprints 1
+Blueprint_0_Type Barricade
+Blueprint_0_Supplies 2
+Blueprint_0_Supply_0_ID 68
+Blueprint_0_Supply_0_Amount 5
+Blueprint_0_Supply_1_ID 285
+Blueprint_0_Supply_1_Amount 8
+Blueprint_0_Tool 76
+Blueprint_0_Level 3
+Blueprint_0_Skill Craft
+Blueprint_0_Build 27
+
+Armor_Tier High
