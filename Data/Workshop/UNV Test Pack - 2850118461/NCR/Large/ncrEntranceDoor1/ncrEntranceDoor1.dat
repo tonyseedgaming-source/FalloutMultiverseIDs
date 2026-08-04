@@ -1,0 +1,8 @@
+GUID 2d4344fb5ddc4f68b3f0615860aa3b71
+Type Large
+ID 39357
+
+Interactability Binary_State
+Interactability_Delay 4.5
+Interactability_Hint Door
+Interactability_Nav Off
