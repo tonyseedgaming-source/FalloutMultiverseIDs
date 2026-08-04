@@ -1,0 +1,14 @@
+GUID d5f6ae48b46c4fe6b1a0d9e35e7b114a
+Type Medium
+ID 32227
+
+Interactability Rubble
+Interactability_Reset 300
+Interactability_Health 275
+Interactability_Effect 68
+
+Asset_Bundle_Version 2
+
+LOD Mesh
+
+Exclude_From_Master_Bundle
