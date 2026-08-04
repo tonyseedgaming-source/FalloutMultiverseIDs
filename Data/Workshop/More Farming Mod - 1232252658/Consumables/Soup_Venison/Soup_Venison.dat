@@ -1,0 +1,19 @@
+GUID c2bbe2af1aaa40a9ad40de5f9b37bc64
+Type Water
+Useable Consumeable
+ID 41123
+
+Size_X 1
+Size_Y 1
+Size_Z 0.29
+
+Backward
+
+Food 80
+Water 60
+Warmth 2245
+
+Use_Auto_Icon_Measurements false
+Procedurally_Animate_Inertia false
+ConsumeAudioClip Consumables/Use_Water_06.mp3
+Instantiated_Item_Name_Override 41121
