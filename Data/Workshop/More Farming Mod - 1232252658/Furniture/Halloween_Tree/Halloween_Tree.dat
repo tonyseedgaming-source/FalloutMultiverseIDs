@@ -1,0 +1,24 @@
+GUID 454cdacabd7c49779fa80eacb44756a7
+Type Barricade
+Useable Barricade
+Build Campfire
+ID 47448
+
+Size_X 2
+Size_Y 2
+Size_Z 0.45
+
+Health 1
+Range 6
+Radius 0.06
+Offset 0.58
+
+Explosion 19
+Vulnerable
+
+Use_Auto_Icon_Measurements false
+Procedurally_Animate_Inertia false
+PlacementAudioClip Furniture/Placement_01.mp3
+Salvage_Duration_Multiplier 0.5
+Has_Clip_Prefab false
+PlacementPreviewPrefab Furniture/Halloween_Tree/Preview.prefab
