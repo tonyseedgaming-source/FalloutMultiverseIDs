@@ -1,0 +1,69 @@
+GUID 6d6b6e4f2b9343c385a06ffa1e384b3e
+Type Melee
+Rarity Uncommon
+Useable Melee
+Slot Secondary
+ID 5763
+
+Size_X 2
+Size_Y 2
+Size_Z 0.5
+
+Range 1.5
+
+Player_Damage 20
+Player_Leg_Multiplier 0.6
+Player_Arm_Multiplier 0.6
+Player_Spine_Multiplier 0.8
+Player_Skull_Multiplier 1.1
+
+Zombie_Damage 20
+Zombie_Leg_Multiplier 0.3
+Zombie_Arm_Multiplier 0.3
+Zombie_Spine_Multiplier 0.6
+Zombie_Skull_Multiplier 1.1
+
+Animal_Damage 20
+Animal_Leg_Multiplier 0.3
+Animal_Spine_Multiplier 0.6
+Animal_Skull_Multiplier 1.1
+
+Barricade_Damage 20
+Structure_Damage 20
+Vehicle_Damage 20
+Resource_Damage 10
+Object_Damage 4
+
+Durability 0.15
+
+Blueprints 3
+Blueprint_0_Type Repair
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 5721
+Blueprint_0_Supply_0_Amount 2
+Blueprint_0_Build 27
+Blueprint_1_Type Tool
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 5763
+Blueprint_1_Outputs 2
+Blueprint_1_Output_0_ID 5721
+Blueprint_1_Output_0_Amount 2
+Blueprint_1_Output_1_ID 5711
+Blueprint_1_Output_1_Amount 2
+Blueprint_1_Build 27
+Blueprint_2_Type Tool
+Blueprint_2_Supplies 4
+Blueprint_2_Supply_0_ID 5721
+Blueprint_2_Supply_0_Amount 3
+Blueprint_2_Supply_1_ID 5711
+Blueprint_2_Supply_1_Amount 4
+Blueprint_2_Supply_2_ID 5725
+Blueprint_2_Supply_2_Amount 1
+Blueprint_2_Supply_3_ID 5726
+Blueprint_2_Supply_3_Amount 1
+Blueprint_2_Build 32
+
+Repair
+Repeated
+
+Exclude_From_Master_Bundle
