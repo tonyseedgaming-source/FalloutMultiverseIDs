@@ -1,0 +1,5 @@
+Name PS Offices Door Openable #10 [Gunshop]
+
+Interactability_Condition_0 Missing Gunshop Key
+
+Interact Use [{0}]
