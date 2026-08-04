@@ -1,0 +1,12 @@
+GUID 66e01810642c46b391006cccb1e7907b
+Type Large
+ID 22500
+
+Rubble Destroy
+Rubble_Reset 300
+Rubble_Health 1
+Rubble_Effect 72
+
+Rubble_Reward_ID 22511
+
+Has_Clip_Prefab false
