@@ -1,0 +1,12 @@
+GUID a81bd6f2da75489eb35a31f812dd23f8
+Type Medium
+ID 39264
+
+Interactability Binary_State
+Interactability_Delay 1
+Interactability_Hint Door
+Interactability_Nav Off
+
+Exclude_From_Master_Bundle
+
+
