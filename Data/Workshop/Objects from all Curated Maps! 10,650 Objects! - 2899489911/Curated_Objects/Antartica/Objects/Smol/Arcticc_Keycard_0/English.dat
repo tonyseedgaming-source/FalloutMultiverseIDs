@@ -1,0 +1,16 @@
+Name Antarctica Keycard #1
+
+Interact Pickup Keycard [{0}]
+
+Conditions 1
+Condition_0_Type Flag_Bool
+Condition_0_ID 201
+Condition_0_Value False
+Condition_0_Logic Equal
+Condition_0_Allow_Unset
+
+Interactability Quest
+Interactability_Rewards 1
+Interactability_Reward_0_Type Flag_Bool
+Interactability_Reward_0_ID 201
+Interactability_Reward_0_Value True
