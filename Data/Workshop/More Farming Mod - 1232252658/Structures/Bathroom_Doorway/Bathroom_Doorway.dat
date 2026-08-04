@@ -1,0 +1,33 @@
+GUID f356fae50fc94b64ab31ca82475f123a
+Type Structure
+Rarity Rare
+Useable Structure
+Construct Wall
+ID 47185
+
+Size_X 2
+Size_Y 1
+Size_Z 0.3
+
+Health 800
+Range 8
+
+Explosion 19
+
+Blueprints 1
+Blueprint_0_Type Structure
+Blueprint_0_Supplies 2
+Blueprint_0_Supply_0_ID 74
+Blueprint_0_Supply_0_Amount 5
+Blueprint_0_Supply_1_ID 70
+Blueprint_0_Supply_1_Amount 1
+Blueprint_0_Tool 138
+Blueprint_0_Level 3
+Blueprint_0_Skill Craft
+Blueprint_0_Build 47101
+
+Requires_Pillars false
+Use_Auto_Icon_Measurements false
+Procedurally_Animate_Inertia false
+PlacementAudioClip Furniture/Placement_02.mp3
+Has_Clip_Prefab false
