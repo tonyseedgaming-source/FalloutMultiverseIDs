@@ -1,0 +1,20 @@
+GUID 68dfe20ac25d434b8e1dfbdc795fb872
+Type Supply
+Rarity Rare
+ID 5500
+
+Size_X 2
+Size_Y 1
+Size_Z 0.1
+
+Amount 40
+Count_Min 15
+Count_Max 40
+
+Blueprints 1
+Blueprint_0_Type Ammo
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 5500
+Blueprint_0_Build 30
+
+Exclude_From_Master_Bundle
