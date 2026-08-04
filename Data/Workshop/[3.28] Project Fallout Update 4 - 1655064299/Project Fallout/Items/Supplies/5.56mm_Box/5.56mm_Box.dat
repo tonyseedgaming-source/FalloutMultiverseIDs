@@ -1,0 +1,20 @@
+GUID 17476760ce724659acdccd3330d3eb7b
+Type Supply
+Rarity Rare
+ID 5531
+
+Size_X 2
+Size_Y 1
+Size_Z 0.1
+
+Amount 30
+Count_Min 15
+Count_Max 30
+
+Blueprints 1
+Blueprint_0_Type Ammo
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 5531
+Blueprint_0_Build 30
+
+Exclude_From_Master_Bundle
