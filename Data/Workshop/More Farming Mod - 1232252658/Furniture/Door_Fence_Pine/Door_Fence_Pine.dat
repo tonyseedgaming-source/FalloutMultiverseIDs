@@ -1,0 +1,35 @@
+GUID 0c09b8da3719497ea4978ebe414950e1
+Type Barricade
+Useable Barricade
+Build Door
+ID 47162
+
+Size_X 1
+Size_Y 1
+Size_Z 0.26
+
+Health 350
+Range 4
+Radius 1
+Offset 1.4
+
+Explosion 29
+
+Blueprints 1
+Blueprint_0_Type Barricade
+Blueprint_0_Supplies 3
+Blueprint_0_Supply_0_ID 63
+Blueprint_0_Supply_0_Amount 4
+Blueprint_0_Supply_1_ID 42
+Blueprint_0_Supply_1_Amount 2
+Blueprint_0_Supply_2_ID 71
+Blueprint_0_Supply_2_Amount 1
+Blueprint_0_Tool 138
+Blueprint_0_Level 2
+Blueprint_0_Skill Craft
+Blueprint_0_Build 47101
+
+Use_Auto_Icon_Measurements false
+Procedurally_Animate_Inertia false
+PlacementAudioClip Furniture/Placement_01.mp3
+Has_Clip_Prefab false
