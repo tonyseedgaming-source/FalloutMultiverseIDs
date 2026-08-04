@@ -1,0 +1,19 @@
+GUID c38307d6a7dc413aa115b26cdb596f42
+Type Supply
+Rarity Common
+ID 5744
+
+Size_X 1
+Size_Y 1
+Size_Z 0.3
+
+Blueprints 1
+Blueprint_0_Type Tool
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 5744
+Blueprint_0_Outputs 1
+Blueprint_0_Output_0_ID 5711
+Blueprint_0_Output_0_Amount 2
+Blueprint_0_Build 27
+
+Exclude_From_Master_Bundle
