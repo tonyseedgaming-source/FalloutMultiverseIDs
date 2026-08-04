@@ -1,0 +1,12 @@
+GUID e973985df31c43349592238b4c70e7b7
+
+Type Large
+Has_Clip_Prefab false
+ID 36000
+
+Interactability Fuel
+Interactability_Reset 500
+Interactability_Resource 65000
+
+Master_Bundle_Override core.masterbundle
+Bundle_Override_Path /Objects/Large/Utilities/Tank_Fuel_0
