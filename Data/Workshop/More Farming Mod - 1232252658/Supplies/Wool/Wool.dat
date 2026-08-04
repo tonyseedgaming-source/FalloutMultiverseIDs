@@ -1,0 +1,26 @@
+GUID 46adb8d4a33b45f69d86fb5b436be9e0
+Type Supply
+ID 41118
+
+Size_X 1
+Size_Y 1
+Size_Z 0.28
+
+Blueprints 1
+Blueprint_0_Type Gear
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 41118
+Blueprint_0_Outputs 1
+Blueprint_0_Output_0_ID 66
+Blueprint_0_Output_0_Amount 1
+Blueprint_0_Build 27
+
+Actions 1
+Action_0_Type Blueprint
+Action_0_Source 41118
+Action_0_Blueprints 1
+Action_0_Blueprint_0_Index 0
+Action_0_Text Make Cloth
+Action_0_Tooltip Make a cloth from wool.
+
+Use_Auto_Icon_Measurements false
