@@ -1,0 +1,23 @@
+GUID ba82c43a9c7d47ba9e118868b94cf1e6
+Type Barricade
+Useable Barricade
+Build Door
+ID 47466
+
+Size_X 1
+Size_Y 2
+Size_Z 0.55
+
+Health 900
+Range 4
+Radius 0.1
+Offset 1.25
+
+Locked
+
+Explosion 36
+
+Use_Auto_Icon_Measurements false
+Procedurally_Animate_Inertia false
+PlacementAudioClip Furniture/Placement_02.mp3
+Has_Clip_Prefab false
