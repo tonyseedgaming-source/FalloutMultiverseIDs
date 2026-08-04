@@ -1,0 +1,16 @@
+GUID eac86a294ca2495d899f6b67c30fdf71
+Type Food
+Rarity Rare
+Useable Consumeable
+ID 43115
+
+Size_X 3
+Size_Y 1
+Size_Z 0.34
+
+Food 30
+Virus 30
+
+Use_Auto_Icon_Measurements false
+Procedurally_Animate_Inertia false
+ConsumeAudioClip Consumables/Use_Fish_01.mp3
