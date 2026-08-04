@@ -1,0 +1,31 @@
+GUID 19940426fa9d4a97a23a9dd4c9ec2b63
+Type Supply
+ID 42187
+
+Size_X 1
+Size_Y 1
+Size_Z 0.27
+
+Blueprints 1
+Blueprint_0_Type Gear
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 42187
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Outputs 3
+Blueprint_0_Output_0_ID 42188
+Blueprint_0_Output_0_Amount 1
+Blueprint_0_Output_1_ID 42189
+Blueprint_0_Output_1_Amount 1
+Blueprint_0_Output_2_ID 42193
+Blueprint_0_Output_2_Amount 1
+Blueprint_0_Build 27
+
+Actions 1
+Action_0_Type Blueprint
+Action_0_Source 42187
+Action_0_Blueprints 1
+Action_0_Blueprint_0_Index 0
+Action_0_Text Harvest Honey
+Action_0_Tooltip Harvest honey, beeswax and queen bee.
+
+Use_Auto_Icon_Measurements false
