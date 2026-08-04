@@ -1,0 +1,379 @@
+GUID f4803b2d60b4486fb10daf9580a996f5
+Type Supply
+ID 48130
+
+Size_X 2
+Size_Y 2
+Size_Z 0.39
+
+Blueprints 33
+Blueprint_0_Type Tool
+Blueprint_0_Supplies 6
+Blueprint_0_Supply_0_ID 255
+Blueprint_0_Supply_1_ID 256
+Blueprint_0_Supply_2_ID 257
+Blueprint_0_Supply_3_ID 258
+Blueprint_0_Supply_4_ID 259
+Blueprint_0_Supply_5_ID 260
+Blueprint_0_Build 27
+
+Blueprint_1_Type Furniture
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 41
+Blueprint_1_Supply_0_Amount 1
+Blueprint_1_Tool 48130
+Blueprint_1_Tool_Critical
+Blueprint_1_Product 47240
+Blueprint_1_Build 47101
+
+Blueprint_2_Type Furniture
+Blueprint_2_Supplies 1
+Blueprint_2_Supply_0_ID 41
+Blueprint_2_Supply_0_Amount 1
+Blueprint_2_Tool 48130
+Blueprint_2_Tool_Critical
+Blueprint_2_Product 47242
+Blueprint_2_Build 27
+
+Blueprint_3_Type Furniture
+Blueprint_3_Supplies 1
+Blueprint_3_Supply_0_ID 67
+Blueprint_3_Supply_0_Amount 1
+Blueprint_3_Tool 48130
+Blueprint_3_Tool_Critical
+Blueprint_3_Product 47243
+Blueprint_3_Build 27
+
+Blueprint_4_Type Furniture
+Blueprint_4_Supplies 1
+Blueprint_4_Supply_0_ID 67
+Blueprint_4_Supply_0_Amount 1
+Blueprint_4_Tool 48130
+Blueprint_4_Tool_Critical
+Blueprint_4_Product 47249
+Blueprint_4_Build 27
+
+Blueprint_5_Type Furniture
+Blueprint_5_Supplies 1
+Blueprint_5_Supply_0_ID 67
+Blueprint_5_Supply_0_Amount 1
+Blueprint_5_Tool 48130
+Blueprint_5_Tool_Critical
+Blueprint_5_Product 47250
+Blueprint_5_Build 27
+
+Blueprint_6_Type Furniture
+Blueprint_6_Supplies 1
+Blueprint_6_Supply_0_ID 67
+Blueprint_6_Supply_0_Amount 1
+Blueprint_6_Tool 48130
+Blueprint_6_Tool_Critical
+Blueprint_6_Product 47251
+Blueprint_6_Build 27
+
+Blueprint_7_Type Furniture
+Blueprint_7_Supplies 1
+Blueprint_7_Supply_0_ID 67
+Blueprint_7_Supply_0_Amount 1
+Blueprint_7_Tool 48130
+Blueprint_7_Tool_Critical
+Blueprint_7_Product 47252
+Blueprint_7_Build 27
+
+Blueprint_8_Type Furniture
+Blueprint_8_Supplies 1
+Blueprint_8_Supply_0_ID 67
+Blueprint_8_Supply_0_Amount 1
+Blueprint_8_Tool 48130
+Blueprint_8_Tool_Critical
+Blueprint_8_Product 47253
+Blueprint_8_Build 27
+
+Blueprint_9_Type Furniture
+Blueprint_9_Supplies 1
+Blueprint_9_Supply_0_ID 67
+Blueprint_9_Supply_0_Amount 1
+Blueprint_9_Tool 48130
+Blueprint_9_Tool_Critical
+Blueprint_9_Product 47246
+Blueprint_9_Build 27
+
+Blueprint_10_Type Furniture
+Blueprint_10_Supplies 1
+Blueprint_10_Supply_0_ID 67
+Blueprint_10_Supply_0_Amount 1
+Blueprint_10_Tool 48130
+Blueprint_10_Tool_Critical
+Blueprint_10_Product 47245
+Blueprint_10_Build 27
+
+Blueprint_11_Type Furniture
+Blueprint_11_Supplies 1
+Blueprint_11_Supply_0_ID 66
+Blueprint_11_Supply_0_Amount 1
+Blueprint_11_Tool 48130
+Blueprint_11_Tool_Critical
+Blueprint_11_Product 47247
+Blueprint_11_Build 47111
+
+Blueprint_12_Type Furniture
+Blueprint_12_Supplies 1
+Blueprint_12_Supply_0_ID 66
+Blueprint_12_Supply_0_Amount 1
+Blueprint_12_Tool 48130
+Blueprint_12_Tool_Critical
+Blueprint_12_Product 47248
+Blueprint_12_Build 47111
+
+Blueprint_13_Type Furniture
+Blueprint_13_Supplies 1
+Blueprint_13_Supply_0_ID 66
+Blueprint_13_Supply_0_Amount 1
+Blueprint_13_Tool 48130
+Blueprint_13_Tool_Critical
+Blueprint_13_Product 47260
+Blueprint_13_Build 47111
+
+Blueprint_14_Type Furniture
+Blueprint_14_Supplies 1
+Blueprint_14_Supply_0_ID 66
+Blueprint_14_Supply_0_Amount 1
+Blueprint_14_Tool 48130
+Blueprint_14_Tool_Critical
+Blueprint_14_Product 47261
+Blueprint_14_Build 47111
+
+Blueprint_15_Type Furniture
+Blueprint_15_Supplies 1
+Blueprint_15_Supply_0_ID 66
+Blueprint_15_Supply_0_Amount 1
+Blueprint_15_Tool 48130
+Blueprint_15_Tool_Critical
+Blueprint_15_Product 47262
+Blueprint_15_Build 47111
+
+Blueprint_16_Type Furniture
+Blueprint_16_Supplies 1
+Blueprint_16_Supply_0_ID 66
+Blueprint_16_Supply_0_Amount 1
+Blueprint_16_Tool 48130
+Blueprint_16_Tool_Critical
+Blueprint_16_Product 47263
+Blueprint_16_Build 47111
+
+Blueprint_17_Type Furniture
+Blueprint_17_Supplies 1
+Blueprint_17_Supply_0_ID 66
+Blueprint_17_Supply_0_Amount 1
+Blueprint_17_Tool 48130
+Blueprint_17_Tool_Critical
+Blueprint_17_Product 47244
+Blueprint_17_Build 47111
+
+Blueprint_18_Type Tool
+Blueprint_18_Supplies 1
+Blueprint_18_Supply_0_ID 66
+Blueprint_18_Supply_0_Amount 1
+Blueprint_18_Tool 48130
+Blueprint_18_Tool_Critical
+Blueprint_18_Product 48120
+Blueprint_18_Build 27
+
+Blueprint_19_Type Furniture
+Blueprint_19_Supplies 1
+Blueprint_19_Supply_0_ID 42333
+Blueprint_19_Supply_0_Amount 6
+Blueprint_19_Tool 48130
+Blueprint_19_Tool_Critical
+Blueprint_19_Product 42334
+Blueprint_19_Build 47101
+
+Blueprint_20_Type Furniture
+Blueprint_20_Supplies 1
+Blueprint_20_Supply_0_ID 67
+Blueprint_20_Supply_0_Amount 1
+Blueprint_20_Tool 48130
+Blueprint_20_Tool_Critical
+Blueprint_20_Product 47455
+Blueprint_20_Build 27
+
+Blueprint_21_Type Furniture
+Blueprint_21_Supplies 1
+Blueprint_21_Supply_0_ID 67
+Blueprint_21_Supply_0_Amount 1
+Blueprint_21_Tool 48130
+Blueprint_21_Tool_Critical
+Blueprint_21_Product 47456
+Blueprint_21_Build 27
+
+Blueprint_22_Type Furniture
+Blueprint_22_Supplies 1
+Blueprint_22_Supply_0_ID 67
+Blueprint_22_Supply_0_Amount 1
+Blueprint_22_Tool 48130
+Blueprint_22_Tool_Critical
+Blueprint_22_Product 47457
+Blueprint_22_Build 27
+
+Blueprint_23_Type Furniture
+Blueprint_23_Supplies 1
+Blueprint_23_Supply_0_ID 67
+Blueprint_23_Supply_0_Amount 1
+Blueprint_23_Tool 48130
+Blueprint_23_Tool_Critical
+Blueprint_23_Product 47458
+Blueprint_23_Build 27
+
+Blueprint_24_Type Furniture
+Blueprint_24_Supplies 1
+Blueprint_24_Supply_0_ID 67
+Blueprint_24_Supply_0_Amount 1
+Blueprint_24_Tool 48130
+Blueprint_24_Tool_Critical
+Blueprint_24_Product 47459
+Blueprint_24_Build 27
+
+Blueprint_25_Type Furniture
+Blueprint_25_Supplies 1
+Blueprint_25_Supply_0_ID 67
+Blueprint_25_Supply_0_Amount 1
+Blueprint_25_Tool 48130
+Blueprint_25_Tool_Critical
+Blueprint_25_Product 47460
+Blueprint_25_Build 27
+
+Blueprint_26_Type Furniture
+Blueprint_26_Supplies 1
+Blueprint_26_Supply_0_ID 67
+Blueprint_26_Supply_0_Amount 1
+Blueprint_26_Tool 48130
+Blueprint_26_Tool_Critical
+Blueprint_26_Product 47461
+Blueprint_26_Build 27
+
+Blueprint_27_Type Furniture
+Blueprint_27_Supplies 1
+Blueprint_27_Supply_0_ID 67
+Blueprint_27_Supply_0_Amount 1
+Blueprint_27_Tool 48130
+Blueprint_27_Tool_Critical
+Blueprint_27_Product 47462
+Blueprint_27_Build 27
+
+Blueprint_28_Type Furniture
+Blueprint_28_Supplies 1
+Blueprint_28_Supply_0_ID 282
+Blueprint_28_Supply_0_Amount 1
+Blueprint_28_Tool 48130
+Blueprint_28_Tool_Critical
+Blueprint_28_Product 47463
+Blueprint_28_Build 27
+
+Blueprint_29_Type Furniture
+Blueprint_29_Supplies 1
+Blueprint_29_Supply_0_ID 281
+Blueprint_29_Supply_0_Amount 1
+Blueprint_29_Tool 48130
+Blueprint_29_Tool_Critical
+Blueprint_29_Product 47464
+Blueprint_29_Build 27
+
+Blueprint_30_Type Furniture
+Blueprint_30_Supplies 1
+Blueprint_30_Supply_0_ID 283
+Blueprint_30_Supply_0_Amount 1
+Blueprint_30_Tool 48130
+Blueprint_30_Tool_Critical
+Blueprint_30_Product 47465
+Blueprint_30_Build 27
+
+Blueprint_31_Type Furniture
+Blueprint_31_Supplies 1
+Blueprint_31_Supply_0_ID 378
+Blueprint_31_Supply_0_Amount 1
+Blueprint_31_Tool 48130
+Blueprint_31_Tool_Critical
+Blueprint_31_Product 47466
+Blueprint_31_Build 27
+
+Blueprint_32_Type Furniture
+Blueprint_32_Supplies 1
+Blueprint_32_Supply_0_ID 41
+Blueprint_32_Supply_0_Amount 1
+Blueprint_32_Tool 48130
+Blueprint_32_Tool_Critical
+Blueprint_32_Product 47241
+Blueprint_32_Build 47101
+
+Actions 1
+Action_0_Type Blueprint
+Action_0_Source 48130
+Action_0_Blueprints 32
+Action_0_Blueprint_0_Index 1
+Action_0_Blueprint_0_Link
+Action_0_Blueprint_1_Index 2
+Action_0_Blueprint_1_Link
+Action_0_Blueprint_2_Index 3
+Action_0_Blueprint_2_Link
+Action_0_Blueprint_3_Index 4
+Action_0_Blueprint_3_Link
+Action_0_Blueprint_4_Index 5
+Action_0_Blueprint_4_Link
+Action_0_Blueprint_5_Index 6
+Action_0_Blueprint_5_Link
+Action_0_Blueprint_6_Index 7
+Action_0_Blueprint_6_Link
+Action_0_Blueprint_7_Index 8
+Action_0_Blueprint_7_Link
+Action_0_Blueprint_8_Index 9
+Action_0_Blueprint_8_Link
+Action_0_Blueprint_9_Index 10
+Action_0_Blueprint_9_Link
+Action_0_Blueprint_10_Index 11
+Action_0_Blueprint_10_Link
+Action_0_Blueprint_11_Index 12
+Action_0_Blueprint_11_Link
+Action_0_Blueprint_12_Index 13
+Action_0_Blueprint_12_Link
+Action_0_Blueprint_13_Index 14
+Action_0_Blueprint_13_Link
+Action_0_Blueprint_14_Index 15
+Action_0_Blueprint_14_Link
+Action_0_Blueprint_15_Index 16
+Action_0_Blueprint_15_Link
+Action_0_Blueprint_16_Index 17
+Action_0_Blueprint_16_Link
+Action_0_Blueprint_17_Index 18
+Action_0_Blueprint_17_Link
+Action_0_Blueprint_18_Index 19
+Action_0_Blueprint_18_Link
+Action_0_Blueprint_19_Index 20
+Action_0_Blueprint_19_Link
+Action_0_Blueprint_20_Index 21
+Action_0_Blueprint_20_Link
+Action_0_Blueprint_21_Index 22
+Action_0_Blueprint_21_Link
+Action_0_Blueprint_22_Index 23
+Action_0_Blueprint_22_Link
+Action_0_Blueprint_23_Index 24
+Action_0_Blueprint_23_Link
+Action_0_Blueprint_24_Index 25
+Action_0_Blueprint_24_Link
+Action_0_Blueprint_25_Index 26
+Action_0_Blueprint_25_Link
+Action_0_Blueprint_26_Index 27
+Action_0_Blueprint_26_Link
+Action_0_Blueprint_27_Index 28
+Action_0_Blueprint_27_Link
+Action_0_Blueprint_28_Index 29
+Action_0_Blueprint_28_Link
+Action_0_Blueprint_29_Index 30
+Action_0_Blueprint_29_Link
+Action_0_Blueprint_30_Index 31
+Action_0_Blueprint_30_Link
+Action_0_Blueprint_31_Index 32
+Action_0_Blueprint_31_Link
+Action_0_Text Craft
+Action_0_Tooltip Craft Christmas decorations.
+
+Use_Auto_Icon_Measurements false
