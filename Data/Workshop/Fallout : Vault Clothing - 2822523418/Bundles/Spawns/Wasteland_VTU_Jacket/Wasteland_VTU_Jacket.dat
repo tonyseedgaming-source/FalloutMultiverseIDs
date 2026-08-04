@@ -1,0 +1,11 @@
+GUID d6157f43a558432d922e0b7be3031a80
+Type Spawn
+ID 60022
+
+Roots 1
+Root_0_Spawn_ID 150
+Root_0_Weight 5
+
+Tables 1
+Table_0_Asset_ID 60167
+Table_0_Weight 10
