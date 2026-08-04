@@ -1,0 +1,41 @@
+GUID 1d8d83d7e4fd44548f31618892da225c
+Type Barricade
+Rarity Rare
+Useable Barricade
+Build Hatch
+ID 47392
+
+Size_X 2
+Size_Y 2
+Size_Z 0.44
+
+Health 500
+Range 5
+Radius 0.01
+Offset 0
+
+Explosion 36
+
+Blueprints 1
+Blueprint_0_Type Furniture
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 47392
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Outputs 1
+Blueprint_0_Output_0_ID 47391
+Blueprint_0_Output_0_Amount 1
+Blueprint_0_Build 27
+
+Actions 1
+Action_0_Type Blueprint
+Action_0_Source 47392
+Action_0_Blueprints 1
+Action_0_Blueprint_0_Index 0
+Action_0_Text Change to Right
+Action_0_Tooltip Change to a right-opening door.
+
+Use_Auto_Icon_Measurements false
+Procedurally_Animate_Inertia false
+Allow_Collision_While_Animating true
+Has_Clip_Prefab false
+PlacementPreviewPrefab Furniture/Refrigerator_White_Door_L/Preview.prefab
