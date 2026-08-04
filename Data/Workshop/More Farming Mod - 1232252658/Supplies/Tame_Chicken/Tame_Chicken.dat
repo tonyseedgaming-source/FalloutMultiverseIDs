@@ -1,0 +1,42 @@
+GUID daf26eff9ea14c0fae3e48d3aef745d4
+Type Supply
+ID 41105
+
+Size_X 2
+Size_Y 2
+Size_Z 0.53
+
+Blueprints 1
+Blueprint_0_Type Supply
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 41105
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Tool 137
+Blueprint_0_Outputs 1
+Blueprint_0_Output_0_ID 41101
+Blueprint_0_Output_0_Amount 1
+Blueprint_0_Build 47104
+
+Actions 3
+Action_0_Type Blueprint
+Action_0_Source 42233
+Action_0_Blueprints 1
+Action_0_Blueprint_0_Index 0
+Action_0_Text Feed
+Action_0_Tooltip Feed chicken with hay, get the eggs.
+
+Action_1_Type Blueprint
+Action_1_Source 41105
+Action_1_Blueprints 1
+Action_1_Blueprint_0_Index 0
+Action_1_Text Butcher
+Action_1_Tooltip Use a butcher knife to turn them into meat.
+
+Action_2_Type Blueprint
+Action_2_Source 42233
+Action_2_Blueprints 1
+Action_2_Blueprint_0_Index 1
+Action_2_Text Breed
+Action_2_Tooltip Feed chicken with two hay, get the fertile eggs.
+
+Use_Auto_Icon_Measurements false
