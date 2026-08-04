@@ -1,0 +1,23 @@
+GUID e7861346dcf246a6a3d42f02c10b5d56
+Type Barricade
+Useable Barricade
+Build Campfire
+ID 47449
+
+Size_X 2
+Size_Y 2
+Size_Z 0.34
+
+Health 1
+Range 6
+Radius 0.06
+Offset 0.7
+
+Explosion 36
+Vulnerable
+
+Use_Auto_Icon_Measurements false
+Procedurally_Animate_Inertia false
+PlacementAudioClip Furniture/Placement_02.mp3
+Salvage_Duration_Multiplier 0.5
+Has_Clip_Prefab false
