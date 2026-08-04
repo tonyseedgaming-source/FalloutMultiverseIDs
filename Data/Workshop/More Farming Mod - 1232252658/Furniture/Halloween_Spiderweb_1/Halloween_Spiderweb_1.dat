@@ -1,0 +1,23 @@
+GUID 0e7e1df5043e4784806389315359c324
+Type Barricade
+Useable Barricade
+Build Freeform
+ID 47410
+
+Size_X 1
+Size_Y 1
+Size_Z 0.32
+
+Health 1
+Range 6
+Radius 0.01
+Offset 1.05
+
+Explosion 59
+Vulnerable
+
+Use_Auto_Icon_Measurements false
+Procedurally_Animate_Inertia false
+PlacementAudioClip Seeds/Use_Seed_01.mp3
+Salvage_Duration_Multiplier 0.5
+Has_Clip_Prefab false
