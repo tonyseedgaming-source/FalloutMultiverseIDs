@@ -1,0 +1,5 @@
+Name PS Base Door #4 [Key LO2]
+
+Interactability_Condition_0 Missing LO2 Key
+
+Interact Use [{0}]
