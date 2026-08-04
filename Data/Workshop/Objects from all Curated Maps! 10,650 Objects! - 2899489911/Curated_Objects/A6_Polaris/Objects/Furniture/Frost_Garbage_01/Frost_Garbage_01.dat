@@ -1,0 +1,10 @@
+GUID 7c1b43ab7c774331b12a7f5de88bac29
+
+Type Medium
+Has_Clip_Prefab false
+ID 57000
+
+Causes_Fall_Damage False
+
+Master_Bundle_Override core.masterbundle
+Bundle_Override_Path /Objects/Medium/Rubble/DL_Garbage
