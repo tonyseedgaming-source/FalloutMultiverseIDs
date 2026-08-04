@@ -1,0 +1,31 @@
+GUID 2da0438a00ed4274966b4ae99e66d8f2
+Type Water
+Useable Consumeable
+ID 42337
+
+Size_X 1
+Size_Y 1
+Size_Z 0.27
+
+Water 65
+
+Blueprints 1
+Blueprint_0_Type Supply
+Blueprint_0_Supplies 4
+Blueprint_0_Supply_0_ID 14
+Blueprint_0_Supply_0_Amount 2
+Blueprint_0_Supply_1_ID 42188
+Blueprint_0_Supply_1_Amount 2
+Blueprint_0_Supply_2_ID 42336
+Blueprint_0_Supply_2_Amount 1
+Blueprint_0_Supply_3_ID 42318
+Blueprint_0_Supply_3_Amount 2
+Blueprint_0_Tool 120
+Blueprint_0_Product 42337
+Blueprint_0_Products 4
+Blueprint_0_Build 47102
+
+Use_Auto_Icon_Measurements false
+Procedurally_Animate_Inertia false
+ConsumeAudioClip Consumables/Use_Water_07.mp3
+Instantiated_Item_Name_Override 42330
