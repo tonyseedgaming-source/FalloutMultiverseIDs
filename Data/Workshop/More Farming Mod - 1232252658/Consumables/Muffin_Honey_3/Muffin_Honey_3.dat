@@ -1,0 +1,53 @@
+GUID db3bd14c2fe942358fad24e0b92965d9
+Type Food
+Useable Consumeable
+ID 42195
+
+Size_X 1
+Size_Y 1
+Size_Z 0.24
+
+Food 20
+
+Blueprints 2
+Blueprint_0_Type Supply
+Blueprint_0_Supplies 3
+Blueprint_0_Supply_0_ID 1162
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Supply_1_ID 462
+Blueprint_0_Supply_1_Amount 1
+Blueprint_0_Supply_2_ID 42188
+Blueprint_0_Supply_2_Amount 1
+Blueprint_0_Tool 1030
+Blueprint_0_Level 3
+Blueprint_0_Skill Cook
+Blueprint_0_Build 47103
+
+Blueprint_1_Type Supply
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 42195
+Blueprint_1_Supply_0_Amount 1
+Blueprint_1_Outputs 2
+Blueprint_1_Output_0_ID 42197
+Blueprint_1_Output_0_Amount 1
+Blueprint_1_Output_1_ID 42196
+Blueprint_1_Output_1_Amount 1
+Blueprint_1_Build 27
+
+Quest_Rewards 1
+Quest_Reward_0_Type Item
+Quest_Reward_0_ID 42196
+Quest_Reward_0_Amount 1
+
+Actions 1
+Action_0_Type Blueprint
+Action_0_Source 42195
+Action_0_Blueprints 1
+Action_0_Blueprint_0_Index 1
+Action_0_Text Take One
+Action_0_Tooltip Take one muffin.
+
+Use_Auto_Icon_Measurements false
+Procedurally_Animate_Inertia false
+ConsumeAudioClip Consumables/Use_Food_09.mp3
+Instantiated_Item_Name_Override 42197
