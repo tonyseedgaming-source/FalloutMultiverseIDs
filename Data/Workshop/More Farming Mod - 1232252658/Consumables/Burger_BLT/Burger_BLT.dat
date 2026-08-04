@@ -1,0 +1,34 @@
+GUID 360f4672b2cc4f13a485fb3af5470759
+Type Food
+Useable Consumeable
+ID 42134
+
+Size_X 1
+Size_Y 1
+Size_Z 0.25
+
+Health 30
+Food 100
+Water 30
+
+Blueprints 1
+Blueprint_0_Type Supply
+Blueprint_0_Supplies 5
+Blueprint_0_Supply_0_ID 42131
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Supply_1_ID 1121
+Blueprint_0_Supply_1_Amount 1
+Blueprint_0_Supply_2_ID 41176
+Blueprint_0_Supply_2_Amount 1
+Blueprint_0_Supply_3_ID 338
+Blueprint_0_Supply_3_Amount 1
+Blueprint_0_Supply_4_ID 340
+Blueprint_0_Supply_4_Amount 1
+Blueprint_0_Level 2
+Blueprint_0_Skill Cook
+Blueprint_0_Build 47103
+
+Use_Auto_Icon_Measurements false
+Procedurally_Animate_Inertia false
+ConsumeAudioClip Consumables/Use_Food_10.mp3
+Instantiated_Item_Name_Override 42132
