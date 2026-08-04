@@ -1,0 +1,223 @@
+GUID a38f3d5cd4004313a252a13e00d2b15f
+Type Vehicle
+Rarity Uncommon
+ID 21171
+
+Speed_Min -20
+Speed_Max 17
+
+velocidad de 190 - 23.6
+
+Steer_Min 35
+Steer_Max 35
+
+//Cam_Driver_Offset -0.02
+//Cam_Passenger_Offset -0.04
+
+Brake 100
+
+Exit 3
+
+Fuel_Min 350
+Fuel_Max 700
+Fuel 1250
+
+Health_Min 3000
+Health_Max 3000
+Health 3000
+
+Trunk_Storage_X 3
+Trunk_Storage_Y 3
+
+Explosion 20
+
+Tires_Invulnerable
+Invulnerable
+
+WheelConfigurations
+[
+	{
+		WheelColliderPath Tires/Tire_0
+		IsColliderSteered true
+		IsColliderPowered true
+		ModelPath Wheels/Wheel_21
+		ModelUseColliderPose true
+	}
+	{
+		WheelColliderPath Tires/Tire_1
+		IsColliderSteered true
+		IsColliderPowered true
+		ModelPath Wheels/Wheel_22
+		ModelUseColliderPose true
+	}
+	{
+		WheelColliderPath Tires/Tire_2
+		IsColliderSteered false
+		IsColliderPowered true
+		ModelPath Wheels/Wheel_23
+		ModelUseColliderPose true
+	}
+	{
+		WheelColliderPath Tires/Tire_3
+		IsColliderSteered false
+		IsColliderPowered true
+		ModelPath Wheels/Wheel_24
+		ModelUseColliderPose true
+	}
+	{
+		WheelColliderPath Tires/Tire_4
+		IsColliderSteered false
+		IsColliderPowered true
+		ModelPath Wheels/Wheel_25
+		ModelUseColliderPose true
+	}
+	{
+		WheelColliderPath Tires/Tire_5
+		IsColliderSteered false
+		IsColliderPowered true
+		ModelPath Wheels/Wheel_26
+		ModelUseColliderPose true
+	}
+	{
+		WheelColliderPath Tires/gato_8
+		IsColliderSteered false
+		IsColliderPowered false
+		ModelPath Wheels/Wheel_0
+		ModelUseColliderPose true
+	}
+	{
+		WheelColliderPath Tires/gato_9
+		IsColliderSteered false
+		IsColliderPowered false
+		ModelPath Wheels/Wheel_1
+		ModelUseColliderPose true
+	}
+	{
+		WheelColliderPath Tires/gato_10
+		IsColliderSteered false
+		IsColliderPowered false
+		ModelPath Wheels/Wheel_2
+		ModelUseColliderPose true
+	}
+	{
+		WheelColliderPath Tires/gato_11
+		IsColliderSteered false
+		IsColliderPowered false
+		ModelPath Wheels/Wheel_3
+		ModelUseColliderPose true
+	}
+	{
+		WheelColliderPath Tires/gato_12
+		IsColliderSteered false
+		IsColliderPowered false
+		ModelPath Wheels/Wheel_4
+		ModelUseColliderPose true
+	}
+	{
+		WheelColliderPath Tires/gato_13
+		IsColliderSteered false
+		IsColliderPowered false
+		ModelPath Wheels/Wheel_5
+		ModelUseColliderPose true
+	}
+	{
+		WheelColliderPath Tires/gato_14
+		IsColliderSteered false
+		IsColliderPowered false
+		ModelPath Wheels/Wheel_6
+		ModelUseColliderPose true
+	}
+	{
+		WheelColliderPath Tires/gato_15
+		IsColliderSteered false
+		IsColliderPowered false
+		ModelPath Wheels/Wheel_7
+		ModelUseColliderPose true
+	}
+	{
+		WheelColliderPath Tires/gato_16
+		IsColliderSteered false
+		IsColliderPowered false
+		ModelPath Wheels/Wheel_8
+		ModelUseColliderPose true
+	}
+	{
+		WheelColliderPath Tires/gato_17
+		IsColliderSteered false
+		IsColliderPowered false
+		ModelPath Wheels/Wheel_9
+		ModelUseColliderPose true
+	}
+	{
+		WheelColliderPath Tires/gato_18
+		IsColliderSteered false
+		IsColliderPowered false
+		ModelPath Wheels/Wheel_10
+		ModelUseColliderPose true
+	}
+	{
+		WheelColliderPath Tires/gato_19
+		IsColliderSteered false
+		IsColliderPowered false
+		ModelPath Wheels/Wheel_11
+		ModelUseColliderPose true
+	}
+	{
+		WheelColliderPath Tires/gato_20
+		IsColliderSteered false
+		IsColliderPowered false
+		ModelPath Wheels/Wheel_12
+		ModelUseColliderPose true
+	}
+	{
+		WheelColliderPath Tires/gato_21
+		IsColliderSteered false
+		IsColliderPowered false
+		ModelPath Wheels/Wheel_13
+		ModelUseColliderPose true
+	}
+	{
+		WheelColliderPath Tires/gato_22
+		IsColliderSteered false
+		IsColliderPowered false
+		ModelPath Wheels/Wheel_14
+		ModelUseColliderPose true
+	}
+
+]
+
+Asset_Bundle_Version 5
+
+PaintableSections
+[
+    {
+        Path Model_0
+        MaterialIndex 0
+    }
+    {
+        Path Model_2
+        MaterialIndex 1
+    }
+]
+
+DefaultPaintColors
+[
+	#262626
+	#306CB9
+	#667FB9
+	#A0BDBE
+	#59483F
+	#6DB9B0
+	#8A94A4
+	#396346
+	#B25E32
+	#D696BA
+	#A82D31
+	#66936F
+	#B29987
+	#C3C3C3
+	#C3AA24
+
+]
+
+Has_Clip_Prefab false
