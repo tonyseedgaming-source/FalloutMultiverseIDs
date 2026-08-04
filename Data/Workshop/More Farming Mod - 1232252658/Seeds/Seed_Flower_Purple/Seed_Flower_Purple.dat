@@ -1,0 +1,34 @@
+GUID 59f309268e734100afcfa719e5d6d0ea
+Type Farm
+Useable Barricade
+Build Farm
+ID 42235
+
+Size_X 1
+Size_Y 1
+Size_Z 0.22
+
+Health 1
+Range 4
+Radius 0.1
+Offset 0.375
+
+Growth 12000
+Grow 42236
+
+Explosion 43
+Vulnerable
+
+Blueprints 1
+Blueprint_0_Type Utilities
+Blueprint_0_Supplies 3
+Blueprint_0_Supply_0_ID 42137
+Blueprint_0_Supply_1_ID 42139
+Blueprint_0_Supply_2_ID 332
+Blueprint_0_Build 27
+
+Use_Auto_Icon_Measurements false
+Procedurally_Animate_Inertia false
+PlacementAudioClip Seeds/Use_Seed_01.mp3
+Has_Clip_Prefab false
+PlacementPreviewPrefab Seeds/Seed_Flower_Purple/Preview.prefab
