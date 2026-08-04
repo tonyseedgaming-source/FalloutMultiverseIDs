@@ -1,0 +1,33 @@
+GUID 59c8fb021f354a0a9eb7f7e56daec1e9
+Type Barricade
+Rarity Rare
+Useable Barricade
+Build Torch
+ID 47318
+
+Size_X 2
+Size_Y 2
+Size_Z 0.34
+
+Health 200
+Range 4
+Offset 0.32
+
+Explosion 36
+
+Blueprints 1
+Blueprint_0_Type Utilities
+Blueprint_0_Supplies 2
+Blueprint_0_Supply_0_ID 47277
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Supply_1_ID 47173
+Blueprint_0_Supply_1_Amount 1
+Blueprint_0_Tool 76
+Blueprint_0_Level 3
+Blueprint_0_Skill Craft
+Blueprint_0_Build 27
+
+Use_Auto_Icon_Measurements false
+Procedurally_Animate_Inertia false
+PlacementAudioClip Furniture/Placement_02.mp3
+Has_Clip_Prefab false
