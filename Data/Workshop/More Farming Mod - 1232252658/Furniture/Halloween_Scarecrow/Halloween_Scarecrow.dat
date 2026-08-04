@@ -1,0 +1,23 @@
+GUID 965da02b4f92407badf2213327357045
+Type Barricade
+Useable Barricade
+Build Freeform
+ID 47419
+
+Size_X 2
+Size_Y 2
+Size_Z 0.44
+
+Health 1
+Range 6
+Radius 0.3
+Offset 0.8
+
+Explosion 82
+Vulnerable
+
+Use_Auto_Icon_Measurements false
+Procedurally_Animate_Inertia false
+PlacementAudioClip Furniture/Placement_Medium_03.mp3
+Salvage_Duration_Multiplier 0.5
+Has_Clip_Prefab false
