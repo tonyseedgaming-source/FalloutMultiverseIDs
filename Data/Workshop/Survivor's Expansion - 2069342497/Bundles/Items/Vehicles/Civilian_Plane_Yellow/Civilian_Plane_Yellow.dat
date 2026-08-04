@@ -1,0 +1,36 @@
+GUID 1f7b8a295c159cb2c2f6bcb894e903a6
+Type Vehicle
+Rarity Legendary
+ID 9852
+
+Speed_Min -4
+Speed_Max 24
+
+Steer_Min 8
+Steer_Max 32
+
+Brake 32
+Lift 5
+
+Fuel 1750
+
+Health_Min 700
+Health_Max 800
+Health 950
+
+LockMouse
+Engine Plane
+Sleds
+Traction
+Crawler
+
+Cam_Follow_Distance 22
+
+Trunk_Storage_X 5
+Trunk_Storage_Y 5
+
+Air_Turn_Responsiveness 4
+Air_Steer_Min 16
+Air_Steer_Max 40
+
+Explosion 20
