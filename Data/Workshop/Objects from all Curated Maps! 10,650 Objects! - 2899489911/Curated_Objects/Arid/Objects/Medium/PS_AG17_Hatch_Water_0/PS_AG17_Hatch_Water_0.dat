@@ -1,0 +1,12 @@
+GUID a51dc3105f6046598d3edcdfc675898e
+
+Type Medium
+
+Has_Clip_Prefab False
+
+ID 59689
+
+Interactability Quest
+Interactability_Rewards 1
+Interactability_Reward_0_Type Teleport
+Interactability_Reward_0_Spawnpoint EXIT_WATER
