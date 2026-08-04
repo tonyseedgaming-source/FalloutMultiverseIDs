@@ -1,0 +1,12 @@
+GUID 0f3a89351b3b47548707e669c3cf723a
+Type Large
+
+Interactability Binary_State
+Interactability_Delay 2.25
+Interactability_Hint Door
+Interactability_Nav Off
+Has_Clip_Prefab false
+
+Asset_Bundle_Version 2
+
+ 
