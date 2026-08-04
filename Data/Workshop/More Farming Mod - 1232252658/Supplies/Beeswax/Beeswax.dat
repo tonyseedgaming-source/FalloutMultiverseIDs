@@ -1,0 +1,17 @@
+GUID 9c0d0531a4b040458eb9e8dafa353035
+Type Supply
+ID 42189
+
+Size_X 1
+Size_Y 1
+Size_Z 0.24
+
+Actions 1
+Action_0_Type Blueprint
+Action_0_Source 42190
+Action_0_Blueprints 1
+Action_0_Blueprint_0_Index 0
+Action_0_Text Stacking
+Action_0_Tooltip Stacking 10 Beeswax.
+
+Use_Auto_Icon_Measurements false
