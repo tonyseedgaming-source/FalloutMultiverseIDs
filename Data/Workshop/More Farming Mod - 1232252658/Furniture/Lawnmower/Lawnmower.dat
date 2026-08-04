@@ -1,0 +1,34 @@
+GUID a9ae490a199a4a80b1fb00181b8e402a
+Type Structure
+Rarity Rare
+Useable Structure
+Construct Floor
+ID 47230
+
+Size_X 2
+Size_Y 2
+Size_Z 0.55
+
+Health 300
+Range 8
+
+Foliage_Cut_Radius 25
+
+Explosion 36
+
+Blueprints 1
+Blueprint_0_Type Utilities
+Blueprint_0_Supplies 2
+Blueprint_0_Supply_0_ID 490
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Supply_0_Critical
+Blueprint_0_Supply_1_ID 68
+Blueprint_0_Supply_1_Amount 1
+Blueprint_0_Tool 76
+Blueprint_0_Level 3
+Blueprint_0_Skill Craft
+Blueprint_0_Build 27
+
+Use_Auto_Icon_Measurements false
+Procedurally_Animate_Inertia false
+Has_Clip_Prefab false
