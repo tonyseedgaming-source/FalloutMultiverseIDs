@@ -1,0 +1,124 @@
+GUID 53c3ac2810e147c48bfb9f203c547d19
+Type Supply
+ID 42233
+
+Size_X 1
+Size_Y 1
+Size_Z 0.68
+
+Actions 2
+Action_0_Type Blueprint
+Action_0_Source 42232
+Action_0_Blueprints 1
+Action_0_Blueprint_0_Index 0
+Action_0_Key Craft_Seed
+
+Action_1_Type Blueprint
+Action_1_Source 42234
+Action_1_Blueprints 1
+Action_1_Blueprint_0_Index 0
+Action_1_Text Stacking
+Action_1_Tooltip Stacking 10 Hay.
+
+Blueprints 10
+Blueprint_0_Type Supply
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 42233
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Tool 41105
+Blueprint_0_Outputs 1
+Blueprint_0_Output_0_ID 470
+Blueprint_0_Output_0_Amount 1
+Blueprint_0_Build 47105
+
+Blueprint_1_Type Supply
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 42233
+Blueprint_1_Supply_0_Amount 2
+Blueprint_1_Tool 41105
+Blueprint_1_Outputs 1
+Blueprint_1_Output_0_ID 41104
+Blueprint_1_Output_0_Amount 1
+Blueprint_1_Build 47105
+
+Blueprint_2_Type Supply
+Blueprint_2_Supplies 1
+Blueprint_2_Supply_0_ID 42233
+Blueprint_2_Supply_0_Amount 1
+Blueprint_2_Tool 41161
+Blueprint_2_Outputs 1
+Blueprint_2_Output_0_ID 462
+Blueprint_2_Output_0_Amount 1
+Blueprint_2_Build 47102
+
+Blueprint_3_Type Supply
+Blueprint_3_Supplies 1
+Blueprint_3_Supply_0_ID 42233
+Blueprint_3_Supply_0_Amount 2
+Blueprint_3_Tool 41161
+Blueprint_3_Outputs 1
+Blueprint_3_Output_0_ID 41160
+Blueprint_3_Output_0_Amount 1
+Blueprint_3_Build 47106
+
+Blueprint_4_Type Supply
+Blueprint_4_Supplies 1
+Blueprint_4_Supply_0_ID 42233
+Blueprint_4_Supply_0_Amount 1
+Blueprint_4_Tool 41171
+Blueprint_4_Outputs 1
+Blueprint_4_Output_0_ID 41190
+Blueprint_4_Output_0_Amount 1
+Blueprint_4_Build 47107
+
+Blueprint_5_Type Supply
+Blueprint_5_Supplies 1
+Blueprint_5_Supply_0_ID 42233
+Blueprint_5_Supply_0_Amount 2
+Blueprint_5_Tool 41171
+Blueprint_5_Outputs 1
+Blueprint_5_Output_0_ID 41170
+Blueprint_5_Output_0_Amount 1
+Blueprint_5_Build 47107
+
+Blueprint_6_Type Supply
+Blueprint_6_Supplies 1
+Blueprint_6_Supply_0_ID 42233
+Blueprint_6_Supply_0_Amount 1
+Blueprint_6_Tool 41117
+Blueprint_6_Outputs 1
+Blueprint_6_Output_0_ID 41118
+Blueprint_6_Output_0_Amount 1
+Blueprint_6_Build 47111
+
+Blueprint_7_Type Supply
+Blueprint_7_Supplies 1
+Blueprint_7_Supply_0_ID 42233
+Blueprint_7_Supply_0_Amount 2
+Blueprint_7_Tool 41117
+Blueprint_7_Outputs 1
+Blueprint_7_Output_0_ID 41116
+Blueprint_7_Output_0_Amount 1
+Blueprint_7_Build 47108
+
+Blueprint_8_Type Supply
+Blueprint_8_Supplies 1
+Blueprint_8_Supply_0_ID 42233
+Blueprint_8_Supply_0_Amount 1
+Blueprint_8_Tool 41142
+Blueprint_8_Outputs 1
+Blueprint_8_Output_0_ID 41132
+Blueprint_8_Output_0_Amount 1
+Blueprint_8_Build 47102
+
+Blueprint_9_Type Supply
+Blueprint_9_Supplies 1
+Blueprint_9_Supply_0_ID 42233
+Blueprint_9_Supply_0_Amount 2
+Blueprint_9_Tool 41142
+Blueprint_9_Outputs 1
+Blueprint_9_Output_0_ID 41141
+Blueprint_9_Output_0_Amount 1
+Blueprint_9_Build 47109
+
+Use_Auto_Icon_Measurements false
