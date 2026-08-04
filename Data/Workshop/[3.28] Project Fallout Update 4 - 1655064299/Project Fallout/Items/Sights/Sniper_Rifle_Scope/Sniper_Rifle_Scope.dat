@@ -1,0 +1,16 @@
+GUID 35fbb93a644b4a0a9c085832b92c18ba
+Type Sight
+Rarity Rare
+ID 5544
+
+Attachment_Calibers 1
+Attachment_Caliber_0 5544
+
+Size_X 2
+Size_Y 1
+Size_Z 0.25
+
+Spread 0.7
+Zoom 10
+
+Exclude_From_Master_Bundle
