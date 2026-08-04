@@ -1,0 +1,12 @@
+GUID d91eba06eb7144c389edbf1039025907
+Type Small
+ID 23205
+
+Interactability Rubble
+Interactability_Reset 300
+Interactability_Health 2
+Interactability_Effect 126
+
+Asset_Bundle_Version 2
+
+Exclude_From_Master_Bundle
