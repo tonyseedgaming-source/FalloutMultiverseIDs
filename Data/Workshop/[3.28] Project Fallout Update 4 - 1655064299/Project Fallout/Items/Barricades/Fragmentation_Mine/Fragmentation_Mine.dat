@@ -1,0 +1,54 @@
+GUID 6c9031ee09704f09a1b08e0081bc9057
+Type Trap
+Rarity Rare
+Useable Barricade
+Build Spike
+ID 5701
+
+Size_X 1
+Size_Y 1
+Size_Z 0.35
+
+Health 10
+Range 4
+Radius 0.2
+Offset 0
+
+Player_Damage 91
+Zombie_Damage 175
+Animal_Damage 175
+Barricade_Damage 75
+Structure_Damage 75
+Vehicle_Damage 175
+Resource_Damage 625
+Object_Damage 100
+
+Range2 8
+Explosion2 34
+
+Explosive
+
+Explosion 36
+Vulnerable
+Unrepairable
+
+Blueprints 2
+Blueprint_0_Type Tool
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 5701
+Blueprint_0_Product 5711
+Blueprint_0_Products 2
+Blueprint_0_Build 27
+Blueprint_1_Type Tool
+Blueprint_1_Supplies 4
+Blueprint_1_Supply_0_ID 5728
+Blueprint_1_Supply_0_Amount 6
+Blueprint_1_Supply_1_ID 5712
+Blueprint_1_Supply_1_Amount 2
+Blueprint_1_Supply_2_ID 5724
+Blueprint_1_Supply_2_Amount 1
+Blueprint_1_Supply_3_ID 5725
+Blueprint_1_Supply_3_Amount 1
+Blueprint_1_Build 32
+
+Exclude_From_Master_Bundle
