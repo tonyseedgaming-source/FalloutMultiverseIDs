@@ -1,0 +1,14 @@
+GUID d2110c8d420041fb847c6f537b8b4443
+
+Type Large
+
+Has_Clip_Prefab False
+
+ID 59378
+
+WeatherEventHook
+
+Rubble Destroy
+Rubble_Reset 600
+Rubble_Health 1
+Rubble_Effect 59007
