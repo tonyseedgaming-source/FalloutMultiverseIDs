@@ -1,0 +1,14 @@
+GUID 8b646eff5bd041de9d1a33a80f77d385
+Type Food
+Useable Consumeable
+ID 43132
+
+Size_X 1
+Size_Y 1
+Size_Z 0.25
+
+Food 15
+Virus 15
+
+Use_Auto_Icon_Measurements false
+Procedurally_Animate_Inertia false
