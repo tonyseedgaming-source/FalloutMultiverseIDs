@@ -1,0 +1,66 @@
+GUID c6bb3a553b6c4815bde95572e9fc2dd0
+Type Melee
+Useable Melee
+ID 48105
+
+Size_X 1
+Size_Y 1
+Size_Z 0.26
+
+Range 0
+Weak 0.8
+Strong 0.8
+Strength 1
+Stamina 0
+
+Player_Damage 0
+Player_Leg_Multiplier 0.6
+Player_Arm_Multiplier 0.6
+Player_Spine_Multiplier 0.8
+Player_Skull_Multiplier 1.1
+
+Zombie_Damage 0
+Zombie_Leg_Multiplier 0.3
+Zombie_Arm_Multiplier 0.3
+Zombie_Spine_Multiplier 0.6
+Zombie_Skull_Multiplier 1.1
+
+Animal_Damage 0
+Animal_Leg_Multiplier 0.3
+Animal_Spine_Multiplier 0.6
+Animal_Skull_Multiplier 1.1
+
+Barricade_Damage 0
+Structure_Damage 0
+Vehicle_Damage 0
+Resource_Damage 0
+Object_Damage 0
+
+Blueprints 2
+Blueprint_0_Type Tool
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 1327
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Level 3
+Blueprint_0_Skill Craft
+Blueprint_0_Build 27
+
+Blueprint_1_Type Tool
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 48105
+Blueprint_1_Supply_0_Amount 1
+Blueprint_1_Outputs 1
+Blueprint_1_Output_0_ID 1327
+Blueprint_1_Output_0_Amount 1
+Blueprint_1_Build 27
+
+Actions 1
+Action_0_Type Blueprint
+Action_0_Source 48105
+Action_0_Blueprints 1
+Action_0_Blueprint_0_Index 1
+Action_0_Text Rewrite
+Action_0_Tooltip Rewrite the gesture book.
+
+Use_Auto_Icon_Measurements false
+Procedurally_Animate_Inertia false
