@@ -1,0 +1,59 @@
+GUID 47942236557d42fbbf864712fdd47cbe
+Type Melee
+Useable Melee
+ID 48101
+
+Size_X 1
+Size_Y 1
+Size_Z 0.44
+
+Range 0
+Weak 0.8
+Strong 0.8
+Strength 1
+Stamina 0
+
+Player_Damage 0
+Player_Leg_Multiplier 0.6
+Player_Arm_Multiplier 0.6
+Player_Spine_Multiplier 0.8
+Player_Skull_Multiplier 1.1
+
+Zombie_Damage 0
+Zombie_Leg_Multiplier 0.3
+Zombie_Arm_Multiplier 0.3
+Zombie_Spine_Multiplier 0.6
+Zombie_Skull_Multiplier 1.1
+
+Animal_Damage 0
+Animal_Leg_Multiplier 0.3
+Animal_Spine_Multiplier 0.6
+Animal_Skull_Multiplier 1.1
+
+Barricade_Damage 0
+Structure_Damage 0
+Vehicle_Damage 0
+Resource_Damage 0
+Object_Damage 0
+
+Blueprints 1
+Blueprint_0_Type Tool
+Blueprint_0_Supplies 4
+Blueprint_0_Supply_0_ID 39
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Supply_1_ID 259
+Blueprint_0_Supply_1_Amount 1
+Blueprint_0_Supply_2_ID 255
+Blueprint_0_Supply_2_Amount 1
+Blueprint_0_Supply_3_ID 256
+Blueprint_0_Supply_3_Amount 1
+Blueprint_0_Outputs 1
+Blueprint_0_Output_0_ID 48101
+Blueprint_0_Output_0_Amount 2
+Blueprint_0_Tool 141
+Blueprint_0_Level 1
+Blueprint_0_Skill Craft
+Blueprint_0_Build 27
+
+Use_Auto_Icon_Measurements false
+Procedurally_Animate_Inertia false
