@@ -1,0 +1,19 @@
+GUID 6ed135fa169042fabc861450c738b626
+
+Type Medium
+
+Has_Clip_Prefab False
+
+ID 60076
+
+Interactability Dropper
+Interactability_Delay 1200
+Interactability_Hint Custom
+Interactability_Reward_ID 59211
+
+Material_Palette ea8f0d5087554cf0ba7d937725c9b6ee
+
+Master_Bundle_Override loco_curated_objects.masterbundle
+Bundle_Override_Path /Objects/Medium/PS_Barrel_Cache_1
+
+Soft
