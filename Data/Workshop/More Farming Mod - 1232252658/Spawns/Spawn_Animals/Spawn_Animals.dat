@@ -1,0 +1,18 @@
+GUID 75522ff2a3044790ad4e9410f04518c7
+Type Spawn
+ID 41102
+Roots 2
+Root_0_Spawn_ID 330
+Root_0_Weight 22
+Root_1_Spawn_ID 509
+Root_1_Weight 11
+
+Tables 4
+Table_0_Asset_ID 41100
+Table_0_Weight 10
+Table_1_Asset_ID 41110
+Table_1_Weight 10
+Table_2_Asset_ID 41128
+Table_2_Weight 10
+Table_3_Asset_ID 41147
+Table_3_Weight 6
