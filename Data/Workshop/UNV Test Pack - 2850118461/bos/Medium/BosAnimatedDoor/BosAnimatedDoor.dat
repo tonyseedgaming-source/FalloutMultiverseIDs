@@ -1,0 +1,12 @@
+GUID b44e4972e3064873b3bb0ee5b52ab1ef
+Type Medium
+ID 12015
+
+Interactability Binary_State
+Interactability_Delay 1
+Interactability_Hint Door
+Interactability_Nav Off
+
+Exclude_From_Master_Bundle
+
+
