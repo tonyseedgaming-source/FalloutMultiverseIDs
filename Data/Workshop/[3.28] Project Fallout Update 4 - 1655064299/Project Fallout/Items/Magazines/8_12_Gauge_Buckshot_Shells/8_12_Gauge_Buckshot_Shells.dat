@@ -1,0 +1,42 @@
+GUID 71d10c552f234927beba7e43990d3ee1
+Type Magazine
+Rarity Uncommon
+ID 5693
+
+Size_X 1
+Size_Y 1
+Size_Z 0.2
+
+Amount 8
+Count_Min 4
+Count_Max 8
+
+Calibers 1
+Caliber_0 5693
+
+Pellets 6
+
+Tracer 48
+
+Blueprints 3
+Blueprint_0_Type Ammo
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 5693
+Blueprint_0_Build 30
+
+Blueprint_1_Type Ammo
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 5682
+Blueprint_1_Build 30
+
+Blueprint_2_Type Tool
+Blueprint_2_Supplies 1
+Blueprint_2_Supply_0_ID 5682
+Blueprint_2_Supply_0_Amount 1
+Blueprint_2_Products 2
+Blueprint_2_Build 30
+
+
+Delete_Empty
+
+Exclude_From_Master_Bundle
