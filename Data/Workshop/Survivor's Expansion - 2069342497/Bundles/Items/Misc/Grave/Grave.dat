@@ -1,0 +1,30 @@
+GUID 41db1ce19a86e69ec61e12537a3b948d
+Type Barricade
+Rarity Uncommon
+Useable Barricade
+Build Barricade
+ID 9824
+
+Size_X 2
+Size_Y 3
+Size_Z 0.50
+
+Health 300
+Range 4
+Radius 0.5
+Offset 0
+
+Explosion 36
+Vulnerable
+
+Blueprints 1
+Blueprint_0_Type Barricade
+Blueprint_0_Supplies 2
+Blueprint_0_Supply_0_ID 74
+Blueprint_0_Supply_0_Amount 2
+Blueprint_0_Supply_1_ID 67
+Blueprint_0_Supply_1_Amount 1
+Blueprint_0_Tool 138
+Blueprint_0_Level 1
+Blueprint_0_Skill Craft
+Blueprint_0_Build 27
