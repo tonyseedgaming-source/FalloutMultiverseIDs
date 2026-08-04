@@ -1,0 +1,9 @@
+GUID 6b68048165a64eb29ee1a3fbaae56e0f
+Type Medium
+ID 5502
+
+Interactability Water
+Interactability_Reset 1500
+Interactability_Resource 5
+
+Exclude_From_Master_Bundle
