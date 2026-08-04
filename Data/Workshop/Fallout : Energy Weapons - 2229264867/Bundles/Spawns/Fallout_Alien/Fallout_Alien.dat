@@ -1,0 +1,37 @@
+GUID 44ed8797623d4a77877f03832aab8da6
+Type Spawn
+ID 50103
+
+Roots 6
+
+//Research
+Root_0_Spawn_ID 390
+Root_0_Weight 10
+
+//Beacon
+Root_8_Spawn_ID 1
+Root_8_Weight 10
+
+//Carepackage_America
+Root_9_Spawn_ID 540
+Root_9_Weight 10
+
+//Carepackage_Canada
+Root_10_Spawn_ID 542
+Root_10_Weight 10
+
+//Carepackage_Peaks
+Root_11_Spawn_ID 680
+Root_11_Weight 10
+
+//Carepackage_Russia
+Root_12_Spawn_ID 615
+Root_12_Weight 10
+
+Tables 2
+Table_0_Asset_ID 50129
+Table_0_Weight 10
+Table_1_Asset_ID 50106
+Table_1_Weight 20
+
+
