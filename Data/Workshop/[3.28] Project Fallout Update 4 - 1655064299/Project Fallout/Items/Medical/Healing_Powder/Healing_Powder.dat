@@ -1,0 +1,23 @@
+GUID ebe1a633849d4bf991b4271549f358db
+Type Medical
+Rarity Common
+Useable Consumeable
+ID 5598
+
+Size_X 1
+Size_Y 1
+Size_Z 0.4
+
+Aid
+Health 15
+
+Blueprints 1
+Blueprint_0_Type Supply
+Blueprint_0_Supplies 2
+Blueprint_0_Supply_0_ID 00
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Supply_1_ID 00
+Blueprint_0_Supply_1_Amount 1
+Blueprint_0_Build 32
+
+Exclude_From_Master_Bundle
