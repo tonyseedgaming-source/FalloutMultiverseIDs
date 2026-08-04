@@ -1,0 +1,16 @@
+GUID f647cd9d790f4cd3babc0557c4f7d7a5
+Type Supply
+ID 42275
+
+Size_X 1
+Size_Y 1
+Size_Z 0.23
+
+Actions 1
+Action_0_Type Blueprint
+Action_0_Source 42101
+Action_0_Blueprints 1
+Action_0_Blueprint_0_Index 0
+Action_0_Key Craft_Seed
+
+Use_Auto_Icon_Measurements false
