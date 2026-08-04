@@ -1,0 +1,16 @@
+GUID 74ed96a98d2545ef9ea777e9df0e308a
+Type Food
+Useable Consumeable
+ID 41150
+
+Size_X 2
+Size_Y 2
+Size_Z 0.4
+
+Backward
+
+Health 10
+Food 35
+
+Use_Auto_Icon_Measurements false
+Procedurally_Animate_Inertia false
