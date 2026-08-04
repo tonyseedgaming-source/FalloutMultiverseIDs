@@ -1,0 +1,35 @@
+GUID b1c9e7178e0c4d6dbeca1f4d675dbf9e
+Type Barricade
+Useable Barricade
+Build Sign
+ID 47416
+
+Size_X 2
+Size_Y 2
+Size_Z 0.44
+
+Health 1000
+Range 5
+Radius 0.3
+Offset 0.58
+
+Locked
+
+Explosion 52
+
+Blueprints 1
+Blueprint_0_Type Furniture
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 74
+Blueprint_0_Supply_0_Amount 10
+Blueprint_0_Tool 138
+Blueprint_0_Level 3
+Blueprint_0_Skill Craft
+Blueprint_0_Build 47101
+
+Should_Close_When_Outside_Range true
+Use_Auto_Icon_Measurements false
+Procedurally_Animate_Inertia false
+PlacementAudioClip Furniture/Placement_01.mp3
+Has_Clip_Prefab false
+PlacementPreviewPrefab Furniture/Tombstone_2/Preview.prefab
