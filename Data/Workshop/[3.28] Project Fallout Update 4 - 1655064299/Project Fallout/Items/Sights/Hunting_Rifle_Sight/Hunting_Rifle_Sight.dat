@@ -1,0 +1,12 @@
+GUID 55965151ad39411b9a6bfdaba096ae78
+Type Sight
+ID 5536
+
+Attachment_Calibers 1
+Attachment_Caliber_0 5535
+
+Size_X 1
+Size_Y 1
+Size_Z 0.055
+
+Exclude_From_Master_Bundle
