@@ -1,0 +1,32 @@
+GUID 0e086df59eff401e85b1b9d806470835
+Type Barricade
+Useable Barricade
+Build Campfire
+ID 47385
+
+Size_X 2
+Size_Y 2
+Size_Z 0.44
+
+Health 300
+Range 4
+Radius 0.02
+Offset 0.2
+
+Explosion 36
+
+Blueprints 1
+Blueprint_0_Type Furniture
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 68
+Blueprint_0_Supply_0_Amount 2
+Blueprint_0_Tool 76
+Blueprint_0_Level 2
+Blueprint_0_Skill Craft
+Blueprint_0_Build 47101
+
+Use_Auto_Icon_Measurements false
+Procedurally_Animate_Inertia false
+PlacementAudioClip Furniture/Placement_Medium_02.mp3
+Salvage_Duration_Multiplier 0.5
+Has_Clip_Prefab false
