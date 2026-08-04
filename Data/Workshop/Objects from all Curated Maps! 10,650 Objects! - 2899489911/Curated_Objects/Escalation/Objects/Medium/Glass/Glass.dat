@@ -1,0 +1,20 @@
+GUID e007618111ee4da78726d025a2f2b814
+
+
+
+
+
+
+
+Type Medium
+ID 51000
+
+LOD Mesh
+LOD_Center_Z -0.5
+LOD_Size_Z -1
+Has_Clip_Prefab false
+
+Rubble Destroy
+Rubble_Reset 400
+Rubble_Health 1
+Rubble_Effect 51022
