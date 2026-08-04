@@ -1,0 +1,39 @@
+GUID 8cbef5dfa25544d6b75084c80738977f
+Type Barricade
+Useable Barricade
+Build Door
+ID 47464
+
+Size_X 1
+Size_Y 2
+Size_Z 0.55
+
+Health 350
+Range 4
+Radius 0.1
+Offset 1.25
+
+Explosion 19
+
+Blueprints 1
+Blueprint_0_Type Furniture
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 47464
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Outputs 1
+Blueprint_0_Output_0_ID 47468
+Blueprint_0_Output_0_Amount 1
+Blueprint_0_Build 27
+
+Actions 1
+Action_0_Type Blueprint
+Action_0_Source 47464
+Action_0_Blueprints 1
+Action_0_Blueprint_0_Index 0
+Action_0_Text Make Lockable
+Action_0_Tooltip Replace with a lockable door.
+
+Use_Auto_Icon_Measurements false
+Procedurally_Animate_Inertia false
+PlacementAudioClip Furniture/Placement_01.mp3
+Has_Clip_Prefab false
