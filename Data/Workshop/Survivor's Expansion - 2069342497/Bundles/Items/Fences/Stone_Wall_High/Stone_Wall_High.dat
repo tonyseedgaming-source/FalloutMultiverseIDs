@@ -1,0 +1,33 @@
+GUID 42b1d45d9ebc82e487f02c70af153dc0
+Type Barricade
+Rarity Epic
+Useable Barricade
+Build Barricade
+ID 9808
+
+Size_X 3
+Size_Y 2
+Size_Z 0.35
+
+Health 1000
+Range 8
+Radius 0.5
+Offset 0
+
+Explosion 36
+
+Blueprints 1
+Blueprint_0_Type Barricade
+Blueprint_0_Supplies 3
+Blueprint_0_Supply_0_ID 74
+Blueprint_0_Supply_0_Amount 8
+Blueprint_0_Supply_1_ID 68
+Blueprint_0_Supply_1_Amount 3
+Blueprint_0_Supply_2_ID 75
+Blueprint_0_Supply_2_Amount 1
+Blueprint_0_Tool 138
+Blueprint_0_Level 3
+Blueprint_0_Skill Craft
+Blueprint_0_Build 27
+
+Armor_Tier High
