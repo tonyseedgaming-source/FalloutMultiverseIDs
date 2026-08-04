@@ -1,0 +1,15 @@
+GUID 26634231d6fb4bb9b4bc630a5117c513
+Type Food
+Useable Consumeable
+ID 41140
+
+Size_X 1
+Size_Y 1
+Size_Z 0.23
+
+Health 5
+Food 25
+
+Use_Auto_Icon_Measurements false
+Procedurally_Animate_Inertia false
+ConsumeAudioClip Consumables/Use_Food_07.mp3
