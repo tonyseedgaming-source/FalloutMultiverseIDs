@@ -1,0 +1,49 @@
+GUID 63cb84668775469492d605163e7a1c3f
+Type Storage
+Rarity Rare
+Useable Barricade
+Build Storage
+ID 47436
+
+Size_X 2
+Size_Y 2
+Size_Z 0.44
+
+Health 500
+Range 4
+Radius 0.01
+Offset 0.75
+
+Storage_X 8
+Storage_Y 10
+
+Explosion 36
+
+Blueprints 1
+Blueprint_0_Type Furniture
+Blueprint_0_Supplies 2
+Blueprint_0_Supply_0_ID 47436
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Supply_1_ID 47437
+Blueprint_0_Supply_1_Amount 1
+Blueprint_0_Outputs 3
+Blueprint_0_Output_0_ID 47390
+Blueprint_0_Output_0_Amount 1
+Blueprint_0_Output_1_ID 47391
+Blueprint_0_Output_1_Amount 1
+Blueprint_0_Output_2_ID 49130
+Blueprint_0_Output_2_Amount 1
+Blueprint_0_Build 27
+
+Actions 1
+Action_0_Type Blueprint
+Action_0_Source 47436
+Action_0_Blueprints 1
+Action_0_Blueprint_0_Index 0
+Action_0_Text Restore Color
+Action_0_Tooltip Restore the color of the refrigerator.
+
+Use_Auto_Icon_Measurements false
+Procedurally_Animate_Inertia false
+PlacementAudioClip Furniture/Placement_02.mp3
+Has_Clip_Prefab false
