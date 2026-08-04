@@ -1,0 +1,29 @@
+GUID 8e8f53823be2ba7ba6c4f6e89457f505
+Type Structure
+Rarity Legendary
+Useable Structure
+Construct Floor
+ID 9822
+
+Size_X 4
+Size_Y 4
+Size_Z 0.45
+
+Health 550
+Range 12
+
+Explosion 36
+
+Blueprints 1
+Blueprint_0_Type Structure
+Blueprint_0_Supplies 3
+Blueprint_0_Supply_0_ID 74
+Blueprint_0_Supply_0_Amount 15
+Blueprint_0_Supply_1_ID 68
+Blueprint_0_Supply_1_Amount 5
+Blueprint_0_Supply_2_ID 260
+Blueprint_0_Supply_2_Amount 3
+Blueprint_0_Tool 138
+Blueprint_0_Level 3
+Blueprint_0_Skill Craft
+Blueprint_0_Build 27
