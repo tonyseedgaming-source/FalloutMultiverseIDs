@@ -1,0 +1,31 @@
+GUID 50359a8d768b4ba69ea203a7901f3421
+
+Type Magazine
+Rarity Epic
+ID 2141
+
+Size_X 2
+Size_Y 2
+Size_Z 0.25
+
+Amount 100
+Count_Min 100
+Count_Max 100
+
+Calibers 1
+Caliber_0 2141
+Pellets 4
+
+Tracer 55
+
+
+Blueprints 2
+Blueprint_0_Type Ammo
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 43
+Blueprint_0_Build 30
+Blueprint_1_Type Ammo
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 1395
+Blueprint_1_Build 30
+Exclude_From_Master_Bundle
