@@ -1,0 +1,47 @@
+GUID 315cc2e9af68494d822134b451427d56
+Type Spawn
+ID 10208
+
+Tables
+[
+	{
+		// Abraxo Cleaner (Supply Item)
+		Guid 3da557166968408a9fea85b07ca7a0f5
+		Weight 2
+	}
+	{
+		// Sweeper (Supply Item)
+		Guid a2747ae56cfd4d368b330a83f565fee0
+		Weight 2
+	}
+	{
+		// Aluminium Can (Supply Item)
+		Guid 2d9332f47ccc4d5dba468c803c0ed1a7
+		Weight 1
+	}
+	{
+		// Fuse (Supply Item)
+		Guid 164335ec9ddb4e118c22b2f10f99052b
+		Weight 1
+	}
+	{
+		// Camera (Supply Item)
+		Guid 561ad65f1af748b0a42cf9a91e7a0917
+		Weight 1
+	}
+	{
+		// Giddyup Buttercup Leg (Supply Item)
+		Guid 335172b96f504dcd94385b26bdaca20e
+		Weight 1
+	}
+	{
+		// Toy Car (Supply Item)
+		Guid 2ee0bfa76e0f46dc84a23824c96bdc4d
+		Weight 1
+	}
+	{
+		// Broken Lamp (Supply Item)
+		Guid 79122054d24e461b80192cbab3931d81
+		Weight 1
+	}
+]
