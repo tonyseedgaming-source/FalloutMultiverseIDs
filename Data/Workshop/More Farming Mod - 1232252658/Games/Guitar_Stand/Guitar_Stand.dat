@@ -1,0 +1,27 @@
+GUID 4eef8df367864e73874b755b554cb6a4
+Type Storage
+Rarity Rare
+Useable Barricade
+Build Storage
+ID 48107
+
+Size_X 1
+Size_Y 2
+Size_Z 0.93
+
+Health 300
+Range 4
+Radius 0.45
+Offset 1.37
+
+Storage_X 2
+Storage_Y 3
+Display
+Locked
+
+Explosion 36
+
+Use_Auto_Icon_Measurements false
+Procedurally_Animate_Inertia false
+PlacementAudioClip Furniture/Placement_02.mp3
+Has_Clip_Prefab false
