@@ -1,0 +1,44 @@
+GUID f17c3efa4a6348c6a9d98e6584df1361
+Type Storage
+Rarity Rare
+Useable Barricade
+Build Storage
+ID 47200
+
+Size_X 2
+Size_Y 2
+Size_Z 0.35
+
+Health 200
+Range 4
+Radius 0.05
+Offset 0.416
+
+Storage_X 3
+Storage_Y 3
+
+Explosion 96
+
+Blueprints 1
+Blueprint_0_Type Furniture
+Blueprint_0_Supplies 6
+Blueprint_0_Supply_0_ID 42218
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Supply_1_ID 42219
+Blueprint_0_Supply_1_Amount 1
+Blueprint_0_Supply_2_ID 42220
+Blueprint_0_Supply_2_Amount 1
+Blueprint_0_Supply_3_ID 42221
+Blueprint_0_Supply_3_Amount 1
+Blueprint_0_Supply_4_ID 42222
+Blueprint_0_Supply_4_Amount 1
+Blueprint_0_Supply_5_ID 1297
+Blueprint_0_Supply_5_Amount 1
+Blueprint_0_Level 1
+Blueprint_0_Skill Craft
+Blueprint_0_Build 27
+
+Use_Auto_Icon_Measurements false
+Procedurally_Animate_Inertia false
+PlacementAudioClip Furniture/Placement_Small_01.mp3
+Has_Clip_Prefab false
