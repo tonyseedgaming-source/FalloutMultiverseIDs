@@ -1,0 +1,27 @@
+GUID fa6a3d347be845118b6a0b86efad4502
+Type Spawn
+ID 60013
+
+Roots 1
+Root_0_Spawn_ID 278
+Root_0_Weight 10
+
+Tables 9
+Table_0_Asset_ID 60057
+Table_0_Weight 10
+Table_1_Asset_ID 60066
+Table_1_Weight 10
+Table_2_Asset_ID 60074
+Table_2_Weight 10
+Table_3_Asset_ID 60071
+Table_3_Weight 10
+Table_4_Asset_ID 60070
+Table_4_Weight 5
+Table_5_Asset_ID 60121
+Table_5_Weight 5
+Table_6_Asset_ID 60120
+Table_6_Weight 5
+Table_7_Asset_ID 60047
+Table_7_Weight 2
+Table_8_Asset_ID 60048
+Table_8_Weight 2
