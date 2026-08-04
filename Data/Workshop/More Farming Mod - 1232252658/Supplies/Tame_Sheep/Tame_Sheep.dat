@@ -1,0 +1,46 @@
+GUID 174cc350b198466fae9df02ea81da1ef
+Type Supply
+ID 41117
+
+Size_X 3
+Size_Y 2
+Size_Z 0.98
+
+Blueprints 1
+Blueprint_0_Type Supply
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 41117
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Tool 137
+Blueprint_0_Outputs 3
+Blueprint_0_Output_0_ID 41111
+Blueprint_0_Output_0_Amount 1
+Blueprint_0_Output_1_ID 41113
+Blueprint_0_Output_1_Amount 1
+Blueprint_0_Output_2_ID 41118
+Blueprint_0_Output_2_Amount 1
+Blueprint_0_Build 47104
+
+Actions 3
+Action_0_Type Blueprint
+Action_0_Source 42233
+Action_0_Blueprints 1
+Action_0_Blueprint_0_Index 6
+Action_0_Text Feed
+Action_0_Tooltip Feed sheep with hay, get the wool.
+
+Action_1_Type Blueprint
+Action_1_Source 41117
+Action_1_Blueprints 1
+Action_1_Blueprint_0_Index 0
+Action_1_Text Butcher
+Action_1_Tooltip Use a butcher knife to turn them into meat.
+
+Action_2_Type Blueprint
+Action_2_Source 42233
+Action_2_Blueprints 1
+Action_2_Blueprint_0_Index 7
+Action_2_Text Breed
+Action_2_Tooltip Feed sheep with two hay, get the lamb.
+
+Use_Auto_Icon_Measurements false
