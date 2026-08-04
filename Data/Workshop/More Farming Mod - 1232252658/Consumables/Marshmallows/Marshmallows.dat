@@ -1,0 +1,29 @@
+GUID 8e578d822d994453bc97d7a9d46449e1
+Type Food
+Useable Consumeable
+ID 42228
+
+Size_X 1
+Size_Y 1
+Size_Z 0.2
+
+Backward
+
+Food 35
+
+Blueprints 1
+Blueprint_0_Type Supply
+Blueprint_0_Supplies 3
+Blueprint_0_Supply_0_ID 470
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Supply_1_ID 42152
+Blueprint_0_Supply_1_Amount 1
+Blueprint_0_Supply_2_ID 41143
+Blueprint_0_Supply_2_Amount 1
+Blueprint_0_Tool 1030
+Blueprint_0_Level 3
+Blueprint_0_Skill Cook
+Blueprint_0_Build 47103
+
+Use_Auto_Icon_Measurements false
+Procedurally_Animate_Inertia false
