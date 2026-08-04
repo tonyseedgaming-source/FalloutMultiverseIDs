@@ -1,0 +1,68 @@
+GUID e86dc3e0cad444ffab39f1f7a64a5380
+Type Supply
+ID 47326
+
+Size_X 1
+Size_Y 1
+Size_Z 0.19
+
+Blueprints 3
+Blueprint_0_Type Utilities
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 47326
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Outputs 2
+Blueprint_0_Output_0_ID 47329
+Blueprint_0_Output_0_Amount 1
+Blueprint_0_Output_1_ID 47325
+Blueprint_0_Output_1_Amount 1
+Blueprint_0_Build 27
+
+Blueprint_1_Type Utilities
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 47326
+Blueprint_1_Supply_0_Amount 1
+Blueprint_1_Outputs 2
+Blueprint_1_Output_0_ID 47330
+Blueprint_1_Output_0_Amount 1
+Blueprint_1_Output_1_ID 47325
+Blueprint_1_Output_1_Amount 1
+Blueprint_1_Build 27
+
+Blueprint_2_Type Utilities
+Blueprint_2_Supplies 2
+Blueprint_2_Supply_0_ID 47326
+Blueprint_2_Supply_0_Amount 1
+Blueprint_2_Supply_0_Critical
+Blueprint_2_Supply_1_ID 67
+Blueprint_2_Supply_1_Amount 1
+Blueprint_2_Outputs 2
+Blueprint_2_Output_0_ID 47329
+Blueprint_2_Output_0_Amount 12
+Blueprint_2_Output_1_ID 47325
+Blueprint_2_Output_1_Amount 1
+Blueprint_2_Build 27
+
+Actions 3
+Action_0_Type Blueprint
+Action_0_Source 47326
+Action_0_Blueprints 1
+Action_0_Blueprint_0_Index 0
+Action_0_Text Take A Piece
+Action_0_Tooltip Take a checkers red piece.
+
+Action_1_Type Blueprint
+Action_1_Source 47326
+Action_1_Blueprints 1
+Action_1_Blueprint_0_Index 1
+Action_1_Text Take A King
+Action_1_Tooltip Take a checkers red king piece.
+
+Action_2_Type Blueprint
+Action_2_Source 47326
+Action_2_Blueprints 1
+Action_2_Blueprint_0_Index 2
+Action_2_Text Take 12 Pieces
+Action_2_Tooltip Take 12 checkers red pieces. (Requires 1 Metal Scrap)
+
+Use_Auto_Icon_Measurements false
