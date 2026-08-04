@@ -1,0 +1,28 @@
+GUID e9736beaf3744f1c973d6c793a0770d9
+Type Vest
+Rarity Rare
+Useable Clothing
+ID 25265
+
+Size_X 2
+Size_Y 2
+Size_Z 0.5
+
+Width 8
+Height 6
+
+Armor 0.2
+
+Blueprints 2
+Blueprint_0_Type Apparel
+Blueprint_0_Supply_0_ID 25265
+Blueprint_0_Product 67
+Blueprint_0_Products 3
+Blueprint_0_Build 32
+Blueprint_1_Type Repair
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 67
+Blueprint_1_Supply_0_Amount 6
+Blueprint_1_Build 32
+
+Exclude_From_Master_Bundle
