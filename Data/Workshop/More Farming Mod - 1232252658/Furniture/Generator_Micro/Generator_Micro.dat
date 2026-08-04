@@ -1,0 +1,40 @@
+GUID 366610a1ca2d442195418a61ecc1292a
+Type Generator
+Rarity Rare
+Useable Barricade
+Build Generator
+ID 47140
+
+Size_X 1
+Size_Y 1
+Size_Z 0.32
+
+Health 300
+Range 4
+Radius 0.16
+Offset 0.224
+
+Capacity 500
+Wirerange 6.0
+Burn 40.0
+
+Explosion 36
+
+Blueprints 1
+Blueprint_0_Type Utilities
+Blueprint_0_Supplies 3
+Blueprint_0_Supply_0_ID 458
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Supply_1_ID 337
+Blueprint_0_Supply_1_Amount 1
+Blueprint_0_Supply_2_ID 1176
+Blueprint_0_Supply_2_Amount 1
+Blueprint_0_Tool 76
+Blueprint_0_Level 3
+Blueprint_0_Skill Craft
+Blueprint_0_Build 27
+
+Use_Auto_Icon_Measurements false
+Procedurally_Animate_Inertia false
+PlacementAudioClip Furniture/Placement_02.mp3
+Has_Clip_Prefab false
