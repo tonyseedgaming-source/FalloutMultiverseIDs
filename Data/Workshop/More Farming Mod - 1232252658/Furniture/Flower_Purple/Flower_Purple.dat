@@ -1,0 +1,38 @@
+GUID 6697f5b8999541319f86e45f3e474541
+Type Barricade
+Useable Barricade
+Build Barricade
+ID 42236
+
+Size_X 1
+Size_Y 1
+Size_Z 0.33
+
+Health 100
+Range 4
+Radius 0.01
+Offset 0.3
+
+Explosion 43
+
+Blueprints 1
+Blueprint_0_Type Furniture
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 42236
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Product 42237
+Blueprint_0_Build 27
+
+Actions 1
+Action_0_Type Blueprint
+Action_0_Source 42236
+Action_0_Blueprints 1
+Action_0_Blueprint_0_Index 0
+Action_0_Text Vase
+Action_0_Tooltip Put flower in a vase.
+
+Use_Auto_Icon_Measurements false
+Procedurally_Animate_Inertia false
+PlacementAudioClip Seeds/Use_Seed_01.mp3
+Has_Clip_Prefab false
+Salvage_Duration_Multiplier 0
