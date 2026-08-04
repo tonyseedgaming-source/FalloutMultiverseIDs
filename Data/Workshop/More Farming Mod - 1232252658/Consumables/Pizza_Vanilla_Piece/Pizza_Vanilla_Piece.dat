@@ -1,0 +1,59 @@
+GUID 130428a9bc634f6fb242dd4427eaa085
+Type Food
+Useable Consumeable
+ID 41181
+
+Size_X 1
+Size_Y 1
+Size_Z 0.23
+
+Health 5
+Food 25
+
+Blueprints 4
+Blueprint_0_Type Supply
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 41182
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Outputs 2
+Blueprint_0_Output_0_ID 41181
+Blueprint_0_Output_0_Amount 1
+Blueprint_0_Output_1_ID 41183
+Blueprint_0_Output_1_Amount 1
+Blueprint_0_Build 27
+
+Blueprint_1_Type Supply
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 41183
+Blueprint_1_Supply_0_Amount 1
+Blueprint_1_Outputs 2
+Blueprint_1_Output_0_ID 41181
+Blueprint_1_Output_0_Amount 1
+Blueprint_1_Output_1_ID 41184
+Blueprint_1_Output_1_Amount 1
+Blueprint_1_Build 27
+
+Blueprint_2_Type Supply
+Blueprint_2_Supplies 1
+Blueprint_2_Supply_0_ID 41184
+Blueprint_2_Supply_0_Amount 1
+Blueprint_2_Outputs 2
+Blueprint_2_Output_0_ID 41181
+Blueprint_2_Output_0_Amount 1
+Blueprint_2_Output_1_ID 41185
+Blueprint_2_Output_1_Amount 1
+Blueprint_2_Build 27
+
+Blueprint_3_Type Supply
+Blueprint_3_Supplies 1
+Blueprint_3_Supply_0_ID 41185
+Blueprint_3_Supply_0_Amount 1
+Blueprint_3_Outputs 1
+Blueprint_3_Output_0_ID 41181
+Blueprint_3_Output_0_Amount 1
+Blueprint_3_Build 27
+
+Use_Auto_Icon_Measurements false
+Procedurally_Animate_Inertia false
+ConsumeAudioClip Consumables/Use_Food_07.mp3
+Instantiated_Item_Name_Override 41140
