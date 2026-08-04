@@ -1,0 +1,44 @@
+GUID 11771a38a2154fb1b292b4cccbb4983b
+Type Barricade
+Rarity Epic
+Useable Barricade
+Build Door
+ID 47104
+
+Size_X 1
+Size_Y 2
+Size_Z 0.55
+
+Health 900
+Range 4
+Radius 0.1
+Offset 1.25
+
+Locked
+
+Explosion 36
+
+Blueprints 2
+Blueprint_0_Type Barricade
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 378
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Level 1
+Blueprint_0_Skill Craft
+Blueprint_0_Build 47101
+
+Blueprint_1_Type Barricade
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 47104
+Blueprint_1_Supply_0_Amount 1
+Blueprint_1_Outputs 1
+Blueprint_1_Output_0_ID 378
+Blueprint_1_Output_0_Amount 1
+Blueprint_1_Level 1
+Blueprint_1_Skill Craft
+Blueprint_1_Build 27
+
+Use_Auto_Icon_Measurements false
+Procedurally_Animate_Inertia false
+PlacementAudioClip Furniture/Placement_02.mp3
+Has_Clip_Prefab false
