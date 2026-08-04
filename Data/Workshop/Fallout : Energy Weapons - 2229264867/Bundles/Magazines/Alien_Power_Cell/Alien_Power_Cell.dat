@@ -1,0 +1,28 @@
+GUID 8f1813349abe4afd8e3969521f40c54a
+Type Magazine
+Rarity Rare
+ID 50106
+
+Size_X 1
+Size_Y 2
+Size_Z 0.15
+
+Amount 10
+Count_Min 1
+Count_Max 10
+
+Calibers 1
+Caliber_0 50126
+
+Tracer 49
+
+Player_Damage 100
+Zombie_Damage 125
+
+Blueprints 1
+Blueprint_0_Type Ammo
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 50106
+Blueprint_0_Build 30
+
+Delete_Empty
