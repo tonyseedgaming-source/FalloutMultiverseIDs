@@ -1,0 +1,35 @@
+GUID b30be22ee26b407d82522da9155c0429
+Type Barricade
+Rarity Rare
+Useable Barricade
+Build Campfire
+ID 47271
+
+Size_X 2
+Size_Y 2
+Size_Z 0.37
+
+Health 200
+Range 4
+Radius 0.03
+Offset 0.4
+
+Explosion 28
+
+Blueprints 1
+Blueprint_0_Type Utilities
+Blueprint_0_Supplies 2
+Blueprint_0_Supply_0_ID 42191
+Blueprint_0_Supply_0_Amount 3
+Blueprint_0_Supply_0_Critical
+Blueprint_0_Supply_1_ID 285
+Blueprint_0_Supply_1_Amount 6
+Blueprint_0_Tool 76
+Blueprint_0_Level 3
+Blueprint_0_Skill Craft
+Blueprint_0_Build 27
+
+Use_Auto_Icon_Measurements false
+Procedurally_Animate_Inertia false
+PlacementAudioClip Furniture/Placement_Small_01.mp3
+Has_Clip_Prefab false
