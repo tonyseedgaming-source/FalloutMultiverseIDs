@@ -1,0 +1,27 @@
+GUID 95d5cb511bfb4160b285f6c6d0398645
+Type Barricade
+Useable Barricade
+Build Campfire
+ID 42334
+
+Size_X 2
+Size_Y 2
+Size_Z 0.41
+
+Health 1
+Range 4
+Radius 0.06
+Offset 0.4
+
+Explosion 86
+Vulnerable
+
+Use_Auto_Icon_Measurements false
+Procedurally_Animate_Inertia false
+PlacementAudioClip Furniture/Placement_Medium_03.mp3
+Salvage_Duration_Multiplier 0.5
+Has_Clip_Prefab false
+PlacementPreviewPrefab Furniture/Christmas_House/Preview.prefab
+Min_Items_Dropped_On_Destroy 6
+Max_Items_Dropped_On_Destroy 6
+Item_Dropped_On_Destroy d5f93ece26ec41f289b0ae747a5db98e
