@@ -1,0 +1,25 @@
+GUID bfeb9d94043f43d78a27e505ce8b9d9a
+Type Farm
+Useable Barricade
+Build Farm
+ID 41170
+
+Size_X 1
+Size_Y 2
+Size_Z 0.54
+
+Health 1
+Range 4
+Radius 0.4
+Offset 0.57
+
+Growth 22000
+Grow 41171
+
+Explosion 47107
+
+Use_Auto_Icon_Measurements false
+Procedurally_Animate_Inertia false
+Has_Clip_Prefab false
+Affected_By_Agriculture_Skill false
+PlacementPreviewPrefab Seeds/Breed_Piglet/Preview.prefab
