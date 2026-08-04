@@ -1,0 +1,26 @@
+GUID 298d2e51111b4e2298fdbe66efe909da
+Type Storage
+Useable Barricade
+Build Storage
+ID 47261
+
+Size_X 2
+Size_Y 2
+Size_Z 0.47
+
+Health 1
+Range 4
+Radius 0.01
+Offset 0.23
+
+Storage_X 5
+Storage_Y 2
+
+Explosion 86
+Vulnerable
+
+Use_Auto_Icon_Measurements false
+Procedurally_Animate_Inertia false
+PlacementAudioClip Furniture/Placement_Medium_03.mp3
+Salvage_Duration_Multiplier 0.5
+Has_Clip_Prefab false
