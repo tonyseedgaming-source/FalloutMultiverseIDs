@@ -1,0 +1,112 @@
+GUID 828b863be74a437bb71bc34bc0e1b498
+Type Spawn
+ID 50100
+
+Roots 23
+
+//Miliary_America
+Root_0_Spawn_ID 334
+Root_0_Weight 40
+
+//Military_Canada
+Root_1_Spawn_ID 114
+Root_1_Weight 20
+
+//Military_Low (Russia)
+Root_2_Spawn_ID 551
+Root_2_Weight 20
+
+//Military_Low_Peaks
+Root_3_Spawn_ID 685
+Root_3_Weight 20
+
+//Special_Canada
+Root_4_Spawn_ID 133
+Root_4_Weight 100
+
+//Special_America
+Root_5_Spawn_ID 347
+Root_5_Weight 100
+
+//Special_Low
+Root_6_Spawn_ID 555
+Root_6_Weight 100
+
+//Special_Low_Peaks
+Root_7_Spawn_ID 689
+Root_7_Weight 100
+
+//Beacon
+Root_8_Spawn_ID 1
+Root_8_Weight 300
+
+//Carepackage_America
+Root_9_Spawn_ID 540
+Root_9_Weight 300
+
+//Carepackage_Canada
+Root_10_Spawn_ID 542
+Root_10_Weight 300
+
+//Carepackage_Peaks
+Root_11_Spawn_ID 680
+Root_11_Weight 300
+
+//Carepackage_Russia
+Root_12_Spawn_ID 615
+Root_12_Weight 300
+
+//Police
+Root_13_Spawn_ID 94
+Root_13_Weight 50
+
+//Police_Low (Russia)
+Root_14_Spawn_ID 547
+Root_14_Weight 50
+
+//Police_Low (Peaks)
+Root_15_Spawn_ID 687
+Root_15_Weight 50
+
+//Gunshop_America
+Root_16_Spawn_ID 382
+Root_16_Weight 30
+
+//Gunshop_Canada
+Root_17_Spawn_ID 240
+Root_17_Weight 30
+
+//Gunshop_Peaks
+Root_18_Spawn_ID 683
+Root_18_Weight 30
+
+//Gunshop_Russia
+Root_19_Spawn_ID 571
+Root_19_Weight 30
+
+//Civilian_America (+Russia)
+Root_20_Spawn_ID 395
+Root_20_Weight 20
+
+//Civilian_Canada
+Root_21_Spawn_ID 280
+Root_21_Weight 21
+
+//Civilian_Peaks
+Root_22_Spawn_ID 692
+Root_22_Weight 10
+
+
+Tables 6
+Table_0_Asset_ID 50100
+Table_0_Weight 250
+Table_1_Asset_ID 50120
+Table_1_Weight 200
+Table_2_Asset_ID 50121
+Table_2_Weight 100
+Table_3_Asset_ID 50101
+Table_3_Weight 75
+Table_4_Asset_ID 50122
+Table_4_Weight 50
+Table_5_Asset_ID 50124
+Table_5_Weight 35
