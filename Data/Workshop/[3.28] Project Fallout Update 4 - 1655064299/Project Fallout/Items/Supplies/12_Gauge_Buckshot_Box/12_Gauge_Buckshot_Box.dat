@@ -1,0 +1,20 @@
+GUID b3af866821ec4925a3e6e8fedb850a96
+Type Supply
+Rarity Uncommon
+ID 5682
+
+Size_X 2
+Size_Y 2
+Size_Z 0.2
+
+Amount 16
+Count_Min 8
+Count_Max 16
+
+Blueprints 1
+Blueprint_0_Type Ammo
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 5682
+Blueprint_0_Build 30
+
+Exclude_From_Master_Bundle
