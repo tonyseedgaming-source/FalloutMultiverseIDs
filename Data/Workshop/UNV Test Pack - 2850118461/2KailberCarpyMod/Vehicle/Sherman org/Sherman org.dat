@@ -1,0 +1,65 @@
+GUID 3549001da01c4e808509a4e807b1302b
+
+Type Vehicle
+Rarity Epic
+ID 2139
+
+Speed_Min -4
+Speed_Max 9
+
+Steer_Min 24
+Steer_Max 48
+
+Brake 24
+
+Fuel_Min 200
+Fuel_Max 400
+Fuel 2000
+
+Health_Min 1100
+Health_Max 4000
+Health 4000
+
+Exit 4
+
+Cam_Follow_Distance 7.5
+Cam_Driver_Offset 0.8
+Bumper_Multiplier 2
+Passenger_Explosion_Armor 0.2
+
+Traction
+LockMouse
+
+Trunk_Storage_X 6
+Trunk_Storage_Y 6
+
+Explosion 20
+Invulnerable
+Tires_Invulnerable
+Tires_Invulnerable
+Bumper_Invulnerable
+
+Turrets 3
+Turret_0_Seat_Index 1
+Turret_0_Item_ID 2148
+Turret_0_Yaw_Min -9999
+Turret_0_Yaw_Max 9999
+Turret_0_Pitch_Min 70
+Turret_0_Pitch_Max 100
+Turret_1_Seat_Index 2
+Turret_1_Item_ID 2144
+Turret_1_Yaw_Min -9999
+Turret_1_Yaw_Max 9999
+Turret_1_Pitch_Min 25
+Turret_1_Pitch_Max 105
+Turret_2_Seat_Index 3
+Turret_2_Item_ID 2146
+Turret_2_Yaw_Min -45
+Turret_2_Yaw_Max 45
+Turret_2_Pitch_Min 65
+Turret_2_Pitch_Max 105
+
+
+
+Has_Clip_Prefab false
+Exclude_From_Master_Bundle
