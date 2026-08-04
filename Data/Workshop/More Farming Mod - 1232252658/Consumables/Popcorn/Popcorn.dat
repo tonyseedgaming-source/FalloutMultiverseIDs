@@ -1,0 +1,26 @@
+GUID 0de6443c6aea45a2b112f1bf9af170a9
+Type Food
+Useable Consumeable
+ID 42129
+
+Size_X 1
+Size_Y 1
+Size_Z 0.26
+
+Backward
+
+Food 40
+
+Blueprints 1
+Blueprint_0_Type Supply
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 335
+Blueprint_0_Supply_0_Amount 2
+Blueprint_0_Tool 1030
+Blueprint_0_Level 1
+Blueprint_0_Skill Cook
+Blueprint_0_Build 47103
+
+Use_Auto_Icon_Measurements false
+Procedurally_Animate_Inertia false
+InspectAudioDef Consumables/Popcorn/Inspect_Popcorn.mp3
