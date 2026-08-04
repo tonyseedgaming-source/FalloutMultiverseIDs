@@ -1,0 +1,35 @@
+GUID 1729ce50031f4c01baaf647ef8244fb9
+Type Barricade
+Rarity Rare
+Useable Barricade
+Build Barricade
+ID 47227
+
+Size_X 1
+Size_Y 1
+Size_Z 0.24
+
+Health 300
+Range 4
+Radius 0.1
+Offset 0.25
+
+Explosion 19
+
+Blueprints 1
+Blueprint_0_Type Utilities
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 331
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Outputs 1
+Blueprint_0_Output_0_ID 47227
+Blueprint_0_Output_0_Amount 2
+Blueprint_0_Tool 141
+Blueprint_0_Level 2
+Blueprint_0_Skill Craft
+Blueprint_0_Build 47110
+
+Use_Auto_Icon_Measurements false
+Procedurally_Animate_Inertia false
+PlacementAudioClip Furniture/Placement_01.mp3
+Has_Clip_Prefab false
