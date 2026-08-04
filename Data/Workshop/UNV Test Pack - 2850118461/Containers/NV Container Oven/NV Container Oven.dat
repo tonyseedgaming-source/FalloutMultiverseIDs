@@ -1,0 +1,77 @@
+GUID 731da932dd594396b4e170a0ceeeb110
+Type Spawn
+ID 10223
+
+Tables
+[
+	{
+		// Nuka Cola (Water Item)
+		Guid bf4e39922d5746018cf8997a92ba19ab
+		Weight 1
+	}
+	{
+		// Sugar Bombs (Food Item)
+		Guid d258f3c50eb04bba85495f0ef530ec24
+		Weight 1
+	}
+	{
+		// BlamCo Mac & Cheese (Food Item)
+		Guid 966e151707ff4f7da9718d850a4394bd
+		Weight 1
+	}
+	{
+		// YumYum Deviled Eggs (Food Item)
+		Guid 55067b00ebd24f7280b1658bcd062cc6
+		Weight 1
+	}
+	{
+		// Cram (Food Item)
+		Guid 2d4680a048fd429e8e7339b9999e7aa5
+		Weight 1
+	}
+	{
+		// Pork n' Beans (Food Item)
+		Guid ae045bd101334cf6b2afc7b2c63468da
+		Weight 1
+	}
+	{
+		// Dandy Boy Apples (Food Item)
+		Guid 8878407f86094b5ab503de3aa9bbdbd6
+		Weight 1
+	}
+	{
+		// InstaMash (Food Item)
+		Guid 302d60ad068f4f608ae3292b8e17480b
+		Weight 1
+	}
+	{
+		// Salisbury Steak (Food Item)
+		Guid ba4d1afbe88e4956b8d18fb8852e8d2f
+		Weight 1
+	}
+	{
+		// Fancy Lads Snack Cakes (Food Item)
+		Guid e78f64189f9b4db9ae2b16b6085a3cef
+		Weight 1
+	}
+	{
+		// Water Bottle (Water Item)
+		Guid f03f12f467af4160a3cc5bc76f199e34
+		Weight 1
+	}
+	{
+		// Tequila (Water Item)
+		Guid 8f78c4c7517e4083b0e55f43b73f47df
+		Weight 1
+	}
+	{
+		// Booze (Water Item)
+		Guid 5376e618ce2440d7a75969f5ef52b565
+		Weight 1
+	}
+	{
+		// Brahmin Milk (Water Item)
+		Guid d8e905cc615b4f0b87e79e0efdeab948
+		Weight 1
+	}
+]
