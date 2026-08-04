@@ -1,0 +1,164 @@
+GUID 8ebe4cb29a8044ebb91959bdb0d1e5dd
+Type Vehicle
+Rarity Legendary
+ID 14001
+
+Speed_Min -20
+Speed_Max 17
+
+Valid_Speed_Horizontal 150
+
+Steer_Min 35
+Steer_Max 35
+
+//Cam_Driver_Offset -0.02
+//Cam_Passenger_Offset -0.04
+
+Brake 32
+
+Exit 3
+
+Fuel_Min 350
+Fuel_Max 700
+Fuel 1250
+
+Health_Min 3000
+Health_Max 3000
+Health 3000
+
+Trunk_Storage_X 3
+Trunk_Storage_Y 3
+
+Explosion 20
+
+Tires_Invulnerable
+Invulnerable
+
+Traction
+Crawler
+
+IgnitionAudioClip core.masterbundle:Sounds/CarIgnition.mp3
+HornAudioClip core.masterbundle:Sounds/CarHorn_03.mp3
+
+WheelConfigurations
+[
+	{
+		WheelColliderPath Tires/Tire_0
+		IsColliderSteered true
+		IsColliderPowered true
+		ModelPath Wheels/Wheel_0
+		ModelUseColliderPose false
+	}
+	{
+		WheelColliderPath Tires/Tire_2
+		IsColliderSteered true
+		IsColliderPowered true
+		ModelPath Wheels/Wheel_2
+		ModelUseColliderPose false
+	}
+	{
+		WheelColliderPath Tires/Tire_4
+		IsColliderSteered false
+		IsColliderPowered true
+		ModelPath Wheels/Wheel_7
+		ModelUseColliderPose false
+	}
+	{
+		WheelColliderPath Tires/Tire_6
+		IsColliderSteered false
+		IsColliderPowered true
+		ModelPath Wheels/Wheel_9
+		ModelUseColliderPose false
+	}
+	{
+		WheelColliderPath Tires/Tire_8
+		IsColliderSteered false
+		IsColliderPowered true
+		ModelPath Wheels/Wheel_11
+		ModelUseColliderPose false
+	}
+	{
+		WheelColliderPath Tires/Tire_10
+		IsColliderSteered false
+		IsColliderPowered true
+		ModelPath Wheels/Wheel_13
+		ModelUseColliderPose false
+	}
+	{
+		WheelColliderPath Tires/Tire_1
+		IsColliderSteered true
+		IsColliderPowered true
+		ModelPath Wheels/Wheel_1
+		ModelUseColliderPose false
+	}
+	{
+		WheelColliderPath Tires/Tire_3
+		IsColliderSteered true
+		IsColliderPowered true
+		ModelPath Wheels/Wheel_3
+		ModelUseColliderPose false
+	}
+	{
+		WheelColliderPath Tires/Tire_5
+		IsColliderSteered false
+		IsColliderPowered true
+		ModelPath Wheels/Wheel_8
+		ModelUseColliderPose false
+	}
+	{
+		WheelColliderPath Tires/Tire_7
+		IsColliderSteered false
+		IsColliderPowered true
+		ModelPath Wheels/Wheel_10
+		ModelUseColliderPose false
+	}
+	{
+		WheelColliderPath Tires/Tire_9
+		IsColliderSteered false
+		IsColliderPowered true
+		ModelPath Wheels/Wheel_12
+		ModelUseColliderPose false
+	}
+	{
+		WheelColliderPath Tires/Tire_11
+		IsColliderSteered false
+		IsColliderPowered true
+		ModelPath Wheels/Wheel_14
+		ModelUseColliderPose false
+	}
+
+]
+
+// PaintableSections
+// [
+//     {
+//         Path Model_0
+//         MaterialIndex 0
+//     }
+//     {
+//         Path Model_2
+//         MaterialIndex 1
+//     }
+// ]
+
+DefaultPaintColors
+[
+	#262626
+	#306CB9
+	#667FB9
+	#A0BDBE
+	#59483F
+	#6DB9B0
+	#8A94A4
+	#396346
+	#B25E32
+	#D696BA
+	#A82D31
+	#66936F
+	#B29987
+	#C3C3C3
+	#C3AA24
+
+]
+
+Has_Clip_Prefab false
