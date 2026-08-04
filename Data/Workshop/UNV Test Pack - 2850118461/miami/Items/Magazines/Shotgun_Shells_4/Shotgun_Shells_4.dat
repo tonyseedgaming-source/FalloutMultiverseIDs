@@ -1,0 +1,27 @@
+GUID 236bc318fcdd493abd850c932dce9348
+Type Magazine
+Rarity Rare
+ID 51602
+
+Size_X 1
+Size_Y 1
+Size_Z 0.15
+
+Amount 4
+Count_Min 1
+Count_Max 4
+
+Calibers 1
+Caliber_0 51601
+
+Tracer 48
+
+Pellets 6
+
+Blueprints 1
+Blueprint_0_Type Ammo
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 51602
+Blueprint_0_Build 30
+
+Delete_Empty
