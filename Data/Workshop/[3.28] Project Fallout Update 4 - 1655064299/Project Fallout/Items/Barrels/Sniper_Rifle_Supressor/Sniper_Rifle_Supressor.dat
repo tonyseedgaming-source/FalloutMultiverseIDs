@@ -1,0 +1,24 @@
+GUID 298ff93021d8463687cf13fb59f002fc
+Type Barrel
+Rarity Rare
+ID 5547
+
+Size_X 2
+Size_Y 1
+Size_Z 0.2
+
+Calibers 1
+Caliber_0 5545
+
+Silenced 
+Volume 1
+Durability 1000
+
+Quality_Min 90
+Quality_Max 100
+
+Recoil_X 0.8
+Recoil_Y 0.6
+Ballistic_Drop 0.9
+
+Exclude_From_Master_Bundle
