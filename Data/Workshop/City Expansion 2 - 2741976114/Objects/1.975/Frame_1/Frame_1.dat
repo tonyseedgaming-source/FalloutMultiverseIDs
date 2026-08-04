@@ -1,0 +1,14 @@
+GUID 6d5b69b421d94026adeecdcabe6c9fcc
+Type Small
+ID 32416
+
+LOD Mesh
+
+Interactability Rubble
+Interactability_Reset 60
+Interactability_Health 1
+Interactability_Effect 58
+
+Asset_Bundle_Version 2
+
+Exclude_From_Master_Bundle
