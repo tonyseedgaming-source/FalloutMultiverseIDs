@@ -1,0 +1,23 @@
+GUID 4702a26c6b564c51afec0280bd9349f9
+Type Spawn
+ID 60002
+
+Roots 1
+Root_0_Spawn_ID 169
+Root_0_Weight 150
+
+Tables 7
+Table_0_Asset_ID 60057
+Table_0_Weight 40
+Table_1_Asset_ID 60063
+Table_1_Weight 40
+Table_2_Asset_ID 60064
+Table_2_Weight 40
+Table_3_Asset_ID 60074
+Table_3_Weight 40
+Table_4_Asset_ID 60099
+Table_4_Weight 40
+Table_5_Asset_ID 60047
+Table_5_Weight 20
+Table_6_Asset_ID 60075
+Table_6_Weight 20
