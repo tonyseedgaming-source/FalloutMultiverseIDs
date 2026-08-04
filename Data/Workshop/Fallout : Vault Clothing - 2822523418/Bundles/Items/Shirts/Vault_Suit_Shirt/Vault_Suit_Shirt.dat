@@ -1,0 +1,31 @@
+GUID 1a0a3c9210f64992a1ba29ec5c6bc827
+Type Shirt
+Rarity Uncommon
+Useable Clothing
+ID 60150
+
+Size_X 3
+Size_Y 2
+Size_Z 0.35
+
+Armor 0.95
+
+Width 3
+Height 2
+
+Blueprints 2
+Blueprint_0_Type Apparel
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 60150
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Outputs 1
+Blueprint_0_Output_0_ID 60010
+Blueprint_0_Output_0_Amount 2
+Blueprint_0_Build 27
+Blueprint_1_Type Repair
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 60010
+Blueprint_1_Supply_0_Amount 2
+Blueprint_1_Build 27
+
+Asset_Bundle_Version 3
