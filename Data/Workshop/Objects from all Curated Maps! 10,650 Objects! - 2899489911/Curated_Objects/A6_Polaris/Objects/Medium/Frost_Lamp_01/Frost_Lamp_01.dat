@@ -1,0 +1,14 @@
+GUID 7da438cd288940f19b9ff135f0e709c0
+
+Type Medium
+Has_Clip_Prefab false
+ID 36010
+
+Interactability Binary_State
+Interactability_Hint Switch
+Interactability_Emission
+
+Rubble Destroy
+Rubble_Reset 300
+Rubble_Health 150
+Rubble_Effect 72
