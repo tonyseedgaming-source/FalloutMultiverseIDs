@@ -1,0 +1,46 @@
+GUID a3c24dfcbdd149bf886123c30a1f3867
+Type Supply
+ID 41171
+
+Size_X 2
+Size_Y 2
+Size_Z 0.74
+
+Blueprints 1
+Blueprint_0_Type Supply
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 41171
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Tool 137
+Blueprint_0_Outputs 3
+Blueprint_0_Output_0_ID 1117
+Blueprint_0_Output_0_Amount 1
+Blueprint_0_Output_1_ID 41113
+Blueprint_0_Output_1_Amount 1
+Blueprint_0_Output_2_ID 516
+Blueprint_0_Output_2_Amount 1
+Blueprint_0_Build 47104
+
+Actions 3
+Action_0_Type Blueprint
+Action_0_Source 42233
+Action_0_Blueprints 1
+Action_0_Blueprint_0_Index 4
+Action_0_Text Feed
+Action_0_Tooltip Feed pig with hay, have them search for truffle.
+
+Action_1_Type Blueprint
+Action_1_Source 41171
+Action_1_Blueprints 1
+Action_1_Blueprint_0_Index 0
+Action_1_Text Butcher
+Action_1_Tooltip Use a butcher knife to turn them into meat.
+
+Action_2_Type Blueprint
+Action_2_Source 42233
+Action_2_Blueprints 1
+Action_2_Blueprint_0_Index 5
+Action_2_Text Breed
+Action_2_Tooltip Feed pig with two hay, get the piglet.
+
+Use_Auto_Icon_Measurements false
