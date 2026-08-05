@@ -1,0 +1,20 @@
+GUID c404591299a94a38b3e28c027eb7cabf
+Type Small
+
+Conditions 1
+Condition_0_Type Flag_Bool
+Condition_0_ID 39125
+Condition_0_Value false
+Condition_0_Logic Equal
+Condition_0_Allow_Unset
+
+Interactability Quest
+Interactability_Effect 36151
+Interactability_Rewards 2
+Interactability_Reward_0_Type Flag_Bool
+Interactability_Reward_0_ID 39125
+Interactability_Reward_0_Value True
+Interactability_Reward_1_Type Flag_Short
+Interactability_Reward_1_ID 39130
+Interactability_Reward_1_Value 1
+Interactability_Reward_1_Modification Increment
