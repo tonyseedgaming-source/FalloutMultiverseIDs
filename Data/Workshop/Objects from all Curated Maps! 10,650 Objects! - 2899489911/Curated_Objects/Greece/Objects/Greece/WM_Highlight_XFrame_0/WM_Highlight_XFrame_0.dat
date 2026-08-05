@@ -1,0 +1,31 @@
+GUID 026e4598f2a14541817bbde2d96846b7
+Type Small
+ID 3804
+
+Asset_Bundle_Version 2
+
+Conditions 1
+Condition_0_Type Flag_Short
+Condition_0_ID 3275
+Condition_0_Value 0
+Condition_0_Logic Equal
+
+Interactability Quest
+Interactability_Effect 27
+
+Interactability_Rewards 3
+
+//Add structure points to total
+Interactability_Reward_0_Type Flag_Math
+Interactability_Reward_0_A_ID 3263
+Interactability_Reward_0_B_ID 3262
+Interactability_Reward_0_Operation ADDITION
+//Add cost points to total
+Interactability_Reward_1_Type Flag_Math
+Interactability_Reward_1_A_ID 3264
+Interactability_Reward_1_B_ID 3261
+Interactability_Reward_1_Operation ADDITION
+//Enable Blueprint
+Interactability_Reward_2_Type Flag_Bool
+Interactability_Reward_2_ID 3275
+Interactability_Reward_2_Value True
