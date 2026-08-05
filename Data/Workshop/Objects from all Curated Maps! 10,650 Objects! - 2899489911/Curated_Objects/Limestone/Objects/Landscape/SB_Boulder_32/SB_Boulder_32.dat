@@ -1,0 +1,14 @@
+﻿GUID e056e7e1e8564f65a367ec46bb40f774
+
+Type Large
+
+Has_Clip_Prefab False
+ID 47365
+
+Soft
+Snowshoe
+Chart Ground
+
+Allow_Structures
+
+Exclude_From_Level_Batching true
