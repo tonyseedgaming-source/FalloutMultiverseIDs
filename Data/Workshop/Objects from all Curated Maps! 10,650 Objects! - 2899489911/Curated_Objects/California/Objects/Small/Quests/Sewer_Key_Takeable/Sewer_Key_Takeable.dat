@@ -1,0 +1,20 @@
+GUID 2efecbd9fd8b485fbff5a59dfde6a759
+Type Small
+ID 42001
+
+Conditions 1
+Condition_0_Type Flag_Bool
+Condition_0_ID 243
+Condition_0_Value False
+Condition_0_Logic Equal
+Condition_0_Allow_Unset
+
+Interactability Quest
+Interactability_Effect 7
+Interactability_Rewards 1
+Interactability_Reward_0_Type Flag_Bool
+Interactability_Reward_0_ID 243
+Interactability_Reward_0_Value True
+
+Master_Bundle_Override core.masterbundle
+Bundle_Override_Path /Objects/Small/Quests/Warden_Key_Takeable
