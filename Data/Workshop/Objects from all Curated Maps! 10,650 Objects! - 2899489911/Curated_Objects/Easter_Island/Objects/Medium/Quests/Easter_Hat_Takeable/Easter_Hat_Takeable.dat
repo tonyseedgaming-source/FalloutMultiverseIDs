@@ -1,0 +1,30 @@
+GUID 60e9f8d2a0414a83b9a53500936b2bc4
+Type Medium
+ID 6886
+
+Conditions 1
+Condition_0_Type Flag_Bool
+Condition_0_ID 6606
+Condition_0_Value False
+Condition_0_Logic Equal
+Condition_0_Allow_Unset
+
+Interactability Quest
+Interactability_Effect 8
+Interactability_Conditions 1
+Interactability_Condition_0_Type Quest
+Interactability_Condition_0_ID 6602
+Interactability_Condition_0_Status Ready
+Interactability_Condition_0_Logic Equal
+Interactability_Condition_0_Ignore_NPC
+Interactability_Condition_0_Reset
+
+Interactability_Rewards 2
+Interactability_Reward_0_Type Flag_Bool
+Interactability_Reward_0_ID 6606
+Interactability_Reward_0_Value True
+Interactability_Reward_1_Type Item
+Interactability_Reward_1_ID 6713
+Interactability_Reward_1_Amount 1
+
+Has_Clip_Prefab False
