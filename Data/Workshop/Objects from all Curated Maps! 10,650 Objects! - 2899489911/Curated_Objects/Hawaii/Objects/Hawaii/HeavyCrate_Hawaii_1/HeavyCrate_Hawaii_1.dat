@@ -1,0 +1,34 @@
+GUID c26fce6e70b648e49ab79ad29eb1b8a3
+Type Small
+ID 4501
+
+Conditions 2
+//This crate hasn't been taken
+Condition_0_Type Flag_Bool
+Condition_0_ID 45726
+Condition_0_Value False
+Condition_0_Logic Equal
+Condition_0_Allow_Unset
+
+//Quest Active
+Condition_1_Type Flag_Bool
+Condition_1_ID 45747
+Condition_1_Value True
+Condition_1_Logic Equal
+
+Interactability Quest
+Interactability_Effect 7
+Interactability_Rewards 2
+
+//Add to crate count
+Interactability_Reward_0_Type Flag_Short
+Interactability_Reward_0_ID 45724
+Interactability_Reward_0_Value 1
+Interactability_Reward_0_Modification Increment
+//Crate has been collected
+Interactability_Reward_1_Type Flag_Bool
+Interactability_Reward_1_ID 45726
+Interactability_Reward_1_Value True
+
+
+
