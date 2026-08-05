@@ -1,0 +1,12 @@
+GUID 7b4717a26ee842b49a0e29da2e031f35
+Type Medium
+
+Rubble Destroy
+Rubble_Reset 600
+Rubble_Health 1
+Rubble_Effect 58
+Rubble_Reward_ID 32226
+Rubble_Reward_Probability 0.8
+Rubble_Rewards_Min 1
+Rubble_Rewards_Max 3
+Has_Clip_Prefab false
