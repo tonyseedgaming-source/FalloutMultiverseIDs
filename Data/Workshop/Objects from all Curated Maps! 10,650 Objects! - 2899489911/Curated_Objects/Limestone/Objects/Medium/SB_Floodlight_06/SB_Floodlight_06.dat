@@ -1,0 +1,22 @@
+﻿GUID 7933b3da61164500a5e9d129b067c2b7
+Type Medium
+
+Has_Clip_Prefab False
+ID 47068
+
+Chart Ignore
+
+Rubble Destroy
+Rubble_Reset 1200
+Rubble_Health 5
+Rubble_Effect 21508
+Rubble_Reward_ID 21502
+Rubble_Rewards_Min 1
+Rubble_Rewards_Max 1
+Rubble_Reward_Probability 0.5
+
+Exclude_From_Level_Batching true
+
+Interactability Binary_State
+Interactability_Remote
+Interactability_Emissive_Material_Mode None
