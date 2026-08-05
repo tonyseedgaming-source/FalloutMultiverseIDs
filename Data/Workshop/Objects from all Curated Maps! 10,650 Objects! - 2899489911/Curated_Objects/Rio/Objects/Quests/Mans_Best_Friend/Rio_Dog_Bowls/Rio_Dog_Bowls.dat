@@ -1,0 +1,9 @@
+GUID eca68d5f308f46a5b140f695b4979d92
+Type Small
+Has_Clip_Prefab false
+
+Conditions 1
+Condition_0_Type Flag_Bool
+Condition_0_ID 39215
+Condition_0_Value True
+Condition_0_Logic Equal
