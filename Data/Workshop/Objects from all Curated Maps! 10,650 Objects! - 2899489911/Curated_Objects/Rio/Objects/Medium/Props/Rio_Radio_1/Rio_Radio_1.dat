@@ -1,0 +1,12 @@
+GUID c5381d7bc9d846c89b7cc0ebe67f1b0e
+Type Medium
+Has_Clip_Prefab false
+
+Rubble Destroy
+Rubble_Reset 600
+Rubble_Effect 77
+Rubble_Health 25
+Rubble_Reward_ID 32280
+Rubble_Reward_Probability 0.8
+Rubble_Nav_Mode DeactivateIfAllDead
+Rubble_Can_Zombies_Damage false
