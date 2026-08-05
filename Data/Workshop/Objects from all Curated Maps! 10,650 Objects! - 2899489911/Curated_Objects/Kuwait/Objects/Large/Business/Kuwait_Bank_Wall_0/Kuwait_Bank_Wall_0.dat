@@ -1,0 +1,12 @@
+GUID 1235d396f3dc4de585b28c85f0eb3113
+Type Large
+Has_Clip_Prefab False
+ID 5403
+
+Rubble Destroy
+Rubble_Reset 600
+Rubble_Health 1500
+Rubble_Effect 35
+Rubble_Invulnerable
+
+Asset_Bundle_Version 2
