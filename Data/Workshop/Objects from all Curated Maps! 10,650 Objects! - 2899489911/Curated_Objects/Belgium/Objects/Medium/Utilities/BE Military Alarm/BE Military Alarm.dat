@@ -1,0 +1,12 @@
+GUID f6f9c635dfb14fae8ad11461e53680d7
+Type Medium
+ID 9086
+
+Snowshoe
+
+Interactability Rubble
+Interactability_Reset 300
+Interactability_Health 100
+Interactability_Effect 72
+
+Asset_Bundle_Version 2
