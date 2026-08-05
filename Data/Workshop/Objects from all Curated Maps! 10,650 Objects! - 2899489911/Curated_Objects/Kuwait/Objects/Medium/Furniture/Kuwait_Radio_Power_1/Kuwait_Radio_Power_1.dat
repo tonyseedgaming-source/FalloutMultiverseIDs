@@ -1,0 +1,20 @@
+GUID 00a4c088611a455ebf8f95076564f743
+Type Medium
+Has_Clip_Prefab False
+ID 5318
+
+Conditions 1
+Condition_0_Type Flag_Bool
+Condition_0_ID 5325
+Condition_0_Value True
+Condition_0_Logic Equal
+
+Interactability Quest
+Interactability_Effect 5299
+Interactability_Rewards 1
+Interactability_Reward_0_Type Flag_Bool
+Interactability_Reward_0_ID 5325
+Interactability_Reward_0_Value False
+
+Master_Bundle_Override loco_curated_objects.masterbundle
+Bundle_Override_Path Kuwait/Objects/Medium/Furniture/Kuwait_Radio_Power_0
