@@ -1,0 +1,13 @@
+﻿GUID caf990999ff94df1886a0eb635432e77
+Type Large
+Has_Clip_Prefab False
+ID 47029
+
+Rubble Destroy
+Rubble_Reset 1800
+Rubble_Health 19000
+Rubble_Effect 21622
+Rubble_Blade_ID 251
+Rubble_Reward_ID 21513
+Rubble_Rewards_Min 2
+Rubble_Rewards_Max 2
