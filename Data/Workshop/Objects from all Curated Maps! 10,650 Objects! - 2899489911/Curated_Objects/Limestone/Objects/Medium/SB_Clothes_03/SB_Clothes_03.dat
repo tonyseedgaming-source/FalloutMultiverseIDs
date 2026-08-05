@@ -1,0 +1,18 @@
+﻿GUID 0d4d7aa24cb24de0ae7308e6ad6ce0c5
+
+Type Medium
+
+Has_Clip_Prefab False
+ID 47439
+
+Rubble Destroy
+Rubble_Reset 1200
+Rubble_Health 1
+Rubble_Effect 21532
+Rubble_Reward_ID 21503
+Rubble_Reward_Probability 0.5
+
+Material_Palette 9b0fc13dc98c4fceb1ac9a26b36cc5ab
+
+Master_Bundle_Override loco_curated_objects.masterbundle
+Bundle_Override_Path /Limestone/Objects/Medium/SB_Clothes_02
