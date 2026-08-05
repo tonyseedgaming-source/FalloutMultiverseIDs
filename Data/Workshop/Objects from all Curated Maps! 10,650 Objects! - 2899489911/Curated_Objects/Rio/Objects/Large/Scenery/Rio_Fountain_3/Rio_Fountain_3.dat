@@ -1,0 +1,12 @@
+GUID f38da1ed55884dbc8f8e5df93ad7e050
+Type Large
+Has_Clip_Prefab false
+
+Conditions 1
+//Under Pressure Completed
+Condition_0_Type Quest
+Condition_0_ID 37077
+Condition_0_Status Completed
+Condition_0_Logic Equal
+
+Chart Ignore
