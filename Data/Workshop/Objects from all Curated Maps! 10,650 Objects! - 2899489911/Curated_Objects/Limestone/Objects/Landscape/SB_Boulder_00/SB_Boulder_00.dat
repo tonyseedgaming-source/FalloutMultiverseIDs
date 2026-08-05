@@ -1,0 +1,10 @@
+﻿GUID 0d9e480585fb446da3c7ab90b1c27e46
+Type Large
+Has_Clip_Prefab False
+ID 47000
+
+Soft
+Snowshoe
+Chart Ground
+
+Exclude_From_Level_Batching true
