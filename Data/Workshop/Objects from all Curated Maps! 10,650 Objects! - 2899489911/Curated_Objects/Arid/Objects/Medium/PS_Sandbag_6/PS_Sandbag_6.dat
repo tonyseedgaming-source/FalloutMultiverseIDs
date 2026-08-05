@@ -1,0 +1,14 @@
+GUID 52ddea388d1b4b819d81a0710836bc98
+
+Type Medium
+
+Has_Clip_Prefab False
+
+ID 59135
+
+Material_Palette 918476166f474d7ca8d4b88f66bb5724
+
+Master_Bundle_Override loco_curated_objects.masterbundle
+Bundle_Override_Path /Objects/Medium/PS_Sandbag_0
+
+Causes_Fall_Damage False
