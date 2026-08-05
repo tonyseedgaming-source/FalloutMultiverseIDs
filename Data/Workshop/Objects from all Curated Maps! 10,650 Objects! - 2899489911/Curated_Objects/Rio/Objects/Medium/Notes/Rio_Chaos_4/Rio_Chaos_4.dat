@@ -1,0 +1,15 @@
+GUID 7813baf0cfcd4eeebb4e60ec18d12608
+Type Medium
+Has_Clip_Prefab false
+
+Interactability Note
+Interactability_Hint Use
+Interactability_Text_Lines 1
+
+Conditions 1
+//Chaos Level
+Condition_0_Type Flag_Short
+Condition_0_ID 39104
+Condition_0_Value 0
+Condition_0_Logic Equal
+Condition_0_Allow_Unset
