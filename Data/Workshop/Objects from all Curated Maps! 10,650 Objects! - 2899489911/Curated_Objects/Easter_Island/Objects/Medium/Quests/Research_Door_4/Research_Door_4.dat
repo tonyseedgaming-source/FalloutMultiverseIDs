@@ -1,0 +1,14 @@
+GUID 2c9bfabcb6ec4306840b681d1adeda96
+Type Medium
+ID 6705
+
+LOD Mesh
+LOD_Center_Z -0.5
+LOD_Size_Z -1
+
+Bypass_ID_Limit
+
+Master_Bundle_Override loco_curated_objects.masterbundle
+Bundle_Override_Path Easter_Island/Objects/Medium/Quests/Research_Door_1
+Exclude_From_Master_Bundle
+Has_Clip_Prefab False
