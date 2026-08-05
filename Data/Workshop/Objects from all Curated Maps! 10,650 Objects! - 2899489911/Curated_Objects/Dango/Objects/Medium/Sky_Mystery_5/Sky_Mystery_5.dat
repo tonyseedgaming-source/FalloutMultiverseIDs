@@ -1,0 +1,13 @@
+GUID 9aeb576330c54687b4ed9c63646959b7
+
+Type Medium
+ID 44099
+
+Interactability Dropper
+Interactability_Delay 30
+Interactability_Hint Use
+Interactability_Reward_ID 44009
+
+Holiday_Restriction HALLOWEEN
+
+Asset_Bundle_Version 2
