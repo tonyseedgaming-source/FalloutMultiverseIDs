@@ -1,0 +1,11 @@
+GUID cd6578b8b34246e1aa265a4ed3926a86
+Type Small
+Has_Clip_Prefab false
+
+Conditions 1
+Condition_0_Type Flag_Bool
+Condition_0_ID 39113
+Condition_0_Value True
+Condition_0_Logic Equal
+
+Bundle_Override_Path Rio/Objects/Quests/Reaching_Out/Rio_Pamphlet_Placed
