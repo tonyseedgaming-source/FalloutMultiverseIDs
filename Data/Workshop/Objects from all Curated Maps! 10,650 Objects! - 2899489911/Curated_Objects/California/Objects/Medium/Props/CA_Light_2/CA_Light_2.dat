@@ -1,0 +1,21 @@
+GUID b2b5bba2e24d43d9b99b6b6a3d54845d
+Type Medium
+ID 4540
+
+Interactability Binary_State
+Interactability_Hint Switch
+Interactability_Power Stay
+Interactability_Emission
+
+Chart Ignore
+
+Rubble Destroy
+Rubble_Reset 300
+Rubble_Health 50
+Rubble_Effect 72
+
+Master_Bundle_Override loco_curated_objects.masterbundle
+// Path relative to core.masterbundle:
+Bundle_Override_Path California/Objects/Medium/Props/CA_Light_0
+
+Material_Palette 0ccbab4997c84ab1abf0f2c848f4059b
