@@ -1,0 +1,13 @@
+GUID f400a2ce3792459ead84e47181ce39ef
+Type Medium
+ID 3975
+
+Interactability Note
+Interactability_Hint Use
+Interactability_Text_Lines 7
+
+Asset_Bundle_Version 2
+Bundle_Override_Path /Objects/Medium/Furniture/Note
+Exclude_From_Master_Bundle
+
+Master_Bundle_Override core.masterbundle
