@@ -1,0 +1,20 @@
+GUID 2612e8fc07964bf0b1ffb59a814698af
+Type Small
+Has_Clip_Prefab false
+
+Conditions 3
+//Seeds We Sown Completed
+Condition_0_Type Quest
+Condition_0_ID 37004
+Condition_0_Status Completed
+Condition_0_Logic Equal
+//Safezone Reputation
+Condition_1_Type Flag_Short
+Condition_1_ID 39006
+Condition_1_Value 6
+Condition_1_Logic Greater_Than_Or_Equal_To
+//Date Counter
+Condition_2_Type Date_Counter
+Condition_2_Value 6
+Condition_2_Divisor 8
+Condition_2_Logic Greater_Than_Or_Equal_To
