@@ -1,0 +1,12 @@
+GUID f878d7f6a5994ae9a06b3feb97ab8b24
+Type Medium
+Has_Clip_Prefab False
+ID 47520
+
+Interactability Quest
+Interactability_Rewards 1
+Interactability_Reward_0_Type Teleport
+Interactability_Reward_0_Spawnpoint Transit_1
+
+Master_Bundle_Override loco_curated_objects.masterbundle
+Bundle_Override_Path /Limestone/Objects/Large/SB_Bunker_Exit_Door_00
