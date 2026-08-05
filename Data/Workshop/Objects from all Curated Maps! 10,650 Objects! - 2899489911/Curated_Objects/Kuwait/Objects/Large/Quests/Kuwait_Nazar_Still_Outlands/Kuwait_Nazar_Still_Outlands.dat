@@ -1,0 +1,12 @@
+GUID 375fa2adf3d24b7d894df708c21eae77
+Type Large
+Has_Clip_Prefab False
+ID 5992
+
+Asset_Bundle_Version 3
+
+Conditions 1
+Condition_0_Type Flag_Bool
+Condition_0_ID 29717
+Condition_0_Value True
+Condition_0_Logic Equal
