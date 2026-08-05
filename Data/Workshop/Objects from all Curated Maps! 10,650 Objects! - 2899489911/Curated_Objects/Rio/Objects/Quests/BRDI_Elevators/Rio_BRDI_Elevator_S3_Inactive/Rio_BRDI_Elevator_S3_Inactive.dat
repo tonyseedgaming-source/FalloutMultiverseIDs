@@ -1,0 +1,22 @@
+GUID ffe827fdfc8f4fa2b0ef680879adc757
+Type Medium
+Has_Clip_Prefab false
+
+Conditions 1
+Condition_0_Type Flag_Short
+Condition_0_ID 39130
+Condition_0_Value 4
+Condition_0_Logic Less_Than
+Condition_0_Allow_Unset True
+
+Interactability Quest
+Interactability_Conditions 1
+Interactability_Condition_0_Type Flag_Short
+Interactability_Condition_0_ID 39130
+Interactability_Condition_0_Value 10
+Interactability_Condition_0_Logic Greater_Than_Or_Equal_To
+Interactability_Rewards 1
+Interactability_Reward_0_Type Teleport
+Interactability_Reward_0_Spawnpoint CS2
+
+Bundle_Override_Path Rio/Objects/Quests/BRDI_Elevators/Rio_BRDI_Elevator_Inactive
