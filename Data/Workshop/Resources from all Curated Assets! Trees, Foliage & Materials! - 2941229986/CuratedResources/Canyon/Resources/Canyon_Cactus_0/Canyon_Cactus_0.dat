@@ -1,0 +1,14 @@
+GUID 99350fc8808d4c6aa31e69be71f91d07
+
+Type Resource
+ID 28000
+
+Health 25
+Radius 3
+Scale 0.1
+
+Reward_XP 25
+
+No_Debris
+
+Asset_Bundle_Version 2
