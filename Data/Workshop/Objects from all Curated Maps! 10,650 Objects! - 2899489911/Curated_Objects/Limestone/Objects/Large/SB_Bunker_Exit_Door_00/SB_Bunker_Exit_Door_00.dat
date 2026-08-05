@@ -1,0 +1,9 @@
+GUID 132b715503d34c48a88176e3f2567244
+Type Medium
+Has_Clip_Prefab False
+ID 47520
+
+Interactability Quest
+Interactability_Rewards 1
+Interactability_Reward_0_Type Teleport
+Interactability_Reward_0_Spawnpoint Transit_0
