@@ -1,0 +1,19 @@
+﻿GUID d6b9981487984e53a7f7516f874bd973
+Type Small
+Has_Clip_Prefab False
+ID 47106
+
+Rubble Destroy
+Rubble_Reset 1200
+Rubble_Health 25
+Rubble_Effect 21625
+Rubble_Proof_Explosion
+Rubble_Can_Zombies_Damage False
+
+Rubble_Blade_ID 249
+Rubble_Reward_ID 22272
+
+Exclude_From_Level_Batching true
+
+Master_Bundle_Override loco_curated_objects.masterbundle
+Bundle_Override_Path /Limestone/Objects/Medium/SB_Dig_Site_1
