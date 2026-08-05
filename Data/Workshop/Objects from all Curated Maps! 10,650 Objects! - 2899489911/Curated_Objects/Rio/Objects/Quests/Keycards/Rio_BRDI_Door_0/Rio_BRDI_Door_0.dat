@@ -1,0 +1,11 @@
+GUID 1de4abd1db894e90b0a6dfa47aa8eb51
+Type Medium
+Has_Clip_Prefab false
+
+Interactability Binary_State
+Interactability_Delay 0.25
+Interactability_Reset 5
+Interactability_Hint Door
+Load_Nav_In_Editor false
+Interactability_Nav Off
+Interactability_Animation_Component_Path Alive
