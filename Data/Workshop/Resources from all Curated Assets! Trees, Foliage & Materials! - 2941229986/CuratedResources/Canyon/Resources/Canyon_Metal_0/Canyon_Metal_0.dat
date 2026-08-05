@@ -1,0 +1,19 @@
+GUID de92e3a6b25a4f01b4f468fb1fe54641
+
+Type Resource
+ID 28005
+
+Health 1200
+Radius 4
+Scale 0.3
+
+Explosion 52
+Reward_ID 518
+Reward_XP 6
+Reward_Min 3
+Reward_Max 7
+
+BladeID 2
+
+No_Debris
+Reset 1000
