@@ -1,0 +1,11 @@
+GUID c7a3560efa704fc2a82abdd0a583ec94
+Type Small
+Has_Clip_Prefab false
+
+Conditions 1
+Condition_0_Type Quest
+Condition_0_ID 37008
+Condition_0_Status Completed
+Condition_0_Logic Equal
+
+Bundle_Override_Path Rio/Objects/Quests/Guitarist_Hero/Rio_Donnie_Drum_2
