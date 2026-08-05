@@ -1,0 +1,11 @@
+GUID a61d1bc9d5a3401fb9dec1c241d5b211
+Type Small
+ID 3727
+
+Asset_Bundle_Version 2
+
+Conditions 1
+Condition_0_Type Flag_Short
+Condition_0_ID 3187
+Condition_0_Value 4
+Condition_0_Logic Greater_Than_Or_Equal_To
