@@ -1,0 +1,16 @@
+GUID c396eb5bd81d40d4ad85361e49e0530b
+Type Medium
+Has_Clip_Prefab false
+
+Interactability Quest
+Interactability_Conditions 1
+//Has Basement Key
+Interactability_Condition_0_Type Flag_Bool
+Interactability_Condition_0_ID 39711
+Interactability_Condition_0_Value True
+Interactability_Condition_0_Logic Equal
+Interactability_Rewards 1
+Interactability_Reward_0_Type Teleport
+Interactability_Reward_0_Spawnpoint Basement
+
+Bundle_Override_Path Rio/Objects/Medium/Furniture/Rio_Door_Wood
