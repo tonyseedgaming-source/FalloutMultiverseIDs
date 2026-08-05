@@ -1,0 +1,11 @@
+GUID 92af497d1dca4af09de8db6312a59c7e
+Type Small
+ID 3654
+
+Conditions 1
+Condition_0_Type Flag_Short
+Condition_0_ID 3035
+Condition_0_Value 2
+Condition_0_Logic Equal
+
+Asset_Bundle_Version 2
