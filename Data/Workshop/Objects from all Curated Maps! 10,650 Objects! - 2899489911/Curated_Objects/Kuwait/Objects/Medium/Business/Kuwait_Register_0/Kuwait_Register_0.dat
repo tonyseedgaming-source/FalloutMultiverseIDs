@@ -1,0 +1,14 @@
+GUID 3c0649c59ed84e60b7d6f59192940489
+Type Medium
+Has_Clip_Prefab False
+ID 5018
+
+Interactability Dropper
+Interactability_Delay 60
+Interactability_Hint Use
+Interactability_Reward_ID 7242
+
+Rubble Destroy
+Rubble_Reset 60
+Rubble_Health 1
+Rubble_Effect 81
