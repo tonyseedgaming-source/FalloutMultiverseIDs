@@ -1,0 +1,19 @@
+GUID f1ec7ecc657e4ee28ba81d78af474212
+Type Small
+Has_Clip_Prefab false
+Exclude_From_Culling_Volumes true
+
+Conditions 1
+//CG is Calling
+Condition_0_Type Flag_Bool
+Condition_0_ID 39365
+Condition_0_Value True
+Condition_0_Logic Equal
+
+// for visualizing the editor object. no other purpose.
+Rubble Destroy
+Rubble_Blade_ID 9999
+Rubble_Reset 1
+Rubble_Health 999999
+Rubble_Effect 72
+Rubble_Editor Dead
