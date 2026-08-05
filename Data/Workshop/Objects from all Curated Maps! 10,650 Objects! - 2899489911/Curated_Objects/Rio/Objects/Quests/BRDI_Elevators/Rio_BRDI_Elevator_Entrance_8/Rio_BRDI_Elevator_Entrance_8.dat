@@ -1,0 +1,20 @@
+GUID 9883e4a05c864b32b2093a4f281113a1
+Type Large
+Has_Clip_Prefab false
+
+Interactability Quest
+Interactability_Conditions 1
+Interactability_Condition_0_Type Quest
+Interactability_Condition_0_ID 37002
+Interactability_Condition_0_Status Ready
+Interactability_Condition_0_Logic Equal
+Interactability_Condition_0_Ignore_NPC
+Interactability_Condition_0_Reset
+Interactability_Rewards 2
+Interactability_Reward_0_Type Teleport
+Interactability_Reward_0_Spawnpoint CE
+Interactability_Reward_1_Type Hint
+Interactability_Reward_1_Text You feel the world shifting...
+Interactability_Reward_1_Duration 10
+
+Bundle_Override_Path Rio/Objects/Large/Utilities/Rio_Elevator_2
