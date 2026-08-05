@@ -1,0 +1,17 @@
+﻿GUID 935e504e61d946879e17eb954c7352db
+
+Type Small
+
+Has_Clip_Prefab False
+ID 47346
+
+Interactability Rubble
+Interactability_Reset 1200
+Interactability_Health 1
+Interactability_Effect 21529
+Interactability_Reward_ID 21980
+Interactability_Probability 0.6
+
+Material_Palette ec35f31ccf7d48d09b454b73927588e7
+
+Exclude_From_Level_Batching true
