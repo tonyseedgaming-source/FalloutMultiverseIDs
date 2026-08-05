@@ -1,0 +1,14 @@
+GUID 3fb318fb9f8a4b26b22a181360ebb40d
+Type Medium
+Has_Clip_Prefab false
+
+Interactability Water
+Interactability_Reset 1500
+Interactability_Resource 5
+
+Rubble Destroy
+Rubble_Reset 250
+Rubble_Health 25
+Rubble_Effect 36110
+Rubble_Reward_ID 32222
+Rubble_Reward_Probability 0.8
