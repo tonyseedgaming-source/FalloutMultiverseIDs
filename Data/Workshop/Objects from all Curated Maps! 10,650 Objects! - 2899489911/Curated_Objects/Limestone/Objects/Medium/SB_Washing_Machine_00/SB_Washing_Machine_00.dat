@@ -1,0 +1,16 @@
+﻿GUID d52e8be8e1ed4e7c91bd223ad9f1b358
+
+Type Medium
+
+Has_Clip_Prefab False
+ID 47410
+
+Rubble Destroy
+Rubble_Reset 1200
+Rubble_Health 2
+Rubble_Effect 21527
+
+Rubble_Reward_ID 22324
+Rubble_Rewards_Min 1
+Rubble_Rewards_Max 2
+Rubble_Reward_Probability 1
