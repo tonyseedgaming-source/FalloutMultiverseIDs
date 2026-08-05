@@ -1,0 +1,11 @@
+GUID 30caf753969f4364a6c161e670a8359a
+Type Small
+ID 3822
+
+Asset_Bundle_Version 2
+
+Conditions 1
+Condition_0_Type Flag_Short
+Condition_0_ID 3300
+Condition_0_Value 10
+Condition_0_Logic Less_Than
