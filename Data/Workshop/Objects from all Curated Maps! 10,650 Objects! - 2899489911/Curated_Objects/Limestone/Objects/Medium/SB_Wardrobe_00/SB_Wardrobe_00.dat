@@ -1,0 +1,19 @@
+﻿GUID b0f5ee970b584451b21913d559fa90d2
+
+Type Large
+
+Has_Clip_Prefab False
+ID 47417
+
+Interactability Dropper
+Interactability_RewardItem_Origin World
+Interactability_Delay 600
+Interactability_Hint Use
+Interactability_Reward_ID 21783
+
+Rubble Destroy
+Rubble_Reset 1200
+Rubble_Health 5
+Rubble_Effect 21526
+Rubble_Reward_ID 21500
+Rubble_Reward_Probability 0.5
