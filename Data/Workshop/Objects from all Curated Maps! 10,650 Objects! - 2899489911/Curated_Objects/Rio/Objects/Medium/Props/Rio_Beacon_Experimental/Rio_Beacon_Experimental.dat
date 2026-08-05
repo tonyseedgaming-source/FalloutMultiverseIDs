@@ -1,0 +1,12 @@
+GUID 17be1dcaa5084ba18f375cd725bac8a7
+Type Medium
+Has_Clip_Prefab false
+
+Exclude_From_Level_Batching true
+
+Conditions 1
+Condition_0_Type Flag_Short
+Condition_0_ID 39131
+Condition_0_Value 1
+Condition_0_Logic Less_Than
+Condition_0_Allow_Unset True
