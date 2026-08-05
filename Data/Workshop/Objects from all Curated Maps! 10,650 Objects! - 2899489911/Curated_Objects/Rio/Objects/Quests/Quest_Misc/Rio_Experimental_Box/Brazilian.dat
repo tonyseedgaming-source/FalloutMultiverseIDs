@@ -1,0 +1,6 @@
+Name Rio Experimental Box #1
+
+Interact Abrir Caixa [{0}]
+
+Interactability_Condition_0 Trancado.
+Interactability_Condition_1 Caixa Vazia!
