@@ -1,0 +1,10 @@
+GUID 3ba130c645614c72ad5eeedf7dba8265
+Type Medium
+Has_Clip_Prefab false
+
+Interactability Quest
+Interactability_Rewards 1
+Interactability_Reward_0_Type Teleport
+Interactability_Reward_0_Spawnpoint Museum
+
+Bundle_Override_Path Rio/Objects/Medium/Furniture/Rio_Door_Wood
