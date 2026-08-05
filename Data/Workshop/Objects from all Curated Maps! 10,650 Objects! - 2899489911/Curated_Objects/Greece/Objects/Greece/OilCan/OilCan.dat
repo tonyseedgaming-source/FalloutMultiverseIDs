@@ -1,0 +1,20 @@
+GUID 2c806266ebfb4a738235e217ca21d063
+Type Small
+ID 3838
+
+Conditions 1
+Condition_0_Type Flag_Short
+Condition_0_ID 3347
+Condition_0_Value 2
+Condition_0_Logic Equal
+
+Interactability Quest
+Interactability_Effect 7
+
+Interactability_Rewards 1
+
+//Pick up Shuffle
+Interactability_Reward_0_Type Flag_Short
+Interactability_Reward_0_ID 3347
+Interactability_Reward_0_Value 3
+Interactability_Reward_0_Modification Assign
