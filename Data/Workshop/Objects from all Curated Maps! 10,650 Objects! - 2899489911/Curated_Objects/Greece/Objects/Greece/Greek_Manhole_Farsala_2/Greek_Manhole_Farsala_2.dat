@@ -1,0 +1,20 @@
+GUID 78426ec118494597ac07844da0e6e9df
+Type Small
+ID 3905
+
+Asset_Bundle_Version 2
+
+Conditions 1
+Condition_0_Type Flag_Short
+Condition_0_ID 3370
+Condition_0_Value -1
+Condition_0_Logic Greater_Than
+
+Interactability Quest
+Interactability_Effect 38
+
+Interactability_Rewards 1
+
+//Enter the Farsala Sewers
+Interactability_Reward_0_Type Teleport
+Interactability_Reward_0_Spawnpoint FarsalaSewers2
