@@ -1,0 +1,11 @@
+GUID fbedbafb27a349688bcd5fb770e45ec8
+Type Medium
+ID 6202
+
+Interactability Note
+Interactability_Hint Use
+Interactability_Text_Lines 5
+
+Asset_Bundle_Version 2
+Bundle_Override_Path /Objects/Medium/Furniture/Note
+Master_Bundle_Override core.masterbundle
