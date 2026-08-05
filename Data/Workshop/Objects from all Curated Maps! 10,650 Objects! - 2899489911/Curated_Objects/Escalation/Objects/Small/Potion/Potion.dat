@@ -1,0 +1,25 @@
+GUID eb344159c97f49588ee9eccc78e6d7fa
+Type Small
+ID 51000
+
+Has_Clip_Prefab false
+
+Conditions 2
+// Quest Edward
+Condition_0_Type Quest
+Condition_0_ID 52374
+Condition_0_Status Active
+Condition_0_Logic Equal
+// Drive Picked Up
+Condition_1_Type Flag_Bool
+Condition_1_ID 52375
+Condition_1_Value False
+Condition_1_Logic Equal
+Condition_1_Allow_Unset
+
+Interactability Quest
+Interactability_Effect 7
+Interactability_Rewards 1
+Interactability_Reward_0_Type Flag_Bool
+Interactability_Reward_0_ID 52375
+Interactability_Reward_0_Value True
