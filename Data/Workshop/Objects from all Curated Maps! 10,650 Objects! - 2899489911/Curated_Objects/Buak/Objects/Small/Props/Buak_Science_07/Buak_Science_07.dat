@@ -1,0 +1,11 @@
+GUID 2004f10d715e44b7a68ea77c260fa055
+Type Small
+ID 25300
+
+Chart Ignore
+Has_Clip_Prefab false
+
+Rubble Destroy
+Rubble_Reset 60
+Rubble_Health 1
+Rubble_Effect 74
