@@ -1,0 +1,11 @@
+GUID f95359f8cf8f432f8246467a1e15512b
+Type Medium
+ID 45781
+
+
+Asset_Bundle_Version 2
+
+Rubble Destroy
+Rubble_Reset 300
+Rubble_Health 200
+Rubble_Effect 70
