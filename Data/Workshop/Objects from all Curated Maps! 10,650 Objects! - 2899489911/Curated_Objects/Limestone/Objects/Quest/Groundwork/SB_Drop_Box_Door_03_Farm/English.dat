@@ -1,0 +1,5 @@
+Name SB Drop Box Door #4 [Farm]
+
+Interact Deposit <color=#C17915>Medical Package</color>
+
+Interactability_Condition_0 0/1 <color=#C17915>Medical Package</color>
