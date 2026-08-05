@@ -1,0 +1,14 @@
+GUID f0f62678172644e1ba9573087fa50f6d
+Type Medium
+Has_Clip_Prefab false
+
+Interactability Dialogue
+Interactability_Dialogue b7897e3be47843b8a8690502d349583d
+
+Conditions 1
+Condition_0_Type Flag_Short
+Condition_0_ID 39703
+Condition_0_Value 1
+Condition_0_Logic Equal
+
+Bundle_Override_Path Rio/Objects/Quests/BRDI_Computers/Rio_BRDI_Computer_Search_Down
