@@ -1,0 +1,14 @@
+GUID ca42f833dcaa4449b1ddbcaaf2a16d71
+Type Large
+ID 25300
+
+Has_Clip_Prefab false
+
+Exclude_From_Culling_Volumes True
+
+Conditions 1
+Condition_0_Type Flag_Bool
+Condition_0_ID 24768
+Condition_0_Value False
+Condition_0_Logic Equal
+Condition_0_Allow_Unset
