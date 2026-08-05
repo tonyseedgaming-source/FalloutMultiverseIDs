@@ -1,0 +1,12 @@
+GUID a6c8105c3a67489c97f0dae4d22296e8
+Type Medium
+Has_Clip_Prefab False
+ID 5020
+
+Snowshoe
+
+Interactability Rubble
+Interactability_Reset 300
+Interactability_Health 100
+Interactability_Effect 72
+Asset_Bundle_Version 2
