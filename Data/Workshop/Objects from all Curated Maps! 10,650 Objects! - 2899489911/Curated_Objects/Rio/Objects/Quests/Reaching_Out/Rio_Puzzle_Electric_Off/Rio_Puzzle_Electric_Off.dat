@@ -1,0 +1,9 @@
+GUID 2d9687746869452a937dd596bdb27819
+Type Small
+Has_Clip_Prefab false
+
+Conditions 1
+Condition_0_Type Flag_Short
+Condition_0_ID 39207
+Condition_0_Value 9
+Condition_0_Logic Not_Equal
