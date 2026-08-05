@@ -1,0 +1,13 @@
+GUID d03700ec1c99458f86cf264e04276a7c
+Type Medium
+ID 3980
+
+Interactability Note
+Interactability_Hint Use
+Interactability_Text_Lines 3
+
+Asset_Bundle_Version 2
+Bundle_Override_Path /Objects/Medium/Furniture/Note
+Exclude_From_Master_Bundle
+
+Master_Bundle_Override core.masterbundle
