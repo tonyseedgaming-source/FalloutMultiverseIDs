@@ -1,0 +1,10 @@
+GUID c1de97d12a664aac972df9e0ddf0d391
+Type Large
+ID 47529
+
+Has_Clip_Prefab False
+
+Interactability Binary_State
+Interactability_Remote
+Interactability_Nav Off
+Load_Nav_In_Editor False
