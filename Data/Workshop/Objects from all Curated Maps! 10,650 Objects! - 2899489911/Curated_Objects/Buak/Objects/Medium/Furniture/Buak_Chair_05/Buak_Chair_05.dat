@@ -1,0 +1,14 @@
+GUID 20520e512b4845d897f6127786279bd7
+Type Medium
+ID 25300
+
+Chart Ignore
+
+Has_Clip_Prefab false
+
+Rubble Destroy
+Rubble_Reset 500
+Rubble_Health 10
+Rubble_Effect 25477
+Rubble_Reward_ID 25356
+Rubble_Reward_Probability 1
