@@ -1,0 +1,10 @@
+﻿GUID 50efe150e9f7401dbd8ea82952aa6e5e
+Type Medium
+Has_Clip_Prefab False
+
+Snowshoe
+
+Interactability Rubble
+Interactability_Reset 300
+Interactability_Health 80
+Interactability_Effect 72
