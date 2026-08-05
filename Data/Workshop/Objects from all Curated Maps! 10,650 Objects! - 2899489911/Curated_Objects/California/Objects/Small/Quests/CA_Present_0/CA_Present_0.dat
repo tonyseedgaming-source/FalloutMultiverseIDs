@@ -1,0 +1,11 @@
+GUID daad618402054707b6f54a02f3055972
+Type Small
+ID 42004
+
+Rubble Destroy
+Rubble_Reset 1800
+Rubble_Health 1
+Rubble_Effect 84
+
+Holiday_Restriction CHRISTMAS
+Bundle_Override_Path /Objects/Small/Furniture/Present_0
