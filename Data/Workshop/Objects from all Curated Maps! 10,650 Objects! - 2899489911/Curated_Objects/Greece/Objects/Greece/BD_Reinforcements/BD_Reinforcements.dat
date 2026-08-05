@@ -1,0 +1,13 @@
+GUID d06bdff93bcd4d4b82c8504eb672a04f
+Type Medium
+ID 3931
+
+Asset_Bundle_Version 2
+
+Conditions 1
+Condition_0_Type Flag_Short
+Condition_0_ID 3498
+Condition_0_Value 1
+Condition_0_Logic Equal
+
+
