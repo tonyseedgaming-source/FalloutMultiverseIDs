@@ -1,0 +1,13 @@
+GUID eab47d611295416082c1bbda0d925e73
+Type Small
+ID 25300
+
+Chart Ignore
+
+Has_Clip_Prefab false
+
+Interactability Note
+Interactability_Hint Use
+Interactability_Text_Lines 6
+
+Bundle_Override_Path /Objects/Quests/M4/Buak_Q_S7M4_Computer_Screen
