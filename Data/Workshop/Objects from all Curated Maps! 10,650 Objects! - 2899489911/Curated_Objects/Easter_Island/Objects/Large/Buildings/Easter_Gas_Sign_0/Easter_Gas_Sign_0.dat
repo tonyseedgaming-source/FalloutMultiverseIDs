@@ -1,0 +1,11 @@
+GUID 96f43e2761f24559a5e01d5a6f6137ab
+Type Large
+ID 6710
+
+LOD Mesh
+LOD_Center_Z -0.5
+LOD_Size_Z -1
+
+Asset_Bundle_Version 2
+Bypass_ID_Limit
+Has_Clip_Prefab False
