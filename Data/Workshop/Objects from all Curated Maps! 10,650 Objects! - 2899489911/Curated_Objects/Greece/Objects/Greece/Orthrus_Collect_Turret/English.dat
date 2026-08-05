@@ -1,0 +1,4 @@
+Name Orthrus Turret Pickup
+Interact Take Turret[{0}]
+
+Interactability_Condition_0 Missing Mount Point
