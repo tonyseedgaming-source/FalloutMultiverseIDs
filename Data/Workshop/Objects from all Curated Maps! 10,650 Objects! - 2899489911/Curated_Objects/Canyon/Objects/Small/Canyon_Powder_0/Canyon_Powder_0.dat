@@ -1,0 +1,11 @@
+GUID fb8d372658e54f07a46eb6aee410a7b1
+
+Type Small
+ID 28041
+
+Interactability Rubble
+Interactability_Reset 3000
+Interactability_Health 1
+Interactability_Effect 53
+
+Asset_Bundle_Version 2
