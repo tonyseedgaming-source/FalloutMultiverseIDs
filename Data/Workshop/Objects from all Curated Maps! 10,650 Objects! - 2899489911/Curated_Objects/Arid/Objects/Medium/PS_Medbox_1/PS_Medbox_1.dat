@@ -1,0 +1,15 @@
+GUID f22e197cc0964690b4bbfb50986d5496
+
+Type Medium
+
+Has_Clip_Prefab False
+
+ID 60074
+
+Interactability Dropper
+Interactability_Delay 600
+Interactability_Hint Custom
+Interactability_Reward_ID 59210
+
+Master_Bundle_Override loco_curated_objects.masterbundle
+Bundle_Override_Path /Objects/Medium/PS_Medbox_0
