@@ -1,0 +1,23 @@
+GUID 832f94e22a3243bda5bab1c72cf79536
+Type Small
+Has_Clip_Prefab false
+
+Conditions 4
+Condition_0_Type Date_Counter
+Condition_0_Value 4
+Condition_0_Divisor 14
+Condition_0_Logic Greater_Than_Or_Equal_To
+Condition_1_Type Date_Counter
+Condition_1_Value 6
+Condition_1_Divisor 14
+Condition_1_Logic Less_Than_Or_Equal_To
+Condition_2_Type Weather_Status
+Condition_2_GUID 4b97bb1d3935427fb9cb1567b04920fe
+Condition_2_Value Active
+Condition_2_Logic Not_Equal
+//Trapo Color Selection Flag
+Condition_3_Type Flag_Short
+Condition_3_ID 39705
+Condition_3_Value 0
+Condition_3_Logic Equal
+Condition_3_Allow_Unset
