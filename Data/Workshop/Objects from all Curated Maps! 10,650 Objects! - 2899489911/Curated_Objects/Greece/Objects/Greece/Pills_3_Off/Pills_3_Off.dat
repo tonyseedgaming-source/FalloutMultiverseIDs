@@ -1,0 +1,38 @@
+GUID 8545e895c1b24385a1da62074a606f58
+Type Small
+ID 3699
+
+Asset_Bundle_Version 2
+
+Conditions 1
+Condition_0_Type Flag_Short
+Condition_0_ID 3108
+Condition_0_Value 0
+Condition_0_Logic Equal
+
+Interactability Quest
+Interactability_Effect 7
+Interactability_Conditions 1
+Interactability_Condition_0_Type Flag_Bool
+Interactability_Condition_0_ID 3033
+Interactability_Condition_0_Value False
+Interactability_Condition_0_Logic Equal
+Interactability_Condition_0_Allow_Unset
+Interactability_Rewards 3
+
+//Picked Up
+Interactability_Reward_0_Type Flag_Short
+Interactability_Reward_0_ID 3108
+Interactability_Reward_0_Value 1
+Interactability_Reward_0_Modification Assign
+
+//Carrying Item
+Interactability_Reward_1_Type Flag_Bool
+Interactability_Reward_1_ID 3033
+Interactability_Reward_1_Value True
+
+//Is Antibiotic
+Interactability_Reward_2_Type Flag_Short
+Interactability_Reward_2_ID 3117
+Interactability_Reward_2_Value 2
+Interactability_Reward_2_Modification Assign
