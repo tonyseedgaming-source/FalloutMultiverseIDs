@@ -1,0 +1,29 @@
+GUID e8d929228cdd4d82a229c6e480a42f94
+Type Medium
+ID 3970
+
+Asset_Bundle_Version 2
+
+Conditions 1
+Condition_0_Type Flag_Short
+Condition_0_ID 3600
+Condition_0_Value 0
+Condition_0_Logic Equal
+Condition_0_Allow_Unset
+
+Interactability Quest
+Interactability_Effect 7
+
+Interactability_Conditions 1
+Interactability_Condition_0_Type Flag_Short
+Interactability_Condition_0_ID 3593
+Interactability_Condition_0_Value 1
+Interactability_Condition_0_Logic Equal
+
+Interactability_Rewards 1
+
+//Enable Highlight
+Interactability_Reward_0_Type Flag_Short
+Interactability_Reward_0_ID 3600
+Interactability_Reward_0_Value 1
+Interactability_Reward_0_Modification Assign
