@@ -1,0 +1,17 @@
+GUID c6f188ac703140c9a9be6d420b7190f4
+Type Medium
+Has_Clip_Prefab False
+ID 5459
+
+Conditions 2
+Condition_0_Type Flag_Short
+Condition_0_ID 5324
+Condition_0_Value 6
+Condition_0_Logic Equal
+Condition_1_Type Flag_Bool
+Condition_1_ID 5325
+Condition_1_Value False
+Condition_1_Logic Equal
+Condition_1_Allow_Unset
+
+Asset_Bundle_Version 2
