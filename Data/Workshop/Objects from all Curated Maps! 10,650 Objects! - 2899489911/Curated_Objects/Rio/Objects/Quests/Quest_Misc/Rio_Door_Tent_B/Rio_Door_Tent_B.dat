@@ -1,0 +1,25 @@
+GUID dc743084e8154af58322aa61a80fb5f4
+Type Medium
+
+Interactability Binary_State
+Interactability_Delay 1
+Interactability_Reset 60
+Interactability_Hint Door
+Interactability_Nav Off
+Interactability_Conditions 2
+//Has Accomodations
+Interactability_Condition_0_Type Flag_Short
+Interactability_Condition_0_ID 39314
+Interactability_Condition_0_Value 2
+Interactability_Condition_0_Logic Equal
+//Occupying Accomodations
+Interactability_Condition_1_Type Flag_Bool
+Interactability_Condition_1_ID 39317
+Interactability_Condition_1_Value True
+Interactability_Condition_1_Logic Equal
+
+Has_Clip_Prefab false
+
+Material_Palette 3b03d5d8dd714a3fb847aa0f751a4636
+
+Bundle_Override_Path Rio/Objects/Medium/Furniture/Rio_Door_Tent
