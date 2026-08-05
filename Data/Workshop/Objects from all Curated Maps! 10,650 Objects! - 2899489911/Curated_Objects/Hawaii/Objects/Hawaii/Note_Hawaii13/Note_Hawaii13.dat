@@ -1,0 +1,11 @@
+GUID 928ba765add241489bafa2a09de7bb6a
+Type Medium
+ID 6212
+
+Interactability Note
+Interactability_Hint Use
+Interactability_Text_Lines 1
+
+Asset_Bundle_Version 2
+Bundle_Override_Path /Objects/Medium/Furniture/Note
+Master_Bundle_Override core.masterbundle
