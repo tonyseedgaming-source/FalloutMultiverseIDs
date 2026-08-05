@@ -1,0 +1,11 @@
+GUID 25b65844425b4748b9ebf876b4a535fd
+
+Type Small
+ID 52217
+
+Interactability Rubble
+Interactability_Reset 3000
+Interactability_Health 1
+Interactability_Effect 36
+
+Asset_Bundle_Version 2
