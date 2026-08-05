@@ -1,0 +1,11 @@
+GUID c0574008765e439486cf5bcad5ab9615
+Type Medium
+ID 6920
+
+LOD Mesh
+LOD_Center_Z -0.5
+LOD_Size_Z -1
+
+Bypass_ID_Limit
+Chart Ignore
+Has_Clip_Prefab False
