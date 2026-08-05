@@ -1,0 +1,17 @@
+﻿GUID e54c9ef56f3046da917bbbe6323d0a6b
+
+Type Small
+
+Has_Clip_Prefab False
+ID 47405
+
+Rubble Destroy
+Rubble_Reset 1200
+Rubble_Health 5
+Rubble_Effect 21508
+Rubble_Nav_Mode DeactivateIfAllDead
+Rubble_Can_Zombies_Damage True
+Rubble_Zombie_Damage_Multiplier 25
+Load_Nav_In_Editor False
+
+Chart Ignore
