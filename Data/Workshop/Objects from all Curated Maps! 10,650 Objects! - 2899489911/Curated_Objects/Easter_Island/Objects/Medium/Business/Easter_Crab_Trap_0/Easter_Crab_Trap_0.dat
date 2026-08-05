@@ -1,0 +1,12 @@
+GUID fa4cd70716f544038f4ef2f414ca8885
+Type Medium
+ID 6853
+
+Interactability Dropper
+Interactability_Delay 3600
+Interactability_Hint Use
+Interactability_Reward_ID 6603
+
+Asset_Bundle_Version_2
+Bypass_ID_Limit
+Has_Clip_Prefab False
