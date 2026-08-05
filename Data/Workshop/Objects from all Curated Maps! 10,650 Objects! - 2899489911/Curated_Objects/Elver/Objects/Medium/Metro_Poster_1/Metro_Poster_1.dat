@@ -1,0 +1,20 @@
+GUID 5e63b59962834b1aba7694ad176ad730
+
+Type Medium
+Has_Clip_Prefab false
+ID 57461
+
+Interactability Note
+Interactability_Hint Use
+Interactability_Text_Lines 7
+
+
+//disappears after house poster picked up
+Conditions 1
+Condition_0_Type Flag_Bool
+Condition_0_ID 57009
+Condition_0_Value False
+Condition_0_Logic Equal
+Condition_0_Allow_Unset
+
+Asset_Bundle_Version 2
