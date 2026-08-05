@@ -1,0 +1,14 @@
+GUID 4ba8971d1bf34ceba3e6b2f8f503b683
+Type Large
+ID 6895
+
+Bypass_ID_Limit
+
+Interactability Quest
+Interactability_Effect 38
+
+Interactability_Rewards 1
+Interactability_Reward_0_Type Teleport
+Interactability_Reward_0_Spawnpoint RatBurrowEntrance_0
+
+Has_Clip_Prefab False
