@@ -1,0 +1,13 @@
+GUID fe072c5169d249f590eebe03aa17bc88
+Type Medium
+ID 3930
+
+Asset_Bundle_Version 2
+
+Conditions 1
+Condition_0_Type Flag_Short
+Condition_0_ID 3497
+Condition_0_Value 1
+Condition_0_Logic Equal
+
+
