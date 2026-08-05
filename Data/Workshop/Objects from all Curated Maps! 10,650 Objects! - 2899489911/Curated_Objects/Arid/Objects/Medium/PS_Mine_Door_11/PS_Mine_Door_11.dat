@@ -1,0 +1,15 @@
+GUID 220c2b61734842daac7d94636a3bf602
+
+Type Medium
+
+Has_Clip_Prefab False
+
+ID 60053
+
+Master_Bundle_Override loco_curated_objects.masterbundle
+Bundle_Override_Path /Objects/Medium/PS_Mine_Door_3
+
+Interactability Quest
+Interactability_Rewards 1
+Interactability_Reward_0_Type Teleport
+Interactability_Reward_0_Spawnpoint Mine_Exit_3
