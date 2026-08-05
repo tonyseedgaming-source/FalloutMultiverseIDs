@@ -1,0 +1,17 @@
+GUID f3eb8593289d4973ab43f45e0c347b53
+Type Small
+Has_Clip_Prefab false
+Exclude_From_Level_Batching true
+
+Conditions 2
+//Has Supplies (The Phantom of the Opera)
+Condition_0_Type Flag_Short
+Condition_0_ID 39300
+Condition_0_Value 3
+Condition_0_Logic Greater_Than_Or_Equal_To
+//Raimundo Feud Progress
+Condition_1_Type Flag_Short
+Condition_1_ID 39299
+Condition_1_Value 4
+Condition_1_Logic Less_Than
+Condition_1_Allow_Unset
