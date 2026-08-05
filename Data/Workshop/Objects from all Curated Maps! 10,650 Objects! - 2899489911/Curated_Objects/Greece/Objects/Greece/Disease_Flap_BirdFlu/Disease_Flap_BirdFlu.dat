@@ -1,0 +1,21 @@
+GUID faff3d56b0964abc8d871e2e3068aa22
+Type Small
+ID 3809
+
+Asset_Bundle_Version 2
+
+Conditions 1
+Condition_0_Type Flag_Short
+Condition_0_ID 3300
+Condition_0_Value 10
+Condition_0_Logic Less_Than
+
+Interactability Quest
+Interactability_Effect 7
+Interactability_Rewards 1
+
+//Carrying Blue Pesticides
+Interactability_Reward_0_Type Flag_Short
+Interactability_Reward_0_ID 3300
+Interactability_Reward_0_Value 0
+Interactability_Reward_0_Modification Assign
