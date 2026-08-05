@@ -1,0 +1,12 @@
+GUID 23efd153fd164fc68fd2ed9b9ff393da
+Type Large
+Has_Clip_Prefab False
+ID 5251
+
+Asset_Bundle_Version 3
+
+Conditions 1
+Condition_0_Type Flag_Bool
+Condition_0_ID 28819
+Condition_0_Value True
+Condition_0_Logic Equal
