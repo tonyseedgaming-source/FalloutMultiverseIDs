@@ -1,0 +1,14 @@
+﻿GUID cb8496097bf547a29dcc5deee9ef66ad
+Type Medium
+Has_Clip_Prefab False
+
+Rubble Destroy
+Rubble_Reset 60
+Rubble_Health 1
+Rubble_Effect 58
+Rubble_Reward_ID 4570
+Rubble_Rewards_Min 0
+Rubble_Rewards_Max 1
+Rubble_Rewards_Probability 0.5
+
+Material_Palette 3b2e71df99374bc6a730f68e41c4c7ce
