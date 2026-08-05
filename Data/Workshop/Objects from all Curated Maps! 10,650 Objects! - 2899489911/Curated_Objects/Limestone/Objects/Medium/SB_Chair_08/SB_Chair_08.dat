@@ -1,0 +1,20 @@
+﻿GUID 435e503c63234e5aa0e2cb406ae2edd4
+
+Type Medium
+
+Has_Clip_Prefab False
+ID 47513
+
+Rubble Destroy
+Rubble_Reset 1200
+Rubble_Health 25
+Rubble_Effect 21524
+Rubble_Nav_Mode DeactivateIfAllDead
+Rubble_Can_Zombies_Damage True
+Rubble_Zombie_Damage_Multiplier 25
+Load_Nav_In_Editor False
+
+Rubble_Reward_ID 22323
+Rubble_Rewards_Min 1
+Rubble_Rewards_Max 1
+Rubble_Reward_Probability 1
