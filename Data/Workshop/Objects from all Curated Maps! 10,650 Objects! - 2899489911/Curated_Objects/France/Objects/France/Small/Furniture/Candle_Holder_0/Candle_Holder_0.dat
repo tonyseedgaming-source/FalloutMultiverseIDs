@@ -1,0 +1,10 @@
+GUID 98fd7e9b401f4d5695e1745c9a090f5c
+Type Small
+ID 35096
+
+Snowshoe
+
+Rubble Destroy
+Rubble_Reset 60
+Rubble_Health 50
+Rubble_Effect 72
