@@ -1,0 +1,7 @@
+GUID 4e65d40df72447cbaee6c1ae1826e889
+Type Medium
+Has_Clip_Prefab false
+
+Interactability Water
+Interactability_Reset 1500
+Interactability_Resource 5
