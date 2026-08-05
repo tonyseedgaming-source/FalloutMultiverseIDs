@@ -1,0 +1,14 @@
+﻿GUID 7f4bcc11e72d41ddba0bed5c280e820b
+Type Medium
+
+Has_Clip_Prefab False
+ID 47068
+
+Chart Ignore
+
+Rubble Destroy
+Rubble_Reset 1200
+Rubble_Health 5
+Rubble_Effect 21508
+
+Exclude_From_Level_Batching true
