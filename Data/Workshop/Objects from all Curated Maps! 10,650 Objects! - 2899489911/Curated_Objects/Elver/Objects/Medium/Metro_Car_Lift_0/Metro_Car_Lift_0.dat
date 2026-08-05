@@ -1,0 +1,13 @@
+GUID bb5814d1a3964e5db69993012acf03c9
+
+Type Medium
+Has_Clip_Prefab false
+ID 57504
+
+Interactability Binary_State
+Interactability_Delay 2.25
+Interactability_Hint Door
+
+Master_Bundle_Override core.masterbundle
+Bundle_Override_Path /Objects/Medium/Utilities/Car_Lift_0
+Has_Clip_Prefab false
