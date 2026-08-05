@@ -1,0 +1,15 @@
+GUID a193c67e33434f1a91b07c759965a806
+Type Medium
+ID 23114
+
+Interactability Binary_State
+Interactability_Hint Switch
+Interactability_Power Stay
+Interactability_Emission
+
+Chart Ignore
+
+Rubble Destroy
+Rubble_Reset 300
+Rubble_Health 250
+Rubble_Effect 72
