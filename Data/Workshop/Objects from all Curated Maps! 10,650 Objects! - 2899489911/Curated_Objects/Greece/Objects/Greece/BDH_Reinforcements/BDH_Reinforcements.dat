@@ -1,0 +1,40 @@
+GUID e54a59f01cb449bbaf57f90990127d63
+Type Medium
+ID 3932
+
+Asset_Bundle_Version 2
+
+Conditions 3
+Condition_0_Type Flag_Short
+Condition_0_ID 3492
+Condition_0_Value 1
+Condition_0_Logic Equal
+Condition_1_Type Flag_Short
+Condition_1_ID 3498
+Condition_1_Value 0
+Condition_1_Logic Equal
+Condition_2_Type Flag_Short
+Condition_2_ID 3494
+Condition_2_Value 1
+Condition_2_Logic Equal
+
+Interactability Quest
+Interactability_Effect 27
+
+Interactability_Rewards 3
+
+//Add structure points to total
+Interactability_Reward_0_Type Flag_Math
+Interactability_Reward_0_A_ID 3488
+Interactability_Reward_0_B_ID 3487
+Interactability_Reward_0_Operation ADDITION
+//Add cost points to total
+Interactability_Reward_1_Type Flag_Math
+Interactability_Reward_1_A_ID 3489
+Interactability_Reward_1_B_ID 3486
+Interactability_Reward_1_Operation ADDITION
+//Enable Blueprint
+Interactability_Reward_2_Type Flag_Short
+Interactability_Reward_2_ID 3498
+Interactability_Reward_2_Value 1
+Interactability_Reward_2_Modification Assign
