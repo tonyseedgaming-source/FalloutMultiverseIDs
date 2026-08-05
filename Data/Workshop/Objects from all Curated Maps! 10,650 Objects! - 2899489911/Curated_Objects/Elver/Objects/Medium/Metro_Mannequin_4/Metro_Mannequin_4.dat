@@ -1,0 +1,15 @@
+GUID 6f946297e65848b5abd38f84eab67bf4
+
+Type Medium
+Has_Clip_Prefab false
+ID 57665
+
+Rubble Destroy
+Rubble_Reset 300
+Rubble_Health 1
+Rubble_Effect 72
+Rubble_Reward_XP 2
+Rubble_Reward_ID 57008
+
+Master_Bundle_Override core.masterbundle
+Bundle_Override_Path /Objects/Medium/Business/Mannequin_0
