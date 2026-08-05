@@ -1,0 +1,70 @@
+GUID 83012fc65ce54a5292accf87d0501db9
+Type Medium
+Has_Clip_Prefab False
+ID 5999
+
+Master_Bundle_Override loco_curated_objects.masterbundle
+Bundle_Override_Path /Objects/Medium/Utilities/Kuwait_ATM_Deposit_0
+
+Conditions 1
+Condition_0_Type Flag_Bool
+Condition_0_ID 27482
+Condition_0_Value False
+Condition_0_Logic Equal
+Condition_0_Allow_Unset
+
+Interactability Quest
+Interactability_Effect 7
+Interactability_Rewards 9
+
+Interactability_Reward_0_Type Flag_Math
+Interactability_Reward_0_A_ID 27480
+Interactability_Reward_0_B_ID 0
+Interactability_Reward_0_B_Value 0
+Interactability_Reward_0_Operation Assign
+
+Interactability_Reward_1_Type Flag_Math
+Interactability_Reward_1_A_ID 27481
+Interactability_Reward_1_B_ID 0
+Interactability_Reward_1_B_Value 0
+Interactability_Reward_1_Operation Assign
+
+Interactability_Reward_2_Type Flag_Math
+Interactability_Reward_2_A_ID 27483
+Interactability_Reward_2_B_ID 0
+Interactability_Reward_2_B_Value 200
+Interactability_Reward_2_Operation Assign
+
+Interactability_Reward_3_Type Flag_Math
+Interactability_Reward_3_A_ID 27484
+Interactability_Reward_3_B_ID 0
+Interactability_Reward_3_B_Value 100
+Interactability_Reward_3_Operation Assign
+
+Interactability_Reward_4_Type Flag_Math
+Interactability_Reward_4_A_ID 27485
+Interactability_Reward_4_B_ID 0
+Interactability_Reward_4_B_Value 20
+Interactability_Reward_4_Operation Assign
+
+Interactability_Reward_5_Type Flag_Math
+Interactability_Reward_5_A_ID 27486
+Interactability_Reward_5_B_ID 0
+Interactability_Reward_5_B_Value 10
+Interactability_Reward_5_Operation Assign
+
+Interactability_Reward_6_Type Flag_Math
+Interactability_Reward_6_A_ID 27487
+Interactability_Reward_6_B_ID 0
+Interactability_Reward_6_B_Value 5
+Interactability_Reward_6_Operation Assign
+
+Interactability_Reward_7_Type Flag_Math
+Interactability_Reward_7_A_ID 27488
+Interactability_Reward_7_B_ID 0
+Interactability_Reward_7_B_Value 1
+Interactability_Reward_7_Operation Assign
+
+Interactability_Reward_8_Type Flag_Bool
+Interactability_Reward_8_ID 27482
+Interactability_Reward_8_Value True
