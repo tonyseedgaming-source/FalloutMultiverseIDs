@@ -1,0 +1,37 @@
+GUID e3501b6f77d043cb9436653f6c6d4e46
+Type Small
+ID 3666
+
+Asset_Bundle_Version 2
+
+Conditions 1
+Condition_0_Type Flag_Bool
+Condition_0_ID 3059
+Condition_0_Value False
+Condition_0_Logic Equal
+Condition_0_Allow_Unset
+
+Interactability Quest
+Interactability_Effect 7
+//NOT carrying any dishes
+Interactability_Conditions 2
+Interactability_Condition_0_Type Flag_Bool
+Interactability_Condition_0_ID 3033
+Interactability_Condition_0_Value False
+Interactability_Condition_0_Logic Equal
+Interactability_Condition_0_Allow_Unset
+Interactability_Condition_1_Type Quest
+Interactability_Condition_1_ID 3054
+Interactability_Condition_1_Status Active
+Interactability_Condition_1_Logic Equal
+Interactability_Condition_1_Allow_Unset
+Interactability_Rewards 2
+
+//Carrying Dishes
+Interactability_Reward_0_Type Flag_Bool
+Interactability_Reward_0_ID 3033
+Interactability_Reward_0_Value True
+
+Interactability_Reward_1_Type Flag_Bool
+Interactability_Reward_1_ID 3059
+Interactability_Reward_1_Value True
