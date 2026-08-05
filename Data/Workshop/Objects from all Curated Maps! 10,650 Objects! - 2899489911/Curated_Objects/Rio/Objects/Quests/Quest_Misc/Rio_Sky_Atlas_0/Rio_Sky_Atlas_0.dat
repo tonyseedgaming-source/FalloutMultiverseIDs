@@ -1,0 +1,9 @@
+GUID b2a55ae2ecdd4e7ebc48cac5e30a8aa2
+Type Small
+Has_Clip_Prefab false
+
+Conditions 1
+Condition_0_Type Quest 
+Condition_0_ID 37027
+Condition_0_Status None
+Condition_0_Logic Equal
