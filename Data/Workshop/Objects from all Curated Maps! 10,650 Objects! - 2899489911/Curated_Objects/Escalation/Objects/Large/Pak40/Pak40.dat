@@ -1,0 +1,14 @@
+GUID cd27fbe5d4824b58880fa33ae835fe1a
+
+Type Large
+ID 51000
+Interactability_Conditions 1
+Interactability_Condition_0_Type Item
+Interactability_Condition_0_ID 51323
+Interactability_Condition_0_Amount 1
+Interactability_Condition_0_Logic Greater_Than_Or_Equal_To
+Interactability_Condition_0_Reset
+
+Interactability Quest
+Interactability_Effect 7
+Interactability_Rewards 0
