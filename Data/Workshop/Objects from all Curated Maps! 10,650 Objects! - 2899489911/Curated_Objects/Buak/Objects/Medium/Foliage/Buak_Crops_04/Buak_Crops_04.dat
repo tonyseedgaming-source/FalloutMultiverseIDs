@@ -1,0 +1,13 @@
+GUID 4d763c71959e428781fa80a71aced140
+Type Medium
+ID 25300
+
+Chart Ignore
+
+Has_Clip_Prefab false
+
+Conditions 1
+Condition_0_Type Quest
+Condition_0_Logic Equal
+Condition_0_ID 702aefbfff664383beb7657924ee6191
+Condition_0_Status Completed
