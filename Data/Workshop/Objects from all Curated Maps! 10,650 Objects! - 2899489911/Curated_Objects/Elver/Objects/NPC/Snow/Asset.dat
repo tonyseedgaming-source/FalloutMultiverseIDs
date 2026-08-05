@@ -1,0 +1,25 @@
+GUID 753b52254bce4d5b920379bfe100da8f
+Type NPC
+ID 58154
+
+Shirt 57013
+Pants 57014 
+Backpack 57005
+Vest 57004
+Mask 974
+Glasses 727 
+
+Face 24
+Hair 8
+Beard 0
+Color_Skin #F4E6D2
+Color_Hair #191919
+
+Primary 57477
+Secondary 57473 
+
+Pose Rest
+Pose_Head_Offset 0.05
+
+// Snow Welcome
+Dialogue 58155
