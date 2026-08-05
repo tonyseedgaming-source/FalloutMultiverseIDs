@@ -1,0 +1,32 @@
+GUID 66c4a1638a7447d3a4f06be08104085d
+
+Type NPC
+ID 57747
+
+Shirt 663
+Pants 213
+
+Face 1
+Beard 0
+Hair 9
+Color_Skin #BEA582
+Color_Hair #473928
+
+Dialogue 57748
+
+Conditions 2
+Condition_0_Type Flag_Bool
+Condition_0_ID 58010
+Condition_0_Value True
+Condition_0_Logic Equal
+
+Condition_1_Type Flag_Short
+Condition_1_ID 57177
+Condition_1_Value 3
+Condition_1_Logic Not_Equal
+Condition_1_Allow_Unset
+
+Has_Christmas_Outfit True
+Christmas_Shirt 742 
+Christmas_Pants 979
+Christmas_Hat 741 
