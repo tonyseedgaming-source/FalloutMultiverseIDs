@@ -1,0 +1,15 @@
+GUID 4b2c5944217c4521ad827447dc9d51a0
+Type Medium
+Has_Clip_Prefab false
+
+Interactability Rubble
+Interactability_Reset 120
+Interactability_Health 10
+Interactability_Effect 68
+
+Rubble Destroy
+Rubble_Reset 400
+Rubble_Health 10
+Rubble_Effect 68
+Rubble_Can_Zombies_Damage true
+Load_Nav_In_Editor false
