@@ -1,0 +1,19 @@
+GUID 0d8644a228b54e0ca7645f1328922719
+Type Medium
+ID 6888
+
+LOD Mesh
+LOD_Center_Z -0.5
+LOD_Size_Z -1
+
+
+Interactability Quest
+Interactability_Effect 38
+
+Interactability_Rewards 1
+
+Interactability_Reward_0_Type Teleport
+Interactability_Reward_0_Spawnpoint WeatherEntrance0
+
+Bypass_ID_Limit
+Has_Clip_Prefab False
