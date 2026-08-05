@@ -1,0 +1,12 @@
+GUID c4c6528a82474afaba5ff529d5515c25
+Type Large
+Has_Clip_Prefab false
+LOD Mesh
+
+Interactability Binary_State
+Interactability_Delay 0.75
+Interactability_Hint Door
+Interactability_Nav Off
+
+Chart Medium
+Material_Palette cb7b1beea5a94da285cf65765f39d939
