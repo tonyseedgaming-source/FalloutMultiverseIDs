@@ -1,0 +1,25 @@
+GUID 5be37f43b5b944a5a619bdd49ebcb2ec
+Type Small
+ID 3767
+
+Asset_Bundle_Version 2
+Conditions 2
+Condition_0_Type Flag_Short
+Condition_0_ID 3256
+Condition_0_Value 22
+Condition_0_Logic Equal
+
+Condition_1_Type Flag_Bool
+Condition_1_ID 3257
+Condition_1_Value True
+Condition_1_Logic Equal
+
+Interactability Quest
+Interactability_Effect 92
+
+Interactability_Rewards 1
+
+//Fuse Box is fixed
+Interactability_Reward_0_Type Flag_Bool
+Interactability_Reward_0_ID 3257
+Interactability_Reward_0_Value False
