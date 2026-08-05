@@ -1,0 +1,10 @@
+GUID 33d2afac0fe742e6a2aa0846ff8a393f
+Type Small
+ID 3870
+
+//Is an Arm Injury
+Conditions 1
+Condition_0_Type Flag_Short
+Condition_0_ID 3406
+Condition_0_Value 1
+Condition_0_Logic Equal
