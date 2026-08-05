@@ -1,0 +1,36 @@
+GUID 688c945dfcad44128bce03996fc35d58
+Type Small
+ID 3759
+
+Asset_Bundle_Version 2
+
+Conditions 4
+//Have called in
+Condition_0_Type Flag_Bool
+Condition_0_ID 3236
+Condition_0_Value True
+Condition_0_Logic Equal
+//Got the previous hour
+Condition_1_Type Flag_Short
+Condition_1_ID 3237
+Condition_1_Value 5
+Condition_1_Logic Equal
+Condition_2_Type Time_Of_Day
+Condition_2_Second 14400
+Condition_2_Logic Greater_Than_Or_Equal_To
+Condition_3_Type Time_Of_Day
+Condition_3_Second 18000
+Condition_3_Logic Less_Than
+
+Interactability Quest
+Interactability_Effect 7
+
+Interactability_Rewards 1
+
+//Check off this hour
+Interactability_Reward_0_Type Flag_Short
+Interactability_Reward_0_ID 3237
+Interactability_Reward_0_Value 1
+Interactability_Reward_0_Modification Increment
+
+//36000 time per hour
