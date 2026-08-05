@@ -1,0 +1,10 @@
+GUID f6d96346569c45c0bc52cf28ff94fe4a
+Type Medium
+ID 45746
+
+Interactability Rubble
+Interactability_Reset 256
+Interactability_Health 75
+Interactability_Effect 71
+
+Asset_Bundle_Version 2
