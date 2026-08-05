@@ -1,0 +1,13 @@
+﻿GUID edfadb5e81cf47a590de574bd066b9aa
+
+Type Small
+
+Has_Clip_Prefab False
+ID 47135
+
+Interactability Rubble
+Interactability_Reset 1200
+Interactability_Health 1
+Interactability_Effect 21532
+
+Material_Palette 250a87771397441796504293cfee6151
