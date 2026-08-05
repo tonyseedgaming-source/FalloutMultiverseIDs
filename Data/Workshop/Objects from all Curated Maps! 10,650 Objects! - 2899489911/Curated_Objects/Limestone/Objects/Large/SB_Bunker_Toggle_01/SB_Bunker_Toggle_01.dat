@@ -1,0 +1,37 @@
+GUID 9464db3ae747447fb12ff38642025aa6
+Type Large
+ID 47529
+
+Has_Clip_Prefab False
+
+Interactability Binary_State
+
+Interactability_Hint Custom
+
+Interactability_Conditions 1
+Interactability_Condition_0_Type Item
+Interactability_Condition_0_ID 22414
+Interactability_Condition_0_Amount 1
+Interactability_Condition_0_Reset
+
+Interactability_Effect 21640
+
+Interactability_Rewards 3
+
+Interactability_Reward_0_Type Hint
+Interactability_Reward_0_Text <b><color=#C9F5FF>Machinery repaired!</color></b>
+Interactability_Reward_0_Duration 3
+
+Interactability_Reward_1_Type Event
+Interactability_Reward_1_ID Transit_Toggle_0
+Interactability_Reward_1_GrantDelaySeconds 0
+Interactability_Reward_1_GrantDelayApplyWhenInterrupted True
+
+Interactability_Reward_2_Type Effect
+Interactability_Reward_2_GUID c8ef330243334b91bc3e3b42882d0da8
+Interactability_Reward_2_Spawnpoint Transit_Door_Effect_0
+Interactability_Reward_2_RelevantDistance 70
+Interactability_Reward_2_GrantDelaySeconds 3
+Interactability_Reward_2_GrantDelayApplyWhenInterrupted True
+
+Load_Nav_In_Editor False
