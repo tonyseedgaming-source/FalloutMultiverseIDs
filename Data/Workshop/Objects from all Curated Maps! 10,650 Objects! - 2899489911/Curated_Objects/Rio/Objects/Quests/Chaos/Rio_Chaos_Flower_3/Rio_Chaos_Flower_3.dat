@@ -1,0 +1,33 @@
+GUID 41d0683fdf494e58945ee1225bbb694f
+Type Small
+Has_Clip_Prefab false
+
+Conditions 3
+Condition_0_Type Quest
+Condition_0_ID 37043
+Condition_0_Status Completed
+Condition_0_Logic Equal
+Condition_1_Type Flag_Short
+Condition_1_ID 39006
+Condition_1_Value 25
+Condition_1_Logic Greater_Than_Or_Equal_To
+Condition_2_Type Quest
+Condition_2_ID 37091
+Condition_2_Status None
+Condition_2_Logic Equal
+
+Interactability Quest
+Interactability_Rewards 3
+//Chaos Level
+Interactability_Reward_0_Type Flag_Short
+Interactability_Reward_0_ID 39104
+Interactability_Reward_0_Value 1
+Interactability_Reward_0_Modification Increment
+Interactability_Reward_0_GrantDelaySeconds 15
+//Prayer answered
+Interactability_Reward_1_Type Rewards_List_Asset
+Interactability_Reward_1_GUID 9c169a011cd343dc95de6be578d47c0f
+//Prayer unanswered
+Interactability_Reward_2_Type Rewards_List_Asset
+Interactability_Reward_2_GUID 5ded9397c1d74c6c83c176fa7e5b25bc
+Interactability_Delay 20
