@@ -1,0 +1,10 @@
+GUID 6ffe75205d1d43abac3a9b99ad6efad0
+Type Medium
+ID 23128
+
+Interactability Rubble
+Interactability_Reset 240
+Interactability_Health 10
+Interactability_Effect 66
+
+Ignore_NPOT
