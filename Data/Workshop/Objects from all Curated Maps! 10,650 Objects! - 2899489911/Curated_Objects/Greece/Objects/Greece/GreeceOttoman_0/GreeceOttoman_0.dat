@@ -1,0 +1,12 @@
+GUID 8de7784789a64efca34ee0c937f2a4c9
+Type Medium
+ID 6356
+
+Interactability Binary_State
+Interactability_Delay 0.25
+Interactability_Reset 60
+Interactability_Hint Door
+Interactability_Editor Toggle
+
+Material_Palette e29d98d00f8f494ba4958e05e71b3b6e
+Asset_Bundle_Version 2
