@@ -1,0 +1,17 @@
+GUID c8f395f63dda4ae9ad4506f95f52e914
+Type Small
+Has_Clip_Prefab false
+
+Conditions 3
+Condition_0_Type Date_Counter
+Condition_0_Value 3
+Condition_0_Divisor 7
+Condition_0_Logic Less_Than_Or_Equal_To
+Condition_1_Type Date_Counter
+Condition_1_Value -1
+Condition_1_Divisor 7
+Condition_1_Logic Greater_Than_Or_Equal_To
+Condition_2_Type Weather_Status
+Condition_2_GUID 4b97bb1d3935427fb9cb1567b04920fe
+Condition_2_Value Active
+Condition_2_Logic Not_Equal
