@@ -1,0 +1,30 @@
+GUID 0b49791ec0e04de18c2d040e1beacf8f
+Type Barricade
+Rarity Rare
+Useable Barricade
+Build Barricade
+ID 17675
+
+Size_X 3
+Size_Y 3
+Size_Z 0.5
+
+Health 1000
+Range 4
+Radius 1
+Offset 1.25
+
+Explosion 19
+
+Blueprints 1
+Blueprint_0_Type Utilities
+Blueprint_0_Supplies 2
+Blueprint_0_Supply_0_ID 365
+Blueprint_0_Supply_0_Amount 7
+Blueprint_0_Supply_1_ID 65
+Blueprint_0_Supply_1_Amount 4
+Blueprint_0_Level 2
+Blueprint_0_Skill Craft
+Blueprint_0_Build 27
+
+Asset_Bundle_Version 2
