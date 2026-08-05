@@ -1,0 +1,9 @@
+GUID 9e9367dcbbc34107ac99af153d86f976
+Type Medium
+ID 3504
+
+Interactability Fuel
+Interactability_Reset 1500
+Interactability_Resource 2500
+
+Material_Palette 8acb4b496d07408d9627c9acf7d6e0f6
