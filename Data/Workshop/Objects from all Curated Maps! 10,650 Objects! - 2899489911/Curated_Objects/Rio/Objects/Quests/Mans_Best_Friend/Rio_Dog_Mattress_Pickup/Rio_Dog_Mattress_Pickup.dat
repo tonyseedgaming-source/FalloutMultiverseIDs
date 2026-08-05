@@ -1,0 +1,23 @@
+GUID 193288da60c94a1a96b0390f1fc3ae22
+Type Small
+Has_Clip_Prefab false
+
+Conditions 2
+//Mans Best Friend Active
+Condition_0_Type Quest
+Condition_0_ID 37056
+Condition_0_Status Active
+Condition_0_Logic Equal
+//Doesn't Have Mattress
+Condition_1_Type Flag_Bool
+Condition_1_ID 39214
+Condition_1_Value false
+Condition_1_Logic Equal
+Condition_1_Allow_Unset
+
+Interactability Quest
+Interactability_Effect 36151
+Interactability_Rewards 1
+Interactability_Reward_0_Type Flag_Bool
+Interactability_Reward_0_ID 39214
+Interactability_Reward_0_Value True
