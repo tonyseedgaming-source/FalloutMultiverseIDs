@@ -1,0 +1,8 @@
+﻿GUID 9f549ad48ce74ac0a4c723eb09a379ff
+Type Small
+Has_Clip_Prefab False
+
+Interactability Rubble
+Interactability_Reset 120
+Interactability_Health 1
+Interactability_Effect 4001
