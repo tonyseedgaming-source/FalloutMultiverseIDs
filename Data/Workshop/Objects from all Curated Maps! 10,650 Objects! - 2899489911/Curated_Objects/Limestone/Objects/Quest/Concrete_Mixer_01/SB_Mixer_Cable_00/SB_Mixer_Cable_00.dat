@@ -1,0 +1,26 @@
+﻿GUID 53acc0f504a2449a9a6e5c571fbf5446
+
+Type Medium
+
+Has_Clip_Prefab False
+ID 47501
+
+Interactability_Rewards 2
+
+Interactability_Reward_0_Type Event
+Interactability_Reward_0_ID Cable_Fix
+
+Interactability_Reward_1_Type Hint
+Interactability_Reward_1_Text The cable is fixed, use the concrete mixer now!
+Interactability_Reward_1_Duration 4
+
+Interactability_Conditions 1
+Interactability_Condition_0_Type Item
+Interactability_Condition_0_ID 21735
+Interactability_Condition_0_Amount 1
+Interactability_Condition_0_Logic Greater_Than_Or_Equal_To
+Interactability_Condition_0_Reset
+
+Interactability Binary_State
+
+Interactability_Hint Custom
