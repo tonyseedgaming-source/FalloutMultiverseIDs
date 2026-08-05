@@ -1,0 +1,33 @@
+GUID d7a065a6154f4f94aabd50dbbda84ad3
+Type Small
+Has_Clip_Prefab false
+
+Conditions 2
+Condition_0_Type Flag_Bool
+Condition_0_ID 39374
+Condition_0_Value False
+Condition_0_Logic Equal
+Condition_0_Allow_Unset
+Condition_1_Type Quest
+Condition_1_ID 37096
+Condition_1_Status Active
+Condition_1_Logic Equal
+
+Interactability Quest
+Interactability_Effect 36163
+Interactability_Rewards 3
+//Vines Cut
+Interactability_Reward_0_Type Flag_Short
+Interactability_Reward_0_ID 39368
+Interactability_Reward_0_Value 1
+Interactability_Reward_0_Modification Increment
+//Harvested Vine
+Interactability_Reward_1_Type Flag_Bool
+Interactability_Reward_1_ID 39374
+Interactability_Reward_1_Value True
+//Hint
+Interactability_Reward_2_Type Hint
+Interactability_Reward_2_Text You feel the world ache...
+Interactability_Reward_2_Duration 5
+
+Bundle_Override_Path Rio/Objects/Quests/Chaos/Rio_Vines_Chaos_1
