@@ -1,0 +1,13 @@
+GUID 2e9524179e9444bd902a13bc265158d6
+
+Type Medium
+Has_Clip_Prefab false
+ID 57315
+
+Rubble Destroy
+Rubble_Reset 300
+Rubble_Health 1
+Rubble_Effect 72
+Rubble_Reward_XP 2
+Rubble_Reward_ID 57008
+Rubble_Reward_Probability 0.25
