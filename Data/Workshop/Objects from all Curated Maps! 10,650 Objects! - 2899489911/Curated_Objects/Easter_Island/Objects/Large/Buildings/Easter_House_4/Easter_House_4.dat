@@ -1,0 +1,12 @@
+GUID 8fb7c5a35a6d44d5ade84ed852abb4ac
+Type Large
+ID 6719
+
+LOD Mesh
+LOD_Center_Z -0.5
+LOD_Size_Z -1
+
+Asset_Bundle_Version 2
+Bypass_ID_Limit
+Material_Palette b4e2780d76704cc589b253c1642473af
+Has_Clip_Prefab False
