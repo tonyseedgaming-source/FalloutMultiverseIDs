@@ -1,0 +1,13 @@
+GUID d7fd62873da64f039694b35d27bbbb21
+Type Small
+ID 3805
+
+Asset_Bundle_Version 2
+
+Conditions 1
+Condition_0_Type Flag_Short
+Condition_0_ID 3276
+Condition_0_Value 1
+Condition_0_Logic Equal
+
+
