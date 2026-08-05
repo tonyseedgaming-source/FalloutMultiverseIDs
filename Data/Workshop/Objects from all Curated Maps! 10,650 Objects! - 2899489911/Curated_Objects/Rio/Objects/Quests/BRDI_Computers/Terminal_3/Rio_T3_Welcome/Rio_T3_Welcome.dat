@@ -1,0 +1,15 @@
+GUID db6c8a3ff79a4cf7a42766ce3d9b10cd
+Type Medium
+Has_Clip_Prefab false
+
+Interactability Dialogue
+Interactability_Dialogue eba4ebfff4424b12be2dc0d06e5d70c8
+
+Conditions 1
+Condition_0_Type Flag_Short
+Condition_0_ID 39701
+Condition_0_Value 0
+Condition_0_Logic Equal
+Condition_0_Allow_Unset
+
+Bundle_Override_Path Rio/Objects/Quests/BRDI_Computers/Rio_BRDI_Computer_T3_Desktop_0
