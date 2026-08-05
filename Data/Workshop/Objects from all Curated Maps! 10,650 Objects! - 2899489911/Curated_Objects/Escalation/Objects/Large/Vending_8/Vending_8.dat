@@ -1,0 +1,10 @@
+GUID 789124b0b98e4c54bc175aaf804c966f
+
+
+Type Large
+ID 51000
+
+Interactability Dropper
+Interactability_Delay 300
+Interactability_Hint Custom
+Interactability_Reward_ID 51263
