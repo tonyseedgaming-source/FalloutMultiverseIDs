@@ -1,0 +1,9 @@
+GUID c22fc5545a0045beadaecd0c5164c5c8
+Type Medium
+Has_Clip_Prefab false
+Chart Ignore
+
+Rubble Destroy
+Rubble_Reset 300
+Rubble_Health 275
+Rubble_Effect 72
