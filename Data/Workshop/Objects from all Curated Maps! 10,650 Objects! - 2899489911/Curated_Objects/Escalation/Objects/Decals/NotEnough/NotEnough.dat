@@ -1,0 +1,14 @@
+GUID 4949a5d609ad41e9a395b481da790f0d
+
+
+Type Decal
+ID 51064
+
+Decal_X 6
+Decal_Y 6
+Decal_LOD_Bias 1
+
+
+// Bundle contains a transparent texture called "Decal"
+
+Has_Clip_Prefab false
