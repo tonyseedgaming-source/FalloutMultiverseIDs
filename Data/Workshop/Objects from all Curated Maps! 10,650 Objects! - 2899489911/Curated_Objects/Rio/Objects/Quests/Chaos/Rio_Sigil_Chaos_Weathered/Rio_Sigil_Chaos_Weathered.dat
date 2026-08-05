@@ -1,0 +1,33 @@
+GUID 707589a0aeb3472aa926abc9d0acc369
+Type Small
+Has_Clip_Prefab false
+
+Conditions 2
+//Sigil Repaired
+Condition_0_Type Flag_Bool
+Condition_0_ID 39190
+Condition_0_Value False
+Condition_0_Logic Equal
+Condition_0_Allow_Unset
+//Law of Chaos Active
+Condition_1_Type Quest
+Condition_1_ID 37097
+Condition_1_Status Active
+Condition_1_Logic Equal
+
+Interactability Quest
+Interactability_Conditions 1
+//Paint Bucket
+Interactability_Condition_0_Type Item
+Interactability_Condition_0_ID 33021
+Interactability_Condition_0_Amount 1
+Interactability_Condition_0_Logic Greater_Than_Or_Equal_To
+Interactability_Condition_0_Reset
+Interactability_Rewards 2
+//Repaired Sigil
+Interactability_Reward_0_Type Flag_Bool
+Interactability_Reward_0_ID 39190
+Interactability_Reward_0_Value True
+//Repaired Sigil
+Interactability_Reward_1_Type Hint
+Interactability_Reward_1_Text An otherworldly influence guides you...
