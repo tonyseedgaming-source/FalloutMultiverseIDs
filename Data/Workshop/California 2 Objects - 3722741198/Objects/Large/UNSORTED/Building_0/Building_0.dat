@@ -1,0 +1,13 @@
+﻿GUID 46ec056b43594c399d236a4159c1da86
+Type Large
+Has_Clip_Prefab False
+
+LOD Mesh
+LOD_Center_Z -3
+LOD_Size_Z -6
+
+Asset_Bundle_Version 2 
+
+Material_Palette 4bc31de74bc84b45bd680407f3bcc67b
+
+Exclude_From_Master_Bundle
