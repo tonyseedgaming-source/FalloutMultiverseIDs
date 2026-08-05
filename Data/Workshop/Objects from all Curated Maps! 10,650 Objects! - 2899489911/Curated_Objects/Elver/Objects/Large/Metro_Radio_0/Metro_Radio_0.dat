@@ -1,0 +1,13 @@
+GUID 1b9912bb47604fad8fb0c50a65c48f59
+
+Type Large
+Has_Clip_Prefab false
+ID 57104
+
+Conditions 1
+Condition_0_Type Flag_Bool
+Condition_0_ID 58001
+Condition_0_Value False
+Condition_0_Logic Equal
+Condition_0_Allow_Unset
+
