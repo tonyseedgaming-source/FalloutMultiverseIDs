@@ -1,0 +1,18 @@
+﻿GUID 44ac321567e94eac96695042fc92e45f
+
+Type Medium
+
+Has_Clip_Prefab False
+ID 47397
+
+Rubble Destroy
+Rubble_Reset 1200
+Rubble_Health 5
+Rubble_Effect 21526
+
+Exclude_From_Level_Batching true
+
+Rubble_Reward_ID 22322
+Rubble_Rewards_Min 1
+Rubble_Rewards_Max 1
+Rubble_Reward_Probability 1
