@@ -1,0 +1,24 @@
+GUID 3a984481dc9c40b8aa6a857f1cc59253
+
+Type Small
+
+Has_Clip_Prefab False
+
+ID 60187
+
+Conditions 1
+Condition_0_Type Flag_Bool
+Condition_0_ID 59118
+Condition_0_Value False
+Condition_0_Logic Equal
+Condition_0_Allow_Unset
+
+Interactability Quest
+Interactability_Effect 7
+Interactability_Rewards 1
+Interactability_Reward_0_Type Flag_Bool
+Interactability_Reward_0_ID 59118
+Interactability_Reward_0_Value True
+
+Master_Bundle_Override loco_curated_objects.masterbundle
+Bundle_Override_Path /Objects/Smol/PS_Radar_Station_Key_0
