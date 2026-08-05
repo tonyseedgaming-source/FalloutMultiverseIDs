@@ -1,0 +1,8 @@
+GUID 4f641f403b1640e4820fe99cb577869f
+Type Small
+ID 23174
+
+Interactability Rubble
+Interactability_Reset 60
+Interactability_Health 1
+Interactability_Effect 58
