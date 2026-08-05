@@ -1,0 +1,27 @@
+﻿GUID 4a8ce26ef6034af4a03e531916962291
+Type Medium
+
+Has_Clip_Prefab False
+ID 47501
+
+Interactability_Rewards 2
+
+Interactability_Reward_0_Type Event
+Interactability_Reward_0_ID Generator_Start
+
+Interactability_Reward_1_Type Hint
+Interactability_Reward_1_Text The generator won't be running for long, fix the cable!
+Interactability_Reward_1_Duration 4
+
+Interactability_Conditions 1
+Interactability_Condition_0_Type Item
+Interactability_Condition_0_ID 21739
+Interactability_Condition_0_Amount 1
+Interactability_Condition_0_Logic Greater_Than_Or_Equal_To
+Interactability_Condition_0_Reset
+
+Interactability_Effect 7
+
+Interactability Binary_State
+
+Interactability_Hint Custom
