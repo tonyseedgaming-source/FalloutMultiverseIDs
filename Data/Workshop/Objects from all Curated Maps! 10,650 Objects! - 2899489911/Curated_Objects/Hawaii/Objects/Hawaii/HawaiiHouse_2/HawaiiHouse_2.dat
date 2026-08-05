@@ -1,0 +1,11 @@
+GUID 47f4943b107b45ae8e88b41e7fa271c0
+Type Large
+ID 656
+
+LOD Mesh
+LOD_Center_Z -0.5
+LOD_Size_Z -1
+
+Bypass_ID_Limit
+
+Asset_Bundle_Version 2
