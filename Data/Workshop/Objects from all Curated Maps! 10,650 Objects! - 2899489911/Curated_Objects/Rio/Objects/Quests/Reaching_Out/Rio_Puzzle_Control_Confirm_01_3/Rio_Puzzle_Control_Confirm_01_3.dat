@@ -1,0 +1,26 @@
+GUID 66d641a93c1d44c989066ceb9d2c3985
+Type Small
+Has_Clip_Prefab false
+
+Conditions 2
+//Puzzle Progress
+Condition_0_Type Flag_Short
+Condition_0_ID 39251
+Condition_0_Value 4
+Condition_0_Logic Equal
+//Puzzle is Active
+Condition_1_Type Flag_Short
+Condition_1_ID 39249
+Condition_1_Value 2
+Condition_1_Logic Equal
+
+Interactability Quest
+Interactability_Effect 36152
+Interactability_Rewards 1
+//Puzzle is Active
+Interactability_Reward_0_Type Flag_Short
+Interactability_Reward_0_ID 39249
+Interactability_Reward_0_Value 0
+Interactability_Reward_0_Modification Assign
+
+Bundle_Override_Path Rio/Objects/Quests/Reaching_Out/Rio_Puzzle_Control_Confirm
