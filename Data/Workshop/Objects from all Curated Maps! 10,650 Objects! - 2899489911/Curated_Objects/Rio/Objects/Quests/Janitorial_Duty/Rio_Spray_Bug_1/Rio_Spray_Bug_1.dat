@@ -1,0 +1,16 @@
+GUID d956c706f20d4aa691c7a83ae8d95db4
+Type Small
+Has_Clip_Prefab false
+
+Conditions 2
+Condition_0_Type Quest
+Condition_0_ID 37015
+Condition_0_Status Active
+Condition_0_Logic Equal
+Condition_1_Type Flag_Bool
+Condition_1_ID 39057
+Condition_1_Value false
+Condition_1_Logic Equal
+Condition_1_Allow_Unset
+
+Bundle_Override_Path Rio/Objects/Quests/Janitorial_Duty/Rio_Spray_Bug_0
