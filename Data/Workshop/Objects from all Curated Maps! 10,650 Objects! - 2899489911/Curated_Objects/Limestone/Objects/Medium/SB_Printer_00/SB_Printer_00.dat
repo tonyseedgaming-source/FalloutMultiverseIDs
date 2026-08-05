@@ -1,0 +1,19 @@
+﻿GUID 3941d037b759492b9d4b71c0f88197b2
+
+Type Medium
+
+Has_Clip_Prefab False
+ID 47448
+
+Rubble Destroy
+Rubble_Reset 1200
+Rubble_Health 25
+Rubble_Effect 21521
+Rubble_Reward_ID 21501
+Rubble_Reward_Probability 1
+
+Interactability Dropper
+Interactability_RewardItem_Origin World
+Interactability_Delay 60
+Interactability_Hint Use
+Interactability_Reward_ID 21712
