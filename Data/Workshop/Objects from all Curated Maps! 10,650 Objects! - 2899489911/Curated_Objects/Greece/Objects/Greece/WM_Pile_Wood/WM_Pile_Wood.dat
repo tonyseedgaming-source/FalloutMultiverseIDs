@@ -1,0 +1,27 @@
+GUID 0819fa6e334942129cba6c66140b2162
+Type Small
+ID 3793
+
+Asset_Bundle_Version 2
+
+Conditions 1
+Condition_0_Type Flag_Short
+Condition_0_ID 3264
+Condition_0_Value 400
+Condition_0_Logic Less_Than
+
+Interactability Quest
+Interactability_Effect 7
+
+Interactability_Rewards 2
+
+//Set the wood material cost
+Interactability_Reward_0_Type Flag_Short
+Interactability_Reward_0_ID 3261
+Interactability_Reward_0_Value 1
+Interactability_Reward_0_Modification Assign
+//Set the wood material structure
+Interactability_Reward_1_Type Flag_Short
+Interactability_Reward_1_ID 3262
+Interactability_Reward_1_Value 2
+Interactability_Reward_1_Modification Assign
