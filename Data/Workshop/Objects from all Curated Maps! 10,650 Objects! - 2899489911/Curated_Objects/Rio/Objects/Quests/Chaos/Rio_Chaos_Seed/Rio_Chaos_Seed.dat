@@ -1,0 +1,22 @@
+GUID e65361b8ae264b2f9671b30271b751e9
+Type Small
+Has_Clip_Prefab false
+
+Conditions 2
+Condition_0_Type Quest
+Condition_0_ID 37043
+Condition_0_Status Active
+Condition_0_Logic Equal
+Condition_1_Type Flag_Bool
+Condition_1_ID 39103
+Condition_1_Value false
+Condition_1_Logic Equal
+Condition_1_Allow_Unset
+
+Interactability Quest
+Interactability_Effect 36151
+Interactability_Rewards 1
+//Collected Seed
+Interactability_Reward_0_Type Flag_Bool
+Interactability_Reward_0_ID 39103
+Interactability_Reward_0_Value True
