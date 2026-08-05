@@ -1,0 +1,16 @@
+GUID 2846f300cebe478e99d0a424fab3150a
+
+Type Medium
+
+Has_Clip_Prefab False
+
+ID 60199
+
+Interactability Water
+Interactability_Reset 1500
+Interactability_Resource 20
+
+Soft
+
+Master_Bundle_Override loco_curated_objects.masterbundle
+Bundle_Override_Path /Objects/Medium/PS_Tap_0
