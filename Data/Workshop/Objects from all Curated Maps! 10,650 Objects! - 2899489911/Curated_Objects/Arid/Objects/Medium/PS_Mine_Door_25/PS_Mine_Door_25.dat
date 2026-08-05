@@ -1,0 +1,15 @@
+GUID 3c981315def4429a9d4e647ebb8ec1a3
+
+Type Medium
+
+Has_Clip_Prefab False
+
+ID 60236
+
+Interactability Quest
+Interactability_Rewards 1
+Interactability_Reward_0_Type Teleport
+Interactability_Reward_0_Spawnpoint Tunnels1_Exit_1
+
+Master_Bundle_Override loco_curated_objects.masterbundle
+Bundle_Override_Path /Objects/Medium/PS_Mine_Door_16
