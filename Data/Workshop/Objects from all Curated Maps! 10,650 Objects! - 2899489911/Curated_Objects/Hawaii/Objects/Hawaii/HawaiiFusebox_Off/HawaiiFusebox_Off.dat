@@ -1,0 +1,25 @@
+GUID c8f49785744d4d168b5b95a0fc1e4a07
+Type Medium
+ID 6028
+
+Conditions 1
+Condition_0_Type Flag_Bool
+Condition_0_ID 2167
+Condition_0_Value 0
+Condition_0_Allow_Unset
+
+Interactability Quest
+Interactability_Effect 6
+Interactability_Rewards 1
+Interactability_Reward_0_Type Flag_Short
+Interactability_Reward_0_ID 2167
+Interactability_Reward_0_Value 1
+Interactability_Reward_0_Modification Assign
+Interactability_Conditions 1
+Interactability_Condition_0_Type Quest
+Interactability_Condition_0_Logic Equal
+Interactability_Condition_0_ID 2171
+Interactability_Condition_0_Status Active
+
+
+Asset_Bundle_Version 2
