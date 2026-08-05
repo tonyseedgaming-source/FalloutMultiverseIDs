@@ -1,0 +1,21 @@
+GUID 7cf0151c63294f858da788f8fc48ee88
+Type Medium
+ID 51000
+
+LOD Mesh
+Has_Clip_Prefab false
+
+Interactability_Conditions 1
+Interactability_Condition_0_Type Item
+Interactability_Condition_0_ID 51328
+Interactability_Condition_0_Amount 1
+Interactability_Condition_0_Logic Greater_Than_Or_Equal_To
+Interactability_Condition_0_Reset
+
+Interactability Quest
+Interactability_Effect 7
+Interactability_Rewards 2
+Interactability_Reward_0_Type Event
+Interactability_Reward_0_ID ADATSFIRE
+Interactability_Reward_1_Type Achievement
+Interactability_Reward_1_ID PBS_ForcefulAcquisition
