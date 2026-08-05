@@ -1,0 +1,12 @@
+GUID 372a4ab36b6342aa8d10fae680483824
+
+Type Medium
+Has_Clip_Prefab false
+ID 57332
+
+Rubble Destroy
+Rubble_Reset 300
+Rubble_Health 180
+Rubble_Effect 72
+
+Asset_Bundle_Version 3
