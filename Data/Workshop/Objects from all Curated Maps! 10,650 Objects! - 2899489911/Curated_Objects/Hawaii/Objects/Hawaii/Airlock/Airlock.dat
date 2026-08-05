@@ -1,0 +1,12 @@
+GUID 1f0ea3ff484e4f57a080655d8942f5fa
+Type Medium
+ID 45679
+
+
+Asset_Bundle_Version 2
+
+Interactability Binary_State
+Interactability_Delay 4.5
+Interactability_Hint Door
+Interactability_Power Toggle
+Interactability_Nav Off
