@@ -1,0 +1,10 @@
+GUID 7ea7bea0def2431b893c19744506e182
+Type Small
+
+Interactability Quest
+Interactability_Effect 36153
+Interactability_Rewards 1
+Interactability_Reward_0_Type Rewards_List_Asset
+Interactability_Reward_0_GUID 1b4ae9bb32e24ee4a48a10c8232c0db0
+
+Bundle_Override_Path Rio/Objects/Quests/Keycards/Rio_BRDI_Emergency_0
