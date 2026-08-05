@@ -1,0 +1,28 @@
+GUID 68bc4defa5e34ab18206f6938db725d0
+Type Small
+Has_Clip_Prefab false
+
+Conditions 2
+Condition_0_Type Quest
+Condition_0_ID 37013
+Condition_0_Status Active
+Condition_0_Logic Equal
+Condition_1_Type Flag_Bool
+Condition_1_ID 39044
+Condition_1_Value false
+Condition_1_Logic Equal
+Condition_1_Allow_Unset
+
+Interactability Quest
+Interactability_Effect 36147
+Interactability_Rewards 3
+Interactability_Reward_0_Type Flag_Bool
+Interactability_Reward_0_ID 39044
+Interactability_Reward_0_Value True
+Interactability_Reward_1_Type Flag_Short
+Interactability_Reward_1_ID 39029
+Interactability_Reward_1_Value 1
+Interactability_Reward_1_Modification Increment
+Interactability_Reward_2_Type Item
+Interactability_Reward_2_ID 33009
+Interactability_Reward_2_Amount 1
