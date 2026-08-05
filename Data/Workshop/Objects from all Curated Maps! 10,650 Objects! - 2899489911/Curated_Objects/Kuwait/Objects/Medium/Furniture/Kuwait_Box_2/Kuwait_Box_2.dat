@@ -1,0 +1,11 @@
+GUID 3d2ec11b589743bba78c521b904349b5
+Type Medium
+Has_Clip_Prefab False
+ID 5352
+
+Interactability Dropper
+Interactability_Delay 1440
+Interactability_Hint Use
+Interactability_Reward_ID 7124
+
+Asset_Bundle_Version 2
