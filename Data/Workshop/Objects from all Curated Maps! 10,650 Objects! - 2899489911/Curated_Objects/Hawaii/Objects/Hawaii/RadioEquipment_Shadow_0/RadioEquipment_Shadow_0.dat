@@ -1,0 +1,29 @@
+GUID 3f2c61ba8ac4470ea5f4007dff3fba58
+Type Small
+ID 4509
+
+Conditions 2
+//This relay hasn't been taken
+Condition_0_Type Flag_Bool
+Condition_0_ID 45738
+Condition_0_Value False
+Condition_0_Logic Equal
+Condition_0_Allow_Unset
+
+//collected all relays
+Condition_1_Type Flag_Short
+Condition_1_ID 45737
+Condition_1_Value 4
+Condition_1_Logic Greater_Than_Or_Equal_To
+
+Interactability Quest
+Interactability_Effect 27
+Interactability_Rewards 1
+
+//relay has been setup
+Interactability_Reward_0_Type Flag_Bool
+Interactability_Reward_0_ID 45738
+Interactability_Reward_0_Value True
+
+Asset_Bundle_Version 2
+
