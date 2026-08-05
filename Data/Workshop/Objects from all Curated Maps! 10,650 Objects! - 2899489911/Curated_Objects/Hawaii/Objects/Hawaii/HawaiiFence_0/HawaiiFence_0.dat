@@ -1,0 +1,12 @@
+GUID b5919fbeabfe4d32ad82caff8f1e0903
+Type Medium
+ID 813
+
+Interactability_Rubble
+Interactability_Reset 300
+Interactability_Health 200
+Interactability_Effect 65
+
+Bypass_ID_Limit
+
+Asset_Bundle_Version 2
