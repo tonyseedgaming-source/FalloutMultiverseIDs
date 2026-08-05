@@ -1,0 +1,9 @@
+GUID cd59db0f8be64677823aeba9452d1548
+Type Medium
+Has_Clip_Prefab false
+
+Interactability Binary_State
+Interactability_Delay 0.25
+Interactability_Reset 60
+Interactability_Hint Door
+Interactability_Editor Toggle
