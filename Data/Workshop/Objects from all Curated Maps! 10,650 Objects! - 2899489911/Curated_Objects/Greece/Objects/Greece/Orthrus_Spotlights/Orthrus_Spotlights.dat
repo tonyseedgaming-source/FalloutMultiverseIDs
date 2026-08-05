@@ -1,0 +1,15 @@
+GUID 36bb4b1f9bef490385c9f6b6e36f6d88
+Type Medium
+ID 3964
+
+Asset_Bundle_Version 2
+
+Conditions 2
+Condition_0_Type Flag_Short
+Condition_0_ID 3593
+Condition_0_Value 1
+Condition_0_Logic Equal
+Condition_1_Type Flag_Bool
+Condition_1_ID 3599
+Condition_1_Value True
+Condition_1_Logic Equal
