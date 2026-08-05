@@ -1,0 +1,38 @@
+GUID 982fc2e12dc04c1190241d2bc6484cd0
+Type Medium
+Has_Clip_Prefab false
+Exclude_From_Level_Batching true
+
+Conditions 2
+//Drugged Zombie
+Condition_0_Type Flag_Bool
+Condition_0_ID 39378
+Condition_0_Value True
+Condition_0_Logic Equal
+//Chaos Unleashed
+Condition_1_Type Flag_Bool
+Condition_1_ID 39379
+Condition_1_Value 0
+Condition_1_Logic Equal
+Condition_1_Allow_Unset
+
+Interactability Quest
+Interactability_Conditions 1
+Interactability_Condition_0_Type Quest
+Interactability_Condition_0_ID 37097
+Interactability_Condition_0_Status Ready
+Interactability_Condition_0_Logic Equal
+Interactability_Condition_0_Ignore_NPC
+Interactability_Condition_0_Reset
+Interactability_Rewards 3
+//Chaos Unleashed
+Interactability_Reward_0_Type Flag_Short
+Interactability_Reward_0_ID 39379
+Interactability_Reward_0_Value 1
+Interactability_Reward_0_Modification Assign
+//Rocha's gone
+Interactability_Reward_1_Type Hint
+Interactability_Reward_1_Text What have you done...
+//Teleport to Other Mansion
+Interactability_Reward_2_Type Teleport
+Interactability_Reward_2_Spawnpoint Other_Brocoio
