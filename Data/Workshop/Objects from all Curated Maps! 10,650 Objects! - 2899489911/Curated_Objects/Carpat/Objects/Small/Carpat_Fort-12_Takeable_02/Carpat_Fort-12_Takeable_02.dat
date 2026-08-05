@@ -1,0 +1,10 @@
+GUID ad34fb6c1bfd43ddaa835f8063d27110
+Type Small
+ID 23140
+
+Conditions 1
+Condition_0_Type Flag_Bool
+Condition_0_ID 23140
+Condition_0_Value True
+Condition_0_Logic Equal
+Condition_0_Allow_Unset
