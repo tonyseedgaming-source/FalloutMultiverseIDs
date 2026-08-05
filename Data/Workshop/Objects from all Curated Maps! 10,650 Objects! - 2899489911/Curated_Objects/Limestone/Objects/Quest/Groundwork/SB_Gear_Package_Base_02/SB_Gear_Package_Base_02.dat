@@ -1,0 +1,30 @@
+﻿GUID 3959f073fbd842598b99f96b260ccc84
+
+Type Small
+Has_Clip_Prefab False
+ID 47000
+
+Conditions 1
+// spot 3 / item 1
+Condition_0_Type Flag_Short
+Condition_0_ID 21810
+Condition_0_Value 3
+Condition_0_Logic Equal
+
+Interactability Quest
+Interactability_Effect 7
+Interactability_Rewards 2
+// Count up
+Interactability_Reward_0_Type Flag_Short
+Interactability_Reward_0_ID 21761
+Interactability_Reward_0_Value 1
+Interactability_Reward_0_Modification Increment
+
+// Reset spot to 0
+Interactability_Reward_1_Type Flag_Short
+Interactability_Reward_1_ID 21810
+Interactability_Reward_1_Value 0
+Interactability_Reward_1_Modification Assign
+
+Master_Bundle_Override loco_curated_objects.masterbundle
+Bundle_Override_Path /Limestone/Objects/Quest/Groundwork/SB_Gear_Package_Base
