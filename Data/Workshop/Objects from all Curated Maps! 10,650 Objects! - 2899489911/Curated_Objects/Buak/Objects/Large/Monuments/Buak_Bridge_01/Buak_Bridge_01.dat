@@ -1,0 +1,10 @@
+GUID 5cff2cb786aa464e9ed8bd1e8d7f990f
+Type Large
+ID 25300
+
+Soft
+Chart Highway
+
+Has_Clip_Prefab false
+
+Exclude_From_Culling_Volumes True
