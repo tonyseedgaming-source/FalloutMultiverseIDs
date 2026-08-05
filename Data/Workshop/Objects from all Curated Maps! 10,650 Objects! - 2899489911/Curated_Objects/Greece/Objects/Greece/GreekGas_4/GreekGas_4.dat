@@ -1,0 +1,9 @@
+GUID 32a6485f3bb4471b8bb745f38f21f593
+Type Medium
+ID 3505
+
+Interactability Fuel
+Interactability_Reset 1500
+Interactability_Resource 2500
+
+Material_Palette 8acb4b496d07408d9627c9acf7d6e0f6
