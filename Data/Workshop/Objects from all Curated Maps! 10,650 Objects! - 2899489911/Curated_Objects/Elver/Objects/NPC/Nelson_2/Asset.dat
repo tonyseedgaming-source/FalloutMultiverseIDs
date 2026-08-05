@@ -1,0 +1,26 @@
+GUID 99a55ff444aa48a787e1dd49cd032c55
+
+Type NPC
+ID 57665
+
+Shirt 663
+Pants 213
+
+Face 1
+Beard 0
+Hair 9
+Color_Skin #BEA582
+Color_Hair #473928
+
+Dialogue 57661
+
+Conditions 2
+Condition_0_Type Flag_Bool
+Condition_0_ID 58009
+Condition_0_Value True
+Condition_0_Logic Equal
+Condition_1_Type Flag_Bool
+Condition_1_ID 58010
+Condition_1_Value False
+Condition_1_Logic Equal
+Condition_1_Allow_Unset
