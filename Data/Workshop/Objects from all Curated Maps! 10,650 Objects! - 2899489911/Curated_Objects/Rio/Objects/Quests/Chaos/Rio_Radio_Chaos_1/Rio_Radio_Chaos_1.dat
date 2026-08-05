@@ -1,0 +1,27 @@
+GUID 566a2876a37e4310ac3c53938ec4aa10
+Type Medium
+Has_Clip_Prefab false
+
+Conditions 2
+//Found Military Radio
+Condition_0_Type Flag_Short
+Condition_0_ID 39367
+Condition_0_Value 1
+Condition_0_Logic Less_Than_Or_Equal_To
+Condition_0_Allow_Unset
+//Theory of Chaos Active
+Condition_1_Type Quest
+Condition_1_ID 37095
+Condition_1_Status Active
+Condition_1_Logic Equal
+
+Interactability Quest
+Interactability_Rewards 2
+//Found Military Radio
+Interactability_Reward_0_Type Flag_Short
+Interactability_Reward_0_ID 39367
+Interactability_Reward_0_Value 2
+Interactability_Reward_0_Modification Assign
+//Hint Reward
+Interactability_Reward_1_Type Hint
+Interactability_Reward_1_Text Otherworldly chanting overpowers your thoughts...
