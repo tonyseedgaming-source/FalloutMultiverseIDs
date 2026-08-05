@@ -1,0 +1,11 @@
+GUID 5fdd36ed182041efad230add1974d342
+Type Medium
+Has_Clip_Prefab false
+
+Interactability Binary_State
+Interactability_Delay 0.25
+Interactability_Reset 60
+Interactability_Hint Door
+Interactability_Editor Toggle
+
+//Material_Palette e202c5c7ec0844128980912675d26463
