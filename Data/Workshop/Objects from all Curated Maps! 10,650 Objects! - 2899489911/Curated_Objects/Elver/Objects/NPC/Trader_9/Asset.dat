@@ -1,0 +1,29 @@
+GUID 48aeae9898e54219b7479f15fb2ae3dc
+
+Type NPC
+ID 57624
+
+Hat 57043 
+Shirt 57046     
+Vest 57042     
+
+Beard 10
+Face 4
+Color_Skin #94764B
+Color_Hair #373737
+
+Dialogue 57625
+
+Conditions 1
+Condition_0_Type Flag_Bool
+Condition_0_ID 57102
+Condition_0_Value True
+Condition_0_Logic Equal
+
+Secondary 57340
+Equipped Secondary
+
+Has_Christmas_Outfit True
+Christmas_Shirt 57046
+Christmas_Vest 57042
+Christmas_Hat 278
