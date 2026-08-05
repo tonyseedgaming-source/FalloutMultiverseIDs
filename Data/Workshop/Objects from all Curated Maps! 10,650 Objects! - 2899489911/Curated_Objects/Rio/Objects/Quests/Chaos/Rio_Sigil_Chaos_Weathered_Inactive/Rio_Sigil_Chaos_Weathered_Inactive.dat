@@ -1,0 +1,18 @@
+GUID cb1ec8073b584cc1855ab8178913b048
+Type Small
+Has_Clip_Prefab false
+
+Conditions 2
+//Sigil Repaired
+Condition_0_Type Flag_Bool
+Condition_0_ID 39190
+Condition_0_Value False
+Condition_0_Logic Equal
+Condition_0_Allow_Unset
+//Law of Chaos Not Active
+Condition_1_Type Quest
+Condition_1_ID 37097
+Condition_1_Status Active
+Condition_1_Logic Not_Equal
+
+Bundle_Override_Path Rio/Objects/Quests/Chaos/Rio_Sigil_Chaos_Weathered
