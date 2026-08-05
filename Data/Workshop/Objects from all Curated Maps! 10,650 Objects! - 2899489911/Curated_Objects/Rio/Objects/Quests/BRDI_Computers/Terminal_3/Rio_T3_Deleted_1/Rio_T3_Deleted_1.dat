@@ -1,0 +1,14 @@
+GUID 55bdf71608c34af48892e3dd366008c6
+Type Medium
+Has_Clip_Prefab false
+
+Interactability Dialogue
+Interactability_Dialogue eba4ebfff4424b12be2dc0d06e5d70c8
+
+Conditions 1
+Condition_0_Type Flag_Short
+Condition_0_ID 39701
+Condition_0_Value 4
+Condition_0_Logic Equal
+
+Bundle_Override_Path Rio/Objects/Quests/BRDI_Computers/Rio_BRDI_Computer_T3_Deleted_0
