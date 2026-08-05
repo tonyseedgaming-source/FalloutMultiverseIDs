@@ -1,0 +1,23 @@
+GUID 4c6dd3fdef094d6199531158f60c8d85
+Type Large
+ID 6819
+
+Conditions 1
+Condition_0_Type Flag_Short
+Condition_0_ID 246
+Condition_0_Value 1
+Condition_0_Logic Equal
+
+Interactability Quest
+Interactability_Effect 6
+Interactability_Rewards 1
+Interactability_Reward_0_Type Flag_Short
+Interactability_Reward_0_ID 246
+Interactability_Reward_0_Value 1
+Interactability_Reward_0_Modification Increment
+
+Asset_Bundle_Version 2
+Bypass_ID_Limit
+Snowshoe
+Landmark_Quality High
+Has_Clip_Prefab False
