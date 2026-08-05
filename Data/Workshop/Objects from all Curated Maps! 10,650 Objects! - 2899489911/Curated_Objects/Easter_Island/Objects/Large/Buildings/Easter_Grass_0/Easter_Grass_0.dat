@@ -1,0 +1,21 @@
+GUID f8e4acb14dba4013a88d08003e8de87c
+Type Large
+ID 6806
+
+LOD Mesh
+LOD_Center_Z -0.5
+LOD_Size_Z -1
+
+Master_Bundle_Override core.masterbundle
+Bundle_Override_Path Easter_Island/Objects/Large/Scenery/Grass_0
+Exclude_From_Master_Bundle
+
+Allow_Structures
+Chart Ground
+Soft
+Snowshoe
+
+Asset_Bundle_Version 2
+Bypass_ID_Limit
+Material_Palette 70a2710595cc4c9096f02f73f1405e7b
+Has_Clip_Prefab False
