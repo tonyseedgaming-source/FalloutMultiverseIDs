@@ -1,0 +1,11 @@
+GUID 0722460e1a514bc8aa86ffc57c5a2a91
+
+Type Small
+ID 44144
+
+Interactability Rubble
+Interactability_Reset 120
+Interactability_Health 1
+Interactability_Effect 36
+
+Asset_Bundle_Version 2
