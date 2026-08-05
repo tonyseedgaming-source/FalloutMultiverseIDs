@@ -1,0 +1,12 @@
+GUID 7554368a15b84ba9a6e4a71874a1f4d4
+
+Type Medium
+Has_Clip_Prefab false
+ID 57122
+
+Asset_Bundle_Version 2
+Master_Bundle_Override core.masterbundle
+Bundle_Override_Path /Objects/Medium/Business/Shelf_4
+Has_Clip_Prefab false
+
+Material_Palette 1195e2aabf6e43678db4cb9856a8144b
