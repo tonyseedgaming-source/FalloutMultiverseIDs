@@ -1,0 +1,35 @@
+GUID ca9983c0bef746c3af1f0bffa26b5909
+Type Small
+Has_Clip_Prefab false
+
+Conditions 3
+//Phantom of the Opera Active
+Condition_0_Type Quest
+Condition_0_ID 37068
+Condition_0_Status Active
+Condition_0_Logic Equal
+//Has Supplies
+Condition_1_Type Flag_Short
+Condition_1_ID 39300
+Condition_1_Value 1
+Condition_1_Logic Greater_Than_Or_Equal_To
+//Has Supplies
+Condition_2_Type Flag_Short
+Condition_2_ID 39300
+Condition_2_Value 2
+Condition_2_Logic Less_Than_Or_Equal_To
+
+Interactability Quest
+Interactability_Effect 36151
+Interactability_Conditions 1
+//Has Supplies 
+Interactability_Condition_0_Type Flag_Short
+Interactability_Condition_0_ID 39300
+Interactability_Condition_0_Value 2
+Interactability_Condition_0_Logic Equal
+Interactability_Rewards 1
+//Has Supplies
+Interactability_Reward_0_Type Flag_Short
+Interactability_Reward_0_ID 39300
+Interactability_Reward_0_Value 3
+Interactability_Reward_0_Modification Assign
