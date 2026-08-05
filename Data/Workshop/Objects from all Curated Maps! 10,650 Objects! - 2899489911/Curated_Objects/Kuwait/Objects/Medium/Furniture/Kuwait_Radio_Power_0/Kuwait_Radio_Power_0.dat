@@ -1,0 +1,18 @@
+GUID ac949ba1abc640508ea7d32471cf1056
+Type Medium
+Has_Clip_Prefab False
+ID 5316
+
+Conditions 1
+Condition_0_Type Flag_Bool
+Condition_0_ID 5325
+Condition_0_Value False
+Condition_0_Logic Equal
+Condition_0_Allow_Unset
+
+Interactability Quest
+Interactability_Effect 5299
+Interactability_Rewards 1
+Interactability_Reward_0_Type Flag_Bool
+Interactability_Reward_0_ID 5325
+Interactability_Reward_0_Value True
