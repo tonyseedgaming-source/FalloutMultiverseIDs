@@ -1,0 +1,34 @@
+GUID 8350e02beb7942b885e964fc1afdbf47
+
+Type NPC
+ID 57633
+
+Shirt 57044   
+Vest 57038   
+Hat 57039   
+
+Face 5
+Beard 11
+Color_Skin #F4E6D2	
+Color_Hair #C3A871
+
+Tertiary 57311      
+Equipped Tertiary 
+
+Dialogue 57634
+
+Conditions 1
+Condition_0_Type Flag_Bool
+Condition_0_ID 57102
+Condition_0_Value True
+Condition_0_Logic Equal
+
+Has_Halloween_Outfit True
+Halloween_Hat 976
+Halloween_Shirt 57044   
+Halloween_Vest 57038  
+
+Has_Christmas_Outfit True
+Christmas_Shirt 57044
+Christmas_Vest 57038
+Christmas_Hat 278
