@@ -1,0 +1,8 @@
+Message_0_Page_0 Hello <name_char>, are you cold?
+Message_1_Page_0 Hello there <name_char>, what are you looking for?
+Message_2_Page_0 Good <i>*yawn*</i> <pause>... good morning <name_char>, it's quite cold isn't it?<br><br><i>i wonder how Dango is doing...</i>
+Message_3_Page_0 Ohayou <name_char>, are you lost?
+Message_4_Page_0 Good afternoon <name_char>, are you cold?
+Message_5_Page_0 <i>samui desu. maybe it's time to go to Kuwait...</i>
+
+Response_0 Goodbye.
