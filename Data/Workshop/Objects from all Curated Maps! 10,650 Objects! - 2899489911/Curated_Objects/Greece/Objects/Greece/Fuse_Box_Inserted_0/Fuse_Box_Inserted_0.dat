@@ -1,0 +1,13 @@
+GUID 93ffd2b1be4e422596ff7feffa1ef3ff
+Type Small
+ID 3771
+
+Asset_Bundle_Version 2
+
+Conditions 1
+
+//Fuse placed
+Condition_0_Type Flag_Short
+Condition_0_ID 3258
+Condition_0_Value 0
+Condition_0_Logic Greater_Than
