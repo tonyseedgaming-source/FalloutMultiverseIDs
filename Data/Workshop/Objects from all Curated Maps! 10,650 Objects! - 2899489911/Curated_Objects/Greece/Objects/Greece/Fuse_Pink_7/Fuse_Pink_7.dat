@@ -1,0 +1,32 @@
+GUID d40e2d70686e4f6899dd563531bf2821
+Type Small
+ID 3785
+
+Asset_Bundle_Version 2
+
+Conditions 2
+Condition_0_Type Flag_Short
+Condition_0_ID 3254
+Condition_0_Value 3785
+Condition_0_Logic Not_Equal
+
+Condition_1_Type Flag_Bool
+Condition_1_ID 3257
+Condition_1_Value True
+Condition_1_Logic Equal
+
+Interactability Quest
+Interactability_Effect 7
+
+Interactability_Rewards 2
+
+//Set the selected fuse ID
+Interactability_Reward_0_Type Flag_Short
+Interactability_Reward_0_ID 3254
+Interactability_Reward_0_Value 3785
+Interactability_Reward_0_Modification Assign
+//Set the fuse value additive
+Interactability_Reward_1_Type Flag_Short
+Interactability_Reward_1_ID 3255
+Interactability_Reward_1_Value 1
+Interactability_Reward_1_Modification Assign
