@@ -1,0 +1,17 @@
+GUID 4fc2c47768a240af85f99d3d588b8f41
+Type Small
+ID 25300
+
+Material_Palette 0d754b1fe97a4a66bf7031c71bb997c2
+
+Rubble Destroy
+Rubble_Reset 600
+Rubble_Health 1
+Rubble_Effect 25467
+Rubble_Reward_ID 25360
+Rubble_Rewards_Min 1
+Rubble_Rewards_Max 2
+
+Chart Ignore
+
+Has_Clip_Prefab false
