@@ -1,0 +1,24 @@
+GUID a660abc3ac794edd864cb99e2b9e0626
+Type Small
+Has_Clip_Prefab false
+
+Conditions 2
+//Has Basement Key
+Condition_0_Type Flag_Bool
+Condition_0_ID 39711
+Condition_0_Value False
+Condition_0_Logic Equal
+Condition_0_Allow_Unset
+//Theory of Chaos Active
+Condition_1_Type Quest
+Condition_1_ID 37095
+Condition_1_Status None
+Condition_1_Logic Not_Equal
+
+Interactability Quest
+Interactability_Effect 36151
+Interactability_Rewards 1
+//Has Basement Key
+Interactability_Reward_0_Type Flag_Bool
+Interactability_Reward_0_ID 39711
+Interactability_Reward_0_Value True
