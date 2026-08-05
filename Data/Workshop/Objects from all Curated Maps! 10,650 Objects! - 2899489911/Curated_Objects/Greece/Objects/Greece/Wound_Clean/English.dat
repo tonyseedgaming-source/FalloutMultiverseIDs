@@ -1,0 +1,5 @@
+Name Wound Clean Action
+
+Interact Clean Wound[{0}]
+
+Interactability_Condition_0 Your Patient has expired.
