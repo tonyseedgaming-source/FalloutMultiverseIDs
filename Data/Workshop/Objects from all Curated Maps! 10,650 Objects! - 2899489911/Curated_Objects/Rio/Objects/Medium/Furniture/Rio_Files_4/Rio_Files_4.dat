@@ -1,0 +1,15 @@
+GUID 2c2805e6167d473880c26404c025938c
+Type Medium
+
+Rubble Destroy
+Rubble_Reset 600
+Rubble_Health 1
+Rubble_Effect 58
+Rubble_Reward_ID 32114
+Rubble_Rewards_Min 1
+Rubble_Rewards_Max 2
+
+Master_Bundle_Override loco_curated_objects.masterbundle
+Bundle_Override_Path Rio/Objects/Medium/Furniture/Rio_Files_2
+
+Has_Clip_Prefab false
