@@ -1,0 +1,17 @@
+GUID 3aed797e229a482da66a4b6ce4d0544c
+Type Small
+Has_Clip_Prefab false
+
+Conditions 3
+Condition_0_Type Flag_Bool
+Condition_0_ID 39121
+Condition_0_Value True
+Condition_0_Logic Equal
+Condition_1_Type Quest
+Condition_1_ID 37028
+Condition_1_Status Completed
+Condition_1_Logic Equal
+Condition_2_Type Flag_Short
+Condition_2_ID 39021
+Condition_2_Value 3
+Condition_2_Logic Less_Than
