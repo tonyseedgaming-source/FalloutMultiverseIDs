@@ -1,0 +1,40 @@
+GUID c4716e1ccf814599983aaffbc397db8d
+Type Small
+ID 3647
+
+Asset_Bundle_Version 2
+
+Conditions 2
+Condition_0_Type Flag_Short
+Condition_0_ID 3034
+Condition_0_Value 1
+Condition_0_Logic Equal
+Condition_1_Type Quest
+Condition_1_ID 3032
+Condition_1_Status Active
+Condition_1_Logic Equal
+
+Interactability Quest
+Interactability_Effect 7
+//Carrying a box
+Interactability_Conditions 1
+Interactability_Condition_0_Type Flag_Bool
+Interactability_Condition_0_ID 3033
+Interactability_Condition_0_Value True
+Interactability_Condition_0_Logic Equal
+Interactability_Rewards 3
+
+//Not Carrying Box
+Interactability_Reward_0_Type Flag_Bool
+Interactability_Reward_0_ID 3033
+Interactability_Reward_0_Value False
+
+Interactability_Reward_1_Type Flag_Short
+Interactability_Reward_1_ID 3034
+Interactability_Reward_1_Value 2
+Interactability_Reward_1_Modification Assign
+
+Interactability_Reward_2_Type Flag_Short
+Interactability_Reward_2_ID 3040
+Interactability_Reward_2_Value 1
+Interactability_Reward_2_Modification Increment
