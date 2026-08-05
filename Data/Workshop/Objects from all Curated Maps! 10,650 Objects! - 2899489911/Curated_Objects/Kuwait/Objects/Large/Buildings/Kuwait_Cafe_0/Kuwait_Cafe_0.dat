@@ -1,0 +1,13 @@
+GUID 2159581410d94ed88699bd14451a417e
+Type Large
+Has_Clip_Prefab False
+ID 5104
+
+LOD Mesh
+LOD_Center_Z -0.5
+LOD_Size_Z -1
+
+Material_Palette cc613465387e4a6ab21f40f1ea4ce299
+
+Master_Bundle_Override core.masterbundle
+Bundle_Override_Path /Objects/Large/Buildings/Cafe_0
