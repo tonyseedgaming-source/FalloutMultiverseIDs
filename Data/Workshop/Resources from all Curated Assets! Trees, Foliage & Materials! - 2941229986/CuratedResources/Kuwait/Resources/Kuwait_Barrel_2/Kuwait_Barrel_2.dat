@@ -1,0 +1,21 @@
+GUID 0f98ea1b7987487d9e1b0cf558a8f3f7
+Type Resource
+ID 3059
+
+Health 100
+Radius 1
+Scale 0.1
+
+Explosion 5272
+Reward_ID 7765
+Reward_Min 1
+Reward_Max 2
+
+BladeID 99
+
+No_Debris
+Reset 250
+
+Has_Clip_Prefab false 
+
+Asset_Bundle_Version 2
