@@ -1,0 +1,28 @@
+﻿GUID fb92830f304d442a9a4c8fd9a1e15ad3
+Type Large
+Has_Clip_Prefab False
+ID 47068
+
+Chart Ignore
+
+Exclude_From_Level_Batching true
+
+Interactability Quest
+Interactability_Hint Custom
+
+Interactability_Conditions 1
+Interactability_Condition_0_Type Currency
+Interactability_Condition_0_GUID 6e37f0832b5448bfb7e410eb75202b17
+Interactability_Condition_0_Value 1
+Interactability_Condition_0_Logic Greater_Than_Or_Equal_To
+
+Interactability_Effect 21640
+
+Interactability_Rewards 2
+
+Interactability_Reward_0_Type Event
+Interactability_Reward_0_ID Bonfire_01_Start
+
+Interactability_Reward_1_Type Hint
+Interactability_Reward_1_Text <b><color=#FF691E>Bonfire lit!</color></b>
+Interactability_Reward_1_Duration 3
