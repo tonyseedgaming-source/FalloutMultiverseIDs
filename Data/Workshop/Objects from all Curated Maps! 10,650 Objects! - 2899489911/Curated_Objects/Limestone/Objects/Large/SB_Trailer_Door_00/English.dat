@@ -1,0 +1,5 @@
+Name SB Trailer Door #1 [MS Keycard Reader]
+
+Interactability_Condition_0 Missing <color=#c832fa>MS Keycard</color>
+
+Interact Use [{0}]
