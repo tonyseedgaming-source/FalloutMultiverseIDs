@@ -1,0 +1,12 @@
+GUID b066a79f712246e79b3aad522d6be7a7
+Type Medium
+ID 25300
+
+Chart Ignore
+
+Has_Clip_Prefab false
+
+Interactability Dropper
+Interactability_Delay 240
+Interactability_Hint Use
+Interactability_Reward_ID 25318
