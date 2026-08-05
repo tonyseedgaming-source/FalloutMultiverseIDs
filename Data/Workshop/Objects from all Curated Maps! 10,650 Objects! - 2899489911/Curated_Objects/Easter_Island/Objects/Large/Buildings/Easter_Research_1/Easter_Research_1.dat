@@ -1,0 +1,14 @@
+GUID 780c2f9f4c2a4300ba01b0d9fe1d0d51
+Type Large
+ID 6656
+
+LOD Area
+
+Master_Bundle_Override core.masterbundle
+Bundle_Override_Path Easter_Island/Objects/Large/Buildings/Research_1
+Exclude_From_Master_Bundle
+
+Asset_Bundle_Version 2
+Bypass_ID_Limit
+Material_Palette 4704ab835eb444c3be48a1fb7ac3cc6f
+Has_Clip_Prefab False
