@@ -1,0 +1,12 @@
+GUID b704b2db012648d5a24be3e329e7aba5
+
+Type Medium
+Has_Clip_Prefab false
+ID 57057
+
+Interactability Rubble
+Interactability_Reset 300
+Interactability_Health 1
+Interactability_Effect 57000
+
+Asset_Bundle_Version 2
