@@ -1,0 +1,13 @@
+GUID 360ee6e7a8624492888486148358df28
+Type Large
+Has_Clip_Prefab false
+LOD Mesh
+
+Interactability Binary_State
+Interactability_Hint Switch
+Interactability_Power Stay
+Interactability_Emission
+
+Chart Ignore
+
+Exclude_From_Level_Batching true
