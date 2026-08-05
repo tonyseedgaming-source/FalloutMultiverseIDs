@@ -1,0 +1,32 @@
+GUID 7f7e2d56f42b40ce8d9da5359472cab3
+Type Small
+Has_Clip_Prefab false
+
+Conditions 2
+//Automated Measures Active
+Condition_0_Type Quest
+Condition_0_ID 37085
+Condition_0_Status Active
+Condition_0_Logic Equal
+//Installed Sentry
+Condition_1_Type Flag_Short
+Condition_1_ID 39334
+Condition_1_Value 0
+Condition_1_Logic Equal
+Condition_1_Allow_Unset
+
+Interactability Quest
+Interactability_Effect 36162
+Interactability_Rewards 2
+//Installed Sentry
+Interactability_Reward_0_Type Flag_Short
+Interactability_Reward_0_ID 39334
+Interactability_Reward_0_Value 1
+Interactability_Reward_0_Modification Assign
+//Flank Sentries Installed
+Interactability_Reward_1_Type Flag_Short
+Interactability_Reward_1_ID 39325
+Interactability_Reward_1_Value 1
+Interactability_Reward_1_Modification Increment
+
+Bundle_Override_Path Rio/Objects/Quests/Entrenched/Rio_Sentry_Placeable
