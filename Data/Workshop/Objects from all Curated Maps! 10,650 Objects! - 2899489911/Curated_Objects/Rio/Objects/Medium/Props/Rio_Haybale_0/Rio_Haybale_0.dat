@@ -1,0 +1,17 @@
+GUID e3003b25230e4de6b6c5065557c42416
+Type Medium
+Has_Clip_Prefab false
+
+Rubble Destroy
+Rubble_Reset 600
+Rubble_Health 100
+Rubble_Effect 75
+//Rubble_Reward_ID 32224
+//Rubble_Reward_Probability 1
+Rubble_Nav_Mode DeactivateIfAllDead
+Rubble_Can_Zombies_Damage true
+Rubble_Zombie_Damage_Multiplier 11
+Load_Nav_In_Editor false
+
+Snowshoe
+Chart Ignore
