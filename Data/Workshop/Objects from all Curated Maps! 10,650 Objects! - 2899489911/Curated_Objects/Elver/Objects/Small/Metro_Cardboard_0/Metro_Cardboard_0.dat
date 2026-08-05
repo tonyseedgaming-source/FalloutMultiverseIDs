@@ -1,0 +1,15 @@
+GUID 01f4838915fa4e668902dd98506b2fd2
+
+Type Small
+Has_Clip_Prefab false
+ID 57041
+
+Rubble Destroy
+Rubble_Reset 60
+Rubble_Health 1
+Rubble_Effect 58
+
+Master_Bundle_Override core.masterbundle
+Bundle_Override_Path /Objects/Small/Business/Cardboard_0
+
+Material_Palette 20ae8406e74d4a57bbee30dda0e0a6a8
