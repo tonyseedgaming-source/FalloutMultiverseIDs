@@ -1,0 +1,29 @@
+GUID 3e027bd237784864b327480ba3949a3a
+Type Small
+Has_Clip_Prefab false
+
+Conditions 3
+//Mr. Scarecrow Active
+Condition_0_Type Quest
+Condition_0_ID 37025
+Condition_0_Status Active
+Condition_0_Logic Equal
+//Scarecrow Deployed
+Condition_1_Type Flag_Bool
+Condition_1_ID 39124
+Condition_1_Value false
+Condition_1_Logic Equal
+Condition_1_Allow_Unset
+//Has Scarecrow
+Condition_2_Type Flag_Bool
+Condition_2_ID 39122
+Condition_2_Value True
+Condition_2_Logic Equal
+
+Interactability Quest
+Interactability_Effect 36138
+Interactability_Rewards 1
+//Scarecrow Deployed
+Interactability_Reward_0_Type Flag_Bool
+Interactability_Reward_0_ID 39124
+Interactability_Reward_0_Value True
