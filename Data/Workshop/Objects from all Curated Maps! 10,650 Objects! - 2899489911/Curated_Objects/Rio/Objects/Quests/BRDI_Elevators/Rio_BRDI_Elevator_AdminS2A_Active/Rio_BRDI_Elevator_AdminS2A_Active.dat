@@ -1,0 +1,16 @@
+GUID 3a479a3f443249f4997424d69a7abfc4
+Type Medium
+Has_Clip_Prefab false
+
+Conditions 1
+Condition_0_Type Flag_Short
+Condition_0_ID 39130
+Condition_0_Value 0
+Condition_0_Logic Greater_Than
+
+Interactability Quest
+Interactability_Rewards 1
+Interactability_Reward_0_Type Teleport
+Interactability_Reward_0_Spawnpoint AdminS2A
+
+Bundle_Override_Path Rio/Objects/Quests/BRDI_Elevators/Rio_BRDI_Elevator_Active
