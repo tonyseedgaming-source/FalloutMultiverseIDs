@@ -1,0 +1,6 @@
+GUID 15fa11a41d244591a63912fe365d825c
+Type Medium
+Has_Clip_Prefab false
+Exclude_From_Culling_Volumes true
+
+Add_Night_Light_Script True
