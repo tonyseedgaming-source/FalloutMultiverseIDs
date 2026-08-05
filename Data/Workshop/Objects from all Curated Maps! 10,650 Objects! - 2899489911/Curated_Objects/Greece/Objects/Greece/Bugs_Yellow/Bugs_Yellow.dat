@@ -1,0 +1,32 @@
+GUID 9712afea7d384b99bc8124541249ba7a
+Type Small
+ID 3752
+
+Asset_Bundle_Version 2
+
+Conditions 1
+Condition_0_Type Flag_Short
+Condition_0_ID 3217
+Condition_0_Value -1
+Condition_0_Logic Greater_Than
+
+Interactability Quest
+Interactability_Effect 7
+
+Interactability_Conditions 2
+Interactability_Condition_0_Type Flag_Short
+Interactability_Condition_0_ID 3214
+Interactability_Condition_0_Value 0
+Interactability_Condition_0_Logic Greater_Than
+Interactability_Condition_1_Type Flag_Short
+Interactability_Condition_1_ID 3214
+Interactability_Condition_1_Value 4
+Interactability_Condition_1_Logic Less_Than
+
+Interactability_Rewards 1
+
+//Set Red Bugs Value
+Interactability_Reward_0_Type Flag_Math
+Interactability_Reward_0_A_ID 3217
+Interactability_Reward_0_B_ID 3214
+Interactability_Reward_0_Operation ASSIGN
