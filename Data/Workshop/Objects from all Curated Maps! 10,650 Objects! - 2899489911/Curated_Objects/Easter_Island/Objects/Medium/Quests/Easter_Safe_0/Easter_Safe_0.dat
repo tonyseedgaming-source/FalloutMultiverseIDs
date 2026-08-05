@@ -1,0 +1,17 @@
+GUID e6e232a455b249869f92f27d6471d297
+Type Medium
+ID 6865
+
+Interactability_Conditions 1
+Interactability_Condition_0_Type Flag_Bool
+Interactability_Condition_0_ID 6871
+Interactability_Condition_0_Value True
+Interactability_Condition_0_Logic Equal
+Interactability Dropper
+Interactability_Delay 240
+Interactability_Hint Use
+Interactability_Reward_ID 6669
+
+Asset_Bundle_Version 2
+Bypass_ID_Limit
+Has_Clip_Prefab False
