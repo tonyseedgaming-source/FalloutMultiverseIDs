@@ -1,0 +1,15 @@
+GUID cbc48da70308438f8249c1d61c7493f8
+
+Type Resource
+ID 28003
+
+Health 50
+Radius 3
+Scale 0.125
+
+Explosion 28005
+Reward_XP 25
+
+No_Debris
+
+Asset_Bundle_Version 2
