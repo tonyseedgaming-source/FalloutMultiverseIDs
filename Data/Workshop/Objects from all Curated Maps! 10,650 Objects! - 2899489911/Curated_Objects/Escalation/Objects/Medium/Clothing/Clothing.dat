@@ -1,0 +1,22 @@
+GUID e16b0e72f4834ca59fa2c99a0331f22b
+
+
+
+
+
+
+
+Type Medium
+ID 51000
+
+LOD Mesh
+LOD_Center_Z -0.5
+LOD_Size_Z -1
+Has_Clip_Prefab false
+
+Rubble Destroy
+Rubble_Reset 500
+Rubble_Health 30
+Rubble_Effect 36
+Rubble_Reward_ID 51085
+Rubble_Reward_Probability 1
