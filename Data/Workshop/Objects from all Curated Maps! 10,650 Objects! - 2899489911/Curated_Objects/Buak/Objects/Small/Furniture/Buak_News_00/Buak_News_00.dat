@@ -1,0 +1,19 @@
+GUID 60c75be0b4f8488fb3efa59781c3ff64
+Type Small
+ID 25300
+
+Rubble Destroy
+Rubble_Reset 500
+Rubble_Health 1
+Rubble_Effect 25468
+Rubble_Reward_ID 25393
+
+Interactability Note
+Interactability_Hint Use
+Interactability_Text_Lines 3
+
+Chart Ignore
+
+Has_Clip_Prefab false
+
+Material_Palette f0c1c41ffe2d4056a3a5eb5aee21eb4c
