@@ -1,0 +1,11 @@
+GUID 7a87ed5afe834f91b1b9b9f3d40f95d1
+
+Type Small
+Has_Clip_Prefab false
+ID 57328
+
+Interactability Binary_State
+Interactability_Reset 1
+Interactability_Hint Use
+
+Asset_Bundle_Version 2
