@@ -1,0 +1,14 @@
+GUID c1b8d210432d49c897cc6d16ea56de26
+Type Medium
+ID 6712
+
+LOD Mesh
+LOD_Center_Z -0.5
+LOD_Size_Z -1
+
+Interactability Water
+Interactability_Reset 700
+Interactability_Resource 1
+
+Bypass_ID_Limit
+Has_Clip_Prefab False
