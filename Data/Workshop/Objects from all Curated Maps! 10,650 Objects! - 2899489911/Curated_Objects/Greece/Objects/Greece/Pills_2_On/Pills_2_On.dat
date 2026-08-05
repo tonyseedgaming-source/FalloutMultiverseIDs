@@ -1,0 +1,11 @@
+GUID 494df649728348f99cbfffbeeb04b0c5
+Type Small
+ID 3698
+
+Asset_Bundle_Version 2
+
+Conditions 1
+Condition_0_Type Flag_Short
+Condition_0_ID 3114
+Condition_0_Value 3
+Condition_0_Logic Greater_Than_Or_Equal_To
