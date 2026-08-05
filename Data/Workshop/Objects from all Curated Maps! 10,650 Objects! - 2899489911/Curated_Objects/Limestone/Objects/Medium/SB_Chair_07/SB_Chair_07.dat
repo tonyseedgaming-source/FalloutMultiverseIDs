@@ -1,0 +1,25 @@
+﻿GUID 6e8fdb9332204696b33e16b8a07d56d1
+
+Type Medium
+
+Has_Clip_Prefab False
+ID 47432
+
+Rubble Destroy
+Rubble_Reset 1200
+Rubble_Health 25
+Rubble_Effect 21512
+Rubble_Nav_Mode DeactivateIfAllDead
+Rubble_Can_Zombies_Damage True
+Rubble_Zombie_Damage_Multiplier 25
+Load_Nav_In_Editor False
+
+Material_Palette c0ae61278e9d45b9a3f9afea53271aae
+
+Master_Bundle_Override loco_curated_objects.masterbundle
+Bundle_Override_Path /Limestone/Objects/Medium/SB_Chair_06
+
+Rubble_Reward_ID 22323
+Rubble_Rewards_Min 1
+Rubble_Rewards_Max 1
+Rubble_Reward_Probability 1
