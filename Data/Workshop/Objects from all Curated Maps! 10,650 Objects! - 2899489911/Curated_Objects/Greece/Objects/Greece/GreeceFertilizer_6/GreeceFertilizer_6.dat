@@ -1,0 +1,9 @@
+GUID 35b27cb07e554297acb228b01ac1af2c
+Type Small
+ID 6320
+
+Conditions 1
+Condition_0_Type Flag_Short
+Condition_0_ID 3149
+Condition_0_Value 2
+Condition_0_Logic Greater_Than_Or_Equal_To
