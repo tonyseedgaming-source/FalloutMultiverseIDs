@@ -1,0 +1,16 @@
+GUID e02fab0a63964b41a9ea9ea890522163
+Type Small
+ID 4524
+
+Conditions 1
+//This noisemaker has been setup
+Condition_0_Type Flag_Bool
+Condition_0_ID 45760
+Condition_0_Value True
+Condition_0_Logic Equal
+
+Asset_Bundle_Version 2
+
+
+
+
