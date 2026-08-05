@@ -1,0 +1,12 @@
+GUID d9aeb88f80ed4b7a8723b95628b089e5
+Type Decal
+ID 6901
+
+Decal_X 3
+Decal_Y 3
+Decal_LOD_Bias 1
+
+Asset_Bundle_Version 2
+
+Bypass_ID_Limit
+Has_Clip_Prefab False
