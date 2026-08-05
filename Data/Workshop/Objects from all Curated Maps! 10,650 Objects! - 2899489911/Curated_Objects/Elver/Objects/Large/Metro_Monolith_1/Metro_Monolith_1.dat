@@ -1,0 +1,13 @@
+GUID ee00fe8ba0f04f06ada80d4c3189f5e7
+
+Type Large
+Has_Clip_Prefab false
+ID 57638
+
+Conditions 1
+Condition_0_Type Flag_Bool
+Condition_0_ID 58002
+Condition_0_Value True
+Condition_0_Logic Equal
+
+Asset_Bundle_Version 3
