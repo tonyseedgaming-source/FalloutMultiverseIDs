@@ -1,0 +1,9 @@
+GUID 3170b44b532c43fb99356f586dbb090d
+Type Small
+Has_Clip_Prefab false
+
+Conditions 1
+Condition_0_Type Quest
+Condition_0_ID 37070
+Condition_0_Status Completed
+Condition_0_Logic Equal
