@@ -1,0 +1,32 @@
+GUID 74d26dafccb942ef88ed91f8c3a138e6
+
+Type Small
+
+Has_Clip_Prefab False
+
+ID 60192
+
+Conditions 2
+//pickup
+Condition_0_Type Flag_Bool
+Condition_0_ID 59323
+Condition_0_Value False
+Condition_0_Logic Equal
+Condition_0_Allow_Unset
+
+//quest
+Condition_1_Type Flag_Bool
+Condition_1_ID 59329
+Condition_1_Value True
+Condition_1_Logic Equal
+
+//pickup
+Interactability Quest
+Interactability_Effect 7
+Interactability_Rewards 1
+Interactability_Reward_0_Type Flag_Bool
+Interactability_Reward_0_ID 59323
+Interactability_Reward_0_Value True
+
+Master_Bundle_Override loco_curated_objects.masterbundle
+Bundle_Override_Path /Objects/Smol/PS_Offices_Key_0
