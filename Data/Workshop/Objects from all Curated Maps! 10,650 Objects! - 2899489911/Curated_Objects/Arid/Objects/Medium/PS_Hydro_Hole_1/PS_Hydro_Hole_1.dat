@@ -1,0 +1,15 @@
+GUID 8c4c1644e5ed4459b3b56de1919c1b3e
+
+Type Medium
+
+Has_Clip_Prefab False
+
+ID 59832
+
+Interactability Quest
+Interactability_Rewards 1
+Interactability_Reward_0_Type Teleport
+Interactability_Reward_0_Spawnpoint HYDRO_0
+
+Master_Bundle_Override loco_curated_objects.masterbundle
+Bundle_Override_Path /Objects/Medium/PS_Hydro_Hole_0
