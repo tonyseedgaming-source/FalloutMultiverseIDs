@@ -1,0 +1,20 @@
+GUID 63626b163dee4a24b0e12e229af0f3e3
+Type Small
+Has_Clip_Prefab false
+
+Conditions 3
+Condition_0_Type Quest
+Condition_0_ID 37026
+Condition_0_Status Active
+Condition_0_Logic Greater_Than_Or_Equal_To
+Condition_1_Type Quest
+Condition_1_ID 37026
+Condition_1_Status Ready
+Condition_1_Logic Less_Than_Or_Equal_To
+//Storm Weather Status
+Condition_2_Type Weather_Status
+Condition_2_GUID 4b97bb1d3935427fb9cb1567b04920fe
+Condition_2_Value Active
+Condition_2_Logic Equal
+
+Bundle_Override_Path Rio/Objects/Quests/Quest_Misc/Rio_BBQ_Rain
