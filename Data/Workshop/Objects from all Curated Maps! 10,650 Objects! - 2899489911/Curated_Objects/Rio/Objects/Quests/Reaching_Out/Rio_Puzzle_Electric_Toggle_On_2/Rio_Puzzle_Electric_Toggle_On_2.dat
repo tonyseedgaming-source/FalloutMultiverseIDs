@@ -1,0 +1,41 @@
+GUID ff147dca08a1474ca8af0370b567f554
+Type Small
+Has_Clip_Prefab false
+
+Conditions 3
+Condition_0_Type Flag_Short
+Condition_0_ID 39198
+Condition_0_Value 1
+Condition_0_Logic Equal
+Condition_1_Type Quest
+Condition_1_ID 37050
+Condition_1_Status None
+Condition_1_Logic Not_Equal
+Condition_2_Type Quest
+Condition_2_ID 37050
+Condition_2_Status Completed
+Condition_2_Logic Not_Equal
+
+Interactability_Conditions 1
+Interactability_Condition_0_Type Flag_Short
+Interactability_Condition_0_ID 39207
+Interactability_Condition_0_Value 9
+Interactability_Condition_0_Logic Not_Equal
+
+Interactability Quest
+Interactability_Effect 61
+Interactability_Rewards 3
+Interactability_Reward_0_Type Flag_Math
+Interactability_Reward_0_A_ID 39197
+Interactability_Reward_0_B_ID 39205
+Interactability_Reward_0_Operation Multiplication
+Interactability_Reward_1_Type Flag_Math
+Interactability_Reward_1_A_ID 39198
+Interactability_Reward_1_B_ID 39205
+Interactability_Reward_1_Operation Multiplication
+Interactability_Reward_2_Type Flag_Math
+Interactability_Reward_2_A_ID 39201
+Interactability_Reward_2_B_ID 39205
+Interactability_Reward_2_Operation Multiplication
+
+Bundle_Override_Path /Objects/Quests/Reaching_Out/Rio_Puzzle_Electric_Toggle_On_0
