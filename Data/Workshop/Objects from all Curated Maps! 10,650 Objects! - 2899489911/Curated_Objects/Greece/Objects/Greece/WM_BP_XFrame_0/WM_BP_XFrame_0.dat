@@ -1,0 +1,13 @@
+GUID 75d4c9dcc9d849308678e6175beacae2
+Type Small
+ID 3804
+
+Asset_Bundle_Version 2
+
+Conditions 1
+Condition_0_Type Flag_Short
+Condition_0_ID 3275
+Condition_0_Value 1
+Condition_0_Logic Equal
+
+
