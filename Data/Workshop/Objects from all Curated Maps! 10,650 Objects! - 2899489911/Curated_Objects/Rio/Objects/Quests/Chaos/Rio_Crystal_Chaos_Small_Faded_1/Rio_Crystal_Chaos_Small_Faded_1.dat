@@ -1,0 +1,12 @@
+GUID a83e4325dce24aa3bbf71034b4c407b3
+Type Small
+Has_Clip_Prefab false
+
+Conditions 1
+//Chaos Level
+Condition_0_Type Flag_Short
+Condition_0_ID 39104
+Condition_0_Value 10
+Condition_0_Logic Greater_Than
+
+Bundle_Override_Path Rio/Objects/Quests/Chaos/Rio_Crystal_Chaos_Small_Faded
