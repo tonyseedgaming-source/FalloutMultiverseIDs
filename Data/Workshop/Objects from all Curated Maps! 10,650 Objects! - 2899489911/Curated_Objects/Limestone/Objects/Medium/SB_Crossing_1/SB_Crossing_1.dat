@@ -1,0 +1,17 @@
+﻿GUID 0f4796d9cf554bd4b5b5c6bb5a279700
+Type Medium
+Has_Clip_Prefab False
+ID 47055
+
+Snowshoe
+
+Rubble Destroy
+Rubble_Reset 1200
+Rubble_Health 32
+Rubble_Effect 0
+Rubble_Finale 21508
+Rubble_Nav_Mode DeactivateIfAllDead
+Rubble_Can_Zombies_Damage True
+Rubble_Zombie_Damage_Multiplier 30
+Rubble_Respawn_All_Sections_Simultaneously
+Load_Nav_In_Editor False
