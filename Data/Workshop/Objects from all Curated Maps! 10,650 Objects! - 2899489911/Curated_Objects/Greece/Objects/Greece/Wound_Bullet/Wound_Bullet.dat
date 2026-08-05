@@ -1,0 +1,63 @@
+GUID 05406463708f44a1a1b7ce2a5c3e5954
+Type Small
+ID 3878
+
+//Using Tweezers
+Conditions 2
+Condition_0_Type Flag_Short
+Condition_0_ID 3407
+Condition_0_Value 1
+Condition_0_Logic Equal
+//Wound is Open
+Condition_1_Type Flag_Short
+Condition_1_ID 3411
+Condition_1_Value 4
+Condition_1_Logic Less_Than
+
+Interactability Quest
+Interactability_Effect 5
+
+Interactability_Conditions 2
+//Dude is Alive
+Interactability_Condition_0_Type Flag_Short
+Interactability_Condition_0_ID 3403
+Interactability_Condition_0_Logic Greater_Than
+Interactability_Condition_0_Value 70
+
+//Compare Retrieval to Chance. If Outcome >= Chance, Success! Else: Chance -= 1
+Interactability_Condition_1_Type Compare_Flags
+Interactability_Condition_1_A_ID 3408
+Interactability_Condition_1_B_ID 3409
+Interactability_Condition_1_Logic Less_Than
+
+Interactability_Rewards 5
+
+//Make Wound Dirty
+Interactability_Reward_0_Type Flag_Short
+Interactability_Reward_0_ID 3411
+Interactability_Reward_0_Value 2
+Interactability_Reward_0_Modification Assign
+
+//Set Retrieval outcome
+Interactability_Reward_1_Type Flag_Short_Random
+Interactability_Reward_1_ID 3408
+Interactability_Reward_1_Min_Value 1
+Interactability_Reward_1_Max_Value 40
+Interactability_Reward_1_Modification Assign
+
+//Increase Retrieval Success Chance
+Interactability_Reward_2_Type Flag_Short
+Interactability_Reward_2_ID 3409
+Interactability_Reward_2_Value 1
+Interactability_Reward_2_Modification Decrement
+
+//Lower Blood Remaining
+Interactability_Reward_3_Type Flag_Math
+Interactability_Reward_3_A_ID 3403
+Interactability_Reward_3_B_ID 3405
+Interactability_Reward_3_Operation Subtraction
+
+//Wound Is Dirty again
+Interactability_Reward_4_Type Flag_Bool
+Interactability_Reward_4_ID 3418
+Interactability_Reward_4_Value False
