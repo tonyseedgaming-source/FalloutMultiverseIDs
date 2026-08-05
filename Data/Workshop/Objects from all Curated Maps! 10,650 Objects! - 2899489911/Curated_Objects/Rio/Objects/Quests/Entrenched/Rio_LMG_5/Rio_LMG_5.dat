@@ -1,0 +1,10 @@
+GUID 346cf2e07ed84bd6b198e2610c403ae2
+Type Small
+Has_Clip_Prefab false
+
+Conditions 1
+//Entrenched III Completed
+Condition_0_Type Quest
+Condition_0_ID 37086
+Condition_0_Status Completed
+Condition_0_Logic Equal
