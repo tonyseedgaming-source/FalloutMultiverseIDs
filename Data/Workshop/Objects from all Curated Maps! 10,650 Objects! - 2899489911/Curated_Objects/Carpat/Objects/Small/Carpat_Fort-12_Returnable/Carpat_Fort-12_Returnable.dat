@@ -1,0 +1,24 @@
+GUID 225742166c504d408973c18467bfd18b
+Type Small
+ID 23141
+
+Conditions 1
+Condition_0_Type Flag_Bool
+Condition_0_ID 23141
+Condition_0_Value True
+Condition_0_Logic Equal
+
+Interactability Quest
+Interactability_Effect 7
+Interactability_Rewards 3
+Interactability_Reward_0_Type Flag_Bool
+Interactability_Reward_0_ID 23140
+Interactability_Reward_0_Value True
+
+Interactability_Reward_1_Type Flag_Bool
+Interactability_Reward_1_ID 23139
+Interactability_Reward_1_Value True
+
+Interactability_Reward_2_Type Flag_Bool
+Interactability_Reward_2_ID 23141
+Interactability_Reward_2_Value False
