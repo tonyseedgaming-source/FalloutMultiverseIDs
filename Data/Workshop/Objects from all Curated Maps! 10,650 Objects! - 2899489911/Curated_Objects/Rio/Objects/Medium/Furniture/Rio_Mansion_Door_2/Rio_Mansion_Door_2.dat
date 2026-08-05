@@ -1,0 +1,16 @@
+GUID 7764419c5ba442cc992e25e067519e99
+Type Medium
+
+Interactability Binary_State
+Interactability_Delay 1
+Interactability_Reset 60
+Interactability_Hint Door
+Interactability_Nav Off
+Interactability_Conditions 1
+Interactability_Condition_0_Type Flag_Bool
+Interactability_Condition_0_ID 39172
+Interactability_Condition_0_Value True
+Interactability_Condition_0_Logic Equal
+Has_Clip_Prefab false
+
+Bundle_Override_Path Rio/Objects/Medium/Furniture/Rio_Mansion_Door_1
