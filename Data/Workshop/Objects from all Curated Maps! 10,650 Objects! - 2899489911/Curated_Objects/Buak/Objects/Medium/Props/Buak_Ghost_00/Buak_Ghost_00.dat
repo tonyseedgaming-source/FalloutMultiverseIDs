@@ -1,0 +1,14 @@
+GUID 833dc3f35a0f489c8b261a755b7dfbd5
+Type Medium
+ID 25300
+
+Chart Ignore
+
+Has_Clip_Prefab false
+
+Conditions 1
+Condition_0_Type Quest
+Condition_0_Logic Less_Than
+Condition_0_ID 80a8f2d9fae54e6faa037528f11757cc
+Condition_0_Status Completed
+Condition_0_Allow_Unset
