@@ -1,0 +1,10 @@
+GUID a5494ebe6faf45e08c59b2e11c2bf5eb
+Type Medium
+ID 5107
+
+Holiday_Restriction CHRISTMAS
+
+Material_Palette 49666c4213a24c0f89abb2ea0e4ff961
+
+Master_Bundle_Override core.masterbundle
+Bundle_Override_Path /Objects/Medium/Parks/Snowman
