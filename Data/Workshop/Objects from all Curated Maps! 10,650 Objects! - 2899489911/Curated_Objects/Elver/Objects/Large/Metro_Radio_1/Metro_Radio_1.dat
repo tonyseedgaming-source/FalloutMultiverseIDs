@@ -1,0 +1,18 @@
+GUID b12b376921a6477abc03d7c0f0bb51ad
+
+Type Large
+Has_Clip_Prefab false
+ID 57636
+
+Conditions 2
+Condition_0_Type Flag_Bool
+Condition_0_ID 58001
+Condition_0_Value True
+Condition_0_Logic Equal
+Condition_1_Type Flag_Bool
+Condition_1_ID 58002
+Condition_1_Value False
+Condition_1_Logic Equal
+Condition_1_Allow_Unset
+
+Exclude_From_Level_Batching true
