@@ -1,0 +1,13 @@
+GUID 082d901aefae413da70cfea3f8a59b97
+Type Small
+ID 25300
+
+Chart Ignore
+
+Has_Clip_Prefab false
+
+Conditions 1
+Condition_0_Type Quest
+Condition_0_Logic Equal
+Condition_0_ID c778947f76e14542a2dd35a26cdfdd00
+Condition_0_Status Completed
