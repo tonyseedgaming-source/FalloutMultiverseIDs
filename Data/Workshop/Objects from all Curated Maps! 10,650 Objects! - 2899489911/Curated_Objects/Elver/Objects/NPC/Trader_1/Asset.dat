@@ -1,0 +1,28 @@
+GUID 8f8955f3788f434187dcd1f06ee3e859
+
+Type NPC
+ID 57519
+
+Shirt 57045  
+Vest 57040  
+Hat 57041  
+
+Face 5
+Hair 0
+Color_Skin #F4E6D2
+Color_Hair #ffffff
+
+Secondary 57053  
+
+Dialogue 57520
+
+Conditions 1
+Condition_0_Type Flag_Bool
+Condition_0_ID 57102
+Condition_0_Value True
+Condition_0_Logic Equal
+
+Has_Christmas_Outfit True
+Christmas_Shirt 57045
+Christmas_Vest 57040
+Christmas_Hat 278
