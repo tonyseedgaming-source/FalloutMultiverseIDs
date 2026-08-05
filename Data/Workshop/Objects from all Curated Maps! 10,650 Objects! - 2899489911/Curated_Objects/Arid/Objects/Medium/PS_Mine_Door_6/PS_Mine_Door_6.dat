@@ -1,0 +1,15 @@
+GUID 5ac94557116548fc9518e872f0be03ba
+
+Type Medium
+
+Has_Clip_Prefab False
+
+ID 60048
+
+Master_Bundle_Override loco_curated_objects.masterbundle
+Bundle_Override_Path /Objects/Medium/PS_Mine_Door_0
+
+Interactability Quest
+Interactability_Rewards 1
+Interactability_Reward_0_Type Teleport
+Interactability_Reward_0_Spawnpoint Mine_2
