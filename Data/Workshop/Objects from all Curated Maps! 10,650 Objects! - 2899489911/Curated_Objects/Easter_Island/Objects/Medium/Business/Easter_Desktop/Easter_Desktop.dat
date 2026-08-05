@@ -1,0 +1,14 @@
+GUID 8bc1423038974f0699a10de6e1b10536
+Type Medium
+ID 6868
+
+Interactability Note
+Interactability_Hint Use
+Interactability_Text_Lines 8
+
+LOD Mesh
+LOD_Center_Z -0.5
+LOD_Size_Z -1
+
+Bypass_ID_Limit
+Has_Clip_Prefab False
