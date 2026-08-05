@@ -1,0 +1,14 @@
+GUID 24b90c2c28a248389155d4d4337d7ba8
+Type Medium
+ID 51000
+
+LOD Mesh
+LOD_Center_Z -0.5
+LOD_Size_Z -1
+Has_Clip_Prefab false
+
+Conditions 1
+Condition_0_Type Flag_Bool
+Condition_0_ID 52230
+Condition_0_Value True
+Condition_0_Logic Equal
