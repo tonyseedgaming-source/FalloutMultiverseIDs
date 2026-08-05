@@ -1,0 +1,66 @@
+GUID 587b7ba9e69f4a86b5dcf411160bb929
+Type Small
+Has_Clip_Prefab false
+
+Conditions 2
+//Puzzle is Active
+Condition_0_Type Flag_Short
+Condition_0_ID 39249
+Condition_0_Value 0
+Condition_0_Logic Equal
+Condition_0_Allow_Unset
+//Reaching Out VI is Active
+Condition_1_Type Quest
+Condition_1_ID 37063
+Condition_1_Status Active
+Condition_1_Logic Equal
+
+Interactability_Conditions 1
+//Puzzle Timer Active
+Interactability_Condition_0_Type Flag_Bool
+Interactability_Condition_0_ID 39252
+Interactability_Condition_0_Value false
+Interactability_Condition_0_Logic Equal
+Interactability_Condition_0_Allow_Unset
+
+Interactability Quest
+Interactability_Effect 36153
+Interactability_Rewards 9
+//Puzzle is Active
+Interactability_Reward_0_Type Flag_Short_Random
+Interactability_Reward_0_ID 39249
+Interactability_Reward_0_Min_Value 1
+Interactability_Reward_0_Max_Value 3
+Interactability_Reward_0_Modification Assign
+//Puzzle Progress
+Interactability_Reward_1_Type Flag_Short
+Interactability_Reward_1_ID 39251
+Interactability_Reward_1_Value 1
+Interactability_Reward_1_Modification Assign
+//Puzzle Timer
+Interactability_Reward_2_Type Rewards_List_Asset
+Interactability_Reward_2_GUID b82f818188714c1aabd8f85de0e46b20
+//Puzzle Timer
+Interactability_Reward_3_Type Rewards_List_Asset
+Interactability_Reward_3_GUID b82f818188714c1aabd8f85de0e46b20
+Interactability_Reward_3_GrantDelaySeconds 5
+//Puzzle Timer
+Interactability_Reward_4_Type Rewards_List_Asset
+Interactability_Reward_4_GUID b82f818188714c1aabd8f85de0e46b20
+Interactability_Reward_4_GrantDelaySeconds 10
+//Puzzle Timer
+Interactability_Reward_5_Type Rewards_List_Asset
+Interactability_Reward_5_GUID b82f818188714c1aabd8f85de0e46b20
+Interactability_Reward_5_GrantDelaySeconds 15
+//Puzzle Timer
+Interactability_Reward_6_Type Rewards_List_Asset
+Interactability_Reward_6_GUID b82f818188714c1aabd8f85de0e46b20
+Interactability_Reward_6_GrantDelaySeconds 20
+//Puzzle Timer 
+Interactability_Reward_7_Type Rewards_List_Asset
+Interactability_Reward_7_GUID b82f818188714c1aabd8f85de0e46b20
+Interactability_Reward_7_GrantDelaySeconds 25
+//Puzzle is Active
+Interactability_Reward_8_Type Rewards_List_Asset
+Interactability_Reward_8_GUID 1f13d32328bb4008915035f93953b49b
+Interactability_Reward_8_GrantDelaySeconds 26
