@@ -1,0 +1,11 @@
+GUID 6d981e7317fc4c6685a44a7a37072b08
+Type Medium
+ID 6029
+
+Conditions 1
+Condition_0_Type Flag_Bool
+Condition_0_ID 2167
+Condition_0_Value 1
+Condition_0_Logic Equal
+
+Asset_Bundle_Version 2
