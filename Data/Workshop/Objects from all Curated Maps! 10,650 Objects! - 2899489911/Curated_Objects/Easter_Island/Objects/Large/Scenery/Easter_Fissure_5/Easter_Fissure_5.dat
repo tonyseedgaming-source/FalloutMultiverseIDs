@@ -1,0 +1,23 @@
+GUID 532c756d78a345c0b417e6cd0e150ece
+Type Large
+ID 6795
+
+Bypass_ID_Limit
+
+// exit
+Interactability Quest
+Interactability_Effect 8
+Interactability_Conditions 1
+Interactability_Condition_0_Type Flag_Short
+Interactability_Condition_0_ID 6600
+Interactability_Condition_0_Value 1
+Interactability_Condition_0_Logic Equal
+
+Interactability_Rewards 1
+Interactability_Reward_0_Type Teleport
+Interactability_Reward_0_Spawnpoint EasterBossExit0
+
+Master_Bundle_Override loco_curated_objects.masterbundle
+Bundle_Override_Path Easter_Island/Objects/Large/Scenery/Easter_Fissure_4
+Exclude_From_Master_Bundle
+Has_Clip_Prefab False
