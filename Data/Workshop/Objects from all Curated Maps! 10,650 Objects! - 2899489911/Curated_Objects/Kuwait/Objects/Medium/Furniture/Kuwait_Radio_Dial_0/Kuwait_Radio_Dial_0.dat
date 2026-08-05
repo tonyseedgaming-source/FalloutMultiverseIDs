@@ -1,0 +1,19 @@
+GUID b1a6bddcf77b4ec5813d355940ef128c
+Type Medium
+Has_Clip_Prefab False
+ID 5315
+
+Conditions 1
+Condition_0_Type Flag_Short
+Condition_0_ID 5324
+Condition_0_Value 6
+Condition_0_Logic Less_Than
+Condition_0_Allow_Unset
+
+Interactability Quest
+Interactability_Effect 5299
+Interactability_Rewards 1
+Interactability_Reward_0_Type Flag_Short
+Interactability_Reward_0_ID 5324
+Interactability_Reward_0_Value 1
+Interactability_Reward_0_Modification Increment
