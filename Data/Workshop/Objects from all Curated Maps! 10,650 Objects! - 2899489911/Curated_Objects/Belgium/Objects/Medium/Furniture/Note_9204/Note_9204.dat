@@ -1,0 +1,13 @@
+GUID 7c25e6741110497f91b08024e2a2853e
+Type Medium
+ID 9204
+
+Interactability Note
+Interactability_Hint Use
+Interactability_Text_Lines 17
+
+Asset_Bundle_Version 2
+Bundle_Override_Path /Objects/Medium/Furniture/Note
+Exclude_From_Master_Bundle
+
+Master_Bundle_Override core.masterbundle
