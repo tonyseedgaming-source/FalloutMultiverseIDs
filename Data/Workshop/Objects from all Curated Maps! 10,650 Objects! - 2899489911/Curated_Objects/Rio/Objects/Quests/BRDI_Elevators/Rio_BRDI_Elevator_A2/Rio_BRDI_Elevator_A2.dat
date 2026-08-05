@@ -1,0 +1,10 @@
+GUID 61d699a75f1a48b38f4642828b98849e
+Type Medium
+Has_Clip_Prefab false
+
+Interactability Quest
+Interactability_Rewards 1
+Interactability_Reward_0_Type Teleport
+Interactability_Reward_0_Spawnpoint A2
+
+Bundle_Override_Path Rio/Objects/Quests/BRDI_Elevators/Rio_BRDI_Elevator_Active
