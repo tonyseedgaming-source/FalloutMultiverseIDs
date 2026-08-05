@@ -1,0 +1,14 @@
+GUID 97737998d7ca48ec81546591014ee9a9
+Type Small
+ID 3763
+
+Asset_Bundle_Version 2
+
+Interactability Quest
+Interactability_Effect 38
+
+Interactability_Rewards 1
+
+//Check off this hour
+Interactability_Reward_0_Type Teleport
+Interactability_Reward_0_Spawnpoint SewersExitLamia
