@@ -1,0 +1,30 @@
+GUID cdcc58006756426ea5ceea3ae7d586d2
+
+Type NPC
+ID 57518
+
+Vest 57047  
+Hat 57048  
+
+Face 19
+Hair 0
+Color_Skin #596359
+Color_Hair #ffffff
+
+Has_Halloween_Outfit True
+Halloween_Mask 1048
+Halloween_Hat 57048 
+Halloween_Vest 57047
+
+Dialogue 57574
+
+Conditions 1
+Condition_0_Type Flag_Bool
+Condition_0_ID 57102
+Condition_0_Value True
+Condition_0_Logic Equal
+
+Has_Christmas_Outfit True
+Christmas_Shirt 279 
+Christmas_Pants 280 
+Christmas_Hat 278
