@@ -1,0 +1,13 @@
+GUID 8dfe4acaaa704a3b9031e92a45d93132
+Type Large
+Has_Clip_Prefab False
+ID 5103
+
+LOD Mesh
+LOD_Center_Z -1.5
+LOD_Size_Z -3
+
+Material_Palette dcb905bed1b44fa5a5aa893c4a6210fb
+
+Master_Bundle_Override core.masterbundle
+Bundle_Override_Path /Objects/Large/Buildings/Fire_1
