@@ -1,0 +1,11 @@
+GUID 45c5c523734947158a944d2323b1e22b
+Type Small
+ID 3679
+
+Asset_Bundle_Version 2
+
+Conditions 1
+Condition_0_Type Flag_Bool
+Condition_0_ID 3074
+Condition_0_Value True
+Condition_0_Logic Equal
