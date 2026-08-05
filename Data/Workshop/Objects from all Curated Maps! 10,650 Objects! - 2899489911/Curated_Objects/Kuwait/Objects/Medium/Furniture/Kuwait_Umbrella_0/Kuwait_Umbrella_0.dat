@@ -1,0 +1,13 @@
+GUID ae9f7a8202184f7ea8bbfab0c423cf6c
+Type Medium
+Has_Clip_Prefab False
+ID 5089
+
+Snowshoe
+
+Rubble Destroy
+Rubble_Reset 300
+Rubble_Health 50
+Rubble_Effect 35
+
+Asset_Bundle_Version 2
