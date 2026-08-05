@@ -1,0 +1,15 @@
+GUID 40bf9c66da8643feb98fb85bcfea9cfb
+
+
+
+
+
+
+
+
+Type Large
+ID 51000
+Interactability Fuel
+Interactability_Reset 750
+Interactability_Resource 10000
+Has_Clip_Prefab false
