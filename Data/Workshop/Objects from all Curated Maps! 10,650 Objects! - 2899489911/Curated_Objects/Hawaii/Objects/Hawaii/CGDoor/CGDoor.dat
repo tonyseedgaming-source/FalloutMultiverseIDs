@@ -1,0 +1,11 @@
+GUID 744a8049fd7b4b3ba297d18695a914fb
+Type Large
+ID 45720
+
+Asset_Bundle_Version 2
+
+Interactability Binary_State
+Interactability_Delay 4.5
+Interactability_Hint Door
+Interactability_Power Toggle
+Interactability_Nav Off
