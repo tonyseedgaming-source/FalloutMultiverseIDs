@@ -1,0 +1,9 @@
+GUID e09845d4f16143ccb97b797f8143bcbb
+Type Small
+Has_Clip_Prefab false
+
+Conditions 1
+Condition_0_Type Weather_Status
+Condition_0_GUID d73923f4416c43dfa5bc8b6234cf0257
+Condition_0_Value Active
+Condition_0_Logic Equal
