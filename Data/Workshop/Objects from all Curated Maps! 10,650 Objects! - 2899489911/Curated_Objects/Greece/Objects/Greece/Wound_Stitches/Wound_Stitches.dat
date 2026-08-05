@@ -1,0 +1,10 @@
+GUID ae8d12ca4d28432b8d7ac70eaf35bcaa
+Type Small
+ID 3884
+
+//Wound is Stitched Up
+Conditions 1
+Condition_0_Type Flag_Short
+Condition_0_ID 3411
+Condition_0_Value 4
+Condition_0_Logic Equal
