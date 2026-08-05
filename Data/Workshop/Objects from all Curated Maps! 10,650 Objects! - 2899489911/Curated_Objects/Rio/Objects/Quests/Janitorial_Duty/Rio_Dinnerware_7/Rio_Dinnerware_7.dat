@@ -1,0 +1,15 @@
+GUID e3ef541f065146b08b919a89bb40e5db
+Type Small
+Has_Clip_Prefab false
+
+Conditions 2
+Condition_0_Type Quest
+Condition_0_ID 37013
+Condition_0_Status None
+Condition_0_Logic Equal
+Condition_1_Type Flag_Short
+Condition_1_ID 39021
+Condition_1_Value 1
+Condition_1_Logic Equal
+
+Bundle_Override_Path Rio/Objects/Quests/Janitorial_Duty/Rio_Dinnerware_0
