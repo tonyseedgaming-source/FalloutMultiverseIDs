@@ -1,0 +1,13 @@
+GUID a5a62c48383145eaaecb92ec4f037058
+
+Type Medium
+ID 44021
+
+Interactability Dropper
+Interactability_Delay 30
+Interactability_Hint Use
+Interactability_Reward_ID 44003
+
+Holiday_Restriction CHRISTMAS
+
+Asset_Bundle_Version 2
