@@ -1,0 +1,12 @@
+GUID 72d85c7267f243818b0af91c0d877f07
+
+Type Small
+
+Has_Clip_Prefab False
+
+ID 59610
+
+Material_Palette a32376816ba84f79b2a059582c38c4a1
+
+Master_Bundle_Override core.masterbundle
+Bundle_Override_Path /Objects/Small/Rubble/Bricks_0
