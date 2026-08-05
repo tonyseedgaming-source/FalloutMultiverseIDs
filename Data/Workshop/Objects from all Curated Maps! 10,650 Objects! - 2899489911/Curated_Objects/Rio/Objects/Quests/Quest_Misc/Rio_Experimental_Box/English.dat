@@ -1,0 +1,6 @@
+Name Rio Experimental Box #1
+
+Interact Open Box [{0}]
+
+Interactability_Condition_0 Locked.
+Interactability_Condition_1 Box Empty!
