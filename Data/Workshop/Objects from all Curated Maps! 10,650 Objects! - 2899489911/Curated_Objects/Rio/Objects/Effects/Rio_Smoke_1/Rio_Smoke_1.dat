@@ -1,0 +1,12 @@
+GUID 91f068f79a1748cc81e90d74fe03f31c
+Type Large
+Has_Clip_Prefab false
+Exclude_From_Culling_Volumes true
+
+// for visualizing the editor object. no other purpose.
+Rubble Destroy
+Rubble_Blade_ID 9999
+Rubble_Reset 1
+Rubble_Health 999999
+Rubble_Effect 72
+Rubble_Editor Dead
