@@ -1,0 +1,15 @@
+GUID 252a70b0a0fc47c285d6d8644ec6b8c6
+Type Medium
+ID 6771
+
+LOD Mesh
+LOD_Center_Z -0.5
+LOD_Size_Z -1
+
+Interactability Rubble
+Interactability_Reset 60
+Interactability_Health 1
+Interactability_Effect 64
+
+Bypass_ID_Limit
+Has_Clip_Prefab False
