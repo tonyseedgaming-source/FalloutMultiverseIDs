@@ -1,0 +1,11 @@
+GUID 08350d6461a541b9b71ac8882ea377d4
+Type Medium
+ID 25300
+
+Interactability Fuel
+Interactability_Reset 600
+Interactability_Resource 5000
+
+Chart Ignore
+
+Has_Clip_Prefab false
