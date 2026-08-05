@@ -1,0 +1,8 @@
+﻿GUID 4e0a1938c77b4726a51905058b9f50e5
+Type Medium
+Has_Clip_Prefab False
+
+Interactability Dropper
+Interactability_Delay 300
+Interactability_Hint Use
+Interactability_Reward_ID 4368
