@@ -1,0 +1,27 @@
+GUID 13ce58d5b793433bbe5882de2c4d6644
+Type Small
+Has_Clip_Prefab false
+
+Conditions 1
+//Installed Sentry
+Condition_0_Type Flag_Short
+Condition_0_ID 39329
+Condition_0_Value 1
+Condition_0_Logic Equal
+
+Interactability Quest
+Interactability_Effect 36161
+Interactability_Rewards 1
+//Installed Sentry
+Interactability_Reward_0_Type Flag_Short
+Interactability_Reward_0_ID 39329
+Interactability_Reward_0_Value 2
+Interactability_Reward_0_Modification Assign
+Interactability_Conditions 1
+//Wrench Item Condition
+Interactability_Condition_0_Type Item
+Interactability_Condition_0_ID 33114
+Interactability_Condition_0_Amount 1
+Interactability_Condition_0_Logic Greater_Than_Or_Equal_To
+
+Bundle_Override_Path Rio/Objects/Quests/Entrenched/Rio_Sentry_Broken
