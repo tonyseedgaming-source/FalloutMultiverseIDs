@@ -1,0 +1,11 @@
+GUID 92bc24bbc8bc4d728e2317ae69138429
+Type Medium
+ID 45702
+
+Interactability Rubble
+Interactability_Reset 500
+Interactability_Health 100
+Interactability_Effect 72
+
+
+Asset_Bundle_Version 2
