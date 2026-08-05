@@ -1,0 +1,5 @@
+Name Rio Museum Basement Door (Entrance)
+
+Interact Enter Basement [{0}]
+
+Interactability_Condition_0 Door Locked.
