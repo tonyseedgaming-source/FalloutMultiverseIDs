@@ -1,0 +1,18 @@
+GUID 80e906fdc93a4c9490b575295e34888e
+Type Large
+ID 6641
+
+Master_Bundle_Override core.masterbundle
+Bundle_Override_Path Easter_Island/Objects/Large/Scenery/Monolith
+Exclude_From_Master_Bundle
+
+Soft
+Snowshoe
+Chart Cliff
+
+Landmark_Quality High
+
+Material_Palette d55d84beccb449ffafc426d40ab5d2ae
+Asset_Bundle_Version 2
+Bypass_ID_Limit
+Has_Clip_Prefab False
