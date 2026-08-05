@@ -1,0 +1,25 @@
+GUID 1c52f9a23ca548809c1d674320777a32
+Type Small
+ID 3885
+
+Conditions 1
+Condition_0_Type Flag_Short
+Condition_0_ID 3407
+Condition_0_Value 1
+Condition_0_Logic Not_Equal
+
+Condition_1_Type Quest
+Condition_1_Logic Equal
+Condition_1_ID 3401
+Condition_1_Status Active
+
+Interactability Quest
+Interactability_Effect 7
+
+Interactability_Rewards 1
+
+//Set Tool
+Interactability_Reward_0_Type Flag_Short
+Interactability_Reward_0_ID 3407
+Interactability_Reward_0_Value 1
+Interactability_Reward_0_Modification Assign
