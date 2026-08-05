@@ -1,0 +1,12 @@
+GUID 62e7aef5ed7c4e17aa3f995b72748b8d
+Type Small
+ID 3813
+
+Asset_Bundle_Version 2
+
+Conditions 1
+Condition_0_Type Flag_Short
+Condition_0_ID 3270
+Condition_0_Value 1
+Condition_0_Logic Equal
+
