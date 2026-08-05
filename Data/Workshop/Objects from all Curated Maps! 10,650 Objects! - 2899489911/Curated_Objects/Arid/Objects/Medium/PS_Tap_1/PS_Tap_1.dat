@@ -1,0 +1,13 @@
+GUID 6d719edd2ac047c8b8c080e810c4c101
+
+Type Medium
+
+Has_Clip_Prefab False
+
+ID 59033
+
+Interactability Water
+Interactability_Reset 1500
+Interactability_Resource 20
+
+Soft
