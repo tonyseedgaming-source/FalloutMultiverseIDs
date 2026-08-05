@@ -1,0 +1,11 @@
+GUID 6bab8eabf9864a9f970404cb2694c64b
+
+
+Type Medium
+ID 51000
+Material_Palette 6a5ccb06c7ac4e22a574856d2d271e3a
+Interactability Rubble
+Interactability_Reset 300
+Interactability_Health 10
+Interactability_Effect 72
+Has_Clip_Prefab false
