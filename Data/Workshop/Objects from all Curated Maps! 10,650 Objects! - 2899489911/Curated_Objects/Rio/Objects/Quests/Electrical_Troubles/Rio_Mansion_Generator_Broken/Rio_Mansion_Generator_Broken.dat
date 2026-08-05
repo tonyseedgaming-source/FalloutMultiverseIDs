@@ -1,0 +1,14 @@
+GUID 5771c15196e1467a9bd9de24c44a0018
+Type Medium
+Has_Clip_Prefab false
+
+Conditions 2
+Condition_0_Type Quest
+Condition_0_ID 37037
+Condition_0_Status Completed
+Condition_0_Logic Not_Equal
+//Safezone Membership
+Condition_1_Type Flag_Short
+Condition_1_ID 39021
+Condition_1_Value 2
+Condition_1_Logic Equal
