@@ -1,0 +1,36 @@
+GUID 4221bdc00fa34f7796731442ffde3ae4
+
+Type NPC
+ID 57620
+
+Hat 57043 
+Shirt 57046     
+Vest 57042     
+
+Beard 5
+Face 12
+Color_Skin #BEA582
+Color_Hair #AC6A39
+
+Dialogue 57621
+
+Conditions 1
+Condition_0_Type Flag_Bool
+Condition_0_ID 57102
+Condition_0_Value True
+Condition_0_Logic Equal
+
+Backward
+
+Primary 57424   
+Equipped Primary
+
+Has_Halloween_Outfit True
+Halloween_Hat 579
+Halloween_Shirt 57046     
+Halloween_Vest 57042 
+
+Has_Christmas_Outfit True
+Christmas_Vest 57042
+Christmas_Shirt 57046
+Christmas_Hat 278
