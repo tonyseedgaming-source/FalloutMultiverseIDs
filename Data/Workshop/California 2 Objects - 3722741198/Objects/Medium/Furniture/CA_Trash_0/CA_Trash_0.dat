@@ -1,0 +1,10 @@
+﻿GUID 93d41475db834e8ea4f1b6f1bd4e18a2
+Type Medium
+Has_Clip_Prefab False
+
+// Master_Bundle_Override isn't required in this case, but just as an example:
+Master_Bundle_Override core.masterbundle
+// Path relative to core.masterbundle:
+Bundle_Override_Path /Objects/Medium/Business/Dumpster_6
+
+Material_Palette a14fab804eba4078a3f8688420eb2ccc
