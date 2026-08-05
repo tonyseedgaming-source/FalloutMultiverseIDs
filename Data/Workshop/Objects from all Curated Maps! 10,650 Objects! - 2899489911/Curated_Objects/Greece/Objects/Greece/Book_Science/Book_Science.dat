@@ -1,0 +1,19 @@
+GUID f56fdc0c0fae4ef6ae0a5f70ad9586b1
+Type Small
+ID 3840
+
+Conditions 1
+Condition_0_Type Flag_Bool
+Condition_0_ID 3360
+Condition_0_Value False
+Condition_0_Logic Equal
+
+Interactability Quest
+Interactability_Effect 7
+
+Interactability_Rewards 1
+
+//Pick up Book
+Interactability_Reward_0_Type Flag_Bool
+Interactability_Reward_0_ID 3360
+Interactability_Reward_0_Value True
