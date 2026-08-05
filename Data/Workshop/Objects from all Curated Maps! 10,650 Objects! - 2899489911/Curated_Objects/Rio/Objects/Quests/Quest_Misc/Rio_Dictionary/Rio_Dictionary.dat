@@ -1,0 +1,20 @@
+GUID 2e488c5597e44902b416d991806756a5
+Type Small
+Has_Clip_Prefab false
+
+Conditions 2
+Condition_0_Type Quest
+Condition_0_ID 37051
+Condition_0_Status Active
+Condition_0_Logic Equal
+Condition_1_Type Flag_Bool
+Condition_1_ID 39208
+Condition_1_Value false
+Condition_1_Logic Equal
+Condition_1_Allow_Unset
+
+Interactability Quest
+Interactability_Rewards 1
+Interactability_Reward_0_Type Flag_Bool
+Interactability_Reward_0_ID 39208
+Interactability_Reward_0_Value True
