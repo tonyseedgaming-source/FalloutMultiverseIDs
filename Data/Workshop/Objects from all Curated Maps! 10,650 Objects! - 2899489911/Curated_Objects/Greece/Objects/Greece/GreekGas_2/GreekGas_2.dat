@@ -1,0 +1,10 @@
+GUID f858a440c75f428b928ef29357235349
+Type Medium
+ID 3503
+
+Rubble Destroy
+Rubble_Reset 300
+Rubble_Health 275
+Rubble_Effect 72
+
+Material_Palette d5b6e29cfddd4859abb5761ee7477fef
