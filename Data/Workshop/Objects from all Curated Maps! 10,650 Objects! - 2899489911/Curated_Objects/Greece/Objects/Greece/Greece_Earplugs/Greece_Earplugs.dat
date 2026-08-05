@@ -1,0 +1,18 @@
+GUID 33df6c15aef24b808e852495c2e99dac
+Type Small
+ID 6311
+
+Conditions 1
+Condition_0_Type Flag_Bool
+Condition_0_ID 6211
+Condition_0_Value False
+Condition_0_Logic Equal
+
+Interactability Quest
+Interactability_Effect 7
+Interactability_Rewards 1
+Interactability_Reward_0_Type Flag_Bool
+Interactability_Reward_0_ID 6211
+Interactability_Reward_0_Value True
+
+Asset_Bundle_Version 2
