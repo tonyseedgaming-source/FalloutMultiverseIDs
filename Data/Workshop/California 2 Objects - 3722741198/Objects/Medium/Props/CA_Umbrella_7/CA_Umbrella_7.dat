@@ -1,0 +1,10 @@
+﻿GUID bee63b5cca254e569c509b1580889c2e
+Type Medium
+Has_Clip_Prefab False
+
+Snowshoe
+
+Rubble Destroy
+Rubble_Reset 300
+Rubble_Health 30
+Rubble_Effect 19
