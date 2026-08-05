@@ -1,0 +1,11 @@
+GUID 1b0671b1062d471c9f44f9430edf40ad
+Type Large
+ID 25300
+
+Interactability Binary_State
+Interactability_Delay 0.75
+Interactability_Hint Door
+
+Chart Ignore
+
+Has_Clip_Prefab false
