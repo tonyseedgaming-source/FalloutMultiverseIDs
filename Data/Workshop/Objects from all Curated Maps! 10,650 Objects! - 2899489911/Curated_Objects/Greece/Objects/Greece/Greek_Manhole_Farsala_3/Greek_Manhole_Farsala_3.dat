@@ -1,0 +1,13 @@
+GUID e0d9f8cc267148fa93984d0cd4670bca
+Type Small
+ID 3906
+
+Asset_Bundle_Version 2
+
+Interactability Quest
+Interactability_Effect 38
+
+Interactability_Rewards 1
+
+Interactability_Reward_0_Type Teleport
+Interactability_Reward_0_Spawnpoint FarsalaExit0
