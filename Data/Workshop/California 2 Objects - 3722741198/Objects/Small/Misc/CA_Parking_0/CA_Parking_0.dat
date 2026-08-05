@@ -1,0 +1,10 @@
+﻿GUID fcc5c59ba95d47bbbd48c4dd38c6bab5
+Type Small
+Has_Clip_Prefab False
+
+// Master_Bundle_Override isn't required in this case, but just as an example:
+Master_Bundle_Override core.masterbundle
+// Path relative to core.masterbundle:
+Bundle_Override_Path /Objects/Small/Traffic/Line_Parking_0
+
+Material_Palette 6e164e34ff604ca7a2bc510e41a83629
