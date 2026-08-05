@@ -1,0 +1,12 @@
+GUID ae6f3371e1354314a8ce408e9c2cd791
+
+Type Medium
+
+Has_Clip_Prefab False
+
+ID 59255
+
+Conditions 1
+Condition_0_Type Holiday
+Condition_0_Value HALLOWEEN
+Condition_0_Logic Equal
