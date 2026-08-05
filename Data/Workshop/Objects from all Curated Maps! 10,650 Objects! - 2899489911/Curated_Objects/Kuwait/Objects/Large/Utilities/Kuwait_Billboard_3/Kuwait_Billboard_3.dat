@@ -1,0 +1,15 @@
+GUID 0451e4046af74d3aac295cdbacf7aaed
+Type Large
+Has_Clip_Prefab False
+ID 5047
+
+Rubble Destroy
+Rubble_Reset 300
+Rubble_Health 275
+Rubble_Effect 72
+
+Chart Ignore
+
+Add_Night_Light_Script
+
+Asset_Bundle_Version 2
