@@ -1,0 +1,49 @@
+GUID a4bbaa1d42b043afa22ab94e6759ed08
+Type Small
+ID 3892
+
+//Lunch ONLY Condition
+Conditions 1
+Condition_0_Type Flag_Short
+Condition_0_ID 3434
+Condition_0_Value 6
+Condition_0_Logic Equal
+
+Interactability Quest
+Interactability_Effect 7
+
+
+Interactability_Rewards 4
+
+//Set Selected Menu Option == Option #1
+Interactability_Reward_0_Type Flag_Short
+Interactability_Reward_0_ID 3434
+Interactability_Reward_0_Value 1
+Interactability_Reward_0_Modification Assign
+
+
+//Redo Calculations
+
+//Update Material Cost Formula, Subtract Current Value, then add new one
+
+//Meal Cost += Option Cost
+Interactability_Reward_1_Type Flag_Math
+Interactability_Reward_1_A_ID 3430
+Interactability_Reward_1_B_ID 3439
+Interactability_Reward_1_Operation Addition
+
+//Update Nutrients Value Formula, Subtract Current Value, then add new one
+
+//Meal Nutrients += Option Nutrients
+Interactability_Reward_2_Type Flag_Math
+Interactability_Reward_2_A_ID 3431
+Interactability_Reward_2_B_ID 3440
+Interactability_Reward_2_Operation Addition
+
+//Update Morale Formula, Subtract Current Value, then add new one
+
+//Meal Morale += Option Morale
+Interactability_Reward_3_Type Flag_Math
+Interactability_Reward_3_A_ID 3432
+Interactability_Reward_3_B_ID 3441
+Interactability_Reward_3_Operation Addition
