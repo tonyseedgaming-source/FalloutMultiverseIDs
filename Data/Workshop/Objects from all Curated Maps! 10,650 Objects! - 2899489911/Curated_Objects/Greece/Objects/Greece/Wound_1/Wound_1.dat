@@ -1,0 +1,19 @@
+GUID de7311e5bb9848ab83642372b3a3ca87
+Type Small
+ID 3873
+
+//Wound is Messy
+Conditions 3
+Condition_0_Type Flag_Short
+Condition_0_ID 3411
+Condition_0_Value 3
+Condition_0_Logic Less_Than
+Condition_1_Type Flag_Short
+Condition_1_ID 3411
+Condition_1_Value 0
+Condition_1_Logic Greater_Than
+//And IS infected
+Condition_2_Type Flag_Short
+Condition_2_ID 3402
+Condition_2_Value 1
+Condition_2_Logic Greater_Than
