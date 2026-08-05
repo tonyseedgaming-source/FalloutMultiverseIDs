@@ -1,0 +1,21 @@
+GUID 23c6ba83e76f4201b17f8ad21cc7b063
+Type Medium
+ID 6027
+
+Conditions 1
+Condition_0_Type Flag_Bool
+Condition_0_ID 2104
+Condition_0_Value False
+Condition_0_Logic Equal
+
+Interactability Note
+Interactability_Hint Use
+Interactability_Text_Lines 6
+Interactability_Rewards 1
+Interactability_Reward_0_Type Flag_Bool
+Interactability_Reward_0_ID 2104
+Interactability_Reward_0_Value True
+
+Asset_Bundle_Version 2
+Bundle_Override_Path /Objects/Medium/Furniture/Note
+Master_Bundle_Override core.masterbundle
