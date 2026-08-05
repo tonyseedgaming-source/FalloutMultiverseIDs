@@ -1,0 +1,28 @@
+GUID 476fc4a9a977444981981cddf85634cc
+Type Small
+Has_Clip_Prefab false
+
+Conditions 3
+//Mans Best Friend Active
+Condition_0_Type Quest
+Condition_0_ID 37056
+Condition_0_Status Active
+Condition_0_Logic Equal
+//Has Bowls
+Condition_1_Type Flag_Bool
+Condition_1_ID 39213
+Condition_1_Value True
+Condition_1_Logic Equal
+//Hasn't Placed
+Condition_2_Type Flag_Bool
+Condition_2_ID 39215
+Condition_2_Value false
+Condition_2_Logic Equal
+Condition_2_Allow_Unset
+
+Interactability Quest
+Interactability_Rewards 1
+//Has Placed
+Interactability_Reward_0_Type Flag_Bool
+Interactability_Reward_0_ID 39215
+Interactability_Reward_0_Value True
