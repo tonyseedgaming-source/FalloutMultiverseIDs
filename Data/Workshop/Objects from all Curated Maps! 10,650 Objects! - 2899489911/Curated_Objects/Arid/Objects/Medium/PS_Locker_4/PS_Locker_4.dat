@@ -1,0 +1,17 @@
+GUID 3e021b7de56c4077858461fce15c3fb2
+
+Type Medium
+
+Has_Clip_Prefab False
+
+ID 60222
+
+Material_Palette e25fcfc88236445295b42509d6e24e94
+
+Interactability Dropper
+Interactability_Delay 600
+Interactability_Hint Custom
+Interactability_Reward_ID 59289
+
+Master_Bundle_Override loco_curated_objects.masterbundle
+Bundle_Override_Path /Objects/Medium/PS_Locker_0
