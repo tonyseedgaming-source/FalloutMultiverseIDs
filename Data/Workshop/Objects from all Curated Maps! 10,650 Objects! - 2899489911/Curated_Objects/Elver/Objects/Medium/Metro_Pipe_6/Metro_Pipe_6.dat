@@ -1,0 +1,11 @@
+GUID 1d1c3771916644219fb91251f789cee2
+
+Type Small
+Has_Clip_Prefab false
+ID 57132
+
+Asset_Bundle_Version 2
+Master_Bundle_Override core.masterbundle
+Bundle_Override_Path /Objects/Medium/Business/Pipe_3
+
+Material_Palette 1195e2aabf6e43678db4cb9856a8144b
