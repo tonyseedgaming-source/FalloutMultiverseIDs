@@ -1,0 +1,11 @@
+GUID 9486ff5f784f454197e38083167cc9c7
+Type Large
+ID 45779
+
+Asset_Bundle_Version 2
+
+Rubble Destroy
+Rubble_Reset 300
+Rubble_Health 1100	
+Rubble_Effect 71
+Rubble_Invulnerable
