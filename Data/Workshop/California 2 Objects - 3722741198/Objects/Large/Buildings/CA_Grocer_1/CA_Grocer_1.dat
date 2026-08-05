@@ -1,0 +1,10 @@
+﻿GUID 2f129ca87c244342bf2049e13710a2fa
+Type Large
+Has_Clip_Prefab False
+
+LOD Mesh
+
+Material_Palette 4bc31de74bc84b45bd680407f3bcc67b
+
+Master_Bundle_Override core.masterbundle
+Bundle_Override_Path /Objects/Large/Buildings/Grocer_0
