@@ -1,0 +1,11 @@
+GUID 1cb9ab2e099d45ce94d45431c7ad09a3
+Type Medium
+ID 25300
+
+Chart Ignore
+
+Has_Clip_Prefab false
+
+Interactability Water
+Interactability_Reset 600
+Interactability_Resource 10
