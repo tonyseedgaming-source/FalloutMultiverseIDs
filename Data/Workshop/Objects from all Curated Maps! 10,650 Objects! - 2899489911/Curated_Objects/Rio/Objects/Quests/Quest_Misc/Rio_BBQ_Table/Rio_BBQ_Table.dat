@@ -1,0 +1,15 @@
+GUID 1d50b9622693468f83126bf914ebd2e1
+Type Small
+Has_Clip_Prefab false
+
+Conditions 2
+Condition_0_Type Quest
+Condition_0_ID 37026
+Condition_0_Status Active
+Condition_0_Logic Greater_Than_Or_Equal_To
+Condition_1_Type Quest
+Condition_1_ID 37026
+Condition_1_Status Ready
+Condition_1_Logic Less_Than_Or_Equal_To
+
+Material_Palette a58e8d6c316b4d3bb0dcb826998099a5
