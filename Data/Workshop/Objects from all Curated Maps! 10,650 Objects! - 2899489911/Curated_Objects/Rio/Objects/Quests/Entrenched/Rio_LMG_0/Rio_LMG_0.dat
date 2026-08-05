@@ -1,0 +1,15 @@
+GUID 65d7706af5b14e21b54a0c89de7ac38d
+Type Small
+Has_Clip_Prefab false
+
+Conditions 2
+//Entrenched III Not Active
+Condition_0_Type Quest
+Condition_0_ID 37086
+Condition_0_Status Active
+Condition_0_Logic Not_Equal
+//Entrenched III Not Ready
+Condition_1_Type Quest
+Condition_1_ID 37086
+Condition_1_Status Ready
+Condition_1_Logic Not_Equal
