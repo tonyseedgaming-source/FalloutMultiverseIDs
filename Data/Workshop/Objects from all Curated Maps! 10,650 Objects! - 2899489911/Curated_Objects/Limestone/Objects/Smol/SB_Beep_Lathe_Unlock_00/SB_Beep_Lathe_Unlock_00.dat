@@ -1,0 +1,10 @@
+﻿GUID 58dcf0fd257e475ca8e3d2be01aaa3e5
+Type Small
+ID 47435
+Has_Clip_Prefab False
+
+Conditions 1
+Condition_0_Type Flag_Short
+Condition_0_ID 21715
+Condition_0_Value 1
+Condition_0_Logic Equal
