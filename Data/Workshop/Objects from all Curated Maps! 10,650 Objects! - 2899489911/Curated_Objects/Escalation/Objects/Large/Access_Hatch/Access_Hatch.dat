@@ -1,0 +1,27 @@
+GUID 94a87462a90c42ca871fc2ab76db3503
+
+Type Large
+ID 51000
+
+Interactability Quest
+Interactability_Effect 7
+Interactability_Rewards 6
+Interactability_Reward_0_Type Teleport
+Interactability_Reward_0_Spawnpoint Facility_Cutscene
+Interactability_Reward_1_Type Flag_Bool
+Interactability_Reward_1_ID 54010
+Interactability_Reward_1_Value True
+Interactability_Reward_2_Type Cutscene_Mode
+Interactability_Reward_2_Value True
+Interactability_Reward_3_Type Rewards_List_Asset
+Interactability_Reward_3_GUID 427c759a84eb4946a5bb2d7ccf7ebb69
+Interactability_Reward_3_GrantDelaySeconds 6.03
+Interactability_Reward_4_Type Flag_Bool
+Interactability_Reward_4_ID 54010
+Interactability_Reward_4_Value False
+Interactability_Reward_4_GrantDelaySeconds 6.5
+Interactability_Reward_5_Type Cutscene_Mode
+Interactability_Reward_5_Value False
+Interactability_Reward_5_GrantDelaySeconds 6.03
+Has_Clip_Prefab false
+LOD Mesh
