@@ -1,0 +1,16 @@
+﻿GUID e5991165535b4c07bb8cb91702115380
+
+Type Large
+
+Has_Clip_Prefab False
+ID 47029
+
+Interactability Rubble
+Interactability_Reset 1200
+Interactability_Health 77
+Interactability_Effect 21502
+Rubble_Nav_Mode DeactivateIfAllDead
+Rubble_Can_Zombies_Damage True
+Rubble_Zombie_Damage_Multiplier 8
+Rubble_Respawn_All_Sections_Simultaneously
+Load_Nav_In_Editor False
