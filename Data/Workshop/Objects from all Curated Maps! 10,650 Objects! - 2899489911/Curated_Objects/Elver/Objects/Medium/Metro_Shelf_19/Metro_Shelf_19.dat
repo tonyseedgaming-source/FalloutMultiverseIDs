@@ -1,0 +1,11 @@
+GUID f1cb50897d054a8787e081474758fff6
+
+Type Medium
+Has_Clip_Prefab false
+ID 57327
+
+Asset_Bundle_Version 3
+Master_Bundle_Override core.masterbundle
+Bundle_Override_Path /Objects/Medium/Business/Shelf_3
+
+Material_Palette 811358174c75499a91353443a7930b36
