@@ -1,0 +1,5 @@
+Name SB Radio #2 [Code]
+
+Interact Put in a <color=#1f871f>Battery</color> [{0}]
+
+Interactability_Condition_0 Playing...
