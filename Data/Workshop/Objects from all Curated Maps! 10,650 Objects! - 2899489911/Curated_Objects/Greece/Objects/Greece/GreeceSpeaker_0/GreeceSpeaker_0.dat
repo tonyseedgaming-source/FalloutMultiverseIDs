@@ -1,0 +1,12 @@
+GUID 5f4d45d1230b4182b0aa49d3b0590d53
+Type Medium
+ID 6305
+
+Chart Ignore
+
+Rubble Destroy
+Rubble_Reset 300
+Rubble_Health 175
+Rubble_Effect 72
+
+Asset_Bundle_Version 2
