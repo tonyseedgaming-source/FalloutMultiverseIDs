@@ -1,0 +1,114 @@
+GUID 429339a9fa80416f86cdd4278c7e5b3d
+Type Dialogue
+ID 58155
+
+Messages 6
+
+// Randomized 1
+Message_0_Pages 1
+Message_0_Conditions 1
+Message_0_Condition_0_Type Flag_Short
+Message_0_Condition_0_ID 58156
+Message_0_Condition_0_Value 0
+Message_0_Condition_0_Logic Equal
+Message_0_Condition_0_Allow_Unset
+// Randomize Again.
+Message_0_Rewards 1
+Message_0_Reward_0_Type Flag_Short_Random
+Message_0_Reward_0_ID 58156
+Message_0_Reward_0_Min_Value 0
+Message_0_Reward_0_Max_Value 2
+Message_0_Reward_0_Modification Assign
+
+// Randomized 2
+Message_1_Pages 1
+Message_1_Conditions 1
+Message_1_Condition_0_Type Flag_Short
+Message_1_Condition_0_ID 58156
+Message_1_Condition_0_Value 1
+Message_1_Condition_0_Logic Equal
+Message_1_Condition_0_Allow_Unset
+// Randomize Again.
+Message_1_Rewards 1
+Message_1_Reward_0_Type Flag_Short_Random
+Message_1_Reward_0_ID 58156
+Message_1_Reward_0_Min_Value 0
+Message_1_Reward_0_Max_Value 2
+Message_1_Reward_0_Modification Assign
+
+// Randomized 3 (Morning, 0000 to 0600)
+Message_2_Pages 1
+Message_2_Conditions 2
+Message_2_Condition_0_Type Flag_Short
+Message_2_Condition_0_ID 58156
+Message_2_Condition_0_Value 2
+Message_2_Condition_0_Logic Equal
+Message_2_Condition_1_Type Time_Of_Day
+Message_2_Condition_1_Second 21600
+Message_2_Condition_1_Logic Less_Than_Or_Equal_To
+// Randomize Again.
+Message_2_Rewards 1
+Message_2_Reward_0_Type Flag_Short_Random
+Message_2_Reward_0_ID 58156
+Message_2_Reward_0_Min_Value 0
+Message_2_Reward_0_Max_Value 2
+Message_2_Reward_0_Modification Assign
+
+// Randomized 3 (Morning, 6 to 12)
+Message_3_Pages 1
+Message_3_Conditions 3
+Message_3_Condition_0_Type Flag_Short
+Message_3_Condition_0_ID 58156
+Message_3_Condition_0_Value 2
+Message_3_Condition_0_Logic Equal
+Message_3_Condition_1_Type Time_Of_Day
+Message_3_Condition_1_Second 21600
+Message_3_Condition_1_Logic Greater_Than
+Message_3_Condition_2_Type Time_Of_Day
+Message_3_Condition_2_Second 43200
+Message_3_Condition_2_Logic Less_Than_Or_Equal_To
+// Randomize Again.
+Message_3_Rewards 1
+Message_3_Reward_0_Type Flag_Short_Random
+Message_3_Reward_0_ID 58156
+Message_3_Reward_0_Min_Value 0
+Message_3_Reward_0_Max_Value 2
+Message_3_Reward_0_Modification Assign
+
+// Randomized 3 (Afternoon, 12am to 6pm)
+Message_4_Pages 1
+Message_4_Conditions 3
+Message_4_Condition_0_Type Flag_Short
+Message_4_Condition_0_ID 58156
+Message_4_Condition_0_Value 2
+Message_4_Condition_0_Logic Equal
+Message_4_Condition_1_Type Time_Of_Day
+Message_4_Condition_1_Second 43200
+Message_4_Condition_1_Logic Greater_Than
+Message_4_Condition_2_Type Time_Of_Day
+Message_4_Condition_2_Second 64800
+Message_4_Condition_2_Logic Less_Than_Or_Equal_To
+// Randomize Again.
+Message_4_Rewards 1
+Message_4_Reward_0_Type Flag_Short_Random
+Message_4_Reward_0_ID 58156
+Message_4_Reward_0_Min_Value 0
+Message_4_Reward_0_Max_Value 2
+Message_4_Reward_0_Modification Assign
+
+// Randomized 3 (Evening, 6pm to 12am)
+Message_5_Pages 1
+Message_5_Conditions 1
+Message_5_Condition_0_Type Flag_Short
+Message_5_Condition_0_ID 58156
+Message_5_Condition_0_Value 2
+Message_5_Condition_0_Logic Equal
+// Randomize Again.
+Message_5_Rewards 1
+Message_5_Reward_0_Type Flag_Short_Random
+Message_5_Reward_0_ID 58156
+Message_5_Reward_0_Min_Value 0
+Message_5_Reward_0_Max_Value 2
+Message_5_Reward_0_Modification Assign
+
+Responses 1
