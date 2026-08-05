@@ -1,0 +1,27 @@
+GUID 13f4fd6f3c744911826e742dc767ff8f
+Type Small
+ID 3914
+
+Asset_Bundle_Version 2
+
+Conditions 1
+Condition_0_Type Flag_Short
+Condition_0_ID 3486
+Condition_0_Value 400
+Condition_0_Logic Less_Than
+
+Interactability Quest
+Interactability_Effect 7
+
+Interactability_Rewards 2
+
+//Set the metal material cost
+Interactability_Reward_0_Type Flag_Short
+Interactability_Reward_0_ID 3486
+Interactability_Reward_0_Value 6
+Interactability_Reward_0_Modification Assign
+//Set the metal material structure
+Interactability_Reward_1_Type Flag_Short
+Interactability_Reward_1_ID 3487
+Interactability_Reward_1_Value 8
+Interactability_Reward_1_Modification Assign
