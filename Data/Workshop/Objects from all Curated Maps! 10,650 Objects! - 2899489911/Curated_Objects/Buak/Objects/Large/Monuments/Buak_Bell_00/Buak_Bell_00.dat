@@ -1,0 +1,11 @@
+GUID 7b46130a20334be798d721fedf4a66f3
+Type Large
+ID 25300
+
+Has_Clip_Prefab false
+
+Interactability Binary_State
+Interactability_Delay 8
+Interactability_Editor Toggle
+
+Exclude_From_Culling_Volumes True
