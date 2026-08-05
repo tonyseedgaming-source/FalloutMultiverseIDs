@@ -1,0 +1,15 @@
+GUID db23ae955cf343c7a8486eb533612160
+Type Medium
+Has_Clip_Prefab false
+
+Interactability Binary_State
+Interactability_Hint Switch
+Interactability_Power Stay
+Interactability_Emission
+
+Chart Ignore
+
+Rubble Destroy
+Rubble_Reset 200
+Rubble_Health 15
+Rubble_Effect 64
