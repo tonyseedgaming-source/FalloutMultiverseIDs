@@ -1,0 +1,13 @@
+GUID 70ae397a74c04af9824efc63315852dc
+Type Medium
+ID 25300
+
+Interactability Binary_State
+Interactability_Delay 4
+Interactability_Reset 1200
+Interactability_Hint Door
+Interactability_Editor Toggle
+
+Has_Clip_Prefab false
+
+Chart Ignore
