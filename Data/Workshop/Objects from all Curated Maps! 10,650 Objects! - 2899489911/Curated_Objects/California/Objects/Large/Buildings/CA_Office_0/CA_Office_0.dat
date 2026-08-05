@@ -1,0 +1,8 @@
+GUID 54d666714fcf49bf88f31a27a03c1914
+Type Large
+ID 4680
+
+Material_Palette 3987063d60df43e2ac4ca66fe91880f1
+
+Master_Bundle_Override core.masterbundle
+Bundle_Override_Path /Objects/Large/Buildings/Office_0
