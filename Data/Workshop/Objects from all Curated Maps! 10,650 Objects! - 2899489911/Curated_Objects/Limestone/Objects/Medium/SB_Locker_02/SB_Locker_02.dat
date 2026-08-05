@@ -1,0 +1,22 @@
+GUID d3fbe7ef6bdb49678b93b70ff8531db4
+Type Medium
+Has_Clip_Prefab False
+ID 47343
+
+Interactability Dropper
+Interactability_RewardItem_Origin World
+Interactability_Delay 600
+Interactability_Hint Use
+Interactability_Reward_ID 22182
+
+Rubble Destroy
+Rubble_Reset 1200
+Rubble_Health 1
+Rubble_Effect 21529
+Rubble_Reward_ID 21868
+Rubble_Reward_Probability 0.4
+
+Material_Palette 2af8e271551940899a82e0b7f5b47789
+
+Master_Bundle_Override loco_curated_objects.masterbundle
+Bundle_Override_Path /Limestone/Objects/Medium/SB_Locker_00
