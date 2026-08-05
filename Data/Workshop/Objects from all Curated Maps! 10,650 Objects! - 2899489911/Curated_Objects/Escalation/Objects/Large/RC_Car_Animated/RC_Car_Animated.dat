@@ -1,0 +1,9 @@
+GUID d58b5e4e814941468a252ea5cdba31cc
+
+Conditions 1
+Condition_0_Type Flag_Bool
+Condition_0_ID 52186
+Condition_0_Value True
+Condition_0_Logic Equal
+Type Large
+ID 51000
