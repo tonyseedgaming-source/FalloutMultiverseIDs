@@ -1,0 +1,10 @@
+GUID f70570a764a945f888968f29152593a8
+Type Small
+Has_Clip_Prefab false
+
+Conditions 1
+//Puzzle Progress
+Condition_0_Type Flag_Short
+Condition_0_ID 39251
+Condition_0_Value 6
+Condition_0_Logic Greater_Than_Or_Equal_To
