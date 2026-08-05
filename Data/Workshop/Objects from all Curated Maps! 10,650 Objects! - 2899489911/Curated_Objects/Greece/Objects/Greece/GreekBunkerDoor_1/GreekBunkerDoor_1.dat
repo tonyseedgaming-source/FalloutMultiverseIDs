@@ -1,0 +1,16 @@
+GUID e7014d465c0f4644a4ceaed11958c1c4
+Type Large
+ID 3741
+
+Asset_Bundle_Version 2
+
+Interactability Binary_State
+Interactability_Delay 1.75
+Interactability_Reset 10
+Interactability_Nav Off
+
+Interactability_Conditions 1
+Interactability_Condition_0_Type Flag_Short
+Interactability_Condition_0_ID 3017
+Interactability_Condition_0_Value -1
+Interactability_Condition_0_Logic Less_Than_Or_Equal_To
