@@ -1,0 +1,16 @@
+GUID 34b7f68fac104603b3a58e688923c66f
+Type Large
+ID 25300
+
+Chart Ignore
+
+Has_Clip_Prefab false
+
+Rubble Destroy
+Rubble_Reset 600
+Rubble_Health 900
+Rubble_Effect 25476
+Rubble_Reward_ID 25401
+Rubble_Rewards_Min 6
+Rubble_Rewards_Max 10
+Rubble_Invulnerable
