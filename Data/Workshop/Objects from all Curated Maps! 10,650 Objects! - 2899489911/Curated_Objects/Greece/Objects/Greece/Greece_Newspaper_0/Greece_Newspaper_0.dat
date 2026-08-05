@@ -1,0 +1,8 @@
+GUID ac3e1604a4da4b4081e914adca83e9dc
+Type Small
+ID 3909
+
+Rubble Destroy
+Rubble_Reset 300
+Rubble_Health 1
+Rubble_Effect 58
