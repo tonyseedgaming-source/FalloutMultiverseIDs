@@ -1,0 +1,36 @@
+GUID d7936850f2904735b9c914c7b564bb60
+Type Small
+ID 3957
+
+Asset_Bundle_Version 2
+
+Conditions 2
+Condition_0_Type Flag_Short
+Condition_0_ID 3593
+Condition_0_Value 1
+Condition_0_Logic Equal
+Condition_1_Type Flag_Bool
+Condition_1_ID 3596
+Condition_1_Value False
+Condition_1_Logic Equal
+
+Interactability Quest
+Interactability_Effect 27
+
+Interactability_Conditions 2
+Interactability_Condition_0_Type Item
+Interactability_Condition_0_ID 1451
+Interactability_Condition_0_Amount 1
+Interactability_Condition_0_Logic Greater_Than_Or_Equal_To
+Interactability_Condition_0_Reset
+Interactability_Condition_1_Type Item
+Interactability_Condition_1_ID 1507
+Interactability_Condition_1_Amount 1
+Interactability_Condition_1_Logic Greater_Than_Or_Equal_To
+
+Interactability_Rewards 1
+
+//Build Body
+Interactability_Reward_0_Type Flag_Bool
+Interactability_Reward_0_ID 3596
+Interactability_Reward_0_Value True
