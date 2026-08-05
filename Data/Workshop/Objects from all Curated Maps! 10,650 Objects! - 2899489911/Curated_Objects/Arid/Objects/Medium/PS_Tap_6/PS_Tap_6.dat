@@ -1,0 +1,16 @@
+GUID b6fee8d6d3324848a0db24717e04bb4c
+
+Type Medium
+
+Has_Clip_Prefab False
+
+ID 60219
+
+Interactability Fuel
+Interactability_Reset 1500
+Interactability_Resource 50000
+
+Soft
+
+Master_Bundle_Override loco_curated_objects.masterbundle
+Bundle_Override_Path /Objects/Medium/PS_Tap_2
