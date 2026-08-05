@@ -1,0 +1,52 @@
+GUID b410a475ccd7491fa026574c48e5c86a
+Type Small
+ID 3766
+
+Asset_Bundle_Version 2
+
+Conditions 2
+Condition_0_Type Flag_Short
+Condition_0_ID 3256
+Condition_0_Value 22
+Condition_0_Logic Not_Equal
+
+Condition_1_Type Flag_Bool
+Condition_1_ID 3257
+Condition_1_Value True
+Condition_1_Logic Equal
+
+Interactability Quest
+Interactability_Effect 61
+
+Interactability_Rewards 6
+
+//Fuse Box is Reset
+Interactability_Reward_0_Type Flag_Short
+Interactability_Reward_0_ID 3254
+Interactability_Reward_0_Value 0
+Interactability_Reward_0_Modification Assign
+
+Interactability_Reward_1_Type Flag_Short
+Interactability_Reward_1_ID 3255
+Interactability_Reward_1_Value 0
+Interactability_Reward_1_Modification Assign
+
+Interactability_Reward_2_Type Flag_Short
+Interactability_Reward_2_ID 3256
+Interactability_Reward_2_Value 0
+Interactability_Reward_2_Modification Assign
+
+Interactability_Reward_3_Type Flag_Short
+Interactability_Reward_3_ID 3258
+Interactability_Reward_3_Value 0
+Interactability_Reward_3_Modification Assign
+
+Interactability_Reward_4_Type Flag_Short
+Interactability_Reward_4_ID 3259
+Interactability_Reward_4_Value 0
+Interactability_Reward_4_Modification Assign
+
+Interactability_Reward_5_Type Flag_Short
+Interactability_Reward_5_ID 3260
+Interactability_Reward_5_Value 0
+Interactability_Reward_5_Modification Assign
