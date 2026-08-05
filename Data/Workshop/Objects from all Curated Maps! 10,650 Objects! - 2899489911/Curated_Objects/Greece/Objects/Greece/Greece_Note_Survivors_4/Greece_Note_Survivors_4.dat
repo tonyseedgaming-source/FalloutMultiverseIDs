@@ -1,0 +1,13 @@
+GUID 61c17ae9607d45e0a5f935dcfddd4e87
+Type Medium
+ID 3985
+
+Interactability Note
+Interactability_Hint Use
+Interactability_Text_Lines 1
+
+Asset_Bundle_Version 2
+Bundle_Override_Path /Objects/Medium/Furniture/Note
+Exclude_From_Master_Bundle
+
+Master_Bundle_Override core.masterbundle
