@@ -1,0 +1,11 @@
+GUID 24f73ee7b51949f287f7e522bdd0d9d9
+Type Medium
+ID 51000
+
+LOD Mesh
+LOD_Center_Z -0.5
+LOD_Size_Z -1
+Has_Clip_Prefab false
+
+Master_Bundle_Override loco_curated_objects.masterbundle
+Bundle_Override_Path Escalation/Objects/Medium/50_cal
