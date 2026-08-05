@@ -1,0 +1,14 @@
+﻿GUID 7eeb7bd615614856a2bbb5b0dfa57721
+
+Type Large
+
+Has_Clip_Prefab False
+ID 47317
+
+Interactability Binary_State
+Interactability_Delay 1
+Interactability_Hint Door
+Interactability_Nav None
+Load_Nav_In_Editor False
+|
+Material_Palette 605a49f840254ee4affb557ad3bc71cf
