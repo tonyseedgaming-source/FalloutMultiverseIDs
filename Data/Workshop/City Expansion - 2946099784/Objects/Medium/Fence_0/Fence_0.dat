@@ -1,0 +1,16 @@
+GUID 7e61a099d66b41069f6beba6783fbce0
+Type Medium
+ID 46294
+
+Rubble Destroy
+Rubble_Reset 300
+Rubble_Health 125
+Rubble_Effect 35
+
+LOD Mesh
+
+Collision_Important
+
+Asset_Bundle_Version 3
+
+Exclude_From_Master_Bundle
