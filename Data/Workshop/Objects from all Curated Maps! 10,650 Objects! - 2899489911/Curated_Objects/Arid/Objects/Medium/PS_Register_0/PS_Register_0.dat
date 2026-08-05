@@ -1,0 +1,12 @@
+GUID 8ece2c4eb48f451fa438830548b80833
+
+Type Medium
+
+Has_Clip_Prefab False
+
+ID 59642
+
+Interactability Dropper
+Interactability_Delay 300
+Interactability_Hint Custom
+Interactability_Reward_ID 59030
