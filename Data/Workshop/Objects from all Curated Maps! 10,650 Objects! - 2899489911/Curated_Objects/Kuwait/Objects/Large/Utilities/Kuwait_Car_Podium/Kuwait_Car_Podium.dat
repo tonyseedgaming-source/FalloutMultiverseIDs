@@ -1,0 +1,12 @@
+GUID 5353315edb124775bbb968b3030b9c55
+Type Large
+Has_Clip_Prefab False
+ID 5368
+
+Snowshoe
+Soft
+Collision_Important
+
+LOD Mesh
+LOD_Center_Z -0.5
+LOD_Size_Z -1
