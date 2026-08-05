@@ -1,0 +1,13 @@
+GUID 0b0fa754e7834f06b63b5da86ca47a74
+Type Small
+ID 6831
+
+Interactability Note
+Interactability_Hint Use
+Interactability_Text_Lines 3
+
+Asset_Bundle_Version 2
+Bundle_Override_Path Easter_Island/Objects/Medium/Furniture/Note
+Exclude_From_Master_Bundle
+
+Master_Bundle_Override core.masterbundle
