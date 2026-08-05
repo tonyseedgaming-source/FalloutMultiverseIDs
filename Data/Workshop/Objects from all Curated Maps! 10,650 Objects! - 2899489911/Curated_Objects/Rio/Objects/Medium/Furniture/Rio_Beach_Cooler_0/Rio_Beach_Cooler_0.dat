@@ -1,0 +1,16 @@
+GUID 9bb51097af7b42b2ae3440d0ecb31ad7
+Type Medium
+
+Snowshoe
+
+Rubble Destroy
+Rubble_Reset 600
+Rubble_Health 50
+Rubble_Effect 72
+Rubble_Reward_ID 32233
+Rubble_Reward_Probability 0.8
+Rubble_Rewards_Min 1
+Rubble_Rewards_Max 1
+Has_Clip_Prefab false
+
+Material_Palette 690e2c841a4f415192b40a1736c284d4
