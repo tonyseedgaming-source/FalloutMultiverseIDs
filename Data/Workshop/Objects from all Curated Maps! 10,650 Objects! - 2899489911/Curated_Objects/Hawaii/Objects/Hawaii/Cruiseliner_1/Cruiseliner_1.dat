@@ -1,0 +1,13 @@
+GUID 9f9515f4b89a44af81b20e6e229e3f14
+Type Large
+ID 45717
+
+
+LOD Mesh
+LOD_Bias 1.25
+LOD_Center_Z -0.5
+LOD_Size_Z -1
+
+Use_Water_Height_Transparent_Sort
+Collision_Important
+Asset_Bundle_Version 2
