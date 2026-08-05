@@ -1,0 +1,15 @@
+GUID 50bf238d8c5544cfbbf7f416f91880be
+Type Small
+ID 3875
+
+//Wound is Clean
+Conditions 2
+Condition_0_Type Flag_Short
+Condition_0_ID 3411
+Condition_0_Value 3
+Condition_0_Logic Equal
+//And IS infected
+Condition_1_Type Flag_Short
+Condition_1_ID 3402
+Condition_1_Value 1
+Condition_1_Logic Greater_Than
