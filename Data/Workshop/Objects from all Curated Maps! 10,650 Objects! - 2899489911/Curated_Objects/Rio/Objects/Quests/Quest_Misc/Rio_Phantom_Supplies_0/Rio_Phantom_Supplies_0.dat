@@ -1,0 +1,30 @@
+GUID 04f921cedfe642de91012bdd52047ba9
+Type Small
+Has_Clip_Prefab false
+
+Conditions 3
+//Phantom of the Opera Active
+Condition_0_Type Quest
+Condition_0_ID 37068
+Condition_0_Status Active
+Condition_0_Logic Equal
+//Has Supplies
+Condition_1_Type Flag_Short
+Condition_1_ID 39300
+Condition_1_Value 0
+Condition_1_Logic Equal
+Condition_1_Allow_Unset
+//Ghosts Killed
+Condition_2_Type Flag_Short
+Condition_2_ID 39301
+Condition_2_Value 30
+Condition_2_Logic Greater_Than_Or_Equal_To
+
+Interactability Quest
+Interactability_Effect 36151
+Interactability_Rewards 1
+//Has Supplies
+Interactability_Reward_0_Type Flag_Short
+Interactability_Reward_0_ID 39300
+Interactability_Reward_0_Value 1
+Interactability_Reward_0_Modification Assign
