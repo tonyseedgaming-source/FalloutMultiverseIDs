@@ -1,0 +1,21 @@
+GUID 8645a49c00094d7f9b977d23ce278fbc
+Type Medium
+ID 6713
+
+Master_Bundle_Override core.masterbundle
+Bundle_Override_Path Easter_Island/Objects/Medium/Furniture/Dryer_0
+Exclude_From_Master_Bundle
+
+LOD Mesh
+LOD_Center_Z -0.5
+LOD_Size_Z -1
+
+Interactability Binary_State
+Interactability_Delay 0.25
+Interactability_Reset 60
+Interactability_Hint Door
+Interactability_Editor Toggle
+
+Bypass_ID_Limit
+Material_Palette d55d84beccb449ffafc426d40ab5d2ae
+Has_Clip_Prefab False
