@@ -1,0 +1,32 @@
+﻿GUID 045c050a99714494ae6cf24085cf97ea
+
+Type Small
+Has_Clip_Prefab False
+ID 47123
+
+Conditions 2
+Condition_0_ID 21692
+Condition_0_Type Quest
+Condition_0_Status Active
+Condition_0_Logic Equal
+
+Condition_1_Type Flag_Short
+Condition_1_ID 21782
+Condition_1_Value 1
+Condition_1_Logic Not_Equal
+Condition_1_Allow_Unset
+
+Interactability Quest
+Interactability_Conditions 1
+Interactability_Condition_0_Type Item
+Interactability_Condition_0_ID 21794
+Interactability_Condition_0_Amount 1
+Interactability_Condition_0_Reset
+Interactability_Rewards 1
+Interactability_Reward_0_Type Flag_Short
+Interactability_Reward_0_ID 21782
+Interactability_Reward_0_Value 1
+Interactability_Reward_0_Modification Increment
+
+Master_Bundle_Override loco_curated_objects.masterbundle
+Bundle_Override_Path /Limestone/Objects/Quest/Groundwork/SB_Drop_Box_Door_0
