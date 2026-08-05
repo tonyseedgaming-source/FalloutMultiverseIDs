@@ -1,0 +1,23 @@
+GUID 1e953f08a24d44f8bd477576dc7f3f07
+Type Medium
+ID 6885
+
+Conditions 1
+Condition_0_Type Flag_Bool
+Condition_0_ID 6605
+Condition_0_Value True
+Condition_0_Logic Equal
+
+Interactability Quest
+Interactability_Effect 7
+Interactability_Conditions 1
+Interactability_Condition_0_Type Item
+Interactability_Condition_0_ID 6710
+Interactability_Condition_0_Amount 1
+Interactability_Condition_0_Reset
+Interactability_Rewards 1
+Interactability_Reward_0_Type Flag_Bool
+Interactability_Reward_0_ID 6605
+Interactability_Reward_0_Value False
+
+Has_Clip_Prefab False
