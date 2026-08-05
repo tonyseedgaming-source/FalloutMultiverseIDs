@@ -1,0 +1,11 @@
+﻿GUID 7a60c7409cd9440f9cfc44d73a0036ef
+
+Type Large
+
+Has_Clip_Prefab False
+ID 47361
+
+Interactability Rubble
+Interactability_Reset 1200
+Interactability_Health 1
+Interactability_Effect 21533
