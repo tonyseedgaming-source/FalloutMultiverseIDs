@@ -1,0 +1,21 @@
+GUID 1cdfa02ff87e418292970c3541d4cafe
+Type Medium
+ID 6706
+
+Interactability Quest
+Interactability_Effect 38
+
+Interactability_Rewards 1
+
+Interactability_Reward_0_Type Teleport
+Interactability_Reward_0_Spawnpoint EasterBunkerAdmin0
+
+Bypass_ID_Limit
+
+Interactability_Conditions 1
+Interactability_Condition_0_Type Flag_Bool
+Interactability_Condition_0_ID 243
+Interactability_Condition_0_Value True
+Interactability_Condition_0_Logic Equal
+
+Has_Clip_Prefab False
