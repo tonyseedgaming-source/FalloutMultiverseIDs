@@ -1,0 +1,18 @@
+GUID 0cf1804dbe10413f876536eb3eeb3707
+Type Small
+Has_Clip_Prefab false
+
+Conditions 3
+Condition_0_Type Quest
+Condition_0_ID 37026
+Condition_0_Status Active
+Condition_0_Logic Greater_Than_Or_Equal_To
+Condition_1_Type Quest
+Condition_1_ID 37026
+Condition_1_Status Ready
+Condition_1_Logic Less_Than_Or_Equal_To
+//Rain Weather Status
+Condition_2_Type Weather_Status
+Condition_2_GUID d73923f4416c43dfa5bc8b6234cf0257
+Condition_2_Value Active
+Condition_2_Logic Equal
