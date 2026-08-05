@@ -1,0 +1,52 @@
+GUID 2fe7f8cd47424b81b6b93f7688323b4e
+Type Medium
+ID 3954
+
+Asset_Bundle_Version 2
+
+Conditions 2
+Condition_0_Type Flag_Short
+Condition_0_ID 3593
+Condition_0_Value 1
+Condition_0_Logic Equal
+Condition_1_Type Flag_Bool
+Condition_1_ID 3601
+Condition_1_Value False
+Condition_1_Logic Equal
+
+Interactability Quest
+Interactability_Effect 27
+
+Interactability_Conditions 5
+Interactability_Condition_0_Type Item
+Interactability_Condition_0_ID 1092
+Interactability_Condition_0_Amount 4
+Interactability_Condition_0_Logic Greater_Than_Or_Equal_To
+Interactability_Condition_0_Reset
+Interactability_Condition_1_Type Item
+Interactability_Condition_1_ID 67
+Interactability_Condition_1_Amount 8
+Interactability_Condition_1_Logic Greater_Than_Or_Equal_To
+Interactability_Condition_1_Reset
+Interactability_Condition_2_Type Item
+Interactability_Condition_2_ID 285
+Interactability_Condition_2_Amount 2
+Interactability_Condition_2_Logic Greater_Than_Or_Equal_To
+Interactability_Condition_2_Reset
+Interactability_Condition_3_Type Item
+Interactability_Condition_3_ID 68
+Interactability_Condition_3_Amount 4
+Interactability_Condition_3_Logic Greater_Than_Or_Equal_To
+Interactability_Condition_3_Reset
+Interactability_Condition_4_Type Item
+Interactability_Condition_4_ID 76
+Interactability_Condition_4_Amount 1
+Interactability_Condition_4_Logic Greater_Than_Or_Equal_To
+
+
+Interactability_Rewards 1
+
+//Build Body
+Interactability_Reward_0_Type Flag_Bool
+Interactability_Reward_0_ID 3601
+Interactability_Reward_0_Value True
