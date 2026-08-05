@@ -1,0 +1,16 @@
+GUID b30c84949c694869a2b865ff49e1e8ea
+Type Medium
+ID 6858
+
+Rubble Destroy
+Rubble_Reset 100
+Rubble_Health 275
+Rubble_Effect 15
+
+LOD Mesh
+LOD_Center_Z -0.5
+LOD_Size_Z -1
+
+Bypass_ID_Limit
+Chart Ignore
+Has_Clip_Prefab False
