@@ -1,0 +1,36 @@
+GUID b02e8da3772749968c9c89e0b54e1323
+Type Small
+Has_Clip_Prefab false
+
+Conditions 2
+Condition_0_Type Quest
+Condition_0_ID 37008
+Condition_0_Status Completed
+Condition_0_Logic Less_Than
+Condition_1_Type Flag_Bool
+Condition_1_ID 39077
+Condition_1_Value True
+Condition_1_Logic Equal
+
+Interactability Quest
+Interactability_Conditions 1
+//Has Sound System
+Interactability_Condition_0_Type Flag_Bool
+Interactability_Condition_0_ID 39079
+Interactability_Condition_0_Value True
+Interactability_Condition_0_Logic Equal
+Interactability_Rewards 3
+//Found Rox System
+Interactability_Reward_0_Type Flag_Short
+Interactability_Reward_0_ID 39017
+Interactability_Reward_0_Value 1
+Interactability_Reward_0_Modification Increment
+//Weight
+Interactability_Reward_1_Type Flag_Short
+Interactability_Reward_1_ID 39075
+Interactability_Reward_1_Value 2
+Interactability_Reward_1_Modification Decrement
+//Has Sound System
+Interactability_Reward_2_Type Flag_Bool
+Interactability_Reward_2_ID 39079
+Interactability_Reward_2_Value false
