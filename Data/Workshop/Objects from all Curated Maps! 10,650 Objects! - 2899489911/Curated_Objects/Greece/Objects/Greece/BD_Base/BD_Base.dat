@@ -1,0 +1,13 @@
+GUID 1e0d722b70044785895e146a384bd26e
+Type Medium
+ID 3923
+
+Asset_Bundle_Version 2
+
+Conditions 1
+Condition_0_Type Flag_Short
+Condition_0_ID 3490
+Condition_0_Value 1
+Condition_0_Logic Equal
+
+
