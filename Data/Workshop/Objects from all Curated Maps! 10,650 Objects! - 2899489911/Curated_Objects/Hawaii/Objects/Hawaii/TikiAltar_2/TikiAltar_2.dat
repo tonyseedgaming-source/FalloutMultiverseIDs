@@ -1,0 +1,28 @@
+GUID 1a71920c72484624acb8568356567642
+Type Medium
+ID 45786
+
+Interactability Quest
+Interactability_Effect 6
+Interactability_Conditions 2
+Interactability_Condition_0_Type Flag_Short
+Interactability_Condition_0_ID 242
+Interactability_Condition_0_Value 0
+Interactability_Condition_0_Logic Greater_Than
+Interactability_Condition_1_Type Quest
+Interactability_Condition_1_Logic Equal
+Interactability_Condition_1_ID 241
+Interactability_Condition_1_Status Ready
+Interactability_Condition_1_Reset
+Interactability_Rewards 3
+Interactability_Reward_0_Type Flag_Short
+Interactability_Reward_0_ID 2201
+Interactability_Reward_0_Value 4
+Interactability_Reward_0_Modification Assign
+Interactability_Reward_1_Type Teleport
+Interactability_Reward_1_Spawnpoint 2201
+Interactability_Reward_2_Type Achievement
+Interactability_Reward_2_ID Boss_Magma
+
+Snowshoe
+Asset_Bundle_Version 2
