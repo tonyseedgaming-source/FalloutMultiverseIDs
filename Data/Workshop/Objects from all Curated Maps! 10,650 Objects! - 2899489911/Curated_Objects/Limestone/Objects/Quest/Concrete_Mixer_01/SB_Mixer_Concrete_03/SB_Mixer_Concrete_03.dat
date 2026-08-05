@@ -1,0 +1,23 @@
+﻿GUID f6265771ae114abfa7466710c8511174
+
+Type Medium
+
+Has_Clip_Prefab False
+ID 47501
+
+Interactability_Rewards 1
+Interactability_Reward_0_Type Achievement
+Interactability_Reward_0_ID LS_Concrete
+
+Interactability_Conditions 1
+Interactability_Condition_0_Type Item
+Interactability_Condition_0_ID 21738
+Interactability_Condition_0_Amount 1
+Interactability_Condition_0_Logic Greater_Than_Or_Equal_To
+Interactability_Condition_0_Reset
+
+Interactability_Effect 21590
+
+Interactability Binary_State
+
+Interactability_Hint Custom
