@@ -1,0 +1,16 @@
+GUID 8222fdfefd224ea9bf5aa4b6e4afe110
+
+Type Medium
+
+Has_Clip_Prefab False
+
+ID 59068
+
+Interactability Dropper
+Interactability_Delay 600
+Interactability_Hint Custom
+Interactability_Reward_ID 59004
+
+Interactability_Rewards 1
+Interactability_Reward_0_Type Event
+Interactability_Reward_0_ID Open
