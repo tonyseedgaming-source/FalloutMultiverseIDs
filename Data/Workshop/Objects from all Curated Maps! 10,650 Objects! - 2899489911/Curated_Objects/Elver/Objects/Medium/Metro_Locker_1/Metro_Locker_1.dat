@@ -1,0 +1,11 @@
+GUID cfa072d2881645a3b2147a96671cf3db
+
+Type Medium
+Has_Clip_Prefab false
+ID 57255
+
+Rubble Destroy
+Rubble_Reset 1800
+Rubble_Health 1
+Rubble_Effect 57000
+Rubble_Reward_ID 57001
