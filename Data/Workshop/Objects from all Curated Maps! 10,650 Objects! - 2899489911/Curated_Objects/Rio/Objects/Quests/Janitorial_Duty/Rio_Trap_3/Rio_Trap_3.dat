@@ -1,0 +1,22 @@
+GUID 712d2ac4d4e741b2a6ed7590cd57eabf
+Type Small
+Has_Clip_Prefab false
+
+Conditions 2
+Condition_0_Type Quest
+Condition_0_ID 37015
+Condition_0_Status Active
+Condition_0_Logic Equal
+Condition_1_Type Flag_Bool
+Condition_1_ID 39061
+Condition_1_Value True
+Condition_1_Logic Equal
+
+Interactability Quest
+Interactability_Rewards 1
+Interactability_Reward_0_Type Flag_Short
+Interactability_Reward_0_ID 39062
+Interactability_Reward_0_Value 1
+Interactability_Reward_0_Modification Increment
+
+Bundle_Override_Path Rio/Objects/Quests/Janitorial_Duty/Rio_Trap_0
