@@ -1,0 +1,12 @@
+GUID dd0e2fd3eae5444b897056241478da3b
+Type Large
+ID 3531
+
+Collision_Important
+Asset_Bundle_Version 2
+Soft
+
+LOD Mesh
+LOD_Center_Z -2
+LOD_Size_Z -10
+LOD_Bias 1.5
