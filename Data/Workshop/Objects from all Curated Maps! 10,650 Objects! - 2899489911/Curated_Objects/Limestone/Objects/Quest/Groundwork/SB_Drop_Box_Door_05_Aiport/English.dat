@@ -1,0 +1,5 @@
+Name SB Drop Box Door #6 [Airport]
+
+Interact Deposit <color=#C17915>Floor Plans</color>
+
+Interactability_Condition_0 0/1 <color=#C17915>Floor Plans</color>
