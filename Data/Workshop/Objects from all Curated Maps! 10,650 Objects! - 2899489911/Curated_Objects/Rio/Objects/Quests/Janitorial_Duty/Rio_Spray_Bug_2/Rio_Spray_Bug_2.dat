@@ -1,0 +1,22 @@
+GUID ee1717b2b919492cae2d873ddafd626d
+Type Small
+Has_Clip_Prefab false
+
+Conditions 2
+Condition_0_Type Flag_Bool
+Condition_0_ID 39057
+Condition_0_Value True
+Condition_0_Logic Equal
+Condition_1_Type Flag_Bool
+Condition_1_ID 39058
+Condition_1_Value false
+Condition_1_Logic Equal
+Condition_1_Allow_Unset
+
+Interactability Quest
+Interactability_Rewards 1
+Interactability_Reward_0_Type Flag_Bool
+Interactability_Reward_0_ID 39058
+Interactability_Reward_0_Value True
+
+Bundle_Override_Path Rio/Objects/Quests/Janitorial_Duty/Rio_Spray_Bug_0
