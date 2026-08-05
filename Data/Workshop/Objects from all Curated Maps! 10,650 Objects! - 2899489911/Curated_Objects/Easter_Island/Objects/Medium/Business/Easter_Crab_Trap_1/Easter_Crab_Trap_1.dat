@@ -1,0 +1,11 @@
+GUID d1ceec47390a462ca85740af542eb385
+Type Medium
+ID 6854
+
+Asset_Bundle_Version_2
+Bypass_ID_Limit
+
+Master_Bundle_Override loco_curated_objects.masterbundle
+Bundle_Override_Path Easter_Island/Objects/Medium/Business/Easter_Crab_Trap_0
+Exclude_From_Master_Bundle
+Has_Clip_Prefab False
