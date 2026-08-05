@@ -1,0 +1,10 @@
+﻿GUID cf04c880e3f5486bbc91d91f01bbdb65
+Type Large
+Has_Clip_Prefab False
+
+LOD Mesh
+
+Material_Palette 4bc31de74bc84b45bd680407f3bcc67b
+
+Master_Bundle_Override core.masterbundle
+Bundle_Override_Path /Objects/Large/Buildings/Fire_0
