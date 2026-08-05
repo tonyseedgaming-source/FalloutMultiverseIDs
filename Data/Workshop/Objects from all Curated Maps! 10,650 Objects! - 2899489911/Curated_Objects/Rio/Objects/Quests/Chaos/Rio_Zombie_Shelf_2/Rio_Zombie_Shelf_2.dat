@@ -1,0 +1,13 @@
+GUID f83cac30338e44a9a4c5245b8b3aafd8
+Type Medium
+Has_Clip_Prefab false
+Exclude_From_Level_Batching true
+
+Conditions 1
+//Drugged Zombie
+Condition_0_Type Flag_Bool
+Condition_0_ID 39378
+Condition_0_Value True
+Condition_0_Logic Equal
+
+Bundle_Override_Path Rio/Objects/Medium/Furniture/Rio_Shelf_Wood_8
