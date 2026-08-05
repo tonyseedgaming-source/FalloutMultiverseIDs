@@ -1,0 +1,16 @@
+GUID f95788ea78bd431d9accb72e9ecdc2da
+Type Large
+ID 25300
+
+Material_Palette 6a73c9478ce54eb99489fbc1e7093447
+
+Interactability Binary_State
+Interactability_Delay 0.75
+Interactability_Reset 1200
+Interactability_Hint Door
+
+Chart Ignore
+
+Has_Clip_Prefab false
+
+Exclude_From_Culling_Volumes True
