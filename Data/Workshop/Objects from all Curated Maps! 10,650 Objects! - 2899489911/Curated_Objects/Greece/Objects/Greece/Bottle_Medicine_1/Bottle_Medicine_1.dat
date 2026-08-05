@@ -1,0 +1,26 @@
+GUID ee252fb614f543b98f6efd0a1cada296
+Type Small
+ID 3715
+
+Asset_Bundle_Version 2
+
+Conditions 1
+Condition_0_Type Flag_Bool
+Condition_0_ID 3133
+Condition_0_Value False
+Condition_0_Logic Equal
+
+Interactability Quest
+Interactability_Effect 7
+Interactability_Rewards 2
+
+//Picked Up
+Interactability_Reward_0_Type Flag_Bool
+Interactability_Reward_0_ID 3133
+Interactability_Reward_0_Value True
+
+//Increase Collected Medicine
+Interactability_Reward_1_Type Flag_Short
+Interactability_Reward_1_ID 3136
+Interactability_Reward_1_Value 1
+Interactability_Reward_1_Modification Increment
