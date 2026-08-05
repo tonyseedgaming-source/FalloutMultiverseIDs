@@ -1,0 +1,13 @@
+GUID b58b335e610c46e185f28b6591910143
+
+Type Medium
+ID 44172
+
+Interactability Note
+Interactability_Hint Use
+Interactability_Text_Lines 1
+
+Master_Bundle_Override loco_curated_objects.masterbundle
+Bundle_Override_Path Dango/Objects/Medium/Sky_Note_0
+
+Asset_Bundle_Version 2
