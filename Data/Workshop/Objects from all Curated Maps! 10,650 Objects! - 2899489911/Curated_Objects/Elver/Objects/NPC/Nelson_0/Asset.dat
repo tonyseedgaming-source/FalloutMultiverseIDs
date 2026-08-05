@@ -1,0 +1,22 @@
+GUID b194cb0ed40f488a8b91ffcfd8036567
+
+Type NPC
+ID 57650
+
+Shirt 663
+
+Face 1
+Beard 0
+Hair 9
+Color_Skin #CB9A1E
+Color_Hair #213D91
+
+Dialogue 57651
+
+Conditions 1
+Condition_0_Type Flag_Bool
+Condition_0_ID 57102
+Condition_0_Value True
+Condition_0_Logic Equal
+
+Pose Sit
