@@ -1,0 +1,31 @@
+GUID 264e9cbb6d4c41ec8eff5283f8e07682
+Type Small
+Has_Clip_Prefab false
+
+Conditions 2
+Condition_0_Type Quest 
+Condition_0_ID 37035
+Condition_0_Status Active
+Condition_0_Logic Equal
+Condition_1_Type Quest 
+Condition_1_ID 37036
+Condition_1_Status Completed
+Condition_1_Logic Not_Equal
+
+Interactability Quest
+Interactability_Conditions 1
+Interactability_Condition_0_Type Flag_Bool
+Interactability_Condition_0_ID 39174
+Interactability_Condition_0_Value false
+Interactability_Condition_0_Logic Equal
+Interactability_Condition_0_Allow_Unset
+Interactability_Rewards 2
+Interactability_Reward_0_Type Flag_Bool
+Interactability_Reward_0_ID 39174
+Interactability_Reward_0_Value True
+Interactability_Reward_1_Type Flag_Short
+Interactability_Reward_1_ID 39173
+Interactability_Reward_1_Value 1
+Interactability_Reward_1_Modification Increment
+
+Bundle_Override_Path Rio/Objects/Quests/Electrical_Troubles/Rio_Cable_Sparking_0
