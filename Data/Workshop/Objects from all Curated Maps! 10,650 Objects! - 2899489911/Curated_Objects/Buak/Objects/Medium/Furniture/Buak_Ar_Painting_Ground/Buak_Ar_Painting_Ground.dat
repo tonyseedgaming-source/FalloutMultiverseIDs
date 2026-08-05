@@ -1,0 +1,23 @@
+GUID 36425ea0d5814a3eb1b0450073effae2
+Type Small
+ID 25300
+
+Chart Ignore
+
+Has_Clip_Prefab false
+
+Conditions 2
+
+Condition_0_Type Flag_Bool
+Condition_0_Logic Equal
+Condition_0_ID 24612
+Condition_0_Value False
+Condition_0_Allow_Unset
+
+Condition_1_Type Quest
+Condition_1_Logic Less_Than_Or_Equal_To
+Condition_1_ID c778947f76e14542a2dd35a26cdfdd00
+Condition_1_Status Active
+Condition_1_Allow_Unset
+
+Bundle_Override_Path /Objects/Medium/Furniture/Buak_Ar_Painting
