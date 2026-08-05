@@ -1,0 +1,11 @@
+GUID dfc1eb5a1f194abdae0a7c5ac67a6d4c
+
+Type Large
+Has_Clip_Prefab false
+ID 57156
+
+Interactability Fuel
+Interactability_Reset 4500
+Interactability_Resource 500
+
+Asset_Bundle_Version 2
