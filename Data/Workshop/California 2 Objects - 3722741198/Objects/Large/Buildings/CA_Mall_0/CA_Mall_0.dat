@@ -1,0 +1,10 @@
+﻿GUID a87875c4055e45648ef6b22b8ed96cbb
+Type Large
+Has_Clip_Prefab False
+
+Soft
+
+Collision_Important
+
+Exclude_From_Level_Batching true
+Exclude_From_Culling_Volumes true
