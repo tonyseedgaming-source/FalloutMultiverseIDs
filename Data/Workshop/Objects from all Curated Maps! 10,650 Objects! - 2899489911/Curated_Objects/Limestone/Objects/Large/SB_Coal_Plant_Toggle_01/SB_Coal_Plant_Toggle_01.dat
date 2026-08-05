@@ -1,0 +1,45 @@
+﻿GUID dbddaef05c4e4b348a77b2615d724afc
+Type Large
+ID 47529
+
+Has_Clip_Prefab False
+
+Interactability Binary_State
+
+Interactability_Hint Custom
+
+Interactability_Conditions 1
+Interactability_Condition_0_Type Item
+Interactability_Condition_0_ID 22415
+Interactability_Condition_0_Amount 3
+Interactability_Condition_0_Reset
+
+Interactability_Effect 21640
+
+Interactability_Rewards 5
+
+Interactability_Reward_0_Type Effect
+Interactability_Reward_0_GUID 5daf07885af34e01a63794943f8c5c64
+Interactability_Reward_0_Spawnpoint Coal_Plant_Effect
+Interactability_Reward_0_RelevantDistance 5000
+
+Interactability_Reward_1_Type Hint
+Interactability_Reward_1_Text <b><color=#C9F5FF>Machinery repaired!</color></b>
+Interactability_Reward_1_Duration 3
+
+Interactability_Reward_2_Type Event
+Interactability_Reward_2_ID Coal_Toggle
+Interactability_Reward_2_GrantDelaySeconds 7
+Interactability_Reward_2_GrantDelayApplyWhenInterrupted True
+
+Interactability_Reward_3_Type Effect
+Interactability_Reward_3_GUID c8ef330243334b91bc3e3b42882d0da8
+Interactability_Reward_3_Spawnpoint Coal_Plant_Doors_Effect
+Interactability_Reward_3_RelevantDistance 80
+Interactability_Reward_3_GrantDelaySeconds 7.1
+Interactability_Reward_3_GrantDelayApplyWhenInterrupted True
+
+Interactability_Reward_4_Type Event
+Interactability_Reward_4_ID Coal_Safeguard
+
+Load_Nav_In_Editor False
