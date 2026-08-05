@@ -1,0 +1,17 @@
+GUID bfb837d93898461daa7f11505bf97510
+Type Small
+ID 15901
+
+Conditions 1
+Condition_0_Type Flag_Bool
+Condition_0_ID 15246
+Condition_0_Value False
+Condition_0_Logic Equal
+
+Interactability Note
+Interactability_Hint Use
+Interactability_Text_Lines 6
+Interactability_Rewards 1
+Interactability_Reward_0_Type Flag_Bool
+Interactability_Reward_0_ID 15246
+Interactability_Reward_0_Value True
