@@ -1,0 +1,15 @@
+GUID acccb66732a94ab3aa6b6cd77c749b0a
+Type Small
+Has_Clip_Prefab false
+
+Conditions 2
+//Puzzle Progress
+Condition_0_Type Flag_Short
+Condition_0_ID 39251
+Condition_0_Value 1
+Condition_0_Logic Equal
+//Puzzle is Active
+Condition_1_Type Flag_Short
+Condition_1_ID 39249
+Condition_1_Value 1
+Condition_1_Logic Equal
