@@ -1,0 +1,13 @@
+﻿GUID 90a0527a5cac4c94aa67c0b72f9ee394
+
+Type Large
+
+Has_Clip_Prefab False
+ID 47521
+
+Interactability Rubble
+Interactability_Reset 2400
+Interactability_Health 1
+Interactability_Effect 21539
+
+Exclude_From_Level_Batching true
