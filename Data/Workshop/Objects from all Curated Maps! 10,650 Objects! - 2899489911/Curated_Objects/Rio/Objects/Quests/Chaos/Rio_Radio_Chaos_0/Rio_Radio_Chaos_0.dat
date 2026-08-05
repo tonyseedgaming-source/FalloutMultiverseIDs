@@ -1,0 +1,12 @@
+GUID 92e237b9ffea4f20881fd05ce5a692e1
+Type Medium
+Has_Clip_Prefab false
+
+Conditions 1
+//Theory of Chaos Inactive
+Condition_0_Type Quest
+Condition_0_ID 37095
+Condition_0_Status None
+Condition_0_Logic Equal
+
+Bundle_Override_Path Rio/Objects/Medium/Props/Rio_Radio_3
