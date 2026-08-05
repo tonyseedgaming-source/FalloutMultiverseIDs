@@ -1,0 +1,15 @@
+﻿GUID f20e764f62c64bb8afe82f34ca47acc3
+Type Large
+Has_Clip_Prefab False
+ID 47029
+
+Rubble Destroy
+Rubble_Reset 600
+Rubble_Health 999
+Rubble_Effect 21639
+Rubble_Blade_ID 250
+Rubble_Can_Zombies_Damage False
+
+Rubble_Reward_ID 22206
+Rubble_Rewards_Min 1
+Rubble_Rewards_Max 1
