@@ -1,0 +1,16 @@
+﻿GUID eb593e4db23b491f9cf1e2ca3606a688
+
+Type Large
+
+Has_Clip_Prefab False
+ID 47030
+
+Rubble Destroy
+Rubble_Reset 1200
+Rubble_Health 77
+Rubble_Effect 21502
+Rubble_Nav_Mode DeactivateIfAllDead
+Rubble_Can_Zombies_Damage True
+Rubble_Zombie_Damage_Multiplier 8
+Rubble_Respawn_All_Sections_Simultaneously
+Load_Nav_In_Editor False
