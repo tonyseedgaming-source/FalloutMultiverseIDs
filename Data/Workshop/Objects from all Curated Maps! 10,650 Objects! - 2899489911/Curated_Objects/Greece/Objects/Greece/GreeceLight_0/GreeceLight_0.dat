@@ -1,0 +1,17 @@
+GUID ce3d7fcda2b8483ebfdf4f005484ead3
+Type Medium
+ID 6251
+
+Interactability Binary_State
+Interactability_Hint Switch
+Interactability_Power Stay
+
+Chart Ignore
+
+Rubble Destroy
+Rubble_Reset 300
+Rubble_Health 275
+Rubble_Effect 72
+
+Material_Palette d8a7bd5c7d814afa870f5be010542671
+Asset_Bundle_Version 2
