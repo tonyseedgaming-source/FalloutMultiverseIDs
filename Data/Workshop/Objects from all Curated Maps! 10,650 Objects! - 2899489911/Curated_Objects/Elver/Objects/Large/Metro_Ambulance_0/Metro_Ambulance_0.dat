@@ -1,0 +1,11 @@
+GUID ce6a33c714694db4af201c82f2f8ab74
+
+Type Large
+Has_Clip_Prefab false
+ID 57177
+
+Interactability Fuel
+Interactability_Reset 4500
+Interactability_Resource 500
+
+Asset_Bundle_Version 2
