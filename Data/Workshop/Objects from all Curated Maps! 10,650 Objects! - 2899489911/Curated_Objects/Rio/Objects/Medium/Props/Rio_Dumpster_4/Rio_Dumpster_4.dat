@@ -1,0 +1,14 @@
+GUID 6005a0539da24ac6abe3c4cd438e276d
+Type Medium
+
+Chart Ignore
+
+Rubble Destroy
+Rubble_Reset 300
+Rubble_Health 20
+Rubble_Effect 70
+Rubble_Reward_ID 32092
+Rubble_Reward_Probability 1
+Rubble_Rewards_Min 1
+Rubble_Rewards_Max 2
+Has_Clip_Prefab false
