@@ -1,0 +1,14 @@
+GUID fe115c121eb64227bdce0a9e112f30d2
+Type Medium
+Has_Clip_Prefab False
+ID 5501
+
+Conditions 1
+Condition_0_Type Flag_Bool
+Condition_0_ID 28205
+Condition_0_Value True
+Condition_0_Logic Equal
+
+Snowshoe
+
+Asset_Bundle_Version 2
