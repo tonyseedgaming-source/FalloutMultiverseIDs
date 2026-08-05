@@ -1,0 +1,34 @@
+GUID bbe49ae1ea84423bb8294da765a3c85f
+Type Small
+ID 3770
+
+Asset_Bundle_Version 2
+Conditions 2
+//Have a fuse selected
+Condition_0_Type Flag_Short
+Condition_0_ID 3254
+Condition_0_Value 0
+Condition_0_Logic Greater_Than
+
+//No fuse placed
+Condition_1_Type Flag_Short
+Condition_1_ID 3260
+Condition_1_Value 0
+Condition_1_Logic Equal
+
+Interactability Quest
+Interactability_Effect 38
+
+Interactability_Rewards 2
+
+//Set the Fuse ID
+Interactability_Reward_0_Type Flag_Math
+Interactability_Reward_0_A_ID 3260
+Interactability_Reward_0_B_ID 3254
+Interactability_Reward_0_Operation ASSIGN
+
+//Add to fuse collective
+Interactability_Reward_1_Type Flag_Math
+Interactability_Reward_1_A_ID 3256
+Interactability_Reward_1_B_ID 3255
+Interactability_Reward_1_Operation ADDITION
