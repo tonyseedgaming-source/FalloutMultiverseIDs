@@ -1,0 +1,18 @@
+﻿GUID 74f7fb3c8725476386d2313b9aa2c9a8
+Type Medium
+
+Has_Clip_Prefab False
+ID 47068
+
+Chart Ignore
+
+Rubble Destroy
+Rubble_Reset 1200
+Rubble_Health 5
+Rubble_Effect 21508
+
+Exclude_From_Level_Batching true
+
+Interactability Binary_State
+Interactability_Remote
+Interactability_Emission
