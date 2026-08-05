@@ -1,0 +1,6 @@
+GUID c97890cf17354ca586abab1637befb43
+Type Medium
+Has_Clip_Prefab false
+
+Master_Bundle_Override loco_curated_objects.masterbundle
+Bundle_Override_Path Rio/Objects/Medium/Utilities/Rio_Light_4
