@@ -1,0 +1,11 @@
+GUID 8c556cba0ab743e8a7daa0f3e774b1a3
+Type Medium
+Has_Clip_Prefab false
+
+Interactability Note
+Interactability_Hint Use
+Interactability_Text_Lines 2
+Interactability_Rewards 1
+Interactability_Reward_0_Type Flag_Bool
+Interactability_Reward_0_ID 39000
+Interactability_Reward_0_Value True
