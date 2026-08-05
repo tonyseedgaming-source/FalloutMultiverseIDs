@@ -1,0 +1,11 @@
+GUID 776b57baa1cf4742b07190fcc12a6009
+ID 51000
+Interactability Dropper
+Interactability_Delay 300
+Interactability_Hint Custom
+Interactability_Reward_ID 51015
+Type Medium
+Has_Clip_Prefab false
+
+Master_Bundle_Override loco_curated_objects.masterbundle
+Bundle_Override_Path Escalation/Objects/Medium/Weapon_Locker
