@@ -1,0 +1,8 @@
+GUID 72f8d5f8b3b64b0f90f4a5925eaf1aa8
+Type Small
+
+Interactability Quest
+Interactability_Effect 36153
+Interactability_Rewards 1
+Interactability_Reward_0_Type Rewards_List_Asset
+Interactability_Reward_0_GUID 827ef8508ea8485181a859390bd5373d
