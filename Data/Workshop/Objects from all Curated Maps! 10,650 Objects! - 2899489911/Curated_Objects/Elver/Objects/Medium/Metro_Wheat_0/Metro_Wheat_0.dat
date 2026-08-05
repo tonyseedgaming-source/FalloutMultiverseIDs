@@ -1,0 +1,12 @@
+GUID 1e371e2e0eb642e5b0d8caf769f1c761
+
+Type Medium
+Has_Clip_Prefab false
+ID 57495
+
+Master_Bundle_Override core.masterbundle
+Bundle_Override_Path /Objects/Medium/Parks/Crop_0
+
+Material_Palette ba40193825ee40918bf69928394aba0b
+
+Asset_Bundle_Version 3
