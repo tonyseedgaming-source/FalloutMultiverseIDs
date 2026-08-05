@@ -1,0 +1,16 @@
+GUID e5641590fc8f4974af816b3fd11e8a58
+Type Medium
+Has_Clip_Prefab false
+
+Interactability Binary_State
+Interactability_Delay 0.25
+Interactability_Reset 5
+Interactability_Hint Door
+Interactability_Nav Off
+Interactability_Conditions 1
+Interactability_Condition_0_Type Flag_Bool
+Interactability_Condition_0_ID 39128
+Interactability_Condition_0_Value True
+Interactability_Condition_0_Logic Equal
+Load_Nav_In_Editor false
+Interactability_Animation_Component_Path Alive
