@@ -1,0 +1,11 @@
+GUID a8432e264c3c402093140ae62397cd55
+Type Small
+ID 3808
+
+Asset_Bundle_Version 2
+
+Conditions 1
+Condition_0_Type Flag_Short
+Condition_0_ID 3265
+Condition_0_Value 1
+Condition_0_Logic Equal
