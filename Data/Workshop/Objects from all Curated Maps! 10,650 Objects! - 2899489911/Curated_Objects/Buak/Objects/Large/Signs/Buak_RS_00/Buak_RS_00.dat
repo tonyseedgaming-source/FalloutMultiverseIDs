@@ -1,0 +1,14 @@
+GUID efd2e725b2824b10ad91251dffcf664d
+Type Large
+ID 25300
+
+Has_Clip_Prefab false
+
+Rubble Destroy
+Rubble_Reset 500
+Rubble_Health 120
+Rubble_Effect 25322
+
+Exclude_From_Culling_Volumes True
+
+Chart Ignore
