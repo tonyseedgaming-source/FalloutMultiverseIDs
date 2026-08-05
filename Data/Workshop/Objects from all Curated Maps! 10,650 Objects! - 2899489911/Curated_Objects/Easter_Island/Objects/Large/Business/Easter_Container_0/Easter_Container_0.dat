@@ -1,0 +1,20 @@
+GUID 122b0a983adb4403858a2a26bd891718
+Type Large
+ID 6672
+
+LOD Mesh
+LOD_Center_Z -0.5
+
+Master_Bundle_Override core.masterbundle
+Bundle_Override_Path Easter_Island/Objects/Large/Business/Container_0
+Exclude_From_Master_Bundle
+
+Interactability Binary_State
+Interactability_Delay 0.75
+Interactability_Hint Door
+Interactability_Nav Off
+
+Asset_Bundle_Version 2
+Bypass_ID_Limit
+Material_Palette 911e2d3baf234bec89e6daa8bf50822c
+Has_Clip_Prefab False
