@@ -1,0 +1,16 @@
+﻿GUID 34597127349140c1a257eb5e91380c6b
+Type Small
+Has_Clip_Prefab False
+ID 47106
+
+Rubble Destroy
+Rubble_Reset 1200
+Rubble_Health 25
+Rubble_Effect 21625
+Rubble_Proof_Explosion
+Rubble_Can_Zombies_Damage False
+
+Rubble_Blade_ID 249
+Rubble_Reward_ID 22271
+
+Exclude_From_Level_Batching true
