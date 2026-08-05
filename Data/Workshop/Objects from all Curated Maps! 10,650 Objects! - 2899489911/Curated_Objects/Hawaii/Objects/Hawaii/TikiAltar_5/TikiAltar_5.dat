@@ -1,0 +1,12 @@
+GUID 6478e66271494335a3c55566b814c08f
+Type Medium
+ID 4579
+
+Conditions 1
+Condition_0_Type Flag_Short
+Condition_0_ID 2201
+Condition_0_Value 2
+Condition_0_Logic Greater_Than_Or_Equal_To
+
+Snowshoe
+Asset_Bundle_Version 2
