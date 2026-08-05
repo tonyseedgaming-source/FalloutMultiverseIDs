@@ -1,0 +1,10 @@
+﻿GUID 90fd68696cfc4523965813b07378b578
+Type Medium
+Has_Clip_Prefab False
+
+// Master_Bundle_Override isn't required in this case, but just as an example:
+Master_Bundle_Override core.masterbundle
+// Path relative to core.masterbundle:
+Bundle_Override_Path /Objects/Medium/Parks/Fountain_0
+
+Material_Palette c1832423ea9247aeb2b0ff9528ce8dce
