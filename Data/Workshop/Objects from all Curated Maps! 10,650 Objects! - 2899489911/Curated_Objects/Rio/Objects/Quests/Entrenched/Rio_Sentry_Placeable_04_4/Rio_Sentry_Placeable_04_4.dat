@@ -1,0 +1,12 @@
+GUID d50933b9358f4e38a8568de6b9fa2cb0
+Type Small
+Has_Clip_Prefab false
+
+Conditions 1
+//Installed Sentry
+Condition_0_Type Flag_Short
+Condition_0_ID 39332
+Condition_0_Value 3
+Condition_0_Logic Equal
+
+Bundle_Override_Path Rio/Objects/Quests/Entrenched/Rio_Sentry_Placed_Viper
