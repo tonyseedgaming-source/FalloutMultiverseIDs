@@ -1,0 +1,31 @@
+GUID 13f47456c36b4eab8ea2fda1adee9c1b
+Type Small
+Has_Clip_Prefab false
+
+Conditions 2
+//Vandalized Booth
+Condition_0_Type Flag_Bool
+Condition_0_ID 39609
+Condition_0_Value False
+Condition_0_Logic Equal
+Condition_0_Allow_Unset
+//Idea of Chaos Inactive
+Condition_1_Type Quest
+Condition_1_ID 37094
+Condition_1_Status Active
+Condition_1_Logic Equal
+
+Interactability Quest
+Interactability_Rewards 3
+//Vandalized Booth
+Interactability_Reward_0_Type Flag_Bool
+Interactability_Reward_0_ID 39609
+Interactability_Reward_0_Value True
+//Effect Reward
+Interactability_Reward_1_Type Effect
+Interactability_Reward_1_GUID 91780573e76f467ab75df807480dd2c4
+Interactability_Reward_1_Spawnpoint CG_Smoke
+//CG is Calling
+Interactability_Reward_2_Type Flag_Bool
+Interactability_Reward_2_ID 39365
+Interactability_Reward_2_Value True
