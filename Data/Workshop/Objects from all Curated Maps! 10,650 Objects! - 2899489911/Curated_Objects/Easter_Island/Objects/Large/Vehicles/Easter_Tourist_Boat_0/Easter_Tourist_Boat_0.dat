@@ -1,0 +1,11 @@
+GUID 832fc1ddd317487cbf3927613445594b
+Type Large
+ID 6892
+
+LOD Mesh
+LOD_Center_Z -0.5
+LOD_Size_Z -1
+
+Asset_Bundle_Version 2
+Bypass_ID_Limit
+Has_Clip_Prefab False
