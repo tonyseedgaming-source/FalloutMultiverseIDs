@@ -1,0 +1,18 @@
+GUID 9efb4d2c740c4333a52818c64b3f9a41
+Type Medium
+Has_Clip_Prefab false
+
+Interactability Dropper
+Interactability_Delay 60
+Interactability_Hint Use
+Interactability_Power Toggle
+Interactability_Reward_ID 32225
+
+Rubble Destroy
+Rubble_Reset 600
+Rubble_Effect 81
+Rubble_Health 500
+Rubble_Reward_ID 32207
+Rubble_Reward_Probability 1
+Rubble_Rewards_Min 1
+Rubble_Rewards_Max 5
