@@ -1,0 +1,17 @@
+﻿GUID 614c4a34d9024df1be3a362768107de0
+
+Type Medium
+
+Has_Clip_Prefab False
+ID 47068
+
+Chart Ignore
+
+Rubble Destroy
+Rubble_Reset 1200
+Rubble_Health 5
+Rubble_Effect 21508
+Rubble_Reward_ID 21502
+Rubble_Rewards_Min 1
+Rubble_Rewards_Max 1
+Rubble_Reward_Probability 0.5
