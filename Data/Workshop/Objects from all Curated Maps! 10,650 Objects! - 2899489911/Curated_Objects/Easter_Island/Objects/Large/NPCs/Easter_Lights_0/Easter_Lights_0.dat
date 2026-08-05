@@ -1,0 +1,10 @@
+GUID 20e9383b1dc04777b804a45c8411b1e7
+Type Medium
+ID 6880
+
+LOD Mesh
+LOD_Center_Z -0.5
+LOD_Size_Z -1
+
+Bypass_ID_Limit
+Has_Clip_Prefab False
