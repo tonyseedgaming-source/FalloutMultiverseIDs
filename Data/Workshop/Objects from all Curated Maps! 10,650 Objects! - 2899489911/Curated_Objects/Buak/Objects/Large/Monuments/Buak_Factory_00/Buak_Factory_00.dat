@@ -1,0 +1,10 @@
+GUID 9bbb27c9563d466195ef64b09f170557
+Type Large
+ID 25300
+
+Has_Clip_Prefab false
+
+LOD Area
+LOD_Bias 1.25
+
+Exclude_From_Culling_Volumes True
