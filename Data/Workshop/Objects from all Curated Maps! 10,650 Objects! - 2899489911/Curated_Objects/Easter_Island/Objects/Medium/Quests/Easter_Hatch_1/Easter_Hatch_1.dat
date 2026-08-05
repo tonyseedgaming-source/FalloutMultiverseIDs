@@ -1,0 +1,23 @@
+GUID 0767218f3a5542d9b7685f5b5f81164d
+Type Medium
+ID 6889
+
+LOD Mesh
+LOD_Center_Z -0.5
+LOD_Size_Z -1
+
+
+Interactability Quest
+Interactability_Effect 38
+
+Interactability_Rewards 1
+
+Interactability_Reward_0_Type Teleport
+Interactability_Reward_0_Spawnpoint WeatherExit0
+
+Master_Bundle_Override loco_curated_objects.masterbundle
+Bundle_Override_Path Easter_Island/Objects/Medium/Quests/Easter_Hatch_0
+Exclude_From_Master_Bundle
+
+Bypass_ID_Limit
+Has_Clip_Prefab False
