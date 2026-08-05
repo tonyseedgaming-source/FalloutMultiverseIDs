@@ -1,0 +1,10 @@
+GUID ad3ae92788cc40818692969f401dc125
+Type Small
+ID 3877
+
+//Wound is Bandaged Up
+Conditions 1
+Condition_0_Type Flag_Short
+Condition_0_ID 3411
+Condition_0_Value 5
+Condition_0_Logic Greater_Than_Or_Equal_To
