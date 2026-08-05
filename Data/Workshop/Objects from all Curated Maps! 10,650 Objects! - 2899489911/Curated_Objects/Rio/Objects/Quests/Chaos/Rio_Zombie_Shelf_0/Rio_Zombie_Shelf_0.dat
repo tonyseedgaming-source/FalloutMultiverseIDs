@@ -1,0 +1,17 @@
+GUID 04e465141d544c24824fc22088bcf470
+Type Medium
+Has_Clip_Prefab false
+Exclude_From_Level_Batching true
+
+Conditions 2
+//Drugged Zombie
+Condition_0_Type Flag_Bool
+Condition_0_ID 39378
+Condition_0_Value False
+Condition_0_Logic Equal
+Condition_0_Allow_Unset
+//Law of Chaos Not Active
+Condition_1_Type Quest
+Condition_1_ID 37097
+Condition_1_Status Active
+Condition_1_Logic Not_Equal
