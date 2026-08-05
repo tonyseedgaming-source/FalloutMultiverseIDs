@@ -1,0 +1,12 @@
+GUID a0a628e3d5d54f2088e2e3d4ee33a16a
+Type Small
+ID 25300
+
+Interactability Dropper
+Interactability_Hint Custom
+Interactability_Delay 1000
+Interactability_Reward_ID 25304
+
+Chart Ignore
+
+Has_Clip_Prefab false
