@@ -1,0 +1,11 @@
+GUID 0ea61f10b91c4f22bd4cdd1434031f98
+Type Large
+ID 59990
+
+LOD Mesh
+LOD_Bias 1.25
+LOD_Center_Z -0.5
+LOD_Size_Z -1
+
+Collision_Important
+Asset_Bundle_Version 2
