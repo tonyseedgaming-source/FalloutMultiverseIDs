@@ -1,0 +1,17 @@
+GUID 425ba48c24ea4e2597ba68718e14e19a
+Type Large
+Has_Clip_Prefab False
+ID 5255
+
+Asset_Bundle_Version 3
+
+Conditions 2
+Condition_0_Type Flag_Bool
+Condition_0_ID 29719
+Condition_0_Value True
+Condition_0_Logic Equal
+Condition_1_Type Flag_Bool
+Condition_1_ID 29717
+Condition_1_Value False
+Condition_1_Logic Equal
+Condition_1_Allow_Unset
