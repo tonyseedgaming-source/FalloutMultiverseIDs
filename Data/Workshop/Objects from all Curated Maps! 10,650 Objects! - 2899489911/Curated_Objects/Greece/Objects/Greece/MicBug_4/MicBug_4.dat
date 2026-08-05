@@ -1,0 +1,27 @@
+GUID c8599c64c27a40b593b77b84f86cf7bd
+Type Small
+ID 3946
+
+Asset_Bundle_Version 2
+
+Conditions 1
+Condition_0_Type Flag_Bool
+Condition_0_ID 3564
+Condition_0_Value False
+Condition_0_Logic Equal
+
+
+Interactability Quest
+Interactability_Effect 61
+
+Interactability_Rewards 2
+
+//Destroy Bug
+Interactability_Reward_0_Type Flag_Bool
+Interactability_Reward_0_ID 3564
+Interactability_Reward_0_Value True
+//Add to found bugs
+Interactability_Reward_1_Type Flag_Short
+Interactability_Reward_1_ID 3568
+Interactability_Reward_1_Value 1
+Interactability_Reward_1_Modification Increment
