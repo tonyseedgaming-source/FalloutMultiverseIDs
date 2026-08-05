@@ -1,0 +1,20 @@
+GUID 682f26ae8e5e4311a24af4b1ebffb5e3
+Type Small
+ID 3684
+
+Asset_Bundle_Version 2
+
+Conditions 1
+Condition_0_Type Flag_Bool
+Condition_0_ID 3077
+Condition_0_Value False
+Condition_0_Logic Equal
+
+Interactability Quest
+Interactability_Effect 92
+Interactability_Rewards 1
+
+//Called In
+Interactability_Reward_0_Type Flag_Bool
+Interactability_Reward_0_ID 3077
+Interactability_Reward_0_Value True
