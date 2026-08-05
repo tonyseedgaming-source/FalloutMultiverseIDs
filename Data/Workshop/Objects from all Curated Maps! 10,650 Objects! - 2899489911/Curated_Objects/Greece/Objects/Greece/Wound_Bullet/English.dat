@@ -1,0 +1,6 @@
+Name Wound Bullet Action
+
+Interact Attempt to Remove Bullet[{0}]
+
+Interactability_Condition_0 Your Patient is Beyond Saving.
+Interactability_Condition_1 You have successfully Removed the Bullet!
