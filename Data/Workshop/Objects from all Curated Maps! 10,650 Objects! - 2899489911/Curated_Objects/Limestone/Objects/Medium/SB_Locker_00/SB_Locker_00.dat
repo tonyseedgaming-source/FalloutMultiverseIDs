@@ -1,0 +1,19 @@
+﻿GUID ff3a671200ab48068f76e68af19a5498
+Type Medium
+Has_Clip_Prefab False
+ID 47343
+
+Interactability Dropper
+Interactability_RewardItem_Origin World
+Interactability_Delay 600
+Interactability_Hint Use
+Interactability_Reward_ID 21869
+
+Rubble Destroy
+Rubble_Reset 1200
+Rubble_Health 1
+Rubble_Effect 21529
+Rubble_Reward_ID 21868
+Rubble_Reward_Probability 0.4
+
+Material_Palette 2af8e271551940899a82e0b7f5b47789
