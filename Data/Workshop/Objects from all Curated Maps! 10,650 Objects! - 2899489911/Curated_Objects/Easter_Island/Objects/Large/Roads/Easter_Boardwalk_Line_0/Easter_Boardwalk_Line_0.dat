@@ -1,0 +1,10 @@
+GUID ec3249976d2c4d01a9c8b1c7212fb6b5
+Type Large
+ID 6734
+
+LOD Mesh
+LOD_Center_Z -0.5
+LOD_Size_Z -1
+
+Bypass_ID_Limit
+Has_Clip_Prefab False
