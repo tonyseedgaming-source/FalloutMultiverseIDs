@@ -1,0 +1,12 @@
+GUID 5d911caa59ff410696f9c2dcec3c66d4
+Type Medium
+ID 25300
+
+Interactability Rubble
+Interactability_Reset 1000
+Interactability_Health 275
+Interactability_Effect 25488
+
+Has_Clip_Prefab false
+
+Chart Ignore
