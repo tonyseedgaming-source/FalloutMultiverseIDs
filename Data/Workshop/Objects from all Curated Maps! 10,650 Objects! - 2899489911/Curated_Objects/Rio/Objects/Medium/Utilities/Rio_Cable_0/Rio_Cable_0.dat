@@ -1,0 +1,11 @@
+GUID 3d9bf1b4ad754cf0a851265cd04270b6
+Type Medium
+Has_Clip_Prefab false
+
+// for visualizing the editor object. no other purpose.
+Rubble Destroy
+Rubble_Blade_ID 9999
+Rubble_Reset 1
+Rubble_Health 999999
+Rubble_Effect 72
+Rubble_Editor Dead
