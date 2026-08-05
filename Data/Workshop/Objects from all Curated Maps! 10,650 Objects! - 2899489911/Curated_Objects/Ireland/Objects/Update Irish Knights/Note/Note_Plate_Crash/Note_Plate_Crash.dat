@@ -1,0 +1,11 @@
+GUID ee6522cd18dd43aa97ee23648765e9d5
+Type Medium
+ID 17715
+
+Interactability Note
+Interactability_Hint Use
+Interactability_Text_Lines 1
+
+Asset_Bundle_Version 2
+Master_Bundle_Override core.masterbundle
+Bundle_Override_Path /Objects/Medium/Furniture/Note
