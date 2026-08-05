@@ -1,0 +1,31 @@
+GUID 5bbbd5ac428b440f80fc7b253ffa74c0
+Type Small
+Has_Clip_Prefab false
+
+Conditions 2
+//Electrical Troubles V
+Condition_0_Type Quest
+Condition_0_ID 37061
+Condition_0_Status Active
+Condition_0_Logic Equal
+//Found Part
+Condition_1_Type Flag_Bool
+Condition_1_ID 39237
+Condition_1_Value false
+Condition_1_Logic Equal
+Condition_1_Allow_Unset
+
+Interactability Quest
+Interactability_Effect 36151
+Interactability_Rewards 2
+//Found Part
+Interactability_Reward_0_Type Flag_Bool
+Interactability_Reward_0_ID 39237
+Interactability_Reward_0_Value True
+//Parts Found
+Interactability_Reward_1_Type Flag_Short
+Interactability_Reward_1_ID 39238
+Interactability_Reward_1_Value 1
+Interactability_Reward_1_Modification Increment
+
+Bundle_Override_Path Rio/Objects/Quests/Electrical_Troubles/Rio_Generator_Parts_2
