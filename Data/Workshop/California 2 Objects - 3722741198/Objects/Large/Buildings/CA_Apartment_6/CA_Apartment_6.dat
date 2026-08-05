@@ -1,0 +1,10 @@
+﻿GUID 8073d6d082cb4c208c3dc537d25c418f
+Type Large
+Has_Clip_Prefab False
+
+LOD Mesh
+
+Material_Palette 4bc31de74bc84b45bd680407f3bcc67b
+
+Master_Bundle_Override core.masterbundle
+Bundle_Override_Path /Objects/Large/Buildings/Apartment_2
