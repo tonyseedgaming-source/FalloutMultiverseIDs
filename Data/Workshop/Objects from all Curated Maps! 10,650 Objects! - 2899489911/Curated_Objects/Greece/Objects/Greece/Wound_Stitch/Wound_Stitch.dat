@@ -1,0 +1,33 @@
+GUID 748044c1bd274416a1f8e9cee078a4a0
+Type Small
+ID 3883
+
+//Using Needles
+Conditions 2
+Condition_0_Type Flag_Short
+Condition_0_ID 3407
+Condition_0_Value 3
+Condition_0_Logic Equal
+//Wound is Not stitched
+Condition_1_Type Flag_Short
+Condition_1_ID 3411
+Condition_1_Value 4
+Condition_1_Logic Less_Than
+
+Interactability Quest
+Interactability_Effect 9
+
+Interactability_Conditions 1
+//Dude is Alive
+Interactability_Condition_0_Type Flag_Short
+Interactability_Condition_0_ID 3403
+Interactability_Condition_0_Logic Greater_Than
+Interactability_Condition_0_Value 70
+
+Interactability_Rewards 1
+
+//Make Wound Sealed
+Interactability_Reward_0_Type Flag_Short
+Interactability_Reward_0_ID 3411
+Interactability_Reward_0_Value 4
+Interactability_Reward_0_Modification Assign
