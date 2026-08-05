@@ -1,0 +1,31 @@
+GUID b76d28465151481e88359ca6d7ba9333
+Type Small
+Has_Clip_Prefab false
+
+Conditions 2
+//Electrical Troubles VI
+Condition_0_Type Quest
+Condition_0_ID 37070
+Condition_0_Status Active
+Condition_0_Logic Equal
+//Found Pile
+Condition_1_Type Flag_Bool
+Condition_1_ID 39303
+Condition_1_Value false
+Condition_1_Logic Equal
+Condition_1_Allow_Unset
+
+Interactability Quest
+Interactability_Effect 36151
+Interactability_Rewards 2
+//Found Pile
+Interactability_Reward_0_Type Flag_Bool
+Interactability_Reward_0_ID 39303
+Interactability_Reward_0_Value True
+//Piles Found
+Interactability_Reward_1_Type Flag_Short
+Interactability_Reward_1_ID 39305
+Interactability_Reward_1_Value 1
+Interactability_Reward_1_Modification Increment
+
+Bundle_Override_Path Rio/Objects/Quests/Electrical_Troubles/Rio_Cell_Pile
