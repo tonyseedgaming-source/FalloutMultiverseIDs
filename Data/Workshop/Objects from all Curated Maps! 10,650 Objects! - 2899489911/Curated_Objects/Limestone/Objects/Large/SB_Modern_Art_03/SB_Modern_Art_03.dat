@@ -1,0 +1,12 @@
+﻿GUID 905142fcf3444580b412fd7d753c672a
+Type Large
+
+Has_Clip_Prefab False
+ID 47358
+
+Rubble Destroy
+Rubble_Reset 1200
+Rubble_Health 1
+Rubble_Effect 21508
+Rubble_Reward_ID 21969
+Rubble_Reward_Probability 1
