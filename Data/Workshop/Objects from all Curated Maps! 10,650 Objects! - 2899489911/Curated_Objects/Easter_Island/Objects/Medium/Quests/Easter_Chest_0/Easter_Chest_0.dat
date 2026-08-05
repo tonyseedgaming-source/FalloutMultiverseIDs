@@ -1,0 +1,19 @@
+GUID 04a27d8739504d84919b87916cecedd7
+Type Medium
+ID 6864
+
+Interactability_Conditions 1
+Interactability_Condition_0_Type Flag_Bool
+Interactability_Condition_0_ID 6870
+Interactability_Condition_0_Value True
+Interactability_Condition_0_Logic Equal
+
+Interactability Binary_State
+Interactability_Delay 0.5
+Interactability_Reset 10
+Interactability_Hint Door
+Interactability_Editor Toggle
+
+Asset_Bundle_Version 2
+Bypass_ID_Limit
+Has_Clip_Prefab false
