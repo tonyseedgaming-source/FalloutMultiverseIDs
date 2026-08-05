@@ -1,0 +1,10 @@
+GUID 9132c97003e34a9c9b9dc5df1ed3dae7
+Type Small
+Has_Clip_Prefab false
+
+Conditions 1
+//Chaos Level
+Condition_0_Type Flag_Short
+Condition_0_ID 39379
+Condition_0_Value 1
+Condition_0_Logic Greater_Than_Or_Equal_To
