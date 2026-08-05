@@ -1,0 +1,12 @@
+GUID 8420f89288824e128aa5a6829af20ebf
+
+Type Small
+
+Has_Clip_Prefab False
+
+ID 59609
+
+Material_Palette 817e51113ead4d019ca1799169a6d0f2
+
+Master_Bundle_Override loco_curated_objects.masterbundle
+Bundle_Override_Path /Objects/Smol/PS_Bricks_0
