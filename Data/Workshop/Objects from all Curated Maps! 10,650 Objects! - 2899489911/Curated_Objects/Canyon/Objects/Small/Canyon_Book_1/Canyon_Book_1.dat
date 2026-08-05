@@ -1,0 +1,13 @@
+GUID 75eb26b63fca4b4c9f5c4f6fa4eb7268
+
+Type Small
+ID 28114
+
+Interactability Rubble
+Interactability_Reset 3000
+Interactability_Health 1
+Interactability_Effect 58
+
+Material_Palette bc31c0edb664433eab09369a4d44ee27
+
+Asset_Bundle_Version 2
