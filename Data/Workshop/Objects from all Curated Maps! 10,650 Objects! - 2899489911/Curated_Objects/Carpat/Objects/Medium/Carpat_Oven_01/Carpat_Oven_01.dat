@@ -1,0 +1,9 @@
+GUID 906a4bddceee4cbcb769ba2b2f70c1ec
+Type Medium
+ID 23144
+
+Interactability Binary_State
+Interactability_Delay 0.6
+Interactability_Reset 60
+Interactability_Hint Door
+Interactability_Editor Toggle
