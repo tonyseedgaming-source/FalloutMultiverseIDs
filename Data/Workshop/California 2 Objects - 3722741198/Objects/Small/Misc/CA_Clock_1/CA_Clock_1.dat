@@ -1,0 +1,15 @@
+﻿GUID 847f5c3cb54244d2a26afe3214d7cd00
+Type Small
+Has_Clip_Prefab False
+
+Interactability Rubble
+Interactability_Reset 60
+Interactability_Health 1
+Interactability_Effect 60
+
+// Master_Bundle_Override isn't required in this case, but just as an example:
+Master_Bundle_Override core.masterbundle
+// Path relative to core.masterbundle:
+Bundle_Override_Path /Objects/Small/Furniture/Clock_0
+
+Material_Palette 3fcf5407564a4dcca7863012b61bad42
