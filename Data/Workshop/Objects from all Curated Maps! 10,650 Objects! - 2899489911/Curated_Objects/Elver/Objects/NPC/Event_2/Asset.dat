@@ -1,0 +1,33 @@
+GUID 8a6b3d3fa9534b9692caa4708eff919a
+
+Type NPC
+ID 57889
+
+Vest 597
+Shirt 742
+Backpack 827  
+Pants 556
+
+Face 7
+Hair 11
+Color_Skin #F4ECE3
+Color_Hair #D7D7D7
+
+Tertiary 1132   
+Equipped Tertiary
+
+Dialogue 57890
+
+Holiday_Restriction CHRISTMAS
+
+Conditions 2
+Condition_0_Type Flag_Bool
+Condition_0_ID 57102
+Condition_0_Value True
+Condition_0_Logic Equal
+
+Condition_1_Type Flag_Bool
+Condition_1_ID 57332
+Condition_1_Value False
+Condition_1_Logic Equal
+Condition_1_Allow_Unset
