@@ -1,0 +1,33 @@
+GUID 29834ee208aa4c139b2433fac0a34b4e
+Type Barricade
+Rarity Rare
+Useable Barricade
+Build Oven
+ID 17680
+
+Size_X 2
+Size_Y 1
+Size_Z 0.3
+
+Health 250
+Range 4
+Radius 0.3
+Offset 0.4
+
+Explosion 36
+
+Blueprints 1
+Blueprint_0_Type Furniture
+Blueprint_0_Supplies 3
+Blueprint_0_Supply_0_ID 68
+Blueprint_0_Supply_0_Amount 2
+Blueprint_0_Supply_1_ID 285
+Blueprint_0_Supply_1_Amount 2
+Blueprint_0_Supply_2_ID 1222
+Blueprint_0_Supply_2_Amount 1
+Blueprint_0_Tool 76
+Blueprint_0_Level 3
+Blueprint_0_Skill Craft
+Blueprint_0_Build 27
+
+Asset_Bundle_Version 2
