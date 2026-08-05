@@ -1,0 +1,19 @@
+GUID f9a872ba2a7f4d67b874a3ab2c437676
+Type Medium
+ID 6699
+
+LOD Mesh
+LOD_Center_Z -0.5
+LOD_Size_Z -1
+
+
+Interactability Quest
+Interactability_Effect 38
+
+Interactability_Rewards 1
+
+Interactability_Reward_0_Type Teleport
+Interactability_Reward_0_Spawnpoint EasterBunkerEntrance0
+
+Bypass_ID_Limit
+Has_Clip_Prefab False
