@@ -1,0 +1,11 @@
+GUID 856bce6a36f94135a0caee2bb5239737
+Type Large
+ID 52003
+Material_Palette d5b2582c55484a4394bdbc923da8b43a
+
+Interactability Dropper
+Interactability_Delay 600
+Interactability_Hint Use
+Interactability_Reward_ID 21977
+
+Has_Clip_Prefab False
