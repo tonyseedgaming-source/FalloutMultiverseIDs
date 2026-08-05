@@ -1,0 +1,10 @@
+GUID 3c42f596a7f14727b7d77d3a62b2e6da
+Type Medium
+Has_Clip_Prefab false
+
+Interactability Rubble
+Interactability_Reset 300
+Interactability_Health 50
+Interactability_Effect 72
+
+Material_Palette 62169cefc60d45d58b0f7e6778640f4c
