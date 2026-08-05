@@ -1,0 +1,14 @@
+GUID 10caa62b242c477da0e928c9a4adfcd1
+Type Small
+ID 25300
+
+Chart Ignore
+
+Has_Clip_Prefab false
+
+Interactability Note
+Interactability_Hint Use
+Interactability_Text_Lines 3
+
+Material_Palette 3758ac9d1b774a4a99a407c069e2a21a
+Bundle_Override_Path /Objects/Small/Furniture/Buak_Note_00
