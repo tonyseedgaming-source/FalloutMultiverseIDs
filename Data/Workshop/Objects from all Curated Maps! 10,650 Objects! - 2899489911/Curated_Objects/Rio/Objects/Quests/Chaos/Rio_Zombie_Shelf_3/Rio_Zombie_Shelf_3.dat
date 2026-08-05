@@ -1,0 +1,40 @@
+GUID e7dfb2d134dd4ccd868ac8ebf76f3e4d
+Type Medium
+Has_Clip_Prefab false
+Exclude_From_Level_Batching true
+
+Conditions 2
+//Drugged Zombie
+Condition_0_Type Flag_Bool
+Condition_0_ID 39378
+Condition_0_Value False
+Condition_0_Logic Equal
+Condition_0_Allow_Unset
+//Law of Chaos Active
+Condition_1_Type Quest
+Condition_1_ID 37097
+Condition_1_Status Active
+Condition_1_Logic Equal
+
+Interactability Quest
+Interactability_Conditions 1
+//Sleeping Pills
+Interactability_Condition_0_Type Item
+Interactability_Condition_0_ID 34241
+Interactability_Condition_0_Amount 1
+Interactability_Condition_0_Logic Greater_Than_Or_Equal_To
+Interactability_Condition_0_Reset
+Interactability_Rewards 3
+//Drugged Zombie
+Interactability_Reward_0_Type Flag_Bool
+Interactability_Reward_0_ID 39378
+Interactability_Reward_0_Value True
+//Drugged Zombie
+Interactability_Reward_1_Type Hint
+Interactability_Reward_1_Text It is gonna get messy...
+//Puff
+Interactability_Reward_2_Type Effect
+Interactability_Reward_2_GUID 9f4165427b574f0ea1fef2d7e78ee233
+Interactability_Reward_2_Spawnpoint Museum_Zombie
+
+Bundle_Override_Path Rio/Objects/Quests/Chaos/Rio_Zombie_Shelf_0
