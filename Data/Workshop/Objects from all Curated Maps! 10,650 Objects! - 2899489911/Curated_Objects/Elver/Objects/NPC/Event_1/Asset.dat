@@ -1,0 +1,33 @@
+GUID 339feba97a8041e387aef2190836cf0a
+
+Type NPC
+ID 57851
+
+Vest 57042    
+Shirt 57046   
+Hat 561 
+
+Face 13
+Hair 3
+Color_Skin #DBC6B8
+Color_Hair #AC6A39
+
+Tertiary 57093  
+Equipped Tertiary
+
+Dialogue 57852
+
+Pose Rest
+
+Conditions 2
+Condition_0_Type Flag_Bool
+Condition_0_ID 57102
+Condition_0_Value True
+Condition_0_Logic Equal
+
+Condition_1_Type Flag_Bool
+Condition_1_ID 57244
+Condition_1_Value True
+Condition_1_Logic Equal
+
+//Holiday_Restriction HALLOWEEN
