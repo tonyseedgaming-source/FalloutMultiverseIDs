@@ -1,0 +1,10 @@
+﻿GUID 9f9cf27b2f5e41a381fef27dfcdc7783
+Type Large
+Has_Clip_Prefab False
+
+LOD Mesh
+
+Master_Bundle_Override core.masterbundle
+Bundle_Override_Path /Objects/Large/Buildings/Research_1
+
+Material_Palette ebcb8274f6504041af0887bc8e436992
