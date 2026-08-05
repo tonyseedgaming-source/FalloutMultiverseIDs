@@ -1,0 +1,16 @@
+GUID e32ec0b0c38a4ad284178cde368985d7
+Type Large
+
+Interactability Binary_State
+Interactability_Hint Switch
+Interactability_Power Stay
+Interactability_Emission
+
+Rubble Destroy
+Rubble_Reset 300
+Rubble_Health 250
+Rubble_Effect 72
+
+
+Material_Palette f165ba85c02b44ca9bfaaf2c6beee2f5
+Has_Clip_Prefab false
