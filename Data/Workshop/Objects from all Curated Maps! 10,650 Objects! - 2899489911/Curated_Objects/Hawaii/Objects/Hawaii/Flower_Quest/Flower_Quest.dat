@@ -1,0 +1,17 @@
+GUID 20db32948b894c45972a7b9afaccb270
+Type Small
+ID 4584
+
+Conditions 1
+Condition_0_Type Flag_Bool
+Condition_0_Logic Equal
+Condition_0_ID 45687
+Condition_0_Value False
+
+
+Interactability Quest
+Interactability_Effect 7
+Interactability_Rewards 1
+Interactability_Reward_0_Type Flag_Bool
+Interactability_Reward_0_ID 45687
+Interactability_Reward_0_Value True
