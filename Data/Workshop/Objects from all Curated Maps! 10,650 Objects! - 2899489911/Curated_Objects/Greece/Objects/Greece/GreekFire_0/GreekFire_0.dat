@@ -1,0 +1,12 @@
+GUID 32d71cac6f874480b7e364c289874b49
+Type Large
+ID 3500
+
+Collision_Important
+Asset_Bundle_Version 2
+
+LOD Mesh
+LOD_Center_Z 16
+LOD_Size_Z -32
+
+Material_Palette 011e2687c1c74505acfee178d9c8dfeb
