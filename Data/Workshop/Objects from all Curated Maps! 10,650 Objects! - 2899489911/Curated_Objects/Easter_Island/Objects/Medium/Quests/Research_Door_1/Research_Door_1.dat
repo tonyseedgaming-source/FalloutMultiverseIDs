@@ -1,0 +1,22 @@
+GUID 8eef594b38b149bc8025758d0cdb8e69
+Type Medium
+ID 6701
+
+LOD Mesh
+LOD_Center_Z -0.5
+LOD_Size_Z -1
+
+Interactability Quest
+Interactability_Effect 38
+
+Interactability_Rewards 1
+
+Interactability_Reward_0_Type Teleport
+Interactability_Reward_0_Spawnpoint EasterBunkerExit0
+
+Bypass_ID_Limit
+
+Master_Bundle_Override loco_curated_objects.masterbundle
+Bundle_Override_Path Easter_Island/Objects/Medium/Quests/Research_Door_0
+Exclude_From_Master_Bundle
+Has_Clip_Prefab False
