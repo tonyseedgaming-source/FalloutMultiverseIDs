@@ -1,0 +1,12 @@
+GUID a1a4ab4f3ed3418c904b10d1a8e6de2d
+Type Large
+Has_Clip_Prefab False
+ID 5363
+
+Material_Palette 5e3c485fa7ca46b79daefb607011e442
+
+Interactability Fuel
+Interactability_Reset 1500
+Interactability_Resource 500
+
+Asset_Bundle_Version 2
