@@ -1,0 +1,20 @@
+GUID 38f251da1594485f882afc4bab4ef0fa
+Type Small
+ID 3762
+
+Asset_Bundle_Version 2
+
+Conditions 1
+Condition_0_Type Flag_Bool
+Condition_0_ID 3238
+Condition_0_Value False
+Condition_0_Logic Equal
+
+Interactability Quest
+Interactability_Effect 38
+
+Interactability_Rewards 1
+
+//Enter the Lamia Sewers
+Interactability_Reward_0_Type Teleport
+Interactability_Reward_0_Spawnpoint SewersEnterLamia
