@@ -1,0 +1,5 @@
+Name Greece Bunker Gate #2
+
+Interactability_Condition_0 Invalid Faction Access
+Interactability_Condition_1 Insufficient Door Uses
+Interact Interact[{0}]
