@@ -1,0 +1,23 @@
+GUID 10726c1190074a6980799af4808d23c7
+Type Small
+ID 3823
+
+Conditions 1
+Condition_0_Type Flag_Short
+Condition_0_ID 3306
+Condition_0_Value 4
+Condition_0_Logic Equal
+
+Interactability Note
+Interactability_Hint Use
+Interactability_Text_Lines 9
+
+Interactability_Rewards 1
+
+//Set the disease ID
+Interactability_Reward_0_Type Flag_Math
+Interactability_Reward_0_A_ID 3305
+Interactability_Reward_0_B_ID 3300
+Interactability_Reward_0_Operation ASSIGN
+
+Asset_Bundle_Version 2
