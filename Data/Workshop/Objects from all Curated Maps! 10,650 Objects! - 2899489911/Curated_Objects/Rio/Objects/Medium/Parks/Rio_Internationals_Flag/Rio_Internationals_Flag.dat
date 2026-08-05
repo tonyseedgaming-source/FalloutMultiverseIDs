@@ -1,0 +1,10 @@
+GUID 28d8dfbe652244d1870727f5737164b6
+Type Medium
+Has_Clip_Prefab false
+
+Snowshoe
+
+Interactability Rubble
+Interactability_Reset 300
+Interactability_Health 100
+Interactability_Effect 72
