@@ -1,0 +1,11 @@
+GUID 10ffc4c05bde49299f5c5ed0881953f7
+Type Small
+ID 3681
+
+Asset_Bundle_Version 2
+
+Conditions 1
+Condition_0_Type Flag_Bool
+Condition_0_ID 3075
+Condition_0_Value True
+Condition_0_Logic Equal
