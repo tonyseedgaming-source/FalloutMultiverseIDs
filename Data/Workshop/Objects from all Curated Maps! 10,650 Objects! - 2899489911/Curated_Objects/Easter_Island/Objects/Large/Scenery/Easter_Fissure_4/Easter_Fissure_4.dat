@@ -1,0 +1,35 @@
+GUID 70d2e31d95a84b55b2f6a70ec1e9c8d4
+Type Large
+ID 6794
+
+Bypass_ID_Limit
+
+// final fight
+Interactability Quest
+Interactability_Effect 8
+Interactability_Conditions 3
+Interactability_Condition_0_Type Flag_Short
+Interactability_Condition_0_ID 245
+Interactability_Condition_0_Value 2
+Interactability_Condition_0_Logic Equal
+Interactability_Condition_1_Type Flag_Short
+Interactability_Condition_1_ID 246
+Interactability_Condition_1_Value 2
+Interactability_Condition_1_Logic Equal
+Interactability_Condition_2_Type Flag_Short
+Interactability_Condition_2_ID 247
+Interactability_Condition_2_Value 2
+Interactability_Condition_2_Logic Equal
+
+// give final quest + teleport
+Interactability_Rewards 3
+Interactability_Reward_0_Type Quest
+Interactability_Reward_0_ID 6602
+Interactability_Reward_1_Type Teleport
+Interactability_Reward_1_Spawnpoint EasterBossEntrance0
+Interactability_Reward_2_Type Flag_Short
+Interactability_Reward_2_ID 6600
+Interactability_Reward_2_Value 0
+Interactability_Reward_2_Modification Assign
+
+Has_Clip_Prefab False
