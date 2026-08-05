@@ -1,0 +1,19 @@
+Name Belgium Note - Brussels Military #1
+
+Interactability_Text_Line_0 Military Report-Brussels
+Interactability_Text_Line_1 ---
+Interactability_Text_Line_2 Lockdown Day 1:
+Interactability_Text_Line_3 Status: Normal/Stable, Targets not visible
+Interactability_Text_Line_4 ---
+Interactability_Text_Line_5 Lockdown Day 2: 
+Interactability_Text_Line_6 Status: Stable, Targets visible
+Interactability_Text_Line_7 ---
+Interactability_Text_Line_8 Lockdown Day 3:
+Interactability_Text_Line_9 Status: Unstable, Targets visible-hostile
+Interactability_Text_Line_10 ---
+Interactability_Text_Line_11 Lockdown Day 4:
+Interactability_Text_Line_12 Status: Critical/Unstable, Targets visible-hostile, Back-up needed immediately, Medical attention needed
+Interactability_Text_Line_13 ---
+Interactability_Text_Line_14 Lockdown Day 5:
+Interactability_Text_Line_15 Status: Compromised/Unstable, Targets visible-hostile, Back-up needed immediately, Medical attention needed, evac needed
+Interactability_Text_Line_16 ---
