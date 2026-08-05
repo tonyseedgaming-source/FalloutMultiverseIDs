@@ -1,0 +1,23 @@
+GUID 9c27e7181ff343549f4b667877ae453b
+
+Type Medium
+Has_Clip_Prefab false
+ID 57460
+
+Interactability Note
+Interactability_Hint Use
+Interactability_Text_Lines 1
+
+
+//disappears after house poster picked up
+Conditions 1
+Condition_0_Type Flag_Bool
+Condition_0_ID 57009
+Condition_0_Value False
+Condition_0_Logic Equal
+Condition_0_Allow_Unset
+
+Master_Bundle_Override core.masterbundle
+Bundle_Override_Path /Objects/Medium/Furniture/Note
+
+Asset_Bundle_Version 2
