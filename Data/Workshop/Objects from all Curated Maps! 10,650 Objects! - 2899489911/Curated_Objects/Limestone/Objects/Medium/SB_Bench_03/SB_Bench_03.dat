@@ -1,0 +1,21 @@
+﻿GUID 064804bd5ea4405ea1719c4896bd5464
+
+Type Medium
+
+Has_Clip_Prefab False
+ID 47379
+
+Chart Ignore
+
+Rubble Destroy
+Rubble_Reset 1200
+Rubble_Health 25
+Rubble_Effect 21508
+Rubble_Reward_ID 21500
+Rubble_Reward_Probability 0.5
+Rubble_Nav_Mode DeactivateIfAllDead
+Rubble_Can_Zombies_Damage True
+Rubble_Zombie_Damage_Multiplier 6
+Load_Nav_In_Editor False
+
+Material_Palette ca9c9fca706b4fd08e869d388b8b77cd
