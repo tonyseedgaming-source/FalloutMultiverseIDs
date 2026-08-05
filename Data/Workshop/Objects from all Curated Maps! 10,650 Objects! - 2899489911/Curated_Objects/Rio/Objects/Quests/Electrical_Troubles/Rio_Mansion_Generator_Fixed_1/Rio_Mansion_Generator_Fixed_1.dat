@@ -1,0 +1,11 @@
+GUID 62064c9ed5dd41bc8f14acdc68eb0f28
+Type Medium
+Has_Clip_Prefab false
+
+Conditions 1
+Condition_0_Type Quest
+Condition_0_ID 37037
+Condition_0_Status Completed
+Condition_0_Logic Equal
+
+Bundle_Override_Path Rio/Objects/Quests/Electrical_Troubles/Rio_Mansion_Generator_Fixed
