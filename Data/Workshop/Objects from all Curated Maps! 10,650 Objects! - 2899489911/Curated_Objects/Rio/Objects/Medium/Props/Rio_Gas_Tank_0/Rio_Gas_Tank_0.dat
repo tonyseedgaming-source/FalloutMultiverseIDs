@@ -1,0 +1,11 @@
+GUID 1c566d111f7d42deb286cffc0853511d
+Type Medium
+Has_Clip_Prefab false
+
+Conditions 1
+Condition_0_Type Quest
+Condition_0_ID 36125
+Condition_0_Status Active
+Condition_0_Logic Not_Equal
+
+Material_Palette 517b17bb5c5a43d9b734845d893fadda
