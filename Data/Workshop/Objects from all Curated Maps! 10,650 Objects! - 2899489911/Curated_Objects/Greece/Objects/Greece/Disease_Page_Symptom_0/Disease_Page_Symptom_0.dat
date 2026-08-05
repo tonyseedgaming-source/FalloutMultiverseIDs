@@ -1,0 +1,15 @@
+GUID e3094ad818ac477c8ff1f8628458a179
+Type Small
+ID 3814
+
+Conditions 1
+Condition_0_Type Flag_Short
+Condition_0_ID 3300
+Condition_0_Value 0
+Condition_0_Logic Equal
+
+Interactability Note
+Interactability_Hint Use
+Interactability_Text_Lines 12
+
+Asset_Bundle_Version 2
