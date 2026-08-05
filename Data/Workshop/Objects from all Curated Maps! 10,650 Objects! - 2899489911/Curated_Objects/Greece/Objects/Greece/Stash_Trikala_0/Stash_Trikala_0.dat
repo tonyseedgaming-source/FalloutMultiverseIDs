@@ -1,0 +1,23 @@
+GUID c06990e8e17144a3951148a839e2383e
+Type Small
+ID 3858
+
+Conditions 2
+Condition_0_Type Flag_Short
+Condition_0_ID 3378
+Condition_0_Value 7
+Condition_0_Logic Equal
+Condition_1_Type Flag_Bool
+Condition_1_ID 3379
+Condition_1_Value False
+Condition_1_Logic Equal
+
+Interactability Quest
+Interactability_Effect 7
+
+Interactability_Rewards 1
+
+//Pick Stash #1
+Interactability_Reward_0_Type Flag_Bool
+Interactability_Reward_0_ID 3379
+Interactability_Reward_0_Value True
