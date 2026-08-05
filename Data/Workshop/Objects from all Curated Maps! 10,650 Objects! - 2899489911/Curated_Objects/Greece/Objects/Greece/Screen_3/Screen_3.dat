@@ -1,0 +1,10 @@
+GUID 1d6b4e401ff448c6b39bd239747a39ce
+Type Small
+ID 3869
+
+//Patient is Alive
+Conditions 1
+Condition_0_Type Flag_Short
+Condition_0_ID 3403
+Condition_0_Value 70
+Condition_0_Logic Greater_Than
