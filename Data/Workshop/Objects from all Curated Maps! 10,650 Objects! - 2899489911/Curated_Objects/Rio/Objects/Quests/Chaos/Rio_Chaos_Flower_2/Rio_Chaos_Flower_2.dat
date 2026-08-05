@@ -1,0 +1,13 @@
+GUID c2cf4df5e3b74eccbb28057b0e1a8a4b
+Type Small
+Has_Clip_Prefab false
+
+Conditions 2
+Condition_0_Type Quest
+Condition_0_ID 37043
+Condition_0_Status Completed
+Condition_0_Logic Equal
+Condition_1_Type Flag_Short
+Condition_1_ID 39006
+Condition_1_Value 28
+Condition_1_Logic Greater_Than_Or_Equal_To
