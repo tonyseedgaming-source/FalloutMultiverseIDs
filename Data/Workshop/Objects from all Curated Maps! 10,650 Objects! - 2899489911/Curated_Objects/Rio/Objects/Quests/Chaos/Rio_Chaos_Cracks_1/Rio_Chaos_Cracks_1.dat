@@ -1,0 +1,12 @@
+GUID 89d2b749fae0496aa4d9f571dd287511
+Type Small
+Has_Clip_Prefab false
+
+Conditions 1
+//Chaos Level
+Condition_0_Type Flag_Short
+Condition_0_ID 39104
+Condition_0_Value 10
+Condition_0_Logic Greater_Than
+
+Bundle_Override_Path Rio/Objects/Quests/Chaos/Rio_Chaos_Cracks
