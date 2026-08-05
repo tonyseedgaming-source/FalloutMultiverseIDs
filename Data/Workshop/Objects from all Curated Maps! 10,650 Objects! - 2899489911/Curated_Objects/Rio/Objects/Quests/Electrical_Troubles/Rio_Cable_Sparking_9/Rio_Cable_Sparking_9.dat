@@ -1,0 +1,11 @@
+GUID b08a24218e774705a5086b844c8799a6
+Type Small
+Has_Clip_Prefab false
+
+Conditions 1
+Condition_0_Type Quest 
+Condition_0_ID 37036
+Condition_0_Status Completed
+Condition_0_Logic Equal
+
+Bundle_Override_Path Rio/Objects/Small/Rio_Cable_1_0
