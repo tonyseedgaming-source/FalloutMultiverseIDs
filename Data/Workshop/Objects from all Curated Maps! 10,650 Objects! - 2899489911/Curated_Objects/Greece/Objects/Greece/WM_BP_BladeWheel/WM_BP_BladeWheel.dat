@@ -1,0 +1,13 @@
+GUID 3e6647146bec4205ad18efde7d3ad20a
+Type Small
+ID 3809
+
+Asset_Bundle_Version 2
+
+Conditions 1
+Condition_0_Type Flag_Short
+Condition_0_ID 3266
+Condition_0_Value 1
+Condition_0_Logic Equal
+
+
