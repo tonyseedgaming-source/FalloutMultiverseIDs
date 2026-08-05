@@ -1,0 +1,10 @@
+﻿GUID 4b3bf5fff15d46428cc575c3030f7aff
+Type Medium
+Has_Clip_Prefab False
+
+// Master_Bundle_Override isn't required in this case, but just as an example:
+Master_Bundle_Override core.masterbundle
+// Path relative to core.masterbundle:
+Bundle_Override_Path /Objects/Medium/Business/Wine_Storage_2
+
+Material_Palette 61ba624d5cf94e5bb55ec411ee0b0fba
