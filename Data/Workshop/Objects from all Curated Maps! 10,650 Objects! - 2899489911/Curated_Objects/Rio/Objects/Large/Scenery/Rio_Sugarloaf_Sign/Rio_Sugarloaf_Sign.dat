@@ -1,0 +1,10 @@
+GUID 680480ad47494010b445df7e35bdac1d
+Type Large
+Has_Clip_Prefab false
+
+Chart Ignore
+
+Rubble Destroy
+Rubble_Reset 300
+Rubble_Health 500
+Rubble_Effect 72
