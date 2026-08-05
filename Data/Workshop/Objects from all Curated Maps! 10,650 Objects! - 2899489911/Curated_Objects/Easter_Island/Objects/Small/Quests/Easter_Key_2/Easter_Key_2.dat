@@ -1,0 +1,20 @@
+GUID 378b3c9c87aa4ab28819e52c05084443
+Type Small
+ID 6872
+
+Conditions 1
+Condition_0_Type Flag_Bool
+Condition_0_ID 6872
+Condition_0_Value False
+Condition_0_Logic Equal
+Condition_0_Allow_Unset
+
+Interactability Quest
+Interactability_Effect 7
+Interactability_Rewards 1
+Interactability_Reward_0_Type Flag_Bool
+Interactability_Reward_0_ID 6872
+Interactability_Reward_0_Value True
+
+Bypass_ID_Limit
+Has_Clip_Prefab False
