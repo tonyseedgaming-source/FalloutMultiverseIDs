@@ -1,0 +1,7 @@
+GUID f8ba26ade7824a17b0a1066386b24599
+Type Medium
+Has_Clip_Prefab false
+
+Interactability Fuel
+Interactability_Reset 1500
+Interactability_Resource 2500
