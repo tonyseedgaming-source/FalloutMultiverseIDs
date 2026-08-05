@@ -1,0 +1,10 @@
+GUID 26b960de4cbd48e186222dc70cfb0bd0
+Type Small
+ID 3871
+
+//Is a Shoulder Injury
+Conditions 1
+Condition_0_Type Flag_Short
+Condition_0_ID 3406
+Condition_0_Value 1
+Condition_0_Logic Greater_Than
