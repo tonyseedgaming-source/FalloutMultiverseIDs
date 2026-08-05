@@ -1,0 +1,13 @@
+GUID 4f2029c3b7e248e8a8cc7f8c2c77f18a
+
+Type Large
+Has_Clip_Prefab false
+ID 57088
+
+Interactability Fuel
+Interactability_Reset 4500
+Interactability_Resource 500
+
+Material_Palette 8250d9fdb591412bb47320c2cd3b96a7
+
+Asset_Bundle_Version 2
