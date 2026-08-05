@@ -1,0 +1,9 @@
+﻿GUID 929b7a7b856e46188e7d31be9c05cf4e
+Type Large
+ID 47282
+
+Interactability_Hint Custom
+Interactability Binary_State
+Interactability_Delay 10
+Interactability_Nav Off
+Has_Clip_Prefab false
