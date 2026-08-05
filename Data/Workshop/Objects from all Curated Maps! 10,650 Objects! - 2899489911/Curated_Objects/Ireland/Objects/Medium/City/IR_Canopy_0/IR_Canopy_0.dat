@@ -1,0 +1,11 @@
+GUID 0377a3d235a64b909a3a80969a0d5df7
+Type Medium
+ID 18818
+
+Rubble Destroy
+Rubble_Reset 120
+Rubble_Health 1
+
+Causes_Fall_Damage False
+
+Material_Palette c2af5c7a69774628a0ee9edacc3feb49
