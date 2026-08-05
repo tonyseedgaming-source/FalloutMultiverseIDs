@@ -1,0 +1,18 @@
+GUID 0a2008991abd4c47a42bb3fec21055f9
+
+
+
+
+
+
+Type Medium
+ID 51000
+
+LOD Mesh
+LOD_Center_Z -0.5
+LOD_Size_Z -1
+Interactability Rubble
+Interactability_Reset 300
+Interactability_Health 100
+Interactability_Effect 
+Has_Clip_Prefab false
