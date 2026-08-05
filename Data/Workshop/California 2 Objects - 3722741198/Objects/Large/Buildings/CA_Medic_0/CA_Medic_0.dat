@@ -1,0 +1,8 @@
+﻿GUID ecfc6ce62a304ac8a22e1612833e9311
+Type Large
+Has_Clip_Prefab False
+
+Material_Palette 4bc31de74bc84b45bd680407f3bcc67b
+
+Master_Bundle_Override core.masterbundle
+Bundle_Override_Path /Objects/Large/Buildings/Medic_2
