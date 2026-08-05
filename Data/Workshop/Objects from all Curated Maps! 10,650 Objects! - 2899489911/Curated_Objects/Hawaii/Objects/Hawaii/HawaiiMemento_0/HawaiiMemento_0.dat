@@ -1,0 +1,18 @@
+GUID 9d13bfbbe81d413b804e83f3541fa2e0
+Type Small
+ID 6021
+
+Conditions 1
+Condition_0_Type Flag_Bool
+Condition_0_ID 2094
+Condition_0_Value False
+Condition_0_Logic Equal
+
+Interactability Quest
+Interactability_Effect 7
+Interactability_Rewards 1
+Interactability_Reward_0_Type Flag_Bool
+Interactability_Reward_0_ID 2094
+Interactability_Reward_0_Value True
+
+Asset_Bundle_Version 2
