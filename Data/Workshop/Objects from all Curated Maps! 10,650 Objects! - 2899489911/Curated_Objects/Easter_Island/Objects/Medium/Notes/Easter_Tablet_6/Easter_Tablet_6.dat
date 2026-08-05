@@ -1,0 +1,14 @@
+GUID afcda902836d409fb549c81bf9b0319f
+Type Medium
+ID 6825
+
+Interactability Note
+Interactability_Hint Use
+Interactability_Text_Lines 1
+
+Bypass_ID_Limit
+
+Bundle_Override_Path Easter_Island/Objects/Medium/Notes/Easter_Tablet_0
+Exclude_From_Master_Bundle
+Has_Clip_Prefab False
+Master_Bundle_Override loco_curated_objects.masterbundle
