@@ -1,0 +1,11 @@
+GUID a37a7ca8d1604a3f854bf8cc8f92922e
+
+Type Medium
+ID 44010
+
+Interactability Dropper
+Interactability_Delay 30
+Interactability_Hint Use
+Interactability_Reward_ID 44000
+
+Asset_Bundle_Version 2
