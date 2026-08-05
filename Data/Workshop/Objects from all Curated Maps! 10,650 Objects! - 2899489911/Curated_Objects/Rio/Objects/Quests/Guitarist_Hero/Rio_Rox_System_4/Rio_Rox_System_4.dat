@@ -1,0 +1,11 @@
+GUID 1d5cae12b5b240998cd8381715e8d51c
+Type Small
+Has_Clip_Prefab false
+
+Conditions 1
+Condition_0_Type Quest
+Condition_0_ID 37008
+Condition_0_Status Completed
+Condition_0_Logic Equal
+
+Bundle_Override_Path Rio/Objects/Quests/Guitarist_Hero/Rio_Rox_System_0
