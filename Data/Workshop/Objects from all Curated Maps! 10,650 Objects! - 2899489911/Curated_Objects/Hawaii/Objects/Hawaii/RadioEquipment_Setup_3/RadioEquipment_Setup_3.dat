@@ -1,0 +1,15 @@
+GUID 7aa818b5d0fc4ee79a0a6073d4d91f0d
+Type Small
+ID 4516
+
+Conditions 1
+//This relay hasn't been taken
+Condition_0_Type Flag_Bool
+Condition_0_ID 45741
+Condition_0_Value True
+Condition_0_Logic Equal
+
+
+
+
+
