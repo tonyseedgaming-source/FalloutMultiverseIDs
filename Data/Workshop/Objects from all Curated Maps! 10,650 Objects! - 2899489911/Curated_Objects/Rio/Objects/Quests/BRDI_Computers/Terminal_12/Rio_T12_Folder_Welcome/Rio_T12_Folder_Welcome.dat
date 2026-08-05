@@ -1,0 +1,14 @@
+GUID e6692bd65b6e41fdadba368da1c0e2e8
+Type Medium
+Has_Clip_Prefab false
+
+Interactability Dialogue
+Interactability_Dialogue b7897e3be47843b8a8690502d349583d
+
+Conditions 1
+Condition_0_Type Flag_Short
+Condition_0_ID 39703
+Condition_0_Value 2
+Condition_0_Logic Equal
+
+Bundle_Override_Path Rio/Objects/Quests/BRDI_Computers/Rio_BRDI_Computer_T12_Folder_Welcome
