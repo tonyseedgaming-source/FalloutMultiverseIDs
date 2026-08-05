@@ -1,0 +1,11 @@
+GUID 36b2b5811c7649ad8dc297409e334401
+Type Small
+ID 6697
+
+Interactability Rubble
+Interactability_Reset 60
+Interactability_Health 25
+Interactability_Effect 76
+
+Bypass_ID_Limit
+Has_Clip_Prefab False
