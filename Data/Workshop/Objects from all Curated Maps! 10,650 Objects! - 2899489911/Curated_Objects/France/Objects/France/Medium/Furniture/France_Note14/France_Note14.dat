@@ -1,0 +1,11 @@
+GUID 0b400bd8763d475a97bd00447a856daf
+Type Medium
+ID 35123
+
+Interactability Note
+Interactability_Hint Use
+Interactability_Text_Lines 3
+
+Has_Clip_Prefab false
+Bundle_Override_Path /Objects/Medium/Furniture/Note
+Master_Bundle_Override core.masterbundle
