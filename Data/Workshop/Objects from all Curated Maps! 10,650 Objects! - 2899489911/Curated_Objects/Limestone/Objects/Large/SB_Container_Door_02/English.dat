@@ -1,0 +1,5 @@
+Name SB Container Door #3 [Keycard Reader]
+
+Interactability_Condition_0 Missing <color=#c832fa>Military Keycard</color>
+
+Interact Use [{0}]
