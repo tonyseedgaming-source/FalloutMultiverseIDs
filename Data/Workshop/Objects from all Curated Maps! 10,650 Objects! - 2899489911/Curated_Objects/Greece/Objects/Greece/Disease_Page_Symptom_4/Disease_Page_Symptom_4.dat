@@ -1,0 +1,15 @@
+GUID 27be09be3d574e5680daf99b4ed638b0
+Type Small
+ID 3818
+
+Conditions 1
+Condition_0_Type Flag_Short
+Condition_0_ID 3300
+Condition_0_Value 4
+Condition_0_Logic Equal
+
+Interactability Note
+Interactability_Hint Use
+Interactability_Text_Lines 10
+
+Asset_Bundle_Version 2
