@@ -1,0 +1,10 @@
+﻿GUID e768fb52b09f4db29523a144f2b1ac7b
+Type Medium
+Has_Clip_Prefab False
+
+Interactability Note
+Interactability_Hint Use
+Interactability_Text_Lines 5
+
+Master_Bundle_Override core.masterbundle
+Bundle_Override_Path /Objects/Medium/Furniture/Note
