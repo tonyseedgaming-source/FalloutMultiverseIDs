@@ -1,0 +1,11 @@
+GUID 8d3eb5e4fda54425ba525e2b72006027
+Type Large
+Has_Clip_Prefab false
+
+Soft
+Snowshoe
+Chart Ground
+
+Foliage 136c99af460e4b498d75aec8b7f8225f
+Allow_Structures
+Exclude_From_Culling_Volumes true
