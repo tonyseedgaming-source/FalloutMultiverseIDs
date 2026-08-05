@@ -1,0 +1,13 @@
+GUID 888f8b322108416981174ae9fad3eafc
+Type Small
+ID 25300
+
+Rubble Destroy
+Rubble_Reset 600
+Rubble_Health 1
+Rubble_Effect 25471
+Rubble_Reward_ID 25371
+
+Chart Ignore
+
+Has_Clip_Prefab false
