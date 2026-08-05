@@ -1,0 +1,10 @@
+GUID ad175aef89ce451992a6ed4194964544
+Type Medium
+Has_Clip_Prefab false
+
+Rubble Destroy
+Rubble_Reset 600
+Rubble_Effect 77
+Rubble_Health 25
+Rubble_Reward_ID 32280
+Rubble_Reward_Probability 0.8
