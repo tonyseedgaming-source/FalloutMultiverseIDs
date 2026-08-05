@@ -1,0 +1,12 @@
+GUID 053e5c8da99740ffb4a254d6a4979fbe
+Type Large
+ID 6778
+
+LOD Mesh
+LOD_Center_Z -0.5
+LOD_Size_Z -1
+
+Asset_Bundle_Version 2
+Bypass_ID_Limit
+Material_Palette 27a8442e8f284010962a5d2c10146dd8
+Has_Clip_Prefab False
