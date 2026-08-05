@@ -1,0 +1,12 @@
+GUID 8472b71f5e0c40d194d6a4c78fb924c5
+Type Large
+ID 6673
+
+Master_Bundle_Override core.masterbundle
+Bundle_Override_Path Easter_Island/Objects/Large/Business/Container_4
+Exclude_From_Master_Bundle
+
+Asset_Bundle_Version 2
+Bypass_ID_Limit
+Material_Palette 911e2d3baf234bec89e6daa8bf50822c
+Has_Clip_Prefab False
