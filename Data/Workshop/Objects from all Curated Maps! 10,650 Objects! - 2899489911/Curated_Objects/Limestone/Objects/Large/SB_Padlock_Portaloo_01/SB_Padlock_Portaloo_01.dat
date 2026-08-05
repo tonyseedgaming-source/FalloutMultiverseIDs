@@ -1,0 +1,21 @@
+﻿GUID 2901d25932374e3cb5a25e5cebf699ee
+Type Large
+
+Has_Clip_Prefab False
+ID 47029
+
+Rubble Destroy
+Rubble_Reset 600
+Rubble_Health 999
+Rubble_Effect 21607
+Rubble_Blade_ID 250
+Rubble_Can_Zombies_Damage False
+
+Rubble_Reward_ID 21595
+Rubble_Rewards_Min 1
+Rubble_Rewards_Max 1
+
+Master_Bundle_Override loco_curated_objects.masterbundle
+Bundle_Override_Path /Limestone/Objects/Large/SB_Padlock_Portaloo_00
+
+Material_Palette 605a49f840254ee4affb557ad3bc71cf
