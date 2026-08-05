@@ -1,0 +1,13 @@
+GUID aa014cb12fec4969be1366d21568fdcc
+Type Medium
+
+Interactability Binary_State
+Interactability_Hint Switch
+Interactability_Power Stay
+Interactability_Emission
+
+Chart Ignore
+
+Material_Palette 0ce3ce86f60241bd895366e90ee7e2ec
+
+Has_Clip_Prefab false
