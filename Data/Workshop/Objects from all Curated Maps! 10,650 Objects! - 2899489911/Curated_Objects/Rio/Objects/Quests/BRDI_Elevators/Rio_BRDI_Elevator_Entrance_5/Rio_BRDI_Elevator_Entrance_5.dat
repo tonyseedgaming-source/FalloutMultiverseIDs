@@ -1,0 +1,10 @@
+GUID 1eb5a362f99b403fba81c06a1152d9b6
+Type Large
+Has_Clip_Prefab false
+
+Interactability Quest
+Interactability_Rewards 1
+Interactability_Reward_0_Type Teleport
+Interactability_Reward_0_Spawnpoint MedE
+
+Bundle_Override_Path Rio/Objects/Large/Utilities/Rio_Elevator_2
