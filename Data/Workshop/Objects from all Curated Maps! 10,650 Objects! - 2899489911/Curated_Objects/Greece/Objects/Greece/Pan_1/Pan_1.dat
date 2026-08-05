@@ -1,0 +1,20 @@
+GUID 45be0f2043864f92bd848cfd58b9c2e9
+Type Small
+ID 3672
+
+Asset_Bundle_Version 2
+
+Conditions 1
+Condition_0_Type Flag_Bool
+Condition_0_ID 3069
+Condition_0_Value False
+Condition_0_Logic Equal
+
+Interactability Quest
+Interactability_Effect 7
+Interactability_Rewards 1
+
+//Picked Up
+Interactability_Reward_0_Type Flag_Bool
+Interactability_Reward_0_ID 3069
+Interactability_Reward_0_Value True
