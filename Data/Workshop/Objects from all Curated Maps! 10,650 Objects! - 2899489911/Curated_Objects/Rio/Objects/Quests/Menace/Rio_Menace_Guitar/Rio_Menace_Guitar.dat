@@ -1,0 +1,23 @@
+GUID a83a2835beaa4179ad1698d6170482ec
+Type Small
+Has_Clip_Prefab false
+
+Conditions 2
+//Caught Joãozinho
+Condition_0_Type Flag_Short
+Condition_0_ID 39220
+Condition_0_Value 6
+Condition_0_Logic Greater_Than_Or_Equal_To
+//Doesn't Have Guitar 
+Condition_1_Type Flag_Bool
+Condition_1_ID 39225
+Condition_1_Value false
+Condition_1_Logic Equal
+Condition_1_Allow_Unset
+
+Interactability Quest
+Interactability_Effect 36151
+Interactability_Rewards 1
+Interactability_Reward_0_Type Flag_Bool
+Interactability_Reward_0_ID 39225
+Interactability_Reward_0_Value True
