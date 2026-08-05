@@ -1,0 +1,10 @@
+GUID 7f666202f52d46b4be6c9285e3dc03c4
+Type Small
+Has_Clip_Prefab false
+
+Conditions 1
+//Scarecrow Deployed
+Condition_0_Type Flag_Bool
+Condition_0_ID 39124
+Condition_0_Value True
+Condition_0_Logic Equal
