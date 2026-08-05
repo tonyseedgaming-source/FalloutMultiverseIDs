@@ -1,0 +1,11 @@
+GUID 3502bb90849d4013b7b8ebeac1251f4d
+
+
+
+Type Large
+ID 51000
+Interactability Rubble
+Interactability_Reset 300
+Interactability_Health 1
+Interactability_Effect 0
+Has_Clip_Prefab false
