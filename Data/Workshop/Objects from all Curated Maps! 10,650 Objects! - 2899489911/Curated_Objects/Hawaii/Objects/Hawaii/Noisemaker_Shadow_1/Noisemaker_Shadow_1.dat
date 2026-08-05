@@ -1,0 +1,37 @@
+GUID 65ce5ae2fe2a4cdb95e7007642288c72
+Type Small
+ID 4519
+
+Conditions 3
+//This noisemaker hasn't been setup
+Condition_0_Type Flag_Bool
+Condition_0_ID 45759
+Condition_0_Value False
+Condition_0_Logic Equal
+Condition_0_Allow_Unset
+
+Condition_1_Type Flag_Short
+Condition_1_ID 45762
+Condition_1_Value 0
+Condition_1_Logic Equal
+Condition_1_Allow_Unset
+
+Condition_2_Type Flag_Short
+Condition_2_ID 45752
+Condition_2_Value 2
+Condition_2_Logic Equal
+
+Interactability Quest
+Interactability_Effect 61
+Interactability_Rewards 1
+
+//noisemaker has been setup
+Interactability_Reward_0_Type Flag_Bool
+Interactability_Reward_0_ID 45759
+Interactability_Reward_0_Value True
+
+Asset_Bundle_Version 2
+
+
+
+
