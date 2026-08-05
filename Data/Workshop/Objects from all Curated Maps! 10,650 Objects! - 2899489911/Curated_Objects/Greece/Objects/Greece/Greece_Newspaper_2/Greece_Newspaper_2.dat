@@ -1,0 +1,14 @@
+GUID b95ca8e951844d0a87436036564d3d45
+Type Small
+ID 3911
+
+Interactability Note
+Interactability_Hint Use
+Interactability_Text_Lines 9
+
+Asset_Bundle_Version 2
+
+Rubble Destroy
+Rubble_Reset 300
+Rubble_Health 1
+Rubble_Effect 58
