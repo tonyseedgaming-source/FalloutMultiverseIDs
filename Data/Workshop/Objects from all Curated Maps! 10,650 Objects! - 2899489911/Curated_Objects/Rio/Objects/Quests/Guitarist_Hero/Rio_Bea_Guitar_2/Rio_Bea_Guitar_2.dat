@@ -1,0 +1,11 @@
+GUID c71dfb0d2e1149db85539f5a99544002
+Type Small
+Has_Clip_Prefab false
+
+Conditions 1
+Condition_0_Type Quest
+Condition_0_ID 37008
+Condition_0_Status Completed
+Condition_0_Logic Equal
+
+Bundle_Override_Path Rio/Objects/Quests/Guitarist_Hero/Rio_Bea_Guitar
