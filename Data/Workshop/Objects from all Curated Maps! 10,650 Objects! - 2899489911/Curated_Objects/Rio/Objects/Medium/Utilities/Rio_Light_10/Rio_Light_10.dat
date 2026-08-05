@@ -1,0 +1,11 @@
+GUID f84147858bb945c4992caa8e03ec662a
+Type Medium
+Has_Clip_Prefab false
+
+Interactability Binary_State
+Interactability_Hint Switch
+Interactability_Power Stay
+Interactability_Emission
+
+Master_Bundle_Override loco_curated_objects.masterbundle
+Bundle_Override_Path Rio/Objects/Medium/Utilities/Rio_Light_5
