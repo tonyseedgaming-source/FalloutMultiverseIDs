@@ -1,0 +1,13 @@
+GUID 9ab875563c144807ba72c2bc00ac87c6
+
+Type Medium
+
+Has_Clip_Prefab False
+
+ID 59034
+
+Interactability Fuel
+Interactability_Reset 1500
+Interactability_Resource 5000
+
+Soft
