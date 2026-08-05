@@ -1,0 +1,11 @@
+﻿GUID 69473a469bc04e35862491a129ba5b39
+Type Medium
+Has_Clip_Prefab False
+
+Rubble Destroy
+Rubble_Reset 60
+Rubble_Health 50
+Rubble_Effect 72
+Rubble_Editor Dead
+
+Material_Palette f547bfaec0564e48892acecc2a02a5b1
