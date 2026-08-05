@@ -1,0 +1,10 @@
+GUID 753df296cfb24d01957f402d6a877876
+Type Small
+Has_Clip_Prefab false
+
+Conditions 1
+//Sigil Repaired
+Condition_0_Type Flag_Bool
+Condition_0_ID 39190
+Condition_0_Value True
+Condition_0_Logic Equal
