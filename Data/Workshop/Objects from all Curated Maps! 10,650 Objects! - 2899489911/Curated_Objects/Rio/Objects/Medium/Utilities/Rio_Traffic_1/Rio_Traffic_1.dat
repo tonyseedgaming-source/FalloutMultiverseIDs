@@ -1,0 +1,12 @@
+GUID 374133b34a004bdd96fa17d353a5760e
+Type Medium
+Has_Clip_Prefab false
+
+Rubble Destroy
+Rubble_Reset 300
+Rubble_Health 25
+Rubble_Effect 67
+Rubble_Nav_Mode DeactivateIfAllDead
+Rubble_Zombie_Damage_Multiplier 11
+Rubble_Can_Zombies_Damage true
+Load_Nav_In_Editor false
