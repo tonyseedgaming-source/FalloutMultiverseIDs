@@ -1,0 +1,17 @@
+GUID e680bfdae1dc42e59d8ee30dfe479647
+Type Large
+ID 6897
+
+Bypass_ID_Limit
+
+Interactability Quest
+Interactability_Effect 38
+
+Interactability_Rewards 1
+Interactability_Reward_0_Type Teleport
+Interactability_Reward_0_Spawnpoint RatBurrowEntrance_1
+
+Master_Bundle_Override loco_curated_objects.masterbundle
+Bundle_Override_Path Easter_Island/Objects/Large/Scenery/Easter_Rat_Burrow_0
+Exclude_From_Master_Bundle
+Has_Clip_Prefab False
