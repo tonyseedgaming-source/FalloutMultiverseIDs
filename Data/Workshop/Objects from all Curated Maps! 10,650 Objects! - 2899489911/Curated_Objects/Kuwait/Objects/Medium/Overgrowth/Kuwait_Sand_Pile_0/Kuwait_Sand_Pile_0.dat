@@ -1,0 +1,14 @@
+GUID 4d10a41dd2604e5cb23578206711764f
+Type Medium
+Has_Clip_Prefab False
+ID 5073
+
+Rubble Destroy
+Rubble_Reset 900
+Rubble_Health 25
+Rubble_Effect 37
+Rubble_Reward_ID 7160
+
+Material_Palette 77e9556cb45a45d19464c01754380e4c
+
+Asset_Bundle_Version 2
