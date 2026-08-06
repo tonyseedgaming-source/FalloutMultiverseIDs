@@ -1,0 +1,455 @@
+ManifestFileVersion: 0
+CRC: 495837947
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ef9a05927fcd4214a9e0bf233e9f7ceb
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 087e5dcd68101fa091a87bc08ddcc782
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 54
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 84
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 108
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 71c1514a6bd24e1e882cebbe1904ce04, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a6e9242e5cb8b78429e422f41de137fd, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8a452a3d8f7598349a90289ac3a0d802, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 78740986f845bd943b99707a83731520, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5aafb394bc92ab04ca7d65a0dee4c402, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9541d86e2fd84c1d9990edf0852d74ab, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a63b56f869d490a439bbeb276a53036f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9f12379735a496f49aba15992fc51ec2, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 134
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 205
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.FaceInfo_Legacy
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.FontAssetCreationSettings
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.KerningTable
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.TMP_Character
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.TMP_FontFeatureTable
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.TMP_FontWeightPair
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.TMP_GlyphAdjustmentRecord
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.TMP_GlyphPairAdjustmentRecord
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.TMP_GlyphValueRecord
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.VertexGradient
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.ArgumentCache
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.PersistentCallGroup
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.PersistentListenerMode
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.UnityEvent
+- AssemblyName: UnityEngine.TextCoreFontEngineModule
+  ClassName: UnityEngine.TextCore.FaceInfo
+- AssemblyName: UnityEngine.TextCoreFontEngineModule
+  ClassName: UnityEngine.TextCore.Glyph
+- AssemblyName: UnityEngine.TextCoreFontEngineModule
+  ClassName: UnityEngine.TextCore.GlyphMetrics
+- AssemblyName: UnityEngine.TextCoreFontEngineModule
+  ClassName: UnityEngine.TextCore.GlyphRect
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.MaskableGraphic/CullStateChangedEvent
+Assets:
+- Assets/Workshop/Admin_Tools/Structures/Doorway/Nav.prefab
+- Assets/Workshop/Admin_Tools/Clothes/Cap_Transparent/Hat.prefab
+- Assets/Workshop/Admin_Tools/Effects/Gun_Tracer_Scatter/Effect.prefab
+- Assets/Workshop/Admin_Tools/Barricades/Sign_Wall/Item.prefab
+- Assets/Workshop/Admin_Tools/Barricades/Display/Animations.prefab
+- Assets/Workshop/Admin_Tools/Structures/Ramp/Item.prefab
+- Assets/Workshop/Admin_Tools/Consumables/Reputation_Increase_1/Animations.prefab
+- Assets/Workshop/Admin_Tools/Weapons/Gun_Magazine_Green_Explosive/Magazine.prefab
+- Assets/Workshop/Admin_Tools/Barricades/Sign_Transparent/Preview.prefab
+- Assets/Workshop/Admin_Tools/Clothes/Shirt_Admin/Animations.prefab
+- Assets/Workshop/Admin_Tools/Weapons/Gun_Magazine_Green_Scatter/Magazine.prefab
+- Assets/Workshop/Admin_Tools/Structures/Wall/Item.prefab
+- Assets/Workshop/Admin_Tools/Consumables/Pill_Suicide/Item.prefab
+- Assets/Workshop/Admin_Tools/Structures/Wall/Animations.prefab
+- Assets/Workshop/Admin_Tools/Clothes/Shirt_Staff/Shirt.png
+- Assets/Workshop/Admin_Tools/Structures/Floor/Structure.prefab
+- Assets/Workshop/Admin_Tools/Structures/Rampart/Animations.prefab
+- Assets/Workshop/Admin_Tools/Barricades/Sign_Transparent/Item.prefab
+- Assets/Workshop/Admin_Tools/Effects/Gun_Muzzle_Nonlethal/Effect.prefab
+- Assets/Workshop/Admin_Tools/Barricades/Bed/Animations.prefab
+- Assets/Workshop/Admin_Tools/Barricades/Generator_256/Barricade.prefab
+- Assets/Workshop/Admin_Tools/Clothes/Pants_Admin_Turbo/Emission.png
+- Assets/Workshop/Admin_Tools/Consumables/Reputation_Decrease_100/Animations.prefab
+- Assets/Workshop/Admin_Tools/Clothes/Shirt_Staff/Material.mat
+- Assets/Workshop/Admin_Tools/Consumables/Reputation_Decrease_1/Animations.prefab
+- Assets/Workshop/Admin_Tools/Clothes/Cap_Admin/Item.prefab
+- Assets/Workshop/Admin_Tools/Clothes/Shirt_Invisibility/Animations.prefab
+- Assets/Workshop/Admin_Tools/Barricades/Shutter/Barricade.prefab
+- Assets/Workshop/Admin_Tools/Barricades/Sign/Animations.prefab
+- Assets/Workshop/Admin_Tools/Consumables/Syringe_Heal/Use.mp3
+- Assets/Workshop/Admin_Tools/Weapons/Gun/Item.prefab
+- Assets/Workshop/Admin_Tools/Weapons/Gun_Grip/Grip.prefab
+- Assets/Workshop/Admin_Tools/Barricades/Door/Preview.prefab
+- Assets/Workshop/Admin_Tools/Structures/Floor/Nav.prefab
+- Assets/Workshop/Admin_Tools/Structures/Floor/Animations.prefab
+- Assets/Workshop/Admin_Tools/Clothes/Pants_Admin/Animations.prefab
+- Assets/Workshop/Admin_Tools/Consumables/Reputation_Increase_1/Use.mp3
+- Assets/Workshop/Admin_Tools/Tools/Duplicator_Supply/Item.prefab
+- Assets/Workshop/Admin_Tools/Structures/Window/Item.prefab
+- Assets/Workshop/Admin_Tools/Structures/Roof_T/Structure.prefab
+- Assets/Workshop/Admin_Tools/Barricades/Gate/Item.prefab
+- Assets/Workshop/Admin_Tools/Clothes/Pants_Admin/Item.prefab
+- Assets/Workshop/Admin_Tools/Barricades/Door/Item.prefab
+- Assets/Workshop/Admin_Tools/Consumables/Reputation_Decrease_1/Use.mp3
+- Assets/Workshop/Admin_Tools/Clothes/Cap_Transparent/Animations.prefab
+- Assets/Workshop/Admin_Tools/Clothes/Pants_Admin_Turbo/Pants.png
+- Assets/Workshop/Admin_Tools/Structures/Floor_T/Nav.prefab
+- Assets/Workshop/Admin_Tools/Structures/Garage/Item.prefab
+- Assets/Workshop/Admin_Tools/Tools/Handcuffs/Animations.prefab
+- Assets/Workshop/Admin_Tools/Consumables/Syringe_Heal/Animations.prefab
+- Assets/Workshop/Admin_Tools/Barricades/Flag/Barricade.prefab
+- Assets/Workshop/Admin_Tools/Clothes/Cap_Billboard/Hat.prefab
+- Assets/Workshop/Admin_Tools/Consumables/Pill_Hungry/Use.mp3
+- Assets/Workshop/Admin_Tools/Consumables/Reputation_Increase_100/Animations.prefab
+- Assets/Workshop/Admin_Tools/Structures/Rampart/Nav.prefab
+- Assets/Workshop/Admin_Tools/Weapons/Gun_Barrel/Shoot.mp3
+- Assets/Workshop/Admin_Tools/Weapons/Gun_Magazine_Bounce/Item.prefab
+- Assets/Workshop/Admin_Tools/Barricades/Locker/Item.prefab
+- Assets/Workshop/Admin_Tools/Clothes/Mask_Transparent/Item.prefab
+- Assets/Workshop/Admin_Tools/Barricades/Sign_Transparent/Animations.prefab
+- Assets/Workshop/Admin_Tools/Clothes/Mask_Transparent/Animations.prefab
+- Assets/Workshop/Admin_Tools/Clothes/Shirt_Staff/Metallic.png
+- Assets/Workshop/Admin_Tools/Consumables/Visualizer/Item.prefab
+- Assets/Workshop/Admin_Tools/Consumables/Reputation_Increase_1/Item.prefab
+- Assets/Workshop/Admin_Tools/Tools/Levitation_Up/Equip.mp3
+- Assets/Workshop/Admin_Tools/Weapons/Gun_Magazine/Item.prefab
+- Assets/Workshop/Admin_Tools/Clothes/Vest_Admin/Animations.prefab
+- Assets/Workshop/Admin_Tools/Consumables/Syringe_Exp/Animations.prefab
+- Assets/Workshop/Admin_Tools/Barricades/Ladder/Animations.prefab
+- Assets/Workshop/Admin_Tools/Clothes/Cap_Billboard/Item.prefab
+- Assets/Workshop/Admin_Tools/Weapons/Gun_Magazine_Explosive/Item.prefab
+- Assets/Workshop/Admin_Tools/Clothes/Cap_Transparent/Item.prefab
+- Assets/Workshop/Admin_Tools/Consumables/Visualizer/Animations.prefab
+- Assets/Workshop/Admin_Tools/Weapons/Gun_Nonlethal/Shoot.mp3
+- Assets/Workshop/Admin_Tools/Consumables/Pill_Thirsty/Animations.prefab
+- Assets/Workshop/Admin_Tools/Clothes/Glasses_Admin/Item.prefab
+- Assets/Workshop/Admin_Tools/Consumables/Reputation_Decrease_1/Item.prefab
+- Assets/Workshop/Admin_Tools/Barricades/Generator/Nav.prefab
+- Assets/Workshop/Admin_Tools/Structures/Stairs/Animations.prefab
+- Assets/Workshop/Admin_Tools/Weapons/Gun_Green/Equip.mp3
+- Assets/Workshop/Admin_Tools/Tools/Repair/Item.prefab
+- Assets/Workshop/Admin_Tools/AssetBundleCustomData.asset
+- Assets/Workshop/Admin_Tools/Weapons/Gun_Magazine_Bounce_Big/Item.prefab
+- Assets/Workshop/Admin_Tools/Clothes/Shirt_Admin/Item.prefab
+- Assets/Workshop/Admin_Tools/Barricades/Display_Wall/Preview.prefab
+- Assets/Workshop/Admin_Tools/Barricades/Hatch/Barricade.prefab
+- Assets/Workshop/Admin_Tools/Tools/Refueling/Animations.prefab
+- Assets/Workshop/Admin_Tools/Clothes/Pants_Admin/Emission.png
+- Assets/Workshop/Admin_Tools/Clothes/Pants_Admin_Turbo/Metallic.png
+- Assets/Workshop/Admin_Tools/Structures/Roof/Structure.prefab
+- Assets/Workshop/Admin_Tools/Barricades/Locker/Barricade.prefab
+- Assets/Workshop/Admin_Tools/Structures/Window/Animations.prefab
+- Assets/Workshop/Admin_Tools/Structures/Floor_T/Animations.prefab
+- Assets/Workshop/Admin_Tools/Barricades/Bed/Item.prefab
+- Assets/Workshop/Admin_Tools/Structures/Post/Structure.prefab
+- Assets/Workshop/Admin_Tools/Barricades/Display_Wall/Barricade.prefab
+- Assets/Workshop/Admin_Tools/Clothes/Shirt_Admin/Metallic.png
+- Assets/Workshop/Admin_Tools/Structures/Roof_T/Animations.prefab
+- Assets/Workshop/Admin_Tools/Structures/Stairs/Item.prefab
+- Assets/Workshop/Admin_Tools/Tools/Duplicator_Structure/Item.prefab
+- Assets/Workshop/Admin_Tools/Barricades/Display_Wall/Animations.prefab
+- Assets/Workshop/Admin_Tools/Barricades/Flag/Nav.prefab
+- Assets/Workshop/Admin_Tools/Structures/Rampart/Item.prefab
+- Assets/Workshop/Admin_Tools/Weapons/Gun/Reload.mp3
+- Assets/Workshop/Admin_Tools/Weapons/Gun_Green/Animations.prefab
+- Assets/Workshop/Admin_Tools/Clothes/Glasses_Admin_Lamp/Animations.prefab
+- Assets/Workshop/Admin_Tools/Barricades/Generator/Item.prefab
+- Assets/Workshop/Admin_Tools/Barricades/Locker/Animations.prefab
+- Assets/Workshop/Admin_Tools/Consumables/Syringe_Exp/Item.prefab
+- Assets/Workshop/Admin_Tools/Consumables/Reputation_Decrease_25/Animations.prefab
+- Assets/Workshop/Admin_Tools/Structures/Roof/Nav.prefab
+- Assets/Workshop/Admin_Tools/Clothes/Backpack_Transparent/Item.prefab
+- Assets/Workshop/Admin_Tools/Barricades/Shutter/Item.prefab
+- Assets/Workshop/Admin_Tools/Consumables/Reputation_Increase_25/Item.prefab
+- Assets/Workshop/Admin_Tools/Barricades/Flag/Preview.prefab
+- Assets/Workshop/Admin_Tools/Clothes/Backpack_Admin/Animations.prefab
+- Assets/Workshop/Admin_Tools/Barricades/Gate/Animations.prefab
+- Assets/Workshop/Admin_Tools/Tools/Handcuffs_Key/Use.mp3
+- Assets/Workshop/Admin_Tools/Weapons/Gun_Magazine_Ladder/Magazine.prefab
+- Assets/Workshop/Admin_Tools/Barricades/Sign_Transparent/Barricade.prefab
+- Assets/Workshop/Admin_Tools/Clothes/Mask_Filter/Use.mp3
+- Assets/Workshop/Admin_Tools/Clothes/Mask_Admin/Item.prefab
+- Assets/Workshop/Admin_Tools/Clothes/Shirt_Staff/Emission.png
+- Assets/Workshop/Admin_Tools/Structures/Roof/Item.prefab
+- Assets/Workshop/Admin_Tools/Weapons/Gun_Magazine_Green/Magazine.prefab
+- Assets/Workshop/Admin_Tools/Tools/Handcuffs_Key/Item.prefab
+- Assets/Workshop/Admin_Tools/Structures/Hole/Structure.prefab
+- Assets/Workshop/Admin_Tools/Weapons/Gun/Animations.prefab
+- Assets/Workshop/Admin_Tools/Clothes/Cap_Admin/Animations.prefab
+- Assets/Workshop/Admin_Tools/Barricades/Generator_64/Item.prefab
+- Assets/Workshop/Admin_Tools/Structures/Garage/Nav.prefab
+- Assets/Workshop/Admin_Tools/Tools/GPS_Nocompass/Item.prefab
+- Assets/Workshop/Admin_Tools/Tools/Levitation_Down_Transparent/Animations.prefab
+- Assets/Workshop/Admin_Tools/Effects/Gun_Explosion_Bounce/Effect.prefab
+- Assets/Workshop/Admin_Tools/Tools/Refueling/Item.prefab
+- Assets/Workshop/Admin_Tools/Effects/Gun_Tracer/Effect.prefab
+- Assets/Workshop/Admin_Tools/Clothes/Cap_Admin/Hat.prefab
+- Assets/Workshop/Admin_Tools/Weapons/Gun_Barrel/Barrel.prefab
+- Assets/Workshop/Admin_Tools/Clothes/Vest_Admin/Vest.prefab
+- Assets/Workshop/Admin_Tools/Weapons/Gun/Shoot.mp3
+- Assets/Workshop/Admin_Tools/Clothes/Pants_Admin/Metallic.png
+- Assets/Workshop/Admin_Tools/Clothes/Backpack_Transparent/Backpack.prefab
+- Assets/Workshop/Admin_Tools/Structures/Hole/Animations.prefab
+- Assets/Workshop/Admin_Tools/Weapons/Gun_Magazine_Green/Item.prefab
+- Assets/Workshop/Admin_Tools/Consumables/Pill_Thirsty/Item.prefab
+- Assets/Workshop/Admin_Tools/Structures/Floor_T/Item.prefab
+- Assets/Workshop/Admin_Tools/Clothes/Mask_Transparent/Mask.prefab
+- Assets/Workshop/Admin_Tools/Consumables/Pill_Suicide/Use.mp3
+- Assets/Workshop/Admin_Tools/Barricades/Display/Item.prefab
+- Assets/Workshop/Admin_Tools/Barricades/Sign_Wall/Nav.prefab
+- Assets/Workshop/Admin_Tools/Structures/Roof_T/Nav.prefab
+- Assets/Workshop/Admin_Tools/Tools/Fertilizer/Use.mp3
+- Assets/Workshop/Admin_Tools/Structures/Rampwall/Animations.prefab
+- Assets/Workshop/Admin_Tools/Consumables/Syringe_Heal/Item.prefab
+- Assets/Workshop/Admin_Tools/Consumables/Reputation_Increase_5/Animations.prefab
+- Assets/Workshop/Admin_Tools/Clothes/Glasses_Admin/Animations.prefab
+- Assets/Workshop/Admin_Tools/Tools/Levitation_Up/Animations.prefab
+- Assets/Workshop/Admin_Tools/Weapons/Gun_Magazine_Green_Explosive/Item.prefab
+- Assets/Workshop/Admin_Tools/Weapons/Gun/Equip.mp3
+- Assets/Workshop/Admin_Tools/Clothes/Vest_Transparent/Vest.prefab
+- Assets/Workshop/Admin_Tools/Tools/GPS/Item.prefab
+- Assets/Workshop/Admin_Tools/Barricades/Bed/Nav.prefab
+- Assets/Workshop/Admin_Tools/Structures/Post/Item.prefab
+- Assets/Workshop/Admin_Tools/Barricades/Generator_256/Nav.prefab
+- Assets/Workshop/Admin_Tools/Clothes/Pants_Admin_Turbo/Animations.prefab
+- Assets/Workshop/Admin_Tools/Consumables/Reputation_Decrease_100/Item.prefab
+- Assets/Workshop/Admin_Tools/Barricades/Shutter/Nav.prefab
+- Assets/Workshop/Admin_Tools/Structures/Floor/Item.prefab
+- Assets/Workshop/Admin_Tools/Consumables/Reputation_Decrease_25/Item.prefab
+- Assets/Workshop/Admin_Tools/Structures/Post/Animations.prefab
+- Assets/Workshop/Admin_Tools/Clothes/Shirt_Invisibility/Character_Mesh_3P_Override_0.prefab
+- Assets/Workshop/Admin_Tools/Clothes/Cap_Billboard/Animations.prefab
+- Assets/Workshop/Admin_Tools/Weapons/Gun_Grip/Item.prefab
+- Assets/Workshop/Admin_Tools/Structures/Floor/Use.mp3
+- Assets/Workshop/Admin_Tools/Effects/Gun_Explosion/Effect.prefab
+- Assets/Workshop/Admin_Tools/Consumables/Reputation_Increase_100/Item.prefab
+- Assets/Workshop/Admin_Tools/Structures/Ramp/Animations.prefab
+- Assets/Workshop/Admin_Tools/Effects/Switch/Effect.prefab
+- Assets/Workshop/Admin_Tools/Structures/Pillar/Item.prefab
+- Assets/Workshop/Admin_Tools/Tools/Repair/Animations.prefab
+- Assets/Workshop/Admin_Tools/Weapons/Gun_Tactical/Item.prefab
+- Assets/Workshop/Admin_Tools/Weapons/Gun_Magazine_Scatter/Item.prefab
+- Assets/Workshop/Admin_Tools/Weapons/Gun_Nonlethal/Equip.mp3
+- Assets/Workshop/Admin_Tools/Consumables/Reputation_Increase_25/Animations.prefab
+- Assets/Workshop/Admin_Tools/Structures/Window/Nav.prefab
+- Assets/Workshop/Admin_Tools/Effects/Gun_Explosion_Cage_Big/Effect.prefab
+- Assets/Workshop/Admin_Tools/Structures/Doorway/Animations.prefab
+- Assets/Workshop/Admin_Tools/Barricades/Ladder/Barricade.prefab
+- Assets/Workshop/Admin_Tools/Structures/Rampwall/Nav.prefab
+- Assets/Workshop/Admin_Tools/Barricades/Shutter/Animations.prefab
+- Assets/Workshop/Admin_Tools/Clothes/Glasses_Transparent/Animations.prefab
+- Assets/Workshop/Admin_Tools/Effects/Gun_Impact/Effect.prefab
+- Assets/Workshop/Admin_Tools/Barricades/Generator_256/Animations.prefab
+- Assets/Workshop/Admin_Tools/Effects/Gun_Muzzle/Effect.prefab
+- Assets/Workshop/Admin_Tools/Structures/Stairs/Structure.prefab
+- Assets/Workshop/Admin_Tools/Clothes/Backpack_Transparent/Animations.prefab
+- Assets/Workshop/Admin_Tools/Barricades/Gate/Barricade.prefab
+- Assets/Workshop/Admin_Tools/Weapons/Gun_Scope/Item.prefab
+- Assets/Workshop/Admin_Tools/Barricades/Generator_64/Barricade.prefab
+- Assets/Workshop/Admin_Tools/Barricades/Hatch/Animations.prefab
+- Assets/Workshop/Admin_Tools/Tools/Levitation_Up/Item.prefab
+- Assets/Workshop/Admin_Tools/Tools/Handcuffs/Use.mp3
+- Assets/Workshop/Admin_Tools/Barricades/Sign/Nav.prefab
+- Assets/Workshop/Admin_Tools/Tools/Box/Item.prefab
+- Assets/Workshop/Admin_Tools/Consumables/Pill_Suicide/Animations.prefab
+- Assets/Workshop/Admin_Tools/Barricades/Door/Nav.prefab
+- Assets/Workshop/Admin_Tools/Barricades/Gate/Preview.prefab
+- Assets/Workshop/Admin_Tools/Weapons/Gun_Magazine_Green_Scatter/Item.prefab
+- Assets/Workshop/Admin_Tools/Weapons/Gun_Magazine_Bounce_Big/Magazine.prefab
+- Assets/Workshop/Admin_Tools/Weapons/Gun_Scope/Sight.prefab
+- Assets/Workshop/Admin_Tools/Tools/Fertilizer/Animations.prefab
+- Assets/Workshop/Admin_Tools/Tools/Refueling/Use.mp3
+- Assets/Workshop/Admin_Tools/Barricades/Flag/Item.prefab
+- Assets/Workshop/Admin_Tools/Tools/Levitation_Down_Transparent/Item.prefab
+- Assets/Workshop/Admin_Tools/Tools/Handcuffs/Equip.mp3
+- Assets/Workshop/Admin_Tools/Barricades/Door/Animations.prefab
+- Assets/Workshop/Admin_Tools/Weapons/Gun_Nonlethal/Reload.mp3
+- Assets/Workshop/Admin_Tools/Structures/Pillar/Structure.prefab
+- Assets/Workshop/Admin_Tools/Barricades/Hatch/Nav.prefab
+- Assets/Workshop/Admin_Tools/Structures/Doorway/Item.prefab
+- Assets/Workshop/Admin_Tools/Clothes/Pants_Admin/Material.mat
+- Assets/Workshop/Admin_Tools/Weapons/Gun_Green/Reload.mp3
+- Assets/Workshop/Admin_Tools/Weapons/Gun_Magazine_Cage/Magazine.prefab
+- Assets/Workshop/Admin_Tools/Barricades/Display/Preview.prefab
+- Assets/Workshop/Admin_Tools/Structures/Roof_T/Item.prefab
+- Assets/Workshop/Admin_Tools/Barricades/Generator/Use.mp3
+- Assets/Workshop/Admin_Tools/Effects/Gun_Explosion_Ladder/Effect.prefab
+- Assets/Workshop/Admin_Tools/Structures/Rampwall/Item.prefab
+- Assets/Workshop/Admin_Tools/Weapons/Gun_Green/Shoot.mp3
+- Assets/Workshop/Admin_Tools/Clothes/Backpack_Admin/Backpack.prefab
+- Assets/Workshop/Admin_Tools/Clothes/Shirt_Invisibility/Character_Material_Override.mat
+- Assets/Workshop/Admin_Tools/Weapons/Gun_Nonlethal/Item.prefab
+- Assets/Workshop/Admin_Tools/Tools/Levitation_Up_Transparent/Equip.prefab
+- Assets/Workshop/Admin_Tools/Structures/Wall/Structure.prefab
+- Assets/Workshop/Admin_Tools/Effects/Gun_Explosion_Cage/Effect.prefab
+- Assets/Workshop/Admin_Tools/Barricades/Generator/Animations.prefab
+- Assets/Workshop/Admin_Tools/Weapons/Gun_Nonlethal/Animations.prefab
+- Assets/Workshop/Admin_Tools/Barricades/Display/Barricade.prefab
+- Assets/Workshop/Admin_Tools/Clothes/Mask_Filter/Animations.prefab
+- Assets/Workshop/Admin_Tools/Tools/Levitation_Hold_Transparent/Item.prefab
+- Assets/Workshop/Admin_Tools/Clothes/Shirt_Staff/Item.prefab
+- Assets/Workshop/Admin_Tools/Barricades/Generator/Barricade.prefab
+- Assets/Workshop/Admin_Tools/Consumables/Visualizer/Use.mp3
+- Assets/Workshop/Admin_Tools/Barricades/Locker/Preview.prefab
+- Assets/Workshop/Admin_Tools/Clothes/Vest_Admin/Item.prefab
+- Assets/Workshop/Admin_Tools/Clothes/Shirt_Staff/Animations.prefab
+- Assets/Workshop/Admin_Tools/Effects/Gun_Explosion_Bounce_Big/Effect.prefab
+- Assets/Workshop/Admin_Tools/Structures/Garage/Structure.prefab
+- Assets/Workshop/Admin_Tools/Tools/Levitation_Up_Transparent/Item.prefab
+- Assets/Workshop/Admin_Tools/Consumables/Reputation_Decrease_5/Animations.prefab
+- Assets/Workshop/Admin_Tools/Clothes/Cap_Staff/Hat.prefab
+- Assets/Workshop/Admin_Tools/Structures/Rampart/Structure.prefab
+- Assets/Workshop/Admin_Tools/Clothes/Glasses_Transparent/Item.prefab
+- Assets/Workshop/Admin_Tools/Weapons/Gun_Magazine_Bounce/Magazine.prefab
+- Assets/Workshop/Admin_Tools/Barricades/Generator_64/Animations.prefab
+- Assets/Workshop/Admin_Tools/Clothes/Glasses_Admin_Lamp/Glasses.prefab
+- Assets/Workshop/Admin_Tools/Barricades/Flag/Animations.prefab
+- Assets/Workshop/Admin_Tools/Barricades/Sign_Wall/Barricade.prefab
+- Assets/Workshop/Admin_Tools/Effects/Refill/Effect.prefab
+- Assets/Workshop/Admin_Tools/Structures/Garage/Animations.prefab
+- Assets/Workshop/Admin_Tools/Barricades/Ladder/Item.prefab
+- Assets/Workshop/Admin_Tools/Tools/Levitation_Hold_Transparent/Animations.prefab
+- Assets/Workshop/Admin_Tools/Barricades/Sign/Barricade.prefab
+- Assets/Workshop/Admin_Tools/Weapons/Gun_Magazine_Scatter/Magazine.prefab
+- Assets/Workshop/Admin_Tools/Structures/Roof/Animations.prefab
+- Assets/Workshop/Admin_Tools/Tools/Levitation_Hold/Item.prefab
+- Assets/Workshop/Admin_Tools/Structures/Wall/Nav.prefab
+- Assets/Workshop/Admin_Tools/Clothes/Shirt_Staff/Character_Mesh_3P_Override_0.prefab
+- Assets/Workshop/Admin_Tools/Barricades/Hatch/Item.prefab
+- Assets/Workshop/Admin_Tools/Clothes/Mask_Filter/Item.prefab
+- Assets/Workshop/Admin_Tools/Structures/Ramp/Structure.prefab
+- Assets/Workshop/Admin_Tools/Clothes/Shirt_Admin/Material.mat
+- Assets/Workshop/Admin_Tools/Clothes/Shirt_Admin/Emission.png
+- Assets/Workshop/Admin_Tools/Clothes/Shirt_Admin/Character_Mesh_3P_Override_0.prefab
+- Assets/Workshop/Admin_Tools/Barricades/Sign/Item.prefab
+- Assets/Workshop/Admin_Tools/Clothes/Vest_Transparent/Animations.prefab
+- Assets/Workshop/Admin_Tools/Clothes/Mask_Admin/Mask.prefab
+- Assets/Workshop/Admin_Tools/Consumables/Reputation_Decrease_5/Item.prefab
+- Assets/Workshop/Admin_Tools/Structures/Floor_T/Structure.prefab
+- Assets/Workshop/Admin_Tools/Clothes/Pants_Admin/Pants.png
+- Assets/Workshop/Admin_Tools/Tools/Levitation_Down/Animations.prefab
+- Assets/Workshop/Admin_Tools/Effects/Gun_Impact_Scatter/Effect.prefab
+- Assets/Workshop/Admin_Tools/Structures/Window/Structure.prefab
+- Assets/Workshop/Admin_Tools/Tools/Handcuffs_Key/Animations.prefab
+- Assets/Workshop/Admin_Tools/Weapons/Gun_Tactical/Tactical.prefab
+- Assets/Workshop/Admin_Tools/Weapons/Gun_Magazine_Cage_Big/Item.prefab
+- Assets/Workshop/Admin_Tools/Tools/Fertilizer/Item.prefab
+- Assets/Workshop/Admin_Tools/Clothes/Glasses_Transparent/Glasses.prefab
+- Assets/Workshop/Admin_Tools/Barricades/Door/Barricade.prefab
+- Assets/Workshop/Admin_Tools/Barricades/Bed/Barricade.prefab
+- Assets/Workshop/Admin_Tools/Barricades/Display_Wall/Item.prefab
+- Assets/Workshop/Admin_Tools/Structures/Hole/Nav.prefab
+- Assets/Workshop/Admin_Tools/Structures/Pillar/Animations.prefab
+- Assets/Workshop/Admin_Tools/Structures/Doorway/Structure.prefab
+- Assets/Workshop/Admin_Tools/Weapons/Gun_Magazine/Magazine.prefab
+- Assets/Workshop/Admin_Tools/Clothes/Shirt_Invisibility/Item.prefab
+- Assets/Workshop/Admin_Tools/Structures/Post/Nav.prefab
+- Assets/Workshop/Admin_Tools/Consumables/Pill_Hungry/Animations.prefab
+- Assets/Workshop/Admin_Tools/Tools/Handcuffs/Item.prefab
+- Assets/Workshop/Admin_Tools/Tools/Duplicator_Ammunition/Item.prefab
+- Assets/Workshop/Admin_Tools/Barricades/Gate/Nav.prefab
+- Assets/Workshop/Admin_Tools/Clothes/Shirt_Admin/Shirt.png
+- Assets/Workshop/Admin_Tools/Tools/Levitation_Down/Item.prefab
+- Assets/Workshop/Admin_Tools/Weapons/Gun_Barrel/Item.prefab
+- Assets/Workshop/Admin_Tools/Structures/Rampwall/Structure.prefab
+- Assets/Workshop/Admin_Tools/Weapons/Gun_Magazine_Explosive/Magazine.prefab
+- Assets/Workshop/Admin_Tools/Consumables/Reputation_Increase_5/Item.prefab
+- Assets/Workshop/Admin_Tools/Structures/Pillar/Nav.prefab
+- Assets/Workshop/Admin_Tools/Consumables/Pill_Hungry/Item.prefab
+- Assets/Workshop/Admin_Tools/Barricades/Shutter/Preview.prefab
+- Assets/Workshop/Admin_Tools/Barricades/Locker/Nav.prefab
+- Assets/Workshop/Admin_Tools/Clothes/Cap_Staff/Animations.prefab
+- Assets/Workshop/Admin_Tools/Clothes/Mask_Admin/Animations.prefab
+- Assets/Workshop/Admin_Tools/Clothes/Glasses_Admin_Lamp/Item.prefab
+- Assets/Workshop/Admin_Tools/Barricades/Generator_256/Item.prefab
+- Assets/Workshop/Admin_Tools/Weapons/Gun_Green/Item.prefab
+- Assets/Workshop/Admin_Tools/Weapons/Gun_Magazine_Cage/Item.prefab
+- Assets/Workshop/Admin_Tools/Clothes/Pants_Admin_Turbo/Material.mat
+- Assets/Workshop/Admin_Tools/Weapons/Gun_Magazine_Cage_Big/Magazine.prefab
+- Assets/Workshop/Admin_Tools/Weapons/Gun_Magazine_Ladder/Item.prefab
+- Assets/Workshop/Admin_Tools/Tools/Levitation_Hold/Animations.prefab
+- Assets/Workshop/Admin_Tools/Barricades/Generator_64/Nav.prefab
+- Assets/Workshop/Admin_Tools/Clothes/Vest_Transparent/Item.prefab
+- Assets/Workshop/Admin_Tools/Structures/Hole/Item.prefab
+- Assets/Workshop/Admin_Tools/Structures/Ramp/Nav.prefab
+- Assets/Workshop/Admin_Tools/Structures/Stairs/Nav.prefab
+- Assets/Workshop/Admin_Tools/Clothes/Backpack_Admin/Item.prefab
+- Assets/Workshop/Admin_Tools/Clothes/Pants_Admin_Turbo/Item.prefab
+- Assets/Workshop/Admin_Tools/Tools/Levitation_Up_Transparent/Animations.prefab
+- Assets/Workshop/Admin_Tools/Barricades/Sign_Wall/Animations.prefab
+- Assets/Workshop/Admin_Tools/Tools/Repair/Use.mp3
+- Assets/Workshop/Admin_Tools/Clothes/Glasses_Admin/Glasses.prefab
+- Assets/Workshop/Admin_Tools/Clothes/Cap_Staff/Item.prefab
+Dependencies: []

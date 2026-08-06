@@ -1,0 +1,30 @@
+GUID e8a8fcd91ce04f64b3ebcfb90ec10548
+Type Barricade
+Useable Barricade
+Build Claim
+ID 48393
+
+Size_X 1
+Size_Y 1
+Size_Z 0.28
+
+Health 10000
+Range 6
+Radius 0.0
+Offset 1.12
+
+Explosion 36
+
+Armor_Tier High
+Proof_Explosion
+Allow_Placement_Inside_Clip_Volumes true
+Bypass_Claim
+Can_Be_Damaged false
+Unsalvageable
+
+Has_Clip_Prefab false
+Use_Auto_Icon_Measurements false
+Procedurally_Animate_Inertia false
+Should_Drop_On_Death false
+PlacementAudioClip Barricades/Generator/Use.mp3
+PlacementPreviewPrefab Barricades/Flag/Preview.prefab

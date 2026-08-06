@@ -1,0 +1,36 @@
+GUID e84dd03022f44997afe30004603968db
+Type Storage
+Useable Barricade
+Build Storage
+ID 48391
+
+Size_X 1
+Size_Y 1
+Size_Z 0.33
+
+Health 10000
+Range 6
+Radius 0.0
+Offset 0.6
+
+Storage_X 8
+Storage_Y 128
+
+Locked
+
+Explosion 36
+
+Should_Close_When_Outside_Range true
+Armor_Tier High
+Proof_Explosion
+Allow_Placement_Inside_Clip_Volumes true
+Bypass_Claim
+Can_Be_Damaged false
+Unsalvageable
+
+Has_Clip_Prefab false
+Use_Auto_Icon_Measurements false
+Procedurally_Animate_Inertia false
+Should_Drop_On_Death false
+PlacementAudioClip Barricades/Generator/Use.mp3
+PlacementPreviewPrefab Barricades/Locker/Preview.prefab
