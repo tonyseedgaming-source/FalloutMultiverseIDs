@@ -1,0 +1,23 @@
+GUID 0ea2cf8a0137477e9d57fbc738375510
+Type Supply
+Rarity Common
+ID 5752
+
+Size_X 2
+Size_Y 2
+Size_Z 0.55
+
+Blueprints 1
+Blueprint_0_Type Tool
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 5752
+Blueprint_0_Outputs 3
+Blueprint_0_Output_0_ID 5711
+Blueprint_0_Output_0_Amount 4
+Blueprint_0_Output_1_ID 5727
+Blueprint_0_Output_1_Amount 2
+Blueprint_0_Output_2_ID 5726
+Blueprint_0_Output_2_Amount 2
+Blueprint_0_Build 27
+
+Exclude_From_Master_Bundle
