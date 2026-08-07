@@ -1,0 +1,18 @@
+GUID 5672e7ef5a0841b7a9631452ce37fa51
+Type Vest
+Useable Clothing
+ID 33330
+
+Size_X 2
+Size_Y 2
+Size_Z 0.5
+
+Width 5
+Height 3
+
+Armor 0.62
+
+Exclude_From_Master_Bundle
+
+Asset_Bundle_Version 2
+
