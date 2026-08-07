@@ -1,0 +1,16 @@
+GUID 4e657f9255b4436791fa3fb9474084f1
+Type Sight
+Rarity Rare
+ID 11544
+
+Attachment_Calibers 1
+Attachment_Caliber_0 11544
+
+Size_X 2
+Size_Y 1
+Size_Z 0.25
+
+Spread 0.7
+Zoom 10
+
+Exclude_From_Master_Bundle
