@@ -1,0 +1,22 @@
+GUID fdc55de164724b93b01128c8a4794202
+Type Water
+Useable Consumeable
+ID 5628
+
+Size_X 1
+Size_Y 1
+Size_Z 0.2
+
+Quality_Max 50
+
+Water 25
+Health 10
+Energy 100
+
+Blueprints 1
+Blueprint_0_Type Repair
+Blueprint_0_Supply_0_ID 392
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Build 27
+
+Exclude_From_Master_Bundle
