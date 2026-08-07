@@ -1,0 +1,12 @@
+GUID 83c38246e78a4204958cb93d489b04a5
+Type Sight
+ID 11523
+
+Attachment_Calibers 1
+Attachment_Caliber_0 11523
+
+Size_X 1
+Size_Y 1
+Size_Z 0.15
+
+Exclude_From_Master_Bundle
