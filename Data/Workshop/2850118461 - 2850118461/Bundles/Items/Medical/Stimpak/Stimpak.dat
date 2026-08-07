@@ -1,0 +1,25 @@
+GUID e08f9647488a45c3bbad8789e8bd8b11
+Type Medical
+Rarity Rare
+Useable Consumeable
+ID 11596
+
+Size_X 1
+Size_Y 2
+Size_Z 0.4
+
+Aid
+Health 25
+
+Blueprints 1
+Blueprint_0_Type Supply
+Blueprint_0_Supplies 3
+Blueprint_0_Supply_0_ID 5711
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Supply_1_ID 5731
+Blueprint_0_Supply_1_Amount 2
+Blueprint_0_Supply_2_ID 5722
+Blueprint_0_Supply_2_Amount 1
+Blueprint_0_Build 32
+
+Exclude_From_Master_Bundle
