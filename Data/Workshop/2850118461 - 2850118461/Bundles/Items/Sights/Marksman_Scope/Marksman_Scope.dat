@@ -1,0 +1,16 @@
+GUID 1025d54d770d4f158d0b0194f17a683e
+Type Sight
+Rarity Rare
+ID 11533
+
+Attachment_Calibers 1
+Attachment_Caliber_0 11533
+
+Size_X 2
+Size_Y 1
+Size_Z 0.1
+
+Spread 0.7
+Zoom 6
+
+Exclude_From_Master_Bundle
