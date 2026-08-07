@@ -1,0 +1,28 @@
+GUID 043f62acc0cb4ffab88fd5aaecf99ef4
+
+Type Shirt
+Rarity Common 
+Useable Clothing
+ID 10761
+
+Size_X 3
+Size_Y 2
+Size_Z 0.6
+
+Width 7
+Height 5
+
+Armor 0.69
+
+Blueprints 2
+Blueprint_0_Type Apparel
+Blueprint_0_Supply_0_ID 13022
+Blueprint_0_Product 66
+Blueprint_0_Products 2
+Blueprint_0_Build 32
+Blueprint_1_Type Repair
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 66
+Blueprint_1_Supply_0_Amount 2
+Blueprint_1_Build 32
+Exclude_From_Master_Bundle
