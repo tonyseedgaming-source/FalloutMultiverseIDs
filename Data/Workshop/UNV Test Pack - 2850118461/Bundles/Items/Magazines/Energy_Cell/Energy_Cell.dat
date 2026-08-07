@@ -1,0 +1,25 @@
+GUID 7874eba1696c40319197da4fa24fb2ee
+Type Magazine
+Rarity Rare
+ID 11516
+
+Size_X 1
+Size_Y 1
+Size_Z 0.1
+
+Amount 30
+Count_Min 10
+Count_Max 30
+
+Calibers 1
+Caliber_0 11516
+
+Tracer 5501
+
+Blueprints 1
+Blueprint_0_Type Ammo
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 11516
+Blueprint_0_Build 30
+
+Exclude_From_Master_Bundle
