@@ -1,0 +1,27 @@
+GUID b77e3485d211479489e74bdf39d034d2
+
+
+Type Hat
+Rarity Uncommon
+Useable Clothing
+ID 36703
+
+Size_X 2
+Size_Y 2
+Size_Z 0.3
+
+Beard
+
+Armor 0.55
+
+Movement_Speed_Multiplier 0.97
+
+Blueprints 1
+Blueprint_0_Type Repair
+Blueprint_0_Supplies 2
+Blueprint_0_Supply_0_ID 67
+Blueprint_0_Supply_0_Amount 15
+Blueprint_0_Supply_1_ID 5719
+Blueprint_0_Supply_1_Amount 2
+Blueprint_0_Tool 11763
+Blueprint_0_Build 32
