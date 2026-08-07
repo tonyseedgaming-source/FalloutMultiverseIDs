@@ -1,0 +1,27 @@
+GUID 7bd9f12913404835a247ec5be53f310f
+Type Barrel
+Rarity Rare
+ID 11101
+
+Size_X 2
+Size_Y 1
+Size_Z 0.15
+
+Calibers 4
+Caliber_0 10996
+Caliber_1 1283
+Caliber_2 1277
+Caliber_3 1278
+
+Silenced 
+Volume 1
+Durability 1000
+
+Quality_Min 90
+Quality_Max 100
+
+Recoil_X 0.8
+Recoil_Y 0.8
+Ballistic_Drop 0.9
+
+Exclude_From_Master_Bundle
