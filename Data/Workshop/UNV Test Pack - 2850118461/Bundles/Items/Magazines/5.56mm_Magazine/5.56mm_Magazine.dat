@@ -1,0 +1,66 @@
+GUID 0045d362d7674974b05f5b9028f0f935
+
+Type Magazine
+Rarity Rare
+ID 10996
+
+Size_X 1
+Size_Y 2
+Size_Z 0.3
+
+Amount 20
+Count_Min 10
+Count_Max 20
+
+Calibers 1
+Caliber_0 10996
+
+Tracer 55
+
+Blueprints 9
+Blueprint_0_Type Ammo
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 10996
+Blueprint_0_Build 30
+
+Blueprint_1_Type Ammo
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 10997
+Blueprint_1_Build 30
+
+Blueprint_2_Type Ammo
+Blueprint_2_Supplies 1
+Blueprint_2_Supply_0_ID 10991
+Blueprint_2_Build 30
+
+Blueprint_3_Type Ammo
+Blueprint_3_Supplies 1
+Blueprint_3_Supply_0_ID 10992
+Blueprint_3_Build 30
+
+Blueprint_4_Type Ammo
+Blueprint_4_Supplies 1
+Blueprint_4_Supply_0_ID 10993
+Blueprint_4_Build 30
+
+Blueprint_5_Type Ammo
+Blueprint_5_Supplies 1
+Blueprint_5_Supply_0_ID 10994
+Blueprint_5_Build 30
+
+Blueprint_6_Type Ammo
+Blueprint_6_Supplies 1
+Blueprint_6_Supply_0_ID 10995
+Blueprint_6_Build 30
+
+Blueprint_7_Type Ammo
+Blueprint_7_Supplies 1
+Blueprint_7_Supply_0_ID 10998
+Blueprint_7_Build 30
+
+Blueprint_8_Type Ammo
+Blueprint_8_Supplies 1
+Blueprint_8_Supply_0_ID 5531 
+Blueprint_8_Build 30
+
+Exclude_From_Master_Bundle
