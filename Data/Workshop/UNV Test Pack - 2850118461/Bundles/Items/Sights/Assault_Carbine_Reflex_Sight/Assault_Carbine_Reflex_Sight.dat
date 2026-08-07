@@ -1,0 +1,20 @@
+GUID c1d4a1985a294be68b758fc2c21d017b
+Type Sight
+Rarity Rare
+ID 11530
+
+Attachment_Calibers 1
+Attachment_Caliber_0 11529
+
+Size_X 1
+Size_Y 1
+Size_Z 0.15
+
+Blueprints 1
+Blueprint_0_Type Tool
+Blueprint_0_Supply_0_ID 11530
+Blueprint_0_Product 11524
+Blueprint_0_Products 1
+Blueprint_0_Build 27
+
+Exclude_From_Master_Bundle
