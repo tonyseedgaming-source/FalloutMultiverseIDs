@@ -1,0 +1,24 @@
+GUID e9818b2f62c449afb0431ea5406f4914
+Type Barrel
+Rarity Rare
+ID 11102
+
+Size_X 2
+Size_Y 1
+Size_Z 0.15
+
+Calibers 1
+Caliber_0 11501
+
+Silenced 
+Volume 0.25
+Durability 1000
+
+Quality_Min 90
+Quality_Max 100
+
+Recoil_X 0.8
+Recoil_Y 0.6
+Ballistic_Drop 0.9
+
+Exclude_From_Master_Bundle
