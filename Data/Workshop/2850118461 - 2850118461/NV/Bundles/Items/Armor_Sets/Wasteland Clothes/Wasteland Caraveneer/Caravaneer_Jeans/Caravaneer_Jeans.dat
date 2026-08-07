@@ -1,0 +1,27 @@
+GUID 2038337ad58c4fb08566e2a0a0cb6988
+Type Pants
+Rarity Common
+Useable Clothing
+ID 11773
+
+Size_X 2
+Size_Y 2
+Size_Z 0.65
+
+Width 4
+Height 4
+
+Armor 0.95
+
+Blueprints 2
+Blueprint_0_Type Apparel
+Blueprint_0_Supply_0_ID 11773
+Blueprint_0_Product 66
+Blueprint_0_Products 2
+Blueprint_0_Build 32
+Blueprint_1_Type Repair
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 66
+Blueprint_1_Supply_0_Amount 1
+Blueprint_1_Build 32
+
