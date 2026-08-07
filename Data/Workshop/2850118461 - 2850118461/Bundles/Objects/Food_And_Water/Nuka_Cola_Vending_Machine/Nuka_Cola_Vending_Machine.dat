@@ -1,0 +1,11 @@
+GUID 62168d52afb647eb9515d36e012057e6
+Type Medium
+ID 5500
+
+Interactability Dropper
+Interactability_Delay 240
+Interactability_Hint Use
+Interactability_Power None
+Interactability_Reward_ID 5623
+
+Exclude_From_Master_Bundle
