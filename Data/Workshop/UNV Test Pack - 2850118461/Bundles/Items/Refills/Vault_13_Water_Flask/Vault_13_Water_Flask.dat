@@ -1,0 +1,22 @@
+GUID 21635a1de6444b58a1dca41e2f3e3e81
+Type Refill
+Rarity Rare
+Useable Refill
+ID 11559
+
+Size_X 2
+Size_Y 2
+Size_Z 0.25
+
+Quality_Min 100
+Quality_Max 100
+
+Water 100
+
+Blueprints 1
+Blueprint_0_Type Repair
+Blueprint_0_Supply_0_ID 392
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Build 27
+
+Exclude_From_Master_Bundle
