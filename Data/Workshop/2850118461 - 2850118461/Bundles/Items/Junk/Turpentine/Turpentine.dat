@@ -1,0 +1,21 @@
+GUID 16b56f179f794ceba8b94726bbc6dbaa
+Type Supply
+Rarity Common
+ID 11741
+
+Size_X 2
+Size_Y 2
+Size_Z 0.3
+
+Blueprints 1
+Blueprint_0_Type Tool
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 5741
+Blueprint_0_Outputs 2
+Blueprint_0_Output_0_ID 5731
+Blueprint_0_Output_0_Amount 2
+Blueprint_0_Output_1_ID 5711
+Blueprint_0_Output_1_Amount 2
+Blueprint_0_Build 27
+
+Exclude_From_Master_Bundle
