@@ -1,0 +1,27 @@
+GUID d54232df8631428ba83de799279748de
+Type Barricade
+Rarity Rare
+Useable Barricade
+Build FreeForm
+ID 37776
+
+Size_X 2
+Size_Y 2
+Size_Z 0.65
+
+Health 350
+Range 4
+Radius 0.5
+Offset 1.25
+
+Storage_X 5
+Storage_Y 3
+Display
+
+Explosion 29
+
+
+Exclude_From_Master_Bundle
+
+PlacementAudioClip Sounds/WoodenPlacement.mp3
+Has_Clip_Prefab 
