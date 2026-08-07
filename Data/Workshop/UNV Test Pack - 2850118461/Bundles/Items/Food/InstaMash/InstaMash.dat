@@ -1,0 +1,14 @@
+GUID 302d60ad068f4f608ae3292b8e17480b
+Type Food
+Useable Consumeable
+ID 5667
+
+Size_X 2
+Size_Y 1
+Size_Z 0.3
+
+Quality_Max 50
+
+Food 25
+
+Exclude_From_Master_Bundle
