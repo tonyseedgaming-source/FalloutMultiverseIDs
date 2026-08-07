@@ -1,0 +1,17 @@
+GUID 09163a6b55e14cf7af0714d5a864f38d
+Type Sight
+Rarity Rare
+ID 11549
+
+Size_X 2
+Size_Y 1
+Size_Z 0.125
+
+Blueprints 1
+Blueprint_0_Type Tool
+Blueprint_0_Supply_0_ID 11549
+Blueprint_0_Product 11758
+Blueprint_0_Products 1
+Blueprint_0_Build 27
+
+Exclude_From_Master_Bundle
