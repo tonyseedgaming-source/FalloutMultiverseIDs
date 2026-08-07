@@ -1,0 +1,26 @@
+GUID 8cf6d191713446c0b066ef44582efcfa
+Type Medical
+Rarity Rare
+Useable Consumeable
+ID 11607
+
+Size_X 1
+Size_Y 2
+Size_Z 0.4
+
+Aid
+Health 25
+Broken
+
+Blueprints 1
+Blueprint_0_Type Supply
+Blueprint_0_Supplies 3
+Blueprint_0_Supply_0_ID 5733
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Supply_1_ID 5735
+Blueprint_0_Supply_1_Amount 2
+Blueprint_0_Supply_2_ID 5736
+Blueprint_0_Supply_2_Amount 2
+Blueprint_0_Build 32
+
+Exclude_From_Master_Bundle
