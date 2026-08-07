@@ -1,0 +1,11 @@
+GUID 23266628a77a43a593d9f54ae8f1e8d5
+Type Medium
+ID 5501
+
+Interactability Dropper
+Interactability_Delay 240
+Interactability_Hint Use
+Interactability_Power None
+Interactability_Reward_ID 5624
+
+Exclude_From_Master_Bundle
