@@ -1,0 +1,27 @@
+GUID ad92334efb7044c2828ed858bd6b0025
+
+Type Magazine
+Rarity Uncommon
+ID 2150
+
+Size_X 2
+Size_Y 1
+Size_Z 0.225
+
+Amount 1
+
+Calibers 1
+Caliber_0 2148
+Range 6
+Player_Damage 150
+Zombie_Damage 125
+Animal_Damage 125
+Barricade_Damage 225
+Structure_Damage 225
+Vehicle_Damage 100
+Resource_Damage 400
+Object_Damage 200
+Explosion 34
+Explosive
+Delete_Empty
+Exclude_From_Master_Bundle
