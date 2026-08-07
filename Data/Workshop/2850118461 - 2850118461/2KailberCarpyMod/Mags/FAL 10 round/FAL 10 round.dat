@@ -1,0 +1,35 @@
+GUID 714decd2a504441aa2851712f7e68211
+
+Type Magazine
+Rarity Uncommon
+ID 2502
+
+Size_X 1
+Size_Y 1
+Size_Z 0.175
+
+Amount 10
+Count_Min 10
+Count_Max 10
+
+Calibers 1
+Caliber_0 2500
+
+Tracer 48
+
+Blueprints 3
+Blueprint_0_Type Ammo
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 2502
+Blueprint_0_Build 30
+Blueprint_1_Type Ammo
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 2501
+Blueprint_2_Build 30
+Blueprint_2_Type Ammo
+Blueprint_2_Supplies 1
+Blueprint_2_Supply_0_ID 2503
+Blueprint_2_Build 30
+
+Paintable
+Exclude_From_Master_Bundle
