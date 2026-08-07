@@ -1,0 +1,37 @@
+GUID 5d92d4f9e9f248dc8718150c7541000f
+Type Magazine
+Rarity Legendary
+ID 25501
+
+Size_X 1
+Size_Y 2
+Size_Z 0.3
+
+Amount 250
+Count_Min 200
+Count_Max 250
+
+Calibers 1
+Caliber_0 789
+
+Speed 0.51
+
+Tracer 49
+
+Blueprints 3
+Blueprint_0_Type Ammo
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 25501
+Blueprint_0_Build 30
+Blueprint_1_Type Ammo
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 5519
+Blueprint_1_Build 30
+Blueprint_2_Type Ammo
+Blueprint_2_Supplies 1
+Blueprint_2_Supply_0_ID 48998
+Blueprint_2_Build 30
+
+Paintable
+
+Exclude_From_Master_Bundle
