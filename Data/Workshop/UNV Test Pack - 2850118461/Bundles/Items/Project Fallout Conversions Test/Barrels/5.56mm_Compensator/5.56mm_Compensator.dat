@@ -1,0 +1,22 @@
+GUID fa31a4c62aa44f4c8e6a1d4b8bb749d8
+Type Barrel
+Rarity Rare
+ID 11100
+
+Size_X 1
+Size_Y 1
+Size_Z 0.15
+
+Calibers 1
+Caliber_0 10996
+
+Durability 1000
+
+Quality_Min 500
+Quality_Max 1000
+
+Recoil_X 0.8
+Recoil_Y 0.6
+Ballistic_Drop 0.9
+
+Exclude_From_Master_Bundle
