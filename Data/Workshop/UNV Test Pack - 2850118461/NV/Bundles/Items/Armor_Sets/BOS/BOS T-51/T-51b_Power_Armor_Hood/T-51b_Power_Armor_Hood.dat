@@ -1,0 +1,31 @@
+GUID c66997bf117c4041978d69a35166c2d4
+
+Type Hat
+Rarity Legendary
+Useable Clothing
+ID 10724
+
+Size_X 2
+Size_Y 2
+Size_Z 0.35
+
+Beard
+
+Armor 0.45
+
+Movement_Speed_Multiplier 0.97
+
+Blueprints 2
+Blueprint_0_Type Apparel
+Blueprint_0_Supply_0_ID 5710
+Blueprint_0_Product 67
+Blueprint_0_Products 10
+Blueprint_0_Build 32
+Blueprint_1_Type Repair
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 67
+Blueprint_1_Supply_0_Amount 20
+Blueprint_1_Build 32
+
+
+Exclude_From_Master_Bundle
