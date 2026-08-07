@@ -1,0 +1,16 @@
+GUID eeadf0401ded450aae018c0d96220d90
+Type Sight
+Rarity Rare
+ID 11537
+
+Attachment_Calibers 1
+Attachment_Caliber_0 11535
+
+Size_X 2
+Size_Y 1
+Size_Z 0.2
+
+Spread 0.7
+Zoom 8
+
+Exclude_From_Master_Bundle
