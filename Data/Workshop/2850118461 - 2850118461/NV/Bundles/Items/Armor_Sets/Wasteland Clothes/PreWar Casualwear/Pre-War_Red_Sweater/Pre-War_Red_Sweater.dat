@@ -1,0 +1,27 @@
+GUID 3ec5e05e6fe24d579f6c506413966b46
+Type Shirt
+Rarity Common
+Useable Clothing
+ID 11799
+
+Size_X 3
+Size_Y 2
+Size_Z 0.6
+
+Width 4
+Height 4
+
+Armor 0.95
+
+Blueprints 2
+Blueprint_0_Type Apparel
+Blueprint_0_Supply_0_ID 11799
+Blueprint_0_Product 66
+Blueprint_0_Products 2
+Blueprint_0_Build 32
+Blueprint_1_Type Repair
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 66
+Blueprint_1_Supply_0_Amount 1
+Blueprint_1_Build 32
+
