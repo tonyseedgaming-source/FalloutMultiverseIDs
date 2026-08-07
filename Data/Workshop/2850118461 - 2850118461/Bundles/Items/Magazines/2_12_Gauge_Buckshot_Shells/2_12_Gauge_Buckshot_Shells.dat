@@ -1,0 +1,60 @@
+GUID 77db2c89a48d4012ad1b2e52ece7ed7f
+
+Type Magazine
+Rarity Uncommon
+ID 11011
+
+Size_X 1
+Size_Y 1
+Size_Z 0.2
+
+Amount 2
+Count_Min 2
+Count_Max 2
+
+Calibers 1
+Caliber_0 11011
+
+Pellets 6
+
+Spread 1.5
+
+Tracer 55
+
+Blueprints 6
+Blueprint_0_Type Ammo
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 11011
+Blueprint_0_Build 30
+
+Blueprint_1_Type Ammo
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 11001
+Blueprint_1_Build 30
+
+Blueprint_2_Type Ammo
+Blueprint_2_Supplies 1
+Blueprint_2_Supply_0_ID 11002
+Blueprint_2_Build 30
+
+Blueprint_3_Type Ammo
+Blueprint_3_Supplies 1
+Blueprint_3_Supply_0_ID 11011
+Blueprint_3_Build 30
+
+Blueprint_4_Type Ammo
+Blueprint_4_Supplies 1
+Blueprint_4_Supply_0_ID 10999
+Blueprint_4_Build 30
+
+Blueprint_5_Type Tool
+Blueprint_5_Supplies 1
+Blueprint_5_Supply_0_ID 11000
+Blueprint_5_Supply_0_Amount 1
+Blueprint_5_Products 5
+Blueprint_5_Build 30
+
+
+Delete_Empty
+
+Exclude_From_Master_Bundle
