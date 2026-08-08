@@ -1,0 +1,35 @@
+GUID aa4386b5f2d640d59a4ded7570407e63
+Type Magazine
+ID 48399
+
+Size_X 1
+Size_Y 1
+Size_Z 0.14
+
+Amount 250
+Count_Min 250
+Count_Max 250
+
+Spread 0
+Firerate -4
+
+Calibers 1
+Caliber_0 48312
+
+Tracer 48310
+Impact 48311
+
+Range 5
+Player_Damage 0
+Zombie_Damage 10000
+Animal_Damage 10000
+Barricade_Damage 0
+Structure_Damage 0
+Vehicle_Damage 0
+Resource_Damage 0
+Object_Damage 0
+Explosion 48314
+Explosive
+
+Use_Auto_Icon_Measurements false
+Should_Drop_On_Death false
