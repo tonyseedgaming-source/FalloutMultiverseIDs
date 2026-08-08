@@ -1,0 +1,23 @@
+GUID 04f1cb49a95e402db9d5e692b57baf13
+Type Vest
+Rarity Epic
+Useable Clothing
+ID 10222
+
+Size_X 2
+Size_Y 2
+Size_Z 0.3
+
+Width 5
+Height 3
+
+Armor 0.62
+Explosive_Resistance 0.64
+
+Blueprint_0_Type Repair
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 67
+Blueprint_0_Supply_0_Amount 6
+Blueprint_0_Build 10222
+
+Exclude_From_Master_Bundle
