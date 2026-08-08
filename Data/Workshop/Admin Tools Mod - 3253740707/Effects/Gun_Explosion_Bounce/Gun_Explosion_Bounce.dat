@@ -1,0 +1,8 @@
+GUID 30f3a28eefcd49428056e4572056f769
+Type Effect
+ID 48317
+
+Relevant_Distance 2000
+Lifetime 3.0
+Lifetime_Spread 0
+Spawn_On_Dedicated_Server
