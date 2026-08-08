@@ -1,0 +1,23 @@
+GUID b46354d72629455f876d8d16c0ad952d
+
+Type Pants
+Useable Clothing
+ID 12903
+
+Size_X 2
+Size_Y 2
+Size_Z 0.65
+
+Width 6
+Height 3
+
+Armor 0.7
+
+Blueprints 1
+Blueprint_0_Type Repair
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 67
+Blueprint_0_Supply_0_Amount 6
+Blueprint_0_Build 32
+
+Exclude_From_Master_Bundle
