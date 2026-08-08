@@ -1,0 +1,25 @@
+GUID 624b591742714f018f1a89e98be30f3e
+Type Mask
+Rarity Epic
+Useable Clothing
+ID 10221
+
+Size_X 2
+Size_Y 2
+Size_Z 0.3
+
+Quality_Min 90
+Quality_Max 100
+
+Proof_Radiation
+
+Hair
+Beard
+
+Blueprint_0_Type Repair
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 67
+Blueprint_0_Supply_0_Amount 6
+Blueprint_0_Build 10221
+
+Exclude_From_Master_Bundle
