@@ -1,0 +1,61 @@
+GUID 499edc6dc09a4db0bfba80f515b44d52
+Type Melee
+Useable Melee
+Slot None
+ID 48384
+
+Size_X 1
+Size_Y 1
+Size_Z 0.37
+
+Range 8
+
+Player_Damage 0
+Player_Leg_Multiplier 0.0
+Player_Arm_Multiplier 0.0
+Player_Spine_Multiplier 0.0
+Player_Skull_Multiplier 0.0
+Player_Damage_Bleeding Heal
+Player_Damage_Bones Heal
+Player_Damage_Virus 10
+
+Zombie_Damage 10000
+Zombie_Leg_Multiplier 1.0
+Zombie_Arm_Multiplier 1.0
+Zombie_Spine_Multiplier 1.0
+Zombie_Skull_Multiplier 1.0
+
+Animal_Damage 10000
+Animal_Leg_Multiplier 1.0
+Animal_Spine_Multiplier 1.0
+Animal_Skull_Multiplier 1.0
+
+Barricade_Damage 10000
+Structure_Damage 10000
+Vehicle_Damage 10000
+Resource_Damage 10000
+Object_Damage 10000
+
+BladeIDs 2
+BladeID_0 0
+BladeID_1 2
+
+Durability 0.0
+Stun_Zombie_Always
+Allow_Flesh_Fx false
+Bypass_Allowed_To_Damage_Player true
+
+Repair
+Repeated
+
+Light
+SpotLight_Enabled true
+SpotLight_Range 96
+SpotLight_Angle 160
+SpotLight_Intensity 1.1
+SpotLight_Color #f0fff0
+
+Use_Auto_Icon_Measurements false
+Procedurally_Animate_Inertia false
+Should_Drop_On_Death false
+EquipAudioClip Weapons/Gun/Equip.mp3
