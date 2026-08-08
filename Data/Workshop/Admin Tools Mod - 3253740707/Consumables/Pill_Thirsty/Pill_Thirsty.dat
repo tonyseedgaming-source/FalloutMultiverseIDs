@@ -1,0 +1,22 @@
+GUID 6d9fa64399264341a5ad67e84c05de4d
+Type Medical
+Useable Consumeable
+ID 48304
+
+Size_X 1
+Size_Y 1
+Size_Z 0.34
+
+Aid
+
+Quest_Rewards 1
+Quest_Reward_0_Type Player_Life_Water
+Quest_Reward_0_Value -20
+
+Use_Auto_Icon_Measurements false
+Procedurally_Animate_Inertia false
+Should_Delete_After_Use false
+Should_Drop_On_Death false
+
+ConsumeAudioClip Consumables/Pill_Hungry/Use.mp3
+Instantiated_Item_Name_Override 48303
