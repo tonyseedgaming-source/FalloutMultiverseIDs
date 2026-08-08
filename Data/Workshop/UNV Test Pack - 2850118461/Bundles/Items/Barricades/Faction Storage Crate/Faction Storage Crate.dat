@@ -1,0 +1,27 @@
+GUID 94aea66c26da414cb326719416087268
+Type Storage
+Rarity Epic
+Useable Barricade
+Build Storage
+ID 39291
+
+Size_X 2
+Size_Y 2
+Size_Z 0.5
+
+Health 99999
+Range 4
+Radius 0.5
+Offset 0.5
+
+Storage_X 12
+Storage_Y 32
+
+Locked
+
+Explosion 36
+
+Armor_Tier High
+Should_Close_When_Outside_Range true
+
+Exclude_From_Master_Bundle
