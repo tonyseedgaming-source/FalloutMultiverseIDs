@@ -1,0 +1,23 @@
+GUID 2ee8d51b0457488597457ddd5eb80b8b
+Type Pants
+Rarity Epic
+Useable Clothing
+ID 10224
+
+Size_X 2
+Size_Y 2
+Size_Z 0.6
+
+Width 7
+Height 3
+
+Armor 0.62
+Explosive_Resistance 0.64
+
+Blueprint_0_Type Repair
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 67
+Blueprint_0_Supply_0_Amount 6
+Blueprint_0_Build 10224
+
+Exclude_From_Master_Bundle
