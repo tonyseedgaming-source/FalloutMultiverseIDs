@@ -1,0 +1,28 @@
+GUID d5f771a636ed41d6997f8f24bbedadd0
+Type Shirt
+Rarity Epic
+Useable Clothing
+ID 19010
+
+Size_X 3
+Size_Y 2
+Size_Z 0.6
+
+Width 7
+Height 5
+
+Armor 0.68
+
+Blueprints 2
+Blueprint_0_Type Apparel
+Blueprint_0_Supply_0_ID 230
+Blueprint_0_Product 66
+Blueprint_0_Products 2
+Blueprint_0_Build 32
+Blueprint_1_Type Repair
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 66
+Blueprint_1_Supply_0_Amount 2
+Blueprint_1_Build 32
+
+Exclude_From_Master_Bundle
