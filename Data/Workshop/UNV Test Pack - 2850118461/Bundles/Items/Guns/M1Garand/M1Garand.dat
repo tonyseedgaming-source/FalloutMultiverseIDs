@@ -1,0 +1,117 @@
+GUID 553d9f3423b34304a148d44e96a3a0a6
+Type Gun
+Rarity Rare
+Useable Gun
+Slot Primary
+ID 11180
+
+Master_Bundle_Override oldiefirearm.masterbundle
+Bundle_Override_Path /m1garand
+
+Size_X 5
+Size_Y 2
+Size_Z 0.38
+
+Damage_Falloff_Range 75
+Damage_Falloff_Multiplier 0.75
+
+Sight 11187
+Magazine 11181
+
+Hook_Sight
+Hook_Tactical
+Hook_Barrel
+
+Ammo_Min 3
+Ammo_Max 8
+
+Safety
+Semi
+
+Caliber 51515
+
+Range 200
+Firerate 4
+Action Trigger
+
+Player_Damage 55
+Player_Leg_Multiplier 0.8
+Player_Arm_Multiplier 0.8
+Player_Spine_Multiplier 1.0
+Player_Skull_Multiplier 1.2
+
+Zombie_Damage 99
+Zombie_Leg_Multiplier 0.3
+Zombie_Arm_Multiplier 0.3
+Zombie_Spine_Multiplier 0.6
+Zombie_Skull_Multiplier 1.1
+
+Animal_Damage 99
+Animal_Leg_Multiplier 0.6
+Animal_Spine_Multiplier 0.8
+Animal_Skull_Multiplier 1.1
+
+Barricade_Damage 20
+Structure_Damage 15
+Vehicle_Damage 35
+Resource_Damage 15
+Object_Damage 25
+
+Durability 0.2
+
+Spread_Aim 0.01
+Spread_Hip 0.22
+
+Recoil_Aim 0.9
+Recoil_Min_X -1.5
+Recoil_Min_Y 10
+Recoil_Max_X 1.5
+Recoil_Max_Y 12
+
+Recover_X 0.6
+Recover_Y 0.6
+
+Shake_Min_X -0.005
+Shake_Min_Y 0.005
+Shake_Min_Z -0.04
+Shake_Max_X 0.005
+Shake_Max_Y -0.005
+Shake_Max_Z -0.04
+
+Ballistic_Drop 0.002
+Ballistic_Travel 21
+
+Muzzle 3
+Backward
+
+Blueprints 3
+Blueprint_0_Type Tool
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 11180
+Blueprint_0_Supply_0_Amount 2
+Blueprint_0_Outputs 1
+Blueprint_0_Output_0_ID 11180
+Blueprint_0_Output_0_Amount 1
+Blueprint_0_Tool 11763
+Blueprint_0_Level 2
+Blueprint_0_Skill Repair
+Blueprint_0_Build 27
+Blueprint_1_Type Tool
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 11180
+Blueprint_1_Outputs 3
+Blueprint_1_Output_0_ID 67
+Blueprint_1_Output_0_Amount 8
+Blueprint_1_Output_1_ID 11752
+Blueprint_1_Output_1_Amount 2
+Blueprint_1_Output_2_ID 11031
+Blueprint_1_Output_2_Amount 1
+Blueprint_1_Build 27
+Blueprint_2_Type Repair
+Blueprint_2_Supplies 1
+Blueprint_2_Supply_0_ID 11034
+Blueprint_2_Supply_0_Amount 1
+Blueprint_2_Tool 11763
+Blueprint_2_Level 2
+Blueprint_2_Skill Repair
+Blueprint_2_Build 27
