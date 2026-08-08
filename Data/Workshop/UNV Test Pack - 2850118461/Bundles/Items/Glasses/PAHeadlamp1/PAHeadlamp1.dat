@@ -1,0 +1,20 @@
+GUID 95fce4bb24d94349a0146647c426d2da
+Type Glasses
+Rarity Rare
+Useable Clothing
+ID 10708
+
+Size_X 2
+Size_Y 1
+Size_Z 0.45
+
+Vision Headlamp
+
+Blueprints 1
+Blueprint_0_Type Repair
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 67
+Blueprint_0_Supply_0_Amount 5
+Blueprint_0_Build 32
+
+Exclude_From_Master_Bundle
