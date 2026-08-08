@@ -1,0 +1,14 @@
+GUID 63404ce9ba9b45a49082534c489d5d5d
+Type Tactical
+ID 48335
+
+Size_X 1
+Size_Y 1
+Size_Z 0.2
+
+Light
+SpotLight_Enabled true
+SpotLight_Range 96
+SpotLight_Angle 160
+SpotLight_Intensity 1.1
+SpotLight_Color #f0fff0
