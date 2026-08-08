@@ -1,0 +1,29 @@
+GUID 4bc1356fe8d14a22925a9afdeb74feec
+Type Barricade
+Rarity Rare
+Useable Barricade
+Build Barricade
+ID 20887
+
+Size_X 2
+Size_Y 2
+Size_Z 0.7
+
+Health 700
+Range 4
+Radius 1
+Offset 0
+
+Explosion 29
+
+Blueprints 1
+Blueprint_0_Type Furniture
+Blueprint_0_Supplies 2
+Blueprint_0_Supply_0_ID 66
+Blueprint_0_Supply_0_Amount 15
+Blueprint_0_Supply_1_ID 67
+Blueprint_0_Supply_1_Amount 30
+Blueprint_0_Build 27
+
+Exclude_From_Master_Bundle
+Asset_Bundle_Version 2
