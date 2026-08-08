@@ -1,0 +1,33 @@
+GUID 9025a0dcabd646bdbae840e8097f63e0
+Type Magazine
+ID 48367
+
+Size_X 1
+Size_Y 1
+Size_Z 0.14
+
+Amount 250
+Count_Min 250
+Count_Max 250
+
+Calibers 1
+Caliber_0 48311
+
+Tracer 48310
+Impact 48311
+
+Range 1
+Player_Damage 0
+Zombie_Damage 0
+Animal_Damage 0
+Barricade_Damage 0
+Structure_Damage 0
+Vehicle_Damage 0
+Resource_Damage 0
+Object_Damage 0
+Explosion 48319
+Explosive
+
+Spawn_Explosion_On_Dedicated_Server
+Use_Auto_Icon_Measurements false
+Should_Drop_On_Death false
