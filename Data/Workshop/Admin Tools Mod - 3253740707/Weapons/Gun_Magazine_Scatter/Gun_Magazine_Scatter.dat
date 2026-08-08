@@ -1,0 +1,23 @@
+GUID 119de28bd26945058edbbbaffe186497
+Type Magazine
+ID 48395
+
+Size_X 1
+Size_Y 1
+Size_Z 0.14
+
+Amount 250
+Count_Min 250
+Count_Max 250
+
+Pellets 4
+Spread 1
+
+Calibers 1
+Caliber_0 48310
+
+Tracer 48324
+Impact 48323
+
+Use_Auto_Icon_Measurements false
+Should_Drop_On_Death false
