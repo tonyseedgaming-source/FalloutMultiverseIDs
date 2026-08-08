@@ -1,0 +1,19 @@
+GUID 316c34f7d3b34326a9dc7af9f06f4097
+Type Medical
+Useable Consumeable
+ID 48303
+
+Size_X 1
+Size_Y 1
+Size_Z 0.34
+
+Aid
+
+Quest_Rewards 1
+Quest_Reward_0_Type Player_Life_Food
+Quest_Reward_0_Value -20
+
+Use_Auto_Icon_Measurements false
+Procedurally_Animate_Inertia false
+Should_Delete_After_Use false
+Should_Drop_On_Death false
