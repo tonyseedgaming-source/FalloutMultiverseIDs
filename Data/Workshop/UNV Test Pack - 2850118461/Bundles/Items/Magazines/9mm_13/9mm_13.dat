@@ -1,0 +1,37 @@
+GUID c1ee2be424c94689aee6b40ae14651bb
+Type Magazine
+Rarity Uncommon
+ID 53902
+
+Size_X 1
+Size_Y 1
+Size_Z 0.2
+
+Amount 13
+Count_Min 1
+Count_Max 13
+
+Calibers 1
+Caliber_0 390
+
+Tracer 55
+
+Blueprints 4
+Blueprint_0_Type Ammo
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 53903
+Blueprint_0_Build 30
+Blueprint_1_Type Ammo
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 53902
+Blueprint_1_Build 30
+Blueprint_2_Type Ammo
+Blueprint_2_Supplies 1
+Blueprint_2_Supply_0_ID 53939
+Blueprint_2_Build 30
+Blueprint_3_Type Ammo
+Blueprint_3_Supplies 1
+Blueprint_3_Supply_0_ID 53951
+Blueprint_3_Build 30
+
+Exclude_From_Master_Bundle
