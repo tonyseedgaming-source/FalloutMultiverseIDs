@@ -1,0 +1,121 @@
+GUID 5b6f3051bb544aee9ed8b638b467a0b8
+Type Supply
+ID 11136
+
+Blueprints 14
+
+
+// 5 bottle caps = 5 caps
+Blueprint_0_Type Supply
+Blueprint_0_Supply_0_ID 11654
+Blueprint_0_Supply_0_Amount 5
+Blueprint_0_Product 11056
+Blueprint_0_Products 1
+Blueprint_0_Build 32
+
+// 2 5 cap = 10 caps
+Blueprint_1_Type Supply
+Blueprint_1_Supply_0_ID 11056
+Blueprint_1_Supply_0_Amount 2
+Blueprint_1_Product 11655
+Blueprint_1_Products 1
+Blueprint_1_Build 32
+
+// 2 10 cap = 20 caps
+Blueprint_2_Type Supply
+Blueprint_2_Supply_0_ID 11655
+Blueprint_2_Supply_0_Amount 2
+Blueprint_2_Product 11057
+Blueprint_2_Products 1
+Blueprint_2_Build 32
+
+// 5 10 = 50 caps
+Blueprint_3_Type Supply
+Blueprint_3_Supply_0_ID 11655
+Blueprint_3_Supply_0_Amount 5
+Blueprint_3_Product 11058
+Blueprint_3_Products 1
+Blueprint_3_Build 32
+
+// 2 50 cap = 100 caps
+Blueprint_4_Type Supply
+Blueprint_4_Supply_0_ID 11058
+Blueprint_4_Supply_0_Amount 2
+Blueprint_4_Product 11656
+Blueprint_4_Products 1
+Blueprint_4_Build 32
+
+// 10 100 cap = 1,000 caps
+Blueprint_5_Type Supply
+Blueprint_5_Supply_0_ID 11656
+Blueprint_5_Supply_0_Amount 10
+Blueprint_5_Product 11657
+Blueprint_5_Products 1
+Blueprint_5_Build 32
+
+// 10 1000 caps = 10,000 caps
+Blueprint_6_Type Supply
+Blueprint_6_Supply_0_ID 11657
+Blueprint_6_Supply_0_Amount 10
+Blueprint_6_Product 11658
+Blueprint_6_Products 1
+Blueprint_6_Build 32
+
+
+
+// 5 caps = 5 bottle caps
+Blueprint_7_Type Gear
+Blueprint_7_Supply_0_ID 11056
+Blueprint_7_Supply_0_Amount 1
+Blueprint_7_Product 11654
+Blueprint_7_Products 5
+Blueprint_7_Build 32
+
+
+// 10 caps = 2 5 cap
+Blueprint_8_Type Gear
+Blueprint_8_Supply_0_ID 11655
+Blueprint_8_Supply_0_Amount 1
+Blueprint_8_Product 11056
+Blueprint_8_Products 2
+Blueprint_8_Build 32
+
+// 20 caps = 2 10 cap 
+Blueprint_9_Type Gear
+Blueprint_9_Supply_0_ID 11057
+Blueprint_9_Supply_0_Amount 1
+Blueprint_9_Product 11655
+Blueprint_9_Products 2
+Blueprint_9_Build 32
+
+// 50 caps = 5 	10 caps
+Blueprint_10_Type Gear
+Blueprint_10_Supply_0_ID 11058
+Blueprint_10_Supply_0_Amount 1
+Blueprint_10_Product 11655
+Blueprint_10_Products 5
+Blueprint_10_Build 32
+
+// 100 caps = 2 50 cap
+Blueprint_11_Type Gear
+Blueprint_11_Supply_0_ID 11656
+Blueprint_11_Supply_0_Amount 1
+Blueprint_11_Product 11058
+Blueprint_11_Products 2
+Blueprint_11_Build 32
+
+// 1,000 cap = 10 	100 caps
+Blueprint_12_Type Gear
+Blueprint_12_Supply_0_ID 11657
+Blueprint_12_Supply_0_Amount 1
+Blueprint_12_Product 11656
+Blueprint_12_Products 10
+Blueprint_12_Build 32
+
+// 10,000 caps = 10		1000 caps
+Blueprint_13_Type Gear
+Blueprint_13_Supply_0_ID 11658
+Blueprint_13_Supply_0_Amount 1
+Blueprint_13_Product 11657
+Blueprint_13_Products 10
+Blueprint_13_Build 32
