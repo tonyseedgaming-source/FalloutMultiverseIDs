@@ -1,0 +1,10 @@
+GUID 51ed4b4e393e44a9a27385f23c393dc5
+Type Effect
+ID 48319
+
+Static
+Relevant_Distance 2000
+Lifetime 30.0
+Lifetime_Spread 0
+Randomize_Rotation false
+Spawn_On_Dedicated_Server
