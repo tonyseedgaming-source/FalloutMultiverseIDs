@@ -1,0 +1,15 @@
+GUID 5a58224941dd46d1a46c7f909e15e549
+Type Cloud
+Useable Cloud
+ID 48306
+
+Size_X 1
+Size_Y 1
+Size_Z 0.26
+
+Gravity -0.5
+Equipable_Movement_Speed_Multiplier 3.0
+
+Use_Auto_Icon_Measurements false
+Procedurally_Animate_Inertia false
+Should_Drop_On_Death false
