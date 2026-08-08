@@ -1,0 +1,16 @@
+GUID d3c007bf181c4f888d454a99c6da5e27
+Type Barrel
+ID 48333
+
+Size_X 1
+Size_Y 1
+Size_Z 0.2
+
+Silenced
+Volume 1.0
+
+Calibers 1
+Caliber_0 48309
+
+Use_Auto_Icon_Measurements false
+Should_Drop_On_Death false
