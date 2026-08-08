@@ -1,0 +1,40 @@
+GUID 0a4b736b1181454b838433f58e3fab67
+Type Magazine
+Rarity Mythical
+ID 69420
+
+Size_X 1
+Size_Y 1
+Size_Z 0.25
+
+Amount 5
+Count_Min 2
+Count_Max 5
+
+Calibers 1
+Caliber_0 1285
+
+Pellets 32
+
+Tracer 100
+Spread 1.3
+
+Range 5
+Player_Damage 10
+Zombie_Damage 10
+Animal_Damage 10
+Barricade_Damage 50
+Structure_Damage 50
+Vehicle_Damage 15
+Resource_Damage 50
+Object_Damage 50
+Explosion 53
+Explosive
+
+
+Blueprints 0
+
+
+Delete_Empty
+
+Exclude_From_Master_Bundle
