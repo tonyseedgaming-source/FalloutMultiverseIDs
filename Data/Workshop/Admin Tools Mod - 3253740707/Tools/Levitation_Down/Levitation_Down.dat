@@ -1,0 +1,18 @@
+GUID c09a7d5695204538b645a3ddb4d46f36
+Type Cloud
+Useable Cloud
+ID 48308
+
+Size_X 1
+Size_Y 1
+Size_Z 0.26
+
+Gravity 0.9
+Equipable_Movement_Speed_Multiplier 3.0
+
+Use_Auto_Icon_Measurements false
+Procedurally_Animate_Inertia false
+Should_Drop_On_Death false
+
+EquipAudioClip Tools/Levitation_Up/Equip.mp3
+Instantiated_Item_Name_Override 48306
