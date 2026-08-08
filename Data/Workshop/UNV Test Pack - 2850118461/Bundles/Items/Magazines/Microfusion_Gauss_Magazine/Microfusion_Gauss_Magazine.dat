@@ -1,0 +1,33 @@
+GUID 6b6d6a57b8e8409a8886cda22b9a96ea
+Type Magazine
+Rarity Uncommon
+ID 11018
+
+Size_X 1
+Size_Y 1
+Size_Z 0.2
+
+Amount 30
+Count_Min 30
+Count_Max 30
+
+Calibers 1
+Caliber_0 7
+
+Tracer 48
+
+Range 2
+Player_Damage 15
+Zombie_Damage 125
+Animal_Damage 125
+Barricade_Damage 50
+Structure_Damage 50
+Vehicle_Damage 200
+Resource_Damage 2000
+Object_Damage 200
+Explosion 6756
+Explosive
+
+Delete_Empty
+
+Exclude_From_Master_Bundle
