@@ -1,0 +1,22 @@
+GUID b0882fafbd7847f385a8608aedbb7800
+Type Hat
+Useable Clothing
+ID 22069
+
+Size_X 2
+Size_Y 2
+Size_Z 0.65
+
+Width 4
+Height 3
+
+Armor 1.00
+
+Blueprints 1
+Blueprint_0_Type Repair
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 5715
+Blueprint_0_Supply_0_Amount 2
+Blueprint_0_Build 32
+
+Exclude_From_Master_Bundle
