@@ -1,0 +1,22 @@
+GUID 12041f23946f49f79a0500fb268450f7
+Type Pants
+Useable Clothing
+ID 22104
+
+Size_X 2
+Size_Y 2
+Size_Z 0.65
+
+Width 4
+Height 3
+
+Armor 0.68
+
+Blueprints 1
+Blueprint_0_Type Repair
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 67
+Blueprint_0_Supply_0_Amount 6
+Blueprint_0_Build 32
+
+Exclude_From_Master_Bundle
