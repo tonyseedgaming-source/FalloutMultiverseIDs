@@ -1,0 +1,142 @@
+GUID 35fd93480a8a4169a8477093b9106d03
+Type Medical
+ID 11133
+
+Blueprints 8
+
+// Antivenom 1 Not really a thing
+
+
+// Bitter Drink 2
+Blueprint_0_Type Supply
+Blueprint_0_Supplies 3
+Blueprint_0_Supply_0_ID 11072
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Supply_1_ID 11085
+Blueprint_0_Supply_1_Amount 1
+Blueprint_0_Supply_2_ID 11062
+Blueprint_0_Supply_2_Amount 1
+
+Blueprint_0_Product 11063
+Blueprint_0_Products 1
+Blueprint_0_Level 3
+Blueprint_0_Skill Cook
+Blueprint_0_Build 27
+
+// Doctor's Bag 3
+Blueprint_0_Type Supply
+Blueprint_0_Supplies 4
+Blueprint_0_Supply_0_ID 11151
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Supply_1_ID 60090
+Blueprint_0_Supply_1_Amount 1
+Blueprint_0_Supply_2_ID 11152
+Blueprint_0_Supply_2_Amount 1
+Blueprint_0_Supply_3_ID 11153
+Blueprint_0_Supply_3_Amount 1
+
+Blueprint_0_Product 11603
+Blueprint_0_Products 1
+Blueprint_0_Level 3
+Blueprint_0_Skill Cook
+Blueprint_0_Build 27
+
+// Fiery purgative 4
+Blueprint_0_Type Supply
+Blueprint_0_Supplies 3
+Blueprint_0_Supply_0_ID 11078
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Supply_1_ID 11640
+Blueprint_0_Supply_1_Amount 1
+Blueprint_0_Supply_2_ID 11084
+Blueprint_0_Supply_2_Amount 1
+
+Blueprint_0_Product 11156
+Blueprint_0_Products 1
+Blueprint_0_Level 3
+Blueprint_0_Skill Cook
+Blueprint_0_Build 27
+
+// Healing poultice 5
+Blueprint_0_Type Supply
+Blueprint_0_Supplies 4
+Blueprint_0_Supply_0_ID 11072
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Supply_1_ID 11073
+Blueprint_0_Supply_1_Amount 1
+Blueprint_0_Supply_2_ID 11080
+Blueprint_0_Supply_2_Amount 1
+Blueprint_0_Supply_3_ID 11085
+Blueprint_0_Supply_3_Amount 1
+
+Blueprint_0_Product 11157
+Blueprint_0_Products 1
+Blueprint_0_Level 3
+Blueprint_0_Skill Cook
+Blueprint_0_Build 27
+
+// Healing Powder 6
+Blueprint_0_Type Supply
+Blueprint_0_Supplies 2
+Blueprint_0_Supply_0_ID 11072
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Supply_1_ID 11085
+Blueprint_0_Supply_1_Amount 1
+
+Blueprint_0_Product 11598
+Blueprint_0_Products 1
+Blueprint_0_Level 3
+Blueprint_0_Skill Cook
+Blueprint_0_Build 27
+
+// Hydra 7
+Blueprint_0_Type Supply
+Blueprint_0_Supplies 2
+Blueprint_0_Supply_0_ID 11072
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Supply_1_ID 11085
+Blueprint_0_Supply_1_Amount 1
+
+Blueprint_0_Product 11598
+Blueprint_0_Products 1
+Blueprint_0_Level 3
+Blueprint_0_Skill Cook
+Blueprint_0_Build 27
+
+// Snakebit tourniquet 8
+
+// Stimpak 9
+Blueprint_0_Type Supply
+Blueprint_0_Supplies 3
+Blueprint_0_Supply_0_ID 11072
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Supply_1_ID 11150
+Blueprint_0_Supply_1_Amount 1
+Blueprint_0_Supply_2_ID 11085
+Blueprint_0_Supply_2_Amount 1
+
+Blueprint_0_Product 11596
+Blueprint_0_Products 1
+Blueprint_0_Level 3
+Blueprint_0_Skill Cook
+Blueprint_0_Build 27
+
+// Super Stimpak 10
+Blueprint_0_Type Supply
+Blueprint_0_Supplies 4
+Blueprint_0_Supply_0_ID 11149
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Supply_1_ID 11086
+Blueprint_0_Supply_1_Amount 1
+Blueprint_0_Supply_2_ID 11623
+Blueprint_0_Supply_2_Amount 1
+Blueprint_0_Supply_3_ID 11596
+Blueprint_0_Supply_3_Amount 1
+
+Blueprint_0_Product 11597
+Blueprint_0_Products 1
+Blueprint_0_Level 3
+Blueprint_0_Skill Cook
+Blueprint_0_Build 27
+
+// Homemade Stimpak 11
