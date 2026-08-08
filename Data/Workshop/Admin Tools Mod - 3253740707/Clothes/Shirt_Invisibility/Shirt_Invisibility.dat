@@ -1,0 +1,47 @@
+GUID 3a0740ab576a42f8b0ba00268647a66e
+Type Shirt
+Useable Clothing
+ID 48346
+
+Size_X 1
+Size_Y 1
+Size_Z 0.28
+
+Width 8
+Height 16
+
+Armor 0.0
+Armor_Explosion 0.0
+Falling_Damage_Multiplier 0.0
+Prevents_Falling_Broken_Bones true
+Proof_Fire
+Proof_Radiation
+
+Has_1P_Character_Mesh_Override false
+Character_Mesh_3P_Override_LODs 1
+Has_Character_Material_Override true
+Hair_Visible false
+Beard_Visible false
+Priority_Over_Cosmetic true
+
+Blueprints 1
+Blueprint_0_Type Apparel
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 48346
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Outputs 1
+Blueprint_0_Output_0_ID 48347
+Blueprint_0_Output_0_Amount 1
+Blueprint_0_Build 48315
+
+Actions 1
+Action_0_Type Blueprint
+Action_0_Source 48346
+Action_0_Blueprints 1
+Action_0_Blueprint_0_Index 0
+Action_0_Text Repair
+Action_0_Tooltip Repair to 100% quality at no cost.
+
+Use_Auto_Icon_Measurements false
+Procedurally_Animate_Inertia false
+Should_Drop_On_Death false
