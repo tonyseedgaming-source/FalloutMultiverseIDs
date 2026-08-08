@@ -1,0 +1,21 @@
+GUID 81c30a732eeb41d7a8a8917fe028a36b
+Type Medical
+Useable Consumeable
+ID 48357
+
+Size_X 1
+Size_Y 1
+Size_Z 0.22
+
+Aid
+
+Quest_Rewards 1
+Quest_Reward_0_Type Reputation
+Quest_Reward_0_Value 5
+
+Use_Auto_Icon_Measurements false
+Procedurally_Animate_Inertia false
+Should_Delete_After_Use false
+Should_Drop_On_Death false
+Instantiated_Item_Name_Override 48356
+ConsumeAudioClip Consumables/Reputation_Increase_1/Use.mp3
