@@ -1,0 +1,28 @@
+GUID fe53b5fdbc184489a1f44503bb541fe9
+Type Medical
+Useable Consumeable
+ID 48302
+
+Size_X 1
+Size_Y 1
+Size_Z 0.34
+
+Aid
+Health 100
+Disinfectant 100
+Energy 100
+Food 100
+Water 100
+Oxygen 100
+Warmth 12
+Bleeding_Modifier Heal
+Bones_Modifier Heal
+
+Quest_Rewards 1
+Quest_Reward_0_Type Player_Life_Water
+Quest_Reward_0_Value 100
+
+Use_Auto_Icon_Measurements false
+Procedurally_Animate_Inertia false
+Should_Delete_After_Use false
+Should_Drop_On_Death false
