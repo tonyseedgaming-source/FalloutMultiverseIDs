@@ -1,0 +1,50 @@
+GUID 3fb97fc4ff4e48258802dd1b0c5cd185
+
+Type Magazine
+Rarity Epic
+ID 11002
+
+Size_X 2
+Size_Y 2
+Size_Z 0.25
+
+Amount 12
+Count_Min 4
+Count_Max 12
+
+Calibers 1
+Caliber_0 1284
+
+Pellets 6
+
+Tracer 48
+
+Blueprints 5
+Blueprint_0_Type Ammo
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 11002
+Blueprint_0_Build 30
+
+Blueprint_1_Type Ammo
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 11001
+Blueprint_1_Build 30
+
+Blueprint_2_Type Ammo
+Blueprint_2_Supplies 1
+Blueprint_2_Supply_0_ID 10999
+Blueprint_2_Build 30
+
+Blueprint_3_Type Ammo
+Blueprint_3_Supplies 1
+Blueprint_3_Supply_0_ID 11011
+Blueprint_3_Build 30
+
+Blueprint_4_Type Ammo
+Blueprint_4_Supplies 1
+Blueprint_4_Supply_0_ID 11000
+Blueprint_4_Build 30
+
+Paintable
+
+Exclude_From_Master_Bundle
