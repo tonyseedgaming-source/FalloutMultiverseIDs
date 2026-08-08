@@ -1,0 +1,12 @@
+GUID 8ef6cfe541c943268222e37cdc544f32
+Type Grower
+Useable Grower
+ID 48394
+
+Size_X 1
+Size_Y 1
+Size_Z 0.28
+
+Use_Auto_Icon_Measurements false
+Procedurally_Animate_Inertia false
+Should_Drop_On_Death false
