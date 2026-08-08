@@ -1,0 +1,25 @@
+GUID a24a9dd45da44db5906468a24a9d4046
+
+Type Hat
+Useable Clothing
+ID 22094
+
+Size_X 2
+Size_Y 2
+Size_Z 3
+
+Width 4
+Height 3
+
+Beard_Visible True
+
+Armor 0.62
+
+Blueprints 1
+Blueprint_0_Type Repair
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 67
+Blueprint_0_Supply_0_Amount 2
+Blueprint_0_Build 32
+
+Exclude_From_Master_Bundle
