@@ -1,81 +1,121 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
-<meta charset="UTF-8">
-<title>Fallout Multiverse IDs</title>
-<link rel="stylesheet" href="style.css">
+  <meta charset="UTF-8">
+  <title>Fallout Multiverse IDs</title>
+  <link rel="stylesheet" href="style.css">
 </head>
 
 <body class="home">
 
-<!-- NAVBAR -->
-<div class="navbar">
-  <div class="nav-left">
-    <img src="images/FM_Logo.png" class="nav-logo">
-    <span class="nav-title">Fallout Multiverse</span>
+  <!-- NAVBAR -->
+  <div class="navbar">
+
+    <div class="nav-left">
+      <img src="images/FM_Logo.png" class="nav-logo" alt="Fallout Multiverse Logo">
+      <span class="nav-title">Fallout Multiverse</span>
+    </div>
+
+    <div class="nav-links">
+      <a href="index.html">Home</a>
+      <a href="docs-options.html">Documentation</a>
+      <a href="servers.html">Servers</a>
+    </div>
+
   </div>
 
-  <div class="nav-links">
-    <a href="index.html">Home</a>
-    <a href="docs-options.html">Documentation</a>
-    <a href="servers.html">Servers</a>
+
+  <!-- PAGE CONTENT -->
+  <div class="page-content">
+
+    <div class="home-container">
+
+      <h1>Fallout Multiverse ID List</h1>
+
+
+      <!-- ========================= -->
+      <!-- CATEGORY DASHBOARD -->
+      <!-- ========================= -->
+
+      <div class="dashboard">
+
+        <!-- ITEMS -->
+        <div class="dash-box">
+          <h2>Items</h2>
+
+          <ul>
+            <li>Placeholder</li>
+            <li>Placeholder</li>
+            <li>Placeholder</li>
+          </ul>
+        </div>
+
+
+        <!-- VEHICLES -->
+        <div class="dash-box">
+          <h2>Vehicles</h2>
+
+          <ul>
+            <li>Placeholder</li>
+            <li>Placeholder</li>
+            <li>Placeholder</li>
+          </ul>
+        </div>
+
+
+        <!-- ANIMALS -->
+        <div class="dash-box">
+          <h2>Animals</h2>
+
+          <ul>
+            <li>Coming Soon</li>
+          </ul>
+        </div>
+
+
+        <!-- ASSETS -->
+        <div class="dash-box">
+          <h2>Assets</h2>
+
+          <ul>
+            <li>Coming Soon</li>
+          </ul>
+        </div>
+
+      </div>
+
+
+      <!-- ========================= -->
+      <!-- MULTIVERSE MODS -->
+      <!-- ========================= -->
+
+      <h2 class="mods-title">All Multiverse Mods</h2>
+
+
+      <!-- Loading / Error Message -->
+      <p
+        class="modlist-status"
+        data-modlist-status>
+        Loading mods from the Modlist...
+      </p>
+
+
+      <!-- JavaScript will insert mods here -->
+      <div
+        class="content-list"
+        data-mod-list>
+      </div>
+
+
+    </div>
+
   </div>
-</div>
 
-<div class="page-content">
 
-<div class="home-container">
+  <!-- MOD LIST SCRIPT -->
+  <script src="modlist.js"></script>
 
-<h1>Fallout Multiverse ID List</h1>
-
-<!-- DASHBOARD -->
-<div class="dashboard">
-
-<div class="dash-box">
-<h2>Items</h2>
-<ul>
-<li>Placeholder</li>
-<li>Placeholder</li>
-<li>Placeholder</li>
-</ul>
-</div>
-
-<div class="dash-box">
-<h2>Vehicles</h2>
-<ul>
-<li>Placeholder</li>
-<li>Placeholder</li>
-<li>Placeholder</li>
-</ul>
-</div>
-
-<div class="dash-box">
-<h2>Animals</h2>
-<ul>
-<li>Coming Soon</li>
-</ul>
-</div>
-
-<div class="dash-box">
-<h2>Assets</h2>
-<ul>
-<li>Coming Soon</li>
-</ul>
-</div>
-
-</div>
-
-<!-- Mod List/Collections -->
-<h2 style="margin-top: 60px;">All Multiverse Mods</h2>
-
-<p class="content-pack-status" data-content-pack-status>Loading mods from the Modlist...</p>
-
-<div class="content-list" data-content-pack-list></div>
-
-</div>
-
-</div>
-
-<script src="content-packs.js"></script>
 </body>
+
 </html>
