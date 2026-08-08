@@ -1,0 +1,24 @@
+GUID 80a996213a604e26ab1e199b3c99ddec
+Type Barrel
+Rarity Epic
+ID 12005
+
+Size_X 2
+Size_Y 1
+Size_Z 0.125
+
+Calibers 2
+Caliber_0 1277
+Caliber_1 1278
+
+Silenced 
+Volume 0.3
+
+Quality_Min 23
+Quality_Max 100
+
+Ballistic_Drop 1.1
+
+Paintable
+
+Exclude_From_Master_Bundle
