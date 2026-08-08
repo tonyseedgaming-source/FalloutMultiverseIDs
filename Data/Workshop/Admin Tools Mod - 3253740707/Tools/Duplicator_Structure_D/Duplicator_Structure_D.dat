@@ -1,0 +1,830 @@
+GUID c69506dcb8444ae581fd4cd9d0886da5
+Type Supply
+ID 48435
+
+Size_X 1
+Size_Y 1
+Size_Z 0.35
+
+Blueprints 68
+Blueprint_0_Type Structure
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 48435
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Supply_0_Critical
+Blueprint_0_Outputs 2
+Blueprint_0_Output_0_ID 48434
+Blueprint_0_Output_0_Amount 1
+Blueprint_0_Output_1_ID 51
+Blueprint_0_Output_1_Amount 1
+Blueprint_0_Build 48315
+
+Blueprint_1_Type Structure
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 48435
+Blueprint_1_Supply_0_Amount 1
+Blueprint_1_Supply_0_Critical
+Blueprint_1_Outputs 2
+Blueprint_1_Output_0_ID 48434
+Blueprint_1_Output_0_Amount 1
+Blueprint_1_Output_1_ID 31
+Blueprint_1_Output_1_Amount 1
+Blueprint_1_Build 48315
+
+Blueprint_2_Type Structure
+Blueprint_2_Supplies 1
+Blueprint_2_Supply_0_ID 48435
+Blueprint_2_Supply_0_Amount 1
+Blueprint_2_Supply_0_Critical
+Blueprint_2_Outputs 2
+Blueprint_2_Output_0_ID 48434
+Blueprint_2_Output_0_Amount 1
+Blueprint_2_Output_1_ID 52
+Blueprint_2_Output_1_Amount 1
+Blueprint_2_Build 48315
+
+Blueprint_3_Type Structure
+Blueprint_3_Supplies 1
+Blueprint_3_Supply_0_ID 48435
+Blueprint_3_Supply_0_Amount 1
+Blueprint_3_Supply_0_Critical
+Blueprint_3_Outputs 2
+Blueprint_3_Output_0_ID 48434
+Blueprint_3_Output_0_Amount 1
+Blueprint_3_Output_1_ID 369
+Blueprint_3_Output_1_Amount 1
+Blueprint_3_Build 48315
+
+Blueprint_4_Type Structure
+Blueprint_4_Supplies 1
+Blueprint_4_Supply_0_ID 48435
+Blueprint_4_Supply_0_Amount 1
+Blueprint_4_Supply_0_Critical
+Blueprint_4_Outputs 2
+Blueprint_4_Output_0_ID 48434
+Blueprint_4_Output_0_Amount 1
+Blueprint_4_Output_1_ID 1263
+Blueprint_4_Output_1_Amount 1
+Blueprint_4_Build 48315
+
+Blueprint_5_Type Structure
+Blueprint_5_Supplies 1
+Blueprint_5_Supply_0_ID 48435
+Blueprint_5_Supply_0_Amount 1
+Blueprint_5_Supply_0_Critical
+Blueprint_5_Outputs 2
+Blueprint_5_Output_0_ID 48434
+Blueprint_5_Output_0_Amount 1
+Blueprint_5_Output_1_ID 1262
+Blueprint_5_Output_1_Amount 1
+Blueprint_5_Build 48315
+
+Blueprint_6_Type Structure
+Blueprint_6_Supplies 1
+Blueprint_6_Supply_0_ID 48435
+Blueprint_6_Supply_0_Amount 1
+Blueprint_6_Supply_0_Critical
+Blueprint_6_Outputs 2
+Blueprint_6_Output_0_ID 48434
+Blueprint_6_Output_0_Amount 1
+Blueprint_6_Output_1_ID 1264
+Blueprint_6_Output_1_Amount 1
+Blueprint_6_Build 48315
+
+Blueprint_7_Type Structure
+Blueprint_7_Supplies 1
+Blueprint_7_Supply_0_ID 48435
+Blueprint_7_Supply_0_Amount 1
+Blueprint_7_Supply_0_Critical
+Blueprint_7_Outputs 2
+Blueprint_7_Output_0_ID 48434
+Blueprint_7_Output_0_Amount 1
+Blueprint_7_Output_1_ID 1265
+Blueprint_7_Output_1_Amount 1
+Blueprint_7_Build 48315
+
+Blueprint_8_Type Structure
+Blueprint_8_Supplies 1
+Blueprint_8_Supply_0_ID 48435
+Blueprint_8_Supply_0_Amount 1
+Blueprint_8_Supply_0_Critical
+Blueprint_8_Outputs 2
+Blueprint_8_Output_0_ID 48434
+Blueprint_8_Output_0_Amount 1
+Blueprint_8_Output_1_ID 53
+Blueprint_8_Output_1_Amount 1
+Blueprint_8_Build 48315
+
+Blueprint_9_Type Structure
+Blueprint_9_Supplies 1
+Blueprint_9_Supply_0_ID 48435
+Blueprint_9_Supply_0_Amount 1
+Blueprint_9_Supply_0_Critical
+Blueprint_9_Outputs 2
+Blueprint_9_Output_0_ID 48434
+Blueprint_9_Output_0_Amount 1
+Blueprint_9_Output_1_ID 36
+Blueprint_9_Output_1_Amount 1
+Blueprint_9_Build 48315
+
+Blueprint_10_Type Structure
+Blueprint_10_Supplies 1
+Blueprint_10_Supply_0_ID 48435
+Blueprint_10_Supply_0_Amount 1
+Blueprint_10_Supply_0_Critical
+Blueprint_10_Outputs 2
+Blueprint_10_Output_0_ID 48434
+Blueprint_10_Output_0_Amount 1
+Blueprint_10_Output_1_ID 54
+Blueprint_10_Output_1_Amount 1
+Blueprint_10_Build 48315
+
+Blueprint_11_Type Structure
+Blueprint_11_Supplies 1
+Blueprint_11_Supply_0_ID 48435
+Blueprint_11_Supply_0_Amount 1
+Blueprint_11_Supply_0_Critical
+Blueprint_11_Outputs 2
+Blueprint_11_Output_0_ID 48434
+Blueprint_11_Output_0_Amount 1
+Blueprint_11_Output_1_ID 374
+Blueprint_11_Output_1_Amount 1
+Blueprint_11_Build 48315
+
+Blueprint_12_Type Structure
+Blueprint_12_Supplies 1
+Blueprint_12_Supply_0_ID 48435
+Blueprint_12_Supply_0_Amount 1
+Blueprint_12_Supply_0_Critical
+Blueprint_12_Outputs 2
+Blueprint_12_Output_0_ID 48434
+Blueprint_12_Output_0_Amount 1
+Blueprint_12_Output_1_ID 1212
+Blueprint_12_Output_1_Amount 1
+Blueprint_12_Build 48315
+
+Blueprint_13_Type Structure
+Blueprint_13_Supplies 1
+Blueprint_13_Supply_0_ID 48435
+Blueprint_13_Supply_0_Amount 1
+Blueprint_13_Supply_0_Critical
+Blueprint_13_Outputs 2
+Blueprint_13_Output_0_ID 48434
+Blueprint_13_Output_0_Amount 1
+Blueprint_13_Output_1_ID 55
+Blueprint_13_Output_1_Amount 1
+Blueprint_13_Build 48315
+
+Blueprint_14_Type Structure
+Blueprint_14_Supplies 1
+Blueprint_14_Supply_0_ID 48435
+Blueprint_14_Supply_0_Amount 1
+Blueprint_14_Supply_0_Critical
+Blueprint_14_Outputs 2
+Blueprint_14_Output_0_ID 48434
+Blueprint_14_Output_0_Amount 1
+Blueprint_14_Output_1_ID 35
+Blueprint_14_Output_1_Amount 1
+Blueprint_14_Build 48315
+
+Blueprint_15_Type Structure
+Blueprint_15_Supplies 1
+Blueprint_15_Supply_0_ID 48435
+Blueprint_15_Supply_0_Amount 1
+Blueprint_15_Supply_0_Critical
+Blueprint_15_Outputs 2
+Blueprint_15_Output_0_ID 48434
+Blueprint_15_Output_0_Amount 1
+Blueprint_15_Output_1_ID 56
+Blueprint_15_Output_1_Amount 1
+Blueprint_15_Build 48315
+
+Blueprint_16_Type Structure
+Blueprint_16_Supplies 1
+Blueprint_16_Supply_0_ID 48435
+Blueprint_16_Supply_0_Amount 1
+Blueprint_16_Supply_0_Critical
+Blueprint_16_Outputs 2
+Blueprint_16_Output_0_ID 48434
+Blueprint_16_Output_0_Amount 1
+Blueprint_16_Output_1_ID 373
+Blueprint_16_Output_1_Amount 1
+Blueprint_16_Build 48315
+
+Blueprint_17_Type Structure
+Blueprint_17_Supplies 1
+Blueprint_17_Supply_0_ID 48435
+Blueprint_17_Supply_0_Amount 1
+Blueprint_17_Supply_0_Critical
+Blueprint_17_Outputs 2
+Blueprint_17_Output_0_ID 48434
+Blueprint_17_Output_0_Amount 1
+Blueprint_17_Output_1_ID 1267
+Blueprint_17_Output_1_Amount 1
+Blueprint_17_Build 48315
+
+Blueprint_18_Type Structure
+Blueprint_18_Supplies 1
+Blueprint_18_Supply_0_ID 48435
+Blueprint_18_Supply_0_Amount 1
+Blueprint_18_Supply_0_Critical
+Blueprint_18_Outputs 2
+Blueprint_18_Output_0_ID 48434
+Blueprint_18_Output_0_Amount 1
+Blueprint_18_Output_1_ID 1266
+Blueprint_18_Output_1_Amount 1
+Blueprint_18_Build 48315
+
+Blueprint_19_Type Structure
+Blueprint_19_Supplies 1
+Blueprint_19_Supply_0_ID 48435
+Blueprint_19_Supply_0_Amount 1
+Blueprint_19_Supply_0_Critical
+Blueprint_19_Outputs 2
+Blueprint_19_Output_0_ID 48434
+Blueprint_19_Output_0_Amount 1
+Blueprint_19_Output_1_ID 1268
+Blueprint_19_Output_1_Amount 1
+Blueprint_19_Build 48315
+
+Blueprint_20_Type Structure
+Blueprint_20_Supplies 1
+Blueprint_20_Supply_0_ID 48435
+Blueprint_20_Supply_0_Amount 1
+Blueprint_20_Supply_0_Critical
+Blueprint_20_Outputs 2
+Blueprint_20_Output_0_ID 48434
+Blueprint_20_Output_0_Amount 1
+Blueprint_20_Output_1_ID 1269
+Blueprint_20_Output_1_Amount 1
+Blueprint_20_Build 48315
+
+Blueprint_21_Type Structure
+Blueprint_21_Supplies 1
+Blueprint_21_Supply_0_ID 48435
+Blueprint_21_Supply_0_Amount 1
+Blueprint_21_Supply_0_Critical
+Blueprint_21_Outputs 2
+Blueprint_21_Output_0_ID 48434
+Blueprint_21_Output_0_Amount 1
+Blueprint_21_Output_1_ID 321
+Blueprint_21_Output_1_Amount 1
+Blueprint_21_Build 48315
+
+Blueprint_22_Type Structure
+Blueprint_22_Supplies 1
+Blueprint_22_Supply_0_ID 48435
+Blueprint_22_Supply_0_Amount 1
+Blueprint_22_Supply_0_Critical
+Blueprint_22_Outputs 2
+Blueprint_22_Output_0_ID 48434
+Blueprint_22_Output_0_Amount 1
+Blueprint_22_Output_1_ID 319
+Blueprint_22_Output_1_Amount 1
+Blueprint_22_Build 48315
+
+Blueprint_23_Type Structure
+Blueprint_23_Supplies 1
+Blueprint_23_Supply_0_ID 48435
+Blueprint_23_Supply_0_Amount 1
+Blueprint_23_Supply_0_Critical
+Blueprint_23_Outputs 2
+Blueprint_23_Output_0_ID 48434
+Blueprint_23_Output_0_Amount 1
+Blueprint_23_Output_1_ID 320
+Blueprint_23_Output_1_Amount 1
+Blueprint_23_Build 48315
+
+Blueprint_24_Type Structure
+Blueprint_24_Supplies 1
+Blueprint_24_Supply_0_ID 48435
+Blueprint_24_Supply_0_Amount 1
+Blueprint_24_Supply_0_Critical
+Blueprint_24_Outputs 2
+Blueprint_24_Output_0_ID 48434
+Blueprint_24_Output_0_Amount 1
+Blueprint_24_Output_1_ID 376
+Blueprint_24_Output_1_Amount 1
+Blueprint_24_Build 48315
+
+Blueprint_25_Type Structure
+Blueprint_25_Supplies 1
+Blueprint_25_Supply_0_ID 48435
+Blueprint_25_Supply_0_Amount 1
+Blueprint_25_Supply_0_Critical
+Blueprint_25_Outputs 2
+Blueprint_25_Output_0_ID 48434
+Blueprint_25_Output_0_Amount 1
+Blueprint_25_Output_1_ID 323
+Blueprint_25_Output_1_Amount 1
+Blueprint_25_Build 48315
+
+Blueprint_26_Type Structure
+Blueprint_26_Supplies 1
+Blueprint_26_Supply_0_ID 48435
+Blueprint_26_Supply_0_Amount 1
+Blueprint_26_Supply_0_Critical
+Blueprint_26_Outputs 2
+Blueprint_26_Output_0_ID 48434
+Blueprint_26_Output_0_Amount 1
+Blueprint_26_Output_1_ID 322
+Blueprint_26_Output_1_Amount 1
+Blueprint_26_Build 48315
+
+Blueprint_27_Type Structure
+Blueprint_27_Supplies 1
+Blueprint_27_Supply_0_ID 48435
+Blueprint_27_Supply_0_Amount 1
+Blueprint_27_Supply_0_Critical
+Blueprint_27_Outputs 2
+Blueprint_27_Output_0_ID 48434
+Blueprint_27_Output_0_Amount 1
+Blueprint_27_Output_1_ID 324
+Blueprint_27_Output_1_Amount 1
+Blueprint_27_Build 48315
+
+Blueprint_28_Type Structure
+Blueprint_28_Supplies 1
+Blueprint_28_Supply_0_ID 48435
+Blueprint_28_Supply_0_Amount 1
+Blueprint_28_Supply_0_Critical
+Blueprint_28_Outputs 2
+Blueprint_28_Output_0_ID 48434
+Blueprint_28_Output_0_Amount 1
+Blueprint_28_Output_1_ID 377
+Blueprint_28_Output_1_Amount 1
+Blueprint_28_Build 48315
+
+Blueprint_29_Type Structure
+Blueprint_29_Supplies 1
+Blueprint_29_Supply_0_ID 48435
+Blueprint_29_Supply_0_Amount 1
+Blueprint_29_Supply_0_Critical
+Blueprint_29_Outputs 2
+Blueprint_29_Output_0_ID 48434
+Blueprint_29_Output_0_Amount 1
+Blueprint_29_Output_1_ID 318
+Blueprint_29_Output_1_Amount 1
+Blueprint_29_Build 48315
+
+Blueprint_30_Type Structure
+Blueprint_30_Supplies 1
+Blueprint_30_Supply_0_ID 48435
+Blueprint_30_Supply_0_Amount 1
+Blueprint_30_Supply_0_Critical
+Blueprint_30_Outputs 2
+Blueprint_30_Output_0_ID 48434
+Blueprint_30_Output_0_Amount 1
+Blueprint_30_Output_1_ID 316
+Blueprint_30_Output_1_Amount 1
+Blueprint_30_Build 48315
+
+Blueprint_31_Type Structure
+Blueprint_31_Supplies 1
+Blueprint_31_Supply_0_ID 48435
+Blueprint_31_Supply_0_Amount 1
+Blueprint_31_Supply_0_Critical
+Blueprint_31_Outputs 2
+Blueprint_31_Output_0_ID 48434
+Blueprint_31_Output_0_Amount 1
+Blueprint_31_Output_1_ID 317
+Blueprint_31_Output_1_Amount 1
+Blueprint_31_Build 48315
+
+Blueprint_32_Type Structure
+Blueprint_32_Supplies 1
+Blueprint_32_Supply_0_ID 48435
+Blueprint_32_Supply_0_Amount 1
+Blueprint_32_Supply_0_Critical
+Blueprint_32_Outputs 2
+Blueprint_32_Output_0_ID 48434
+Blueprint_32_Output_0_Amount 1
+Blueprint_32_Output_1_ID 375
+Blueprint_32_Output_1_Amount 1
+Blueprint_32_Build 48315
+
+Blueprint_33_Type Structure
+Blueprint_33_Supplies 1
+Blueprint_33_Supply_0_ID 48435
+Blueprint_33_Supply_0_Amount 1
+Blueprint_33_Supply_0_Critical
+Blueprint_33_Outputs 2
+Blueprint_33_Output_0_ID 48434
+Blueprint_33_Output_0_Amount 1
+Blueprint_33_Output_1_ID 57
+Blueprint_33_Output_1_Amount 1
+Blueprint_33_Build 48315
+
+Blueprint_34_Type Structure
+Blueprint_34_Supplies 1
+Blueprint_34_Supply_0_ID 48435
+Blueprint_34_Supply_0_Amount 1
+Blueprint_34_Supply_0_Critical
+Blueprint_34_Outputs 2
+Blueprint_34_Output_0_ID 48434
+Blueprint_34_Output_0_Amount 1
+Blueprint_34_Output_1_ID 33
+Blueprint_34_Output_1_Amount 1
+Blueprint_34_Build 48315
+
+Blueprint_35_Type Structure
+Blueprint_35_Supplies 1
+Blueprint_35_Supply_0_ID 48435
+Blueprint_35_Supply_0_Amount 1
+Blueprint_35_Supply_0_Critical
+Blueprint_35_Outputs 2
+Blueprint_35_Output_0_ID 48434
+Blueprint_35_Output_0_Amount 1
+Blueprint_35_Output_1_ID 58
+Blueprint_35_Output_1_Amount 1
+Blueprint_35_Build 48315
+
+Blueprint_36_Type Structure
+Blueprint_36_Supplies 1
+Blueprint_36_Supply_0_ID 48435
+Blueprint_36_Supply_0_Amount 1
+Blueprint_36_Supply_0_Critical
+Blueprint_36_Outputs 2
+Blueprint_36_Output_0_ID 48434
+Blueprint_36_Output_0_Amount 1
+Blueprint_36_Output_1_ID 371
+Blueprint_36_Output_1_Amount 1
+Blueprint_36_Build 48315
+
+Blueprint_37_Type Structure
+Blueprint_37_Supplies 1
+Blueprint_37_Supply_0_ID 48435
+Blueprint_37_Supply_0_Amount 1
+Blueprint_37_Supply_0_Critical
+Blueprint_37_Outputs 2
+Blueprint_37_Output_0_ID 48434
+Blueprint_37_Output_0_Amount 1
+Blueprint_37_Output_1_ID 1215
+Blueprint_37_Output_1_Amount 1
+Blueprint_37_Build 48315
+
+Blueprint_38_Type Structure
+Blueprint_38_Supplies 1
+Blueprint_38_Supply_0_ID 48435
+Blueprint_38_Supply_0_Amount 1
+Blueprint_38_Supply_0_Critical
+Blueprint_38_Outputs 2
+Blueprint_38_Output_0_ID 48434
+Blueprint_38_Output_0_Amount 1
+Blueprint_38_Output_1_ID 49
+Blueprint_38_Output_1_Amount 1
+Blueprint_38_Build 48315
+
+Blueprint_39_Type Structure
+Blueprint_39_Supplies 1
+Blueprint_39_Supply_0_ID 48435
+Blueprint_39_Supply_0_Amount 1
+Blueprint_39_Supply_0_Critical
+Blueprint_39_Outputs 2
+Blueprint_39_Output_0_ID 48434
+Blueprint_39_Output_0_Amount 1
+Blueprint_39_Output_1_ID 32
+Blueprint_39_Output_1_Amount 1
+Blueprint_39_Build 48315
+
+Blueprint_40_Type Structure
+Blueprint_40_Supplies 1
+Blueprint_40_Supply_0_ID 48435
+Blueprint_40_Supply_0_Amount 1
+Blueprint_40_Supply_0_Critical
+Blueprint_40_Outputs 2
+Blueprint_40_Output_0_ID 48434
+Blueprint_40_Output_0_Amount 1
+Blueprint_40_Output_1_ID 50
+Blueprint_40_Output_1_Amount 1
+Blueprint_40_Build 48315
+
+Blueprint_41_Type Structure
+Blueprint_41_Supplies 1
+Blueprint_41_Supply_0_ID 48435
+Blueprint_41_Supply_0_Amount 1
+Blueprint_41_Supply_0_Critical
+Blueprint_41_Outputs 2
+Blueprint_41_Output_0_ID 48434
+Blueprint_41_Output_0_Amount 1
+Blueprint_41_Output_1_ID 370
+Blueprint_41_Output_1_Amount 1
+Blueprint_41_Build 48315
+
+Blueprint_42_Type Structure
+Blueprint_42_Supplies 1
+Blueprint_42_Supply_0_ID 48435
+Blueprint_42_Supply_0_Amount 1
+Blueprint_42_Supply_0_Critical
+Blueprint_42_Outputs 2
+Blueprint_42_Output_0_ID 48434
+Blueprint_42_Output_0_Amount 1
+Blueprint_42_Output_1_ID 1210
+Blueprint_42_Output_1_Amount 1
+Blueprint_42_Build 48315
+
+Blueprint_43_Type Structure
+Blueprint_43_Supplies 1
+Blueprint_43_Supply_0_ID 48435
+Blueprint_43_Supply_0_Amount 1
+Blueprint_43_Supply_0_Critical
+Blueprint_43_Outputs 2
+Blueprint_43_Output_0_ID 48434
+Blueprint_43_Output_0_Amount 1
+Blueprint_43_Output_1_ID 452
+Blueprint_43_Output_1_Amount 1
+Blueprint_43_Build 48315
+
+Blueprint_44_Type Structure
+Blueprint_44_Supplies 1
+Blueprint_44_Supply_0_ID 48435
+Blueprint_44_Supply_0_Amount 1
+Blueprint_44_Supply_0_Critical
+Blueprint_44_Outputs 2
+Blueprint_44_Output_0_ID 48434
+Blueprint_44_Output_0_Amount 1
+Blueprint_44_Output_1_ID 450
+Blueprint_44_Output_1_Amount 1
+Blueprint_44_Build 48315
+
+Blueprint_45_Type Structure
+Blueprint_45_Supplies 1
+Blueprint_45_Supply_0_ID 48435
+Blueprint_45_Supply_0_Amount 1
+Blueprint_45_Supply_0_Critical
+Blueprint_45_Outputs 2
+Blueprint_45_Output_0_ID 48434
+Blueprint_45_Output_0_Amount 1
+Blueprint_45_Output_1_ID 453
+Blueprint_45_Output_1_Amount 1
+Blueprint_45_Build 48315
+
+Blueprint_46_Type Structure
+Blueprint_46_Supplies 1
+Blueprint_46_Supply_0_ID 48435
+Blueprint_46_Supply_0_Amount 1
+Blueprint_46_Supply_0_Critical
+Blueprint_46_Outputs 2
+Blueprint_46_Output_0_ID 48434
+Blueprint_46_Output_0_Amount 1
+Blueprint_46_Output_1_ID 454
+Blueprint_46_Output_1_Amount 1
+Blueprint_46_Build 48315
+
+Blueprint_47_Type Structure
+Blueprint_47_Supplies 1
+Blueprint_47_Supply_0_ID 48435
+Blueprint_47_Supply_0_Amount 1
+Blueprint_47_Supply_0_Critical
+Blueprint_47_Outputs 2
+Blueprint_47_Output_0_ID 48434
+Blueprint_47_Output_0_Amount 1
+Blueprint_47_Output_1_ID 1211
+Blueprint_47_Output_1_Amount 1
+Blueprint_47_Build 48315
+
+Blueprint_48_Type Structure
+Blueprint_48_Supplies 1
+Blueprint_48_Supply_0_ID 48435
+Blueprint_48_Supply_0_Amount 1
+Blueprint_48_Supply_0_Critical
+Blueprint_48_Outputs 2
+Blueprint_48_Output_0_ID 48434
+Blueprint_48_Output_0_Amount 1
+Blueprint_48_Output_1_ID 59
+Blueprint_48_Output_1_Amount 1
+Blueprint_48_Build 48315
+
+Blueprint_49_Type Structure
+Blueprint_49_Supplies 1
+Blueprint_49_Supply_0_ID 48435
+Blueprint_49_Supply_0_Amount 1
+Blueprint_49_Supply_0_Critical
+Blueprint_49_Outputs 2
+Blueprint_49_Output_0_ID 48434
+Blueprint_49_Output_0_Amount 1
+Blueprint_49_Output_1_ID 34
+Blueprint_49_Output_1_Amount 1
+Blueprint_49_Build 48315
+
+Blueprint_50_Type Structure
+Blueprint_50_Supplies 1
+Blueprint_50_Supply_0_ID 48435
+Blueprint_50_Supply_0_Amount 1
+Blueprint_50_Supply_0_Critical
+Blueprint_50_Outputs 2
+Blueprint_50_Output_0_ID 48434
+Blueprint_50_Output_0_Amount 1
+Blueprint_50_Output_1_ID 60
+Blueprint_50_Output_1_Amount 1
+Blueprint_50_Build 48315
+
+Blueprint_51_Type Structure
+Blueprint_51_Supplies 1
+Blueprint_51_Supply_0_ID 48435
+Blueprint_51_Supply_0_Amount 1
+Blueprint_51_Supply_0_Critical
+Blueprint_51_Outputs 2
+Blueprint_51_Output_0_ID 48434
+Blueprint_51_Output_0_Amount 1
+Blueprint_51_Output_1_ID 372
+Blueprint_51_Output_1_Amount 1
+Blueprint_51_Build 48315
+
+Blueprint_52_Type Structure
+Blueprint_52_Supplies 1
+Blueprint_52_Supply_0_ID 48435
+Blueprint_52_Supply_0_Amount 1
+Blueprint_52_Supply_0_Critical
+Blueprint_52_Outputs 2
+Blueprint_52_Output_0_ID 48434
+Blueprint_52_Output_0_Amount 1
+Blueprint_52_Output_1_ID 1216
+Blueprint_52_Output_1_Amount 1
+Blueprint_52_Build 48315
+
+Blueprint_53_Type Structure
+Blueprint_53_Supplies 1
+Blueprint_53_Supply_0_ID 48435
+Blueprint_53_Supply_0_Amount 1
+Blueprint_53_Supply_0_Critical
+Blueprint_53_Outputs 2
+Blueprint_53_Output_0_ID 48434
+Blueprint_53_Output_0_Amount 1
+Blueprint_53_Output_1_ID 447
+Blueprint_53_Output_1_Amount 1
+Blueprint_53_Build 48315
+
+Blueprint_54_Type Structure
+Blueprint_54_Supplies 1
+Blueprint_54_Supply_0_ID 48435
+Blueprint_54_Supply_0_Amount 1
+Blueprint_54_Supply_0_Critical
+Blueprint_54_Outputs 2
+Blueprint_54_Output_0_ID 48434
+Blueprint_54_Output_0_Amount 1
+Blueprint_54_Output_1_ID 443
+Blueprint_54_Output_1_Amount 1
+Blueprint_54_Build 48315
+
+Blueprint_55_Type Structure
+Blueprint_55_Supplies 1
+Blueprint_55_Supply_0_ID 48435
+Blueprint_55_Supply_0_Amount 1
+Blueprint_55_Supply_0_Critical
+Blueprint_55_Outputs 2
+Blueprint_55_Output_0_ID 48434
+Blueprint_55_Output_0_Amount 1
+Blueprint_55_Output_1_ID 448
+Blueprint_55_Output_1_Amount 1
+Blueprint_55_Build 48315
+
+Blueprint_56_Type Structure
+Blueprint_56_Supplies 1
+Blueprint_56_Supply_0_ID 48435
+Blueprint_56_Supply_0_Amount 1
+Blueprint_56_Supply_0_Critical
+Blueprint_56_Outputs 2
+Blueprint_56_Output_0_ID 48434
+Blueprint_56_Output_0_Amount 1
+Blueprint_56_Output_1_ID 449
+Blueprint_56_Output_1_Amount 1
+Blueprint_56_Build 48315
+
+Blueprint_57_Type Structure
+Blueprint_57_Supplies 1
+Blueprint_57_Supply_0_ID 48435
+Blueprint_57_Supply_0_Amount 1
+Blueprint_57_Supply_0_Critical
+Blueprint_57_Outputs 2
+Blueprint_57_Output_0_ID 48434
+Blueprint_57_Output_0_Amount 1
+Blueprint_57_Output_1_ID 1213
+Blueprint_57_Output_1_Amount 1
+Blueprint_57_Build 48315
+
+Blueprint_58_Type Structure
+Blueprint_58_Supplies 1
+Blueprint_58_Supply_0_ID 48435
+Blueprint_58_Supply_0_Amount 1
+Blueprint_58_Supply_0_Critical
+Blueprint_58_Outputs 2
+Blueprint_58_Output_0_ID 48434
+Blueprint_58_Output_0_Amount 1
+Blueprint_58_Output_1_ID 444
+Blueprint_58_Output_1_Amount 1
+Blueprint_58_Build 48315
+
+Blueprint_59_Type Structure
+Blueprint_59_Supplies 1
+Blueprint_59_Supply_0_ID 48435
+Blueprint_59_Supply_0_Amount 1
+Blueprint_59_Supply_0_Critical
+Blueprint_59_Outputs 2
+Blueprint_59_Output_0_ID 48434
+Blueprint_59_Output_0_Amount 1
+Blueprint_59_Output_1_ID 442
+Blueprint_59_Output_1_Amount 1
+Blueprint_59_Build 48315
+
+Blueprint_60_Type Structure
+Blueprint_60_Supplies 1
+Blueprint_60_Supply_0_ID 48435
+Blueprint_60_Supply_0_Amount 1
+Blueprint_60_Supply_0_Critical
+Blueprint_60_Outputs 2
+Blueprint_60_Output_0_ID 48434
+Blueprint_60_Output_0_Amount 1
+Blueprint_60_Output_1_ID 445
+Blueprint_60_Output_1_Amount 1
+Blueprint_60_Build 48315
+
+Blueprint_61_Type Structure
+Blueprint_61_Supplies 1
+Blueprint_61_Supply_0_ID 48435
+Blueprint_61_Supply_0_Amount 1
+Blueprint_61_Supply_0_Critical
+Blueprint_61_Outputs 2
+Blueprint_61_Output_0_ID 48434
+Blueprint_61_Output_0_Amount 1
+Blueprint_61_Output_1_ID 446
+Blueprint_61_Output_1_Amount 1
+Blueprint_61_Build 48315
+
+Blueprint_62_Type Structure
+Blueprint_62_Supplies 1
+Blueprint_62_Supply_0_ID 48435
+Blueprint_62_Supply_0_Amount 1
+Blueprint_62_Supply_0_Critical
+Blueprint_62_Outputs 2
+Blueprint_62_Output_0_ID 48434
+Blueprint_62_Output_0_Amount 1
+Blueprint_62_Output_1_ID 1214
+Blueprint_62_Output_1_Amount 1
+Blueprint_62_Build 48315
+
+Blueprint_63_Type Structure
+Blueprint_63_Supplies 1
+Blueprint_63_Supply_0_ID 48435
+Blueprint_63_Supply_0_Amount 1
+Blueprint_63_Supply_0_Critical
+Blueprint_63_Outputs 2
+Blueprint_63_Output_0_ID 48434
+Blueprint_63_Output_0_Amount 1
+Blueprint_63_Output_1_ID 1415
+Blueprint_63_Output_1_Amount 1
+Blueprint_63_Build 48315
+
+Blueprint_64_Type Structure
+Blueprint_64_Supplies 1
+Blueprint_64_Supply_0_ID 48435
+Blueprint_64_Supply_0_Amount 1
+Blueprint_64_Supply_0_Critical
+Blueprint_64_Outputs 2
+Blueprint_64_Output_0_ID 48434
+Blueprint_64_Output_0_Amount 1
+Blueprint_64_Output_1_ID 1414
+Blueprint_64_Output_1_Amount 1
+Blueprint_64_Build 48315
+
+Blueprint_65_Type Structure
+Blueprint_65_Supplies 1
+Blueprint_65_Supply_0_ID 48435
+Blueprint_65_Supply_0_Amount 1
+Blueprint_65_Supply_0_Critical
+Blueprint_65_Outputs 2
+Blueprint_65_Output_0_ID 48434
+Blueprint_65_Output_0_Amount 1
+Blueprint_65_Output_1_ID 1416
+Blueprint_65_Output_1_Amount 1
+Blueprint_65_Build 48315
+
+Blueprint_66_Type Structure
+Blueprint_66_Supplies 1
+Blueprint_66_Supply_0_ID 48435
+Blueprint_66_Supply_0_Amount 1
+Blueprint_66_Supply_0_Critical
+Blueprint_66_Outputs 2
+Blueprint_66_Output_0_ID 48434
+Blueprint_66_Output_0_Amount 1
+Blueprint_66_Output_1_ID 1417
+Blueprint_66_Output_1_Amount 1
+Blueprint_66_Build 48315
+
+Blueprint_67_Type Structure
+Blueprint_67_Supplies 1
+Blueprint_67_Supply_0_ID 48435
+Blueprint_67_Supply_0_Amount 1
+Blueprint_67_Supply_0_Critical
+Blueprint_67_Outputs 2
+Blueprint_67_Output_0_ID 48434
+Blueprint_67_Output_0_Amount 1
+Blueprint_67_Output_1_ID 1418
+Blueprint_67_Output_1_Amount 1
+Blueprint_67_Build 48315
+
+Add_Default_Actions false
+
+Use_Auto_Icon_Measurements false
+Should_Drop_On_Death false
+Bundle_Override_Path Tools/Duplicator_Structure
