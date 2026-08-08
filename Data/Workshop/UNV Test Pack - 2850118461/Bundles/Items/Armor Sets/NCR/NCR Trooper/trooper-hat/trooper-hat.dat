@@ -1,0 +1,26 @@
+GUID 1acb20e5b7f745ec9fd394761cc10ba7
+Type Hat
+Useable Clothing
+ID 37009
+
+Size_X 2
+Size_Y 2
+Size_Z 0.35
+
+Beard
+
+Armor 0.73
+
+Blueprints 2
+Blueprint_0_Type Apparel
+Blueprint_0_Supply_0_ID 37009
+Blueprint_0_Product 67
+Blueprint_0_Products 2
+Blueprint_0_Build 32
+Blueprint_1_Type Repair
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 67
+Blueprint_1_Supply_0_Amount 4
+Blueprint_1_Build 32
+
+Exclude_From_Master_Bundle
