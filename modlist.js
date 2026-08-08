@@ -1,249 +1,167 @@
-// ============================================================
-// FALLOUT MULTIVERSE MOD LIST
-// ============================================================
-
-
-// Google Sheets CSV URL
 const MODLIST_CSV_URL =
-  "https://docs.google.com/spreadsheets/d/1vTQ2HqNzLKBHc3mqm_wh2FRLqRwsy4uO2RYP0wjRM0w/export?format=csv&gid=1304496736";
+  "https://docs.google.com/spreadsheets/d/1vTQ2HqNzLKBHc3mqm_wh2FRLqRwsy4uO2RYPOwjRM0w/gviz/tq?tqx=out:csv&gid=1304496736";
 
-
-// Find elements on the page
 const modList = document.querySelector("[data-mod-list]");
 const modlistStatus = document.querySelector("[data-modlist-status]");
 
 
-// ============================================================
-// CSV PARSER
-// ============================================================
+/* ========================= */
+/* CSV PARSER */
+/* ========================= */
 
 function parseCsv(csvText) {
-
   const rows = [];
-
   let row = [];
   let field = "";
   let inQuotes = false;
 
-
   for (let i = 0; i < csvText.length; i++) {
-
     const char = csvText[i];
     const nextChar = csvText[i + 1];
 
-
-    // Handle quotes
     if (char === '"') {
 
-      // Double quote inside quoted field
       if (inQuotes && nextChar === '"') {
-
         field += '"';
         i++;
-
       } else {
-
         inQuotes = !inQuotes;
-
       }
 
-    }
-
-
-    // Handle comma
-    else if (char === "," && !inQuotes) {
+    } else if (char === "," && !inQuotes) {
 
       row.push(field);
       field = "";
 
-    }
+    } else if ((char === "\n" || char === "\r") && !inQuotes) {
 
-
-    // Handle new line
-    else if (
-      (char === "\n" || char === "\r") &&
-      !inQuotes
-    ) {
-
-      // Handle Windows CRLF
       if (char === "\r" && nextChar === "\n") {
         i++;
       }
 
-
       row.push(field);
 
-      rows.push(row);
+      // Ignore completely empty rows
+      if (row.some(cell => cell.trim() !== "")) {
+        rows.push(row);
+      }
 
       row = [];
       field = "";
 
-    }
-
-
-    // Normal character
-    else {
+    } else {
 
       field += char;
 
     }
-
   }
 
-
-  // Add final field
   if (field || row.length) {
-
     row.push(field);
 
-    rows.push(row);
-
+    if (row.some(cell => cell.trim() !== "")) {
+      rows.push(row);
+    }
   }
-
 
   return rows;
 }
 
 
-// ============================================================
-// IMAGE URL HANDLER
-// ============================================================
+/* ========================= */
+/* IMAGE URL */
+/* ========================= */
 
 function getImageUrl(imageValue) {
 
   const trimmedValue = imageValue.trim();
 
-
-  // Empty cell
   if (!trimmedValue) {
     return "";
   }
 
-
-  // Google Sheets IMAGE formula
-  //
-  // Example:
-  // =IMAGE("https://example.com/image.png")
-  //
-  const imageFormulaMatch =
-    trimmedValue.match(/=IMAGE\(\s*["']([^"']+)["']/i);
-
+  // Google Sheets IMAGE("URL")
+  const imageFormulaMatch = trimmedValue.match(
+    /=IMAGE\(\s*["']([^"']+)["']/i
+  );
 
   if (imageFormulaMatch) {
-
     return imageFormulaMatch[1];
-
   }
 
-
-  // Normal URL
+  // Direct image URL
   if (/^https?:\/\//i.test(trimmedValue)) {
-
     return trimmedValue;
-
   }
-
 
   return "";
 }
 
 
-// ============================================================
-// NORMALIZE MOD
-// ============================================================
+/* ========================= */
+/* NORMALIZE MOD */
+/* ========================= */
 
 function normalizeMod(row) {
 
   return {
-
-    // Column A
     image: getImageUrl(row[0] || ""),
-
-    // Column B
     name: (row[1] || "").trim(),
-
-    // Column C
     id: (row[2] || "").trim(),
-
-    // Column D
     authors: (row[3] || "").trim(),
-
-    // Column E
     description: (row[4] || "").trim()
-
   };
 
 }
 
 
-// ============================================================
-// GET MODS
-// ============================================================
+/* ========================= */
+/* GET MODS */
+/* ========================= */
 
 function getMods(csvText) {
 
   const rows = parseCsv(csvText);
 
-
-  /*
-    Your sheet appears to have two header rows.
-
-    Therefore we skip the first two rows.
-
-    If your sheet only has ONE header row,
-    change .slice(2) to .slice(1).
-  */
-
+  // Row 1 = title
+  // Row 2 = column headers
+  // Data starts at row 3
   return rows
-
     .slice(2)
-
     .map(normalizeMod)
+    .filter(mod => mod.name)
+    .sort((a, b) => {
 
-    .filter((mod) => mod.name)
+      const aVanilla =
+        a.name.toLowerCase() === "vanilla";
 
-    .sort((firstMod, secondMod) => {
+      const bVanilla =
+        b.name.toLowerCase() === "vanilla";
 
-      // Always put Vanilla first
-      const firstIsVanilla =
-        firstMod.name.toLowerCase() === "vanilla";
-
-      const secondIsVanilla =
-        secondMod.name.toLowerCase() === "vanilla";
-
-
-      if (firstIsVanilla && !secondIsVanilla) {
+      if (aVanilla && !bVanilla) {
         return -1;
       }
 
-
-      if (!firstIsVanilla && secondIsVanilla) {
+      if (!aVanilla && bVanilla) {
         return 1;
       }
 
-
-      return 0;
+      return a.name.localeCompare(b.name);
 
     });
 
 }
 
 
-// ============================================================
-// CREATE TEXT ELEMENT
-// ============================================================
+/* ========================= */
+/* CREATE TEXT ELEMENT */
+/* ========================= */
 
-function createTextElement(
-  tagName,
-  className,
-  text
-) {
+function createTextElement(tagName, className, text) {
 
-  const element =
-    document.createElement(tagName);
+  const element = document.createElement(tagName);
 
   element.className = className;
-
   element.textContent = text;
 
   return element;
@@ -251,53 +169,38 @@ function createTextElement(
 }
 
 
-// ============================================================
-// CREATE MOD CARD
-// ============================================================
+/* ========================= */
+/* RENDER MOD */
+/* ========================= */
 
 function renderMod(mod) {
 
-  const article =
-    document.createElement("article");
+  const article = document.createElement("article");
 
-  article.className = "content-pack mod";
+  article.className = "mod";
 
 
-  // ==========================================================
-  // IMAGE
-  // ==========================================================
+  /* IMAGE */
 
-  const imageWrap =
-    document.createElement("div");
+  const imageWrap = document.createElement("div");
 
   imageWrap.className = "mod-image";
 
 
   if (mod.image) {
 
-    const image =
-      document.createElement("img");
+    const image = document.createElement("img");
 
     image.src = mod.image;
 
-    image.alt =
-      `${mod.name} preview`;
+    image.alt = `${mod.name} preview`;
 
     image.loading = "lazy";
 
-
-    // If image fails to load
-    image.onerror = function () {
-
+    image.onerror = () => {
       imageWrap.textContent =
         mod.name.slice(0, 1).toUpperCase();
-
-      imageWrap.classList.add(
-        "mod-image-fallback"
-      );
-
     };
-
 
     imageWrap.append(image);
 
@@ -306,56 +209,41 @@ function renderMod(mod) {
     imageWrap.textContent =
       mod.name.slice(0, 1).toUpperCase();
 
-    imageWrap.classList.add(
-      "mod-image-fallback"
-    );
-
   }
 
 
-  // ==========================================================
-  // MOD DETAILS
-  // ==========================================================
+  /* DETAILS */
 
-  const details =
-    document.createElement("div");
+  const details = document.createElement("div");
 
   details.className = "mod-details";
 
 
-  // Mod name
-  const title =
-    document.createElement("h3");
+  /* TITLE */
 
+  const title = document.createElement("h3");
 
-  if (mod.id) {
-
-    title.textContent =
-      `${mod.name} - ${mod.id}`;
-
-  } else {
-
-    title.textContent =
-      mod.name;
-
-  }
-
+  title.textContent =
+    mod.id
+      ? `${mod.name} - ${mod.id}`
+      : mod.name;
 
   details.append(title);
 
 
-  // Description
+  /* DESCRIPTION */
+
   details.append(
     createTextElement(
       "p",
       "mod-description",
-      mod.description ||
-        "No description provided."
+      mod.description || "No description provided."
     )
   );
 
 
-  // Authors
+  /* AUTHORS */
+
   if (mod.authors) {
 
     details.append(
@@ -369,83 +257,80 @@ function renderMod(mod) {
   }
 
 
-  // Put everything together
   article.append(
     imageWrap,
     details
   );
-
 
   return article;
 
 }
 
 
-// ============================================================
-// RENDER ALL MODS
-// ============================================================
+/* ========================= */
+/* RENDER ALL MODS */
+/* ========================= */
 
 function renderMods(mods) {
 
-  // Remove existing content
-  modList.replaceChildren();
+  modList.replaceChildren(
+    ...mods.map(renderMod)
+  );
 
-
-  // Add every mod
-  mods.forEach((mod) => {
-
-    modList.append(
-      renderMod(mod)
-    );
-
-  });
-
-
-  // Hide loading message
   modlistStatus.hidden = true;
 
 }
 
 
-// ============================================================
-// LOAD MODS FROM GOOGLE SHEETS
-// ============================================================
+/* ========================= */
+/* LOAD MODS */
+/* ========================= */
 
 async function loadMods() {
 
   try {
 
-    // Request CSV
-    const response =
-      await fetch(
-        MODLIST_CSV_URL,
-        {
-          cache: "no-store"
-        }
-      );
+    modlistStatus.textContent =
+      "Loading mods from the Modlist...";
+
+    modlistStatus.classList.remove(
+      "modlist-status--error"
+    );
 
 
-    // Check response
+    const response = await fetch(
+      MODLIST_CSV_URL,
+      {
+        cache: "no-store"
+      }
+    );
+
+
     if (!response.ok) {
 
       throw new Error(
-        `Sheet request failed with HTTP ${response.status}`
+        `Google Sheets request failed with HTTP ${response.status}`
       );
 
     }
 
 
-    // Convert response to text
-    const csvText =
-      await response.text();
+    const csvText = await response.text();
 
 
-    // Parse mods
-    const mods =
-      getMods(csvText);
+    console.log("Google Sheets CSV:");
+
+    console.log(csvText);
 
 
-    // Make sure we actually found mods
+    const mods = getMods(csvText);
+
+
+    console.log("Mods loaded:");
+
+    console.log(mods);
+
+
     if (!mods.length) {
 
       throw new Error(
@@ -455,31 +340,21 @@ async function loadMods() {
     }
 
 
-    // Display mods
     renderMods(mods);
 
 
-    console.log(
-      `Loaded ${mods.length} mods from Google Sheets.`
-    );
-
-  }
-
-
-  catch (error) {
+  } catch (error) {
 
     console.error(
-      "Failed to load Multiverse Mods:",
+      "Modlist loading error:",
       error
     );
 
 
-    // Display useful error
     modlistStatus.hidden = false;
 
     modlistStatus.textContent =
-      "Unable to load mods from the Modlist right now.";
-
+      "Unable to load mods from the Modlist right now. Please try again later.";
 
     modlistStatus.classList.add(
       "modlist-status--error"
@@ -490,15 +365,18 @@ async function loadMods() {
 }
 
 
-// ============================================================
-// START
-// ============================================================
+/* ========================= */
+/* START */
+/* ========================= */
 
-if (
-  modList &&
-  modlistStatus
-) {
+if (modList && modlistStatus) {
 
   loadMods();
+
+} else {
+
+  console.error(
+    "Modlist elements were not found in the HTML."
+  );
 
 }
