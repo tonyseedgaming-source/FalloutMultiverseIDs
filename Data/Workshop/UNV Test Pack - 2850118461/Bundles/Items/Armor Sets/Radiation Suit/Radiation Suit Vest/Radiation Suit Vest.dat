@@ -1,0 +1,24 @@
+GUID b7433ec0ee9047c38ef643b9c3c34f44
+Type Vest
+Useable Clothing
+ID 10846
+
+Size_X 2
+Size_Y 2
+Size_Z 0.5
+
+Width 5
+Height 8
+
+Proof_Radiation
+
+Armor 0.9
+
+Blueprints 1
+Blueprint_0_Type Repair
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 67
+Blueprint_0_Supply_0_Amount 6
+Blueprint_0_Build 32
+
+Exclude_From_Master_Bundle
