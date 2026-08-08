@@ -1,0 +1,25 @@
+GUID d9e5138da7414f92a8435c2343584242
+Type Shirt
+Rarity Uncommon
+Useable Clothing
+ID 10847
+
+Size_X 3
+Size_Y 2
+Size_Z 0.6
+
+Width 6
+Height 3
+
+Proof_Radiation
+
+Armor 0.9
+
+Blueprints 1
+Blueprint_0_Type Repair
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 67
+Blueprint_0_Supply_0_Amount 6
+Blueprint_0_Build 32
+
+Exclude_From_Master_Bundle
