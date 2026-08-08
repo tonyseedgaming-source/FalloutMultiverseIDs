@@ -1,0 +1,27 @@
+GUID 433793c37f15460f801d8aeeaa40d420
+Type Hat
+Rarity Uncommon
+Useable Clothing
+ID 23600
+
+Size_X 2
+Size_Y 2
+Size_Z 0.45
+
+Armor 0.73
+
+Beard_Visible True
+
+Blueprints 2
+Blueprint_0_Type Apparel
+Blueprint_0_Supply_0_ID 23600
+Blueprint_0_Product 67
+Blueprint_0_Products 2
+Blueprint_0_Build 32
+Blueprint_1_Type Repair
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 67
+Blueprint_1_Supply_0_Amount 4
+Blueprint_1_Build 32
+
+Exclude_From_Master_Bundle
