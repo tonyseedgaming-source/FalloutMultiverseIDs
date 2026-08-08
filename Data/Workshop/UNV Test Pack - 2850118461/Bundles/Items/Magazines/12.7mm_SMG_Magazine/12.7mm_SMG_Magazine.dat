@@ -1,0 +1,43 @@
+GUID 60fab4a28d334be1b52af151c3f30a2b
+Type Magazine
+Rarity Rare
+ID 11006
+
+Size_X 2
+Size_Y 1
+Size_Z 0.125
+
+Amount 21
+Count_Min 9
+Count_Max 21
+
+Calibers 1
+Caliber_0 27
+
+Tracer 55
+
+Blueprints 4
+
+Blueprint_0_Type Ammo
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 11009
+Blueprint_0_Build 30
+
+Blueprint_1_Type Ammo
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 11179
+Blueprint_1_Build 30
+
+Blueprint_2_Type Ammo
+Blueprint_2_Supplies 1
+Blueprint_2_Supply_0_ID 11006
+Blueprint_2_Build 30
+
+Blueprint_3_Type Ammo
+Blueprint_3_Supplies 1
+Blueprint_3_Supply_0_ID 10957
+Blueprint_3_Build 30
+
+Paintable
+
+Exclude_From_Master_Bundle
