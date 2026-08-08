@@ -1,0 +1,23 @@
+GUID d302d94cb50440bcaf74ce06c3771021
+
+Type Hat
+Rarity Common
+Useable Clothing
+ID 22110
+
+Size_X 2
+Size_Y 2
+Size_Z 0.5
+
+Beard
+
+Armor 0.73
+
+Blueprints 1
+Blueprint_0_Type Repair
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 67
+Blueprint_0_Supply_0_Amount 2
+Blueprint_0_Build 32
+
+Exclude_From_Master_Bundle
