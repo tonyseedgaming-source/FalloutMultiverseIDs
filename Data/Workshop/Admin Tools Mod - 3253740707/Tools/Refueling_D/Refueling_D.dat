@@ -1,0 +1,36 @@
+GUID eb3032cdcb89439c82de6df41caad90b
+Type Fuel
+Useable Fuel
+ID 48337
+
+Size_X 1
+Size_Y 1
+Size_Z 0.45
+
+Fuel 65535
+
+Always_Spawn_Full true
+
+Blueprints 1
+Blueprint_0_Type Tool
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 48337
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Outputs 1
+Blueprint_0_Output_0_ID 48336
+Blueprint_0_Output_0_Amount 1
+Blueprint_0_Build 48315
+
+Actions 1
+Action_0_Type Blueprint
+Action_0_Source 48337
+Action_0_Blueprints 1
+Action_0_Blueprint_0_Index 0
+Action_0_Text Recharge
+Action_0_Tooltip Recharge fuel to maximum value.
+
+Use_Auto_Icon_Measurements false
+Procedurally_Animate_Inertia false
+Should_Drop_On_Death false
+Bundle_Override_Path Tools/Refueling
+Instantiated_Item_Name_Override 48336
