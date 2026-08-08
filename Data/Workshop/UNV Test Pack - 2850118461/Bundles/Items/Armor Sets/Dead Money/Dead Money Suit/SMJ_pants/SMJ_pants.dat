@@ -1,0 +1,17 @@
+GUID 1a7451fb23684c65a502d0e73bcdacef
+
+Type Pants
+Rarity Common
+Useable Clothing
+ID 9005
+
+Size_X 2
+Size_Y 2
+Size_Z 0.65
+
+Width 4
+Height 3
+
+Armor 0.05
+
+Exclude_From_Master_Bundle
