@@ -1,0 +1,28 @@
+GUID 3bd2d5eb21004f66801a5b8e6bd3ae23
+
+Type Pants
+Rarity Legendary
+Useable Clothing
+ID 13005
+
+Size_X 2
+Size_Y 2
+Size_Z 0.65
+
+Width 7
+Height 6
+
+Armor 0.68
+
+Blueprints 2
+Blueprint_0_Type Apparel
+Blueprint_0_Supply_0_ID 13005
+Blueprint_0_Product 66
+Blueprint_0_Products 2
+Blueprint_0_Build 32
+Blueprint_1_Type Repair
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 66
+Blueprint_1_Supply_0_Amount 2
+Blueprint_1_Build 32
+Exclude_From_Master_Bundle
