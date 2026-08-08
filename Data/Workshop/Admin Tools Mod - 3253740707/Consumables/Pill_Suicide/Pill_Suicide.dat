@@ -1,0 +1,24 @@
+GUID 82dd91decbf84f49b63352bb6ed79d5c
+Type Medical
+Useable Consumeable
+ID 48385
+
+Size_X 1
+Size_Y 1
+Size_Z 0.24
+
+Quest_Rewards 4
+Quest_Reward_0_Type Player_Life_Health
+Quest_Reward_0_Value -10000
+Quest_Reward_1_Type Player_Life_Food
+Quest_Reward_1_Value -100
+Quest_Reward_2_Type Player_Life_Water
+Quest_Reward_2_Value -100
+Quest_Reward_3_Type Player_Life_Virus
+Quest_Reward_3_Value -100
+
+Backward
+Use_Auto_Icon_Measurements false
+Procedurally_Animate_Inertia false
+Should_Delete_After_Use false
+Should_Drop_On_Death false
