@@ -1,0 +1,19 @@
+GUID 68037d0e38ff4a7c80200f577328a30e
+Type Medical
+Useable Consumeable
+ID 48305
+
+Size_X 1
+Size_Y 1
+Size_Z 0.34
+
+Aid
+Experience 3350
+
+Use_Auto_Icon_Measurements false
+Procedurally_Animate_Inertia false
+Should_Delete_After_Use false
+Should_Drop_On_Death false
+
+ConsumeAudioClip Consumables/Syringe_Heal/Use.mp3
+Instantiated_Item_Name_Override 48302
