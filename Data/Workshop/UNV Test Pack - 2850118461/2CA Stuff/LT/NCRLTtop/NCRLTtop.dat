@@ -1,0 +1,30 @@
+GUID af4fd9e9c3af480db8449010a91f8d75
+Type Shirt
+Rarity Legendary
+Useable Clothing
+ID 13008
+
+Size_X 2
+Size_Y 2
+Size_Z 0.65
+
+Width 7
+Height 5
+
+Armor 0.68
+
+Blueprints 2
+
+Blueprint_0_Type Apparel
+Blueprint_0_Supply_0_ID 13008
+Blueprint_0_Product 66
+Blueprint_0_Products 2
+Blueprint_0_Build 32
+
+Blueprint_1_Type Repair
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 66
+Blueprint_1_Supply_0_Amount 2
+Blueprint_1_Build 32
+
+Exclude_From_Master_Bundle
