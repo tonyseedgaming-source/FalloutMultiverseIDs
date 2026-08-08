@@ -1,0 +1,56 @@
+GUID c210b4f4bde44e3e99f8d22a5c833811
+Type Hat
+Useable Clothing
+ID 48349
+
+Size_X 1
+Size_Y 1
+Size_Z 0.3
+
+Armor 0.0
+Armor_Explosion 0.0
+Falling_Damage_Multiplier 0.0
+Prevents_Falling_Broken_Bones true
+
+Beard
+Priority_Over_Cosmetic false
+Hair_Override Model_1
+
+Blueprints 2
+Blueprint_0_Type Apparel
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 48349
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Outputs 1
+Blueprint_0_Output_0_ID 48348
+Blueprint_0_Output_0_Amount 1
+Blueprint_0_Build 48315
+
+Blueprint_1_Type Apparel
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 48349
+Blueprint_1_Supply_0_Amount 1
+Blueprint_1_Outputs 1
+Blueprint_1_Output_0_ID 48352
+Blueprint_1_Output_0_Amount 1
+Blueprint_1_Build 48321
+
+Actions 2
+Action_0_Type Blueprint
+Action_0_Source 48349
+Action_0_Blueprints 1
+Action_0_Blueprint_0_Index 0
+Action_0_Text Repair
+Action_0_Tooltip Repair to 100% quality at no cost.
+
+Action_1_Type Blueprint
+Action_1_Source 48349
+Action_1_Blueprints 1
+Action_1_Blueprint_0_Index 1
+Action_1_Text View Billboard
+Action_1_Tooltip Display the admin billboard above the head.
+
+Use_Auto_Icon_Measurements false
+Procedurally_Animate_Inertia false
+Should_Drop_On_Death false
+Bundle_Override_Path Clothes/Cap_Admin
