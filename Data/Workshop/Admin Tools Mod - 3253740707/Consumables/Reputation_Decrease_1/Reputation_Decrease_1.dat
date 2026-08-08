@@ -1,0 +1,20 @@
+GUID f6902b5749db4e009f70b772a70f9dd4
+Type Medical
+Useable Consumeable
+ID 48360
+
+Size_X 1
+Size_Y 1
+Size_Z 0.22
+
+Aid
+
+Quest_Rewards 1
+Quest_Reward_0_Type Reputation
+Quest_Reward_0_Value -1
+
+Use_Auto_Icon_Measurements false
+Procedurally_Animate_Inertia false
+Should_Delete_After_Use false
+Should_Drop_On_Death false
+Instantiated_Item_Name_Override 48356
