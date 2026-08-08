@@ -1,0 +1,25 @@
+GUID ad5bdaf10c95422d803f6b6b6bacb645
+Type Hat
+Rarity Rare
+Useable Clothing
+ID 10773
+
+Size_X 2
+Size_Y 2
+Size_Z 0.45
+
+Armor 0.55
+
+Movement_Speed_Multiplier 0.97
+
+Blueprints 1
+Blueprint_0_Type Repair
+Blueprint_0_Supplies 2
+Blueprint_0_Supply_0_ID 67
+Blueprint_0_Supply_0_Amount 15
+Blueprint_0_Supply_1_ID 5719
+Blueprint_0_Supply_1_Amount 2
+Blueprint_0_Tool 5763
+Blueprint_0_Build 32
+
+Exclude_From_Master_Bundle
