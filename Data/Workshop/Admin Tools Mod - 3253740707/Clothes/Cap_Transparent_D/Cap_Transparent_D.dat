@@ -1,0 +1,40 @@
+GUID ab04ea80586a4523b2c45b4d08a0c3bb
+Type Hat
+Useable Clothing
+ID 48376
+
+Size_X 1
+Size_Y 1
+Size_Z 0.26
+
+Armor 0.0
+Armor_Explosion 0.0
+Falling_Damage_Multiplier 0.0
+Prevents_Falling_Broken_Bones true
+
+Beard
+Hair
+Priority_Over_Cosmetic true
+
+Blueprints 1
+Blueprint_0_Type Apparel
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 48376
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Outputs 1
+Blueprint_0_Output_0_ID 48375
+Blueprint_0_Output_0_Amount 1
+Blueprint_0_Build 48315
+
+Actions 1
+Action_0_Type Blueprint
+Action_0_Source 48376
+Action_0_Blueprints 1
+Action_0_Blueprint_0_Index 0
+Action_0_Text Repair
+Action_0_Tooltip Repair to 100% quality at no cost.
+
+Use_Auto_Icon_Measurements false
+Procedurally_Animate_Inertia false
+Should_Drop_On_Death false
+Bundle_Override_Path Clothes/Cap_Transparent
