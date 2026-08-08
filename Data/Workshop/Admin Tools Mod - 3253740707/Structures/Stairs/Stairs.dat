@@ -1,0 +1,25 @@
+GUID efe2dbb3803f4488908d85925b02df55
+Type Structure
+Useable Structure
+Construct Roof
+ID 48446
+
+Size_X 1
+Size_Y 1
+Size_Z 0.48
+
+Health 10000
+Range 10
+
+Explosion 36
+
+Armor_Tier High
+Proof_Explosion
+Can_Be_Damaged false
+Unsalvageable
+
+Has_Clip_Prefab false
+Use_Auto_Icon_Measurements false
+Procedurally_Animate_Inertia false
+Should_Drop_On_Death false
+PlacementAudioClip Structures/Floor/Use.mp3
