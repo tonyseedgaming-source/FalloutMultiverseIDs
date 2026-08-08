@@ -1,0 +1,14 @@
+GUID bf400ecd889d41f4976a12d08c45e824
+Type Arrest_Start
+Useable Arrest_Start
+ID 48354
+
+Size_X 1
+Size_Y 1
+Size_Z 0.22
+
+Strength 65535
+
+Use_Auto_Icon_Measurements false
+Procedurally_Animate_Inertia false
+Should_Drop_On_Death false
