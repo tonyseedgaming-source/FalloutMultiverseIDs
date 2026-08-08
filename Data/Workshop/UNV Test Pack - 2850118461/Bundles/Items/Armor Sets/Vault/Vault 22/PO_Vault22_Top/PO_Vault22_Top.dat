@@ -1,0 +1,23 @@
+GUID b10ac5c423d349f3a18afe847b11c599
+
+Type Shirt
+Useable Clothing
+ID 10747
+
+Size_X 3
+Size_Y 2
+Size_Z 0.65
+
+Width 5
+Height 3
+
+Armor 0.85
+
+Blueprints 1
+Blueprint_0_Type Repair
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 66
+Blueprint_0_Supply_0_Amount 2
+Blueprint_0_Build 32
+
+Exclude_From_Master_Bundle
