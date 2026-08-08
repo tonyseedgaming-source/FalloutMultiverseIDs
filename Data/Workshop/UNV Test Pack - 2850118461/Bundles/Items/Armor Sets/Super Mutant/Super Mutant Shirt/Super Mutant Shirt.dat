@@ -1,0 +1,24 @@
+GUID 355bb50d61d34e9babd21f181cdb3d87
+Type Shirt
+Useable Clothing
+ID 20400
+
+Size_X 3
+Size_Y 2
+Size_Z 0.65
+
+Width 6
+Height 4
+
+Armor 0.6
+
+Proof_Radiation
+
+Blueprints 1
+Blueprint_0_Type Repair
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 5715
+Blueprint_0_Supply_0_Amount 2
+Blueprint_0_Build 32
+
+Exclude_From_Master_Bundle
