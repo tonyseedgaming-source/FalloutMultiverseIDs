@@ -1,0 +1,25 @@
+GUID c74ce6b400f549cfa05ebb587785ed7c
+Type Mask
+Rarity Epic
+Useable Clothing
+ID 10841
+
+Size_X 2
+Size_Y 2
+Size_Z 0.35
+
+Quality_Min 90
+Quality_Max 100
+
+Proof_Radiation
+
+Armor 0.9
+
+Blueprints 1
+Blueprint_0_Type Repair
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 67
+Blueprint_0_Supply_0_Amount 6
+Blueprint_0_Build 32
+
+Exclude_From_Master_Bundle
