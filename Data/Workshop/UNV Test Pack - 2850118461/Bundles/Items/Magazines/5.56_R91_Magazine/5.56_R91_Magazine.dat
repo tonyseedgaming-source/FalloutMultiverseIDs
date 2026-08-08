@@ -1,0 +1,83 @@
+GUID eca54b0e23dc4aa98b39911d1d6b3d54
+
+Type Magazine
+Rarity Rare
+ID 10991
+
+Size_X 1
+Size_Y 2
+Size_Z 0.3
+
+Amount 30
+Count_Min 5
+Count_Max 25
+
+Calibers 1
+Caliber_0 1277
+
+Tracer 55
+
+Blueprints 12
+Blueprint_0_Type Ammo
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 10991
+Blueprint_0_Build 30
+
+Blueprint_1_Type Ammo
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 10992
+Blueprint_1_Build 30
+
+Blueprint_2_Type Ammo
+Blueprint_2_Supplies 1
+Blueprint_2_Supply_0_ID 10993
+Blueprint_2_Build 30
+
+Blueprint_3_Type Ammo
+Blueprint_3_Supplies 1
+Blueprint_3_Supply_0_ID 10994
+Blueprint_3_Build 30
+
+Blueprint_4_Type Ammo
+Blueprint_4_Supplies 1
+Blueprint_4_Supply_0_ID 10995
+Blueprint_4_Build 30
+
+Blueprint_5_Type Ammo
+Blueprint_5_Supplies 1
+Blueprint_5_Supply_0_ID 10996
+Blueprint_5_Build 30
+
+Blueprint_6_Type Ammo
+Blueprint_6_Supplies 1
+Blueprint_6_Supply_0_ID 10997
+Blueprint_6_Build 30
+
+Blueprint_7_Type Ammo
+Blueprint_7_Supplies 1
+Blueprint_7_Supply_0_ID 10998
+Blueprint_7_Build 30
+
+Blueprint_8_Type Ammo
+Blueprint_8_Supplies 1
+Blueprint_8_Supply_0_ID 11003 
+Blueprint_8_Build 30
+
+Blueprint_9_Type Ammo
+Blueprint_9_Supplies 1
+Blueprint_9_Supply_0_ID 11026 
+Blueprint_9_Build 30
+
+Blueprint_10_Type Ammo
+Blueprint_10_Supplies 1
+Blueprint_10_Supply_0_ID 5531 
+Blueprint_10_Build 30
+
+Blueprint_11_Type Ammo
+Blueprint_11_Supplies 1
+Blueprint_11_Supply_0_ID 11531 
+Blueprint_11_Build 30
+
+Paintable
+
+Exclude_From_Master_Bundle
