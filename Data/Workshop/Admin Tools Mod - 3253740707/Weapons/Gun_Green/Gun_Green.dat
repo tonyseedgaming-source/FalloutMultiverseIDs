@@ -1,0 +1,98 @@
+GUID 860f48950a1747a0936cb993bf62d105
+Type Gun
+Useable Gun
+Slot Any
+ID 48396
+
+Size_X 1
+Size_Y 1
+Size_Z 0.26
+
+Sight 48334
+Magazine 48397
+Tactical 48335
+Barrel 48333
+Grip 48390
+
+Ammo_Per_Shot 0
+Infinite_Ammo true
+
+Ammo_Min 250
+Ammo_Max 250
+
+Semi
+Auto
+
+Replace 0.714
+
+Magazine_Calibers 1
+Magazine_Caliber_0 48312
+
+Attachment_Calibers 1
+Attachment_Caliber_0 48309
+
+Range 640
+Firerate 4
+Action Trigger
+
+Bullet_Gravity_Multiplier 0
+Ballistic_Travel 20
+
+Player_Damage 10000
+Player_Leg_Multiplier 1.0
+Player_Arm_Multiplier 1.0
+Player_Spine_Multiplier 1.0
+Player_Skull_Multiplier 1.0
+
+Zombie_Damage 10000
+Zombie_Leg_Multiplier 1.0
+Zombie_Arm_Multiplier 1.0
+Zombie_Spine_Multiplier 1.0
+Zombie_Skull_Multiplier 1.0
+
+Animal_Damage 10000
+Animal_Leg_Multiplier 1.0
+Animal_Spine_Multiplier 1.0
+Animal_Skull_Multiplier 1.0
+
+Barricade_Damage 0
+Structure_Damage 0
+Vehicle_Damage 0
+Resource_Damage 0
+Object_Damage 0
+
+Invulnerable
+
+Durability 0.0
+
+Aim_In_Duration 0.2
+Spread_Aim 0.5
+Spread_Hip 0.1
+Spread_Crouch 1.0
+Spread_Prone 1.0
+Spread_Sprint 1.0
+
+Recoil_Min_X 0.0
+Recoil_Min_Y 0.0
+Recoil_Max_X 0.0
+Recoil_Max_Y 0.0
+
+Recover_X 1.0
+Recover_Y 1.0
+
+Shake_Min_X 0.0
+Shake_Min_Y 0.0
+Shake_Min_Z 0.0
+Shake_Max_X 0.0
+Shake_Max_Y 0.0
+Shake_Max_Z 0.0
+
+Muzzle 48313
+
+Requires_NonZero_Attachment_Caliber true
+Stun_Zombie_Always
+
+Use_Auto_Icon_Measurements false
+Procedurally_Animate_Inertia false
+Should_Drop_On_Death false
+Instantiated_Item_Name_Override 48330
