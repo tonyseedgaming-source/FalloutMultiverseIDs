@@ -1,0 +1,23 @@
+GUID 7d7a1e5a95434f16a28a5a7d314ee7fb
+
+Type Shirt
+Useable Clothing
+ID 10743
+
+Size_X 3
+Size_Y 2
+Size_Z 0.65
+
+Width 5
+Height 3
+
+Armor 0.85
+
+Blueprints 1
+Blueprint_0_Type Repair
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 66
+Blueprint_0_Supply_0_Amount 2
+Blueprint_0_Build 32
+
+Exclude_From_Master_Bundle
