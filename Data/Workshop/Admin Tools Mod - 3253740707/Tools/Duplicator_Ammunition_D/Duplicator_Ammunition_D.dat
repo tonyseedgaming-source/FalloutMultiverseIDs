@@ -1,0 +1,278 @@
+GUID f52c20a9defa428aa34642bfddc4a11a
+Type Supply
+ID 48433
+
+Size_X 1
+Size_Y 1
+Size_Z 0.35
+
+Blueprints 22
+Blueprint_0_Type Tool
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 48433
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Supply_0_Critical
+Blueprint_0_Outputs 2
+Blueprint_0_Output_0_ID 48432
+Blueprint_0_Output_0_Amount 1
+Blueprint_0_Output_1_ID 44
+Blueprint_0_Output_1_Amount 1
+Blueprint_0_Build 48315
+
+Blueprint_1_Type Tool
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 48433
+Blueprint_1_Supply_0_Amount 1
+Blueprint_1_Supply_0_Critical
+Blueprint_1_Outputs 2
+Blueprint_1_Output_0_ID 48432
+Blueprint_1_Output_0_Amount 1
+Blueprint_1_Output_1_ID 43
+Blueprint_1_Output_1_Amount 1
+Blueprint_1_Build 48315
+
+Blueprint_2_Type Tool
+Blueprint_2_Supplies 1
+Blueprint_2_Supply_0_ID 48433
+Blueprint_2_Supply_0_Amount 1
+Blueprint_2_Supply_0_Critical
+Blueprint_2_Outputs 2
+Blueprint_2_Output_0_ID 48432
+Blueprint_2_Output_0_Amount 1
+Blueprint_2_Output_1_ID 119
+Blueprint_2_Output_1_Amount 1
+Blueprint_2_Build 48315
+
+Blueprint_3_Type Tool
+Blueprint_3_Supplies 1
+Blueprint_3_Supply_0_ID 48433
+Blueprint_3_Supply_0_Amount 1
+Blueprint_3_Supply_0_Critical
+Blueprint_3_Outputs 2
+Blueprint_3_Output_0_ID 48432
+Blueprint_3_Output_0_Amount 1
+Blueprint_3_Output_1_ID 1192
+Blueprint_3_Output_1_Amount 1
+Blueprint_3_Build 48315
+
+Blueprint_4_Type Tool
+Blueprint_4_Supplies 1
+Blueprint_4_Supply_0_ID 48433
+Blueprint_4_Supply_0_Amount 1
+Blueprint_4_Supply_0_Critical
+Blueprint_4_Outputs 2
+Blueprint_4_Output_0_ID 48432
+Blueprint_4_Output_0_Amount 1
+Blueprint_4_Output_1_ID 1193
+Blueprint_4_Output_1_Amount 1
+Blueprint_4_Build 48315
+
+Blueprint_5_Type Tool
+Blueprint_5_Supplies 1
+Blueprint_5_Supply_0_ID 48433
+Blueprint_5_Supply_0_Amount 1
+Blueprint_5_Supply_0_Critical
+Blueprint_5_Outputs 2
+Blueprint_5_Output_0_ID 48432
+Blueprint_5_Output_0_Amount 1
+Blueprint_5_Output_1_ID 1200
+Blueprint_5_Output_1_Amount 1
+Blueprint_5_Build 48315
+
+Blueprint_6_Type Tool
+Blueprint_6_Supplies 1
+Blueprint_6_Supply_0_ID 48433
+Blueprint_6_Supply_0_Amount 1
+Blueprint_6_Supply_0_Critical
+Blueprint_6_Outputs 2
+Blueprint_6_Output_0_ID 48432
+Blueprint_6_Output_0_Amount 1
+Blueprint_6_Output_1_ID 1177
+Blueprint_6_Output_1_Amount 1
+Blueprint_6_Build 48315
+
+Blueprint_7_Type Tool
+Blueprint_7_Supplies 1
+Blueprint_7_Supply_0_ID 48433
+Blueprint_7_Supply_0_Amount 1
+Blueprint_7_Supply_0_Critical
+Blueprint_7_Outputs 2
+Blueprint_7_Output_0_ID 48432
+Blueprint_7_Output_0_Amount 1
+Blueprint_7_Output_1_ID 1166
+Blueprint_7_Output_1_Amount 1
+Blueprint_7_Build 48315
+
+Blueprint_8_Type Tool
+Blueprint_8_Supplies 1
+Blueprint_8_Supply_0_ID 48433
+Blueprint_8_Supply_0_Amount 1
+Blueprint_8_Supply_0_Critical
+Blueprint_8_Outputs 2
+Blueprint_8_Output_0_ID 48432
+Blueprint_8_Output_0_Amount 1
+Blueprint_8_Output_1_ID 381
+Blueprint_8_Output_1_Amount 1
+Blueprint_8_Build 48315
+
+Blueprint_9_Type Tool
+Blueprint_9_Supplies 1
+Blueprint_9_Supply_0_ID 48433
+Blueprint_9_Supply_0_Amount 1
+Blueprint_9_Supply_0_Critical
+Blueprint_9_Outputs 2
+Blueprint_9_Output_0_ID 48432
+Blueprint_9_Output_0_Amount 1
+Blueprint_9_Output_1_ID 113
+Blueprint_9_Output_1_Amount 1
+Blueprint_9_Build 48315
+
+Blueprint_10_Type Tool
+Blueprint_10_Supplies 1
+Blueprint_10_Supply_0_ID 48433
+Blueprint_10_Supply_0_Amount 1
+Blueprint_10_Supply_0_Critical
+Blueprint_10_Outputs 2
+Blueprint_10_Output_0_ID 48432
+Blueprint_10_Output_0_Amount 1
+Blueprint_10_Output_1_ID 347
+Blueprint_10_Output_1_Amount 1
+Blueprint_10_Build 48315
+
+Blueprint_11_Type Tool
+Blueprint_11_Supplies 1
+Blueprint_11_Supply_0_ID 48433
+Blueprint_11_Supply_0_Amount 1
+Blueprint_11_Supply_0_Critical
+Blueprint_11_Outputs 2
+Blueprint_11_Output_0_ID 48432
+Blueprint_11_Output_0_Amount 1
+Blueprint_11_Output_1_ID 1209
+Blueprint_11_Output_1_Amount 1
+Blueprint_11_Build 48315
+
+Blueprint_12_Type Tool
+Blueprint_12_Supplies 1
+Blueprint_12_Supply_0_ID 48433
+Blueprint_12_Supply_0_Amount 1
+Blueprint_12_Supply_0_Critical
+Blueprint_12_Outputs 2
+Blueprint_12_Output_0_ID 48432
+Blueprint_12_Output_0_Amount 1
+Blueprint_12_Output_1_ID 520
+Blueprint_12_Output_1_Amount 1
+Blueprint_12_Build 48315
+
+Blueprint_13_Type Tool
+Blueprint_13_Supplies 1
+Blueprint_13_Supply_0_ID 48433
+Blueprint_13_Supply_0_Amount 1
+Blueprint_13_Supply_0_Critical
+Blueprint_13_Outputs 2
+Blueprint_13_Output_0_ID 48432
+Blueprint_13_Output_0_Amount 1
+Blueprint_13_Output_1_ID 301
+Blueprint_13_Output_1_Amount 1
+Blueprint_13_Build 48315
+
+Blueprint_14_Type Tool
+Blueprint_14_Supplies 1
+Blueprint_14_Supply_0_ID 48433
+Blueprint_14_Supply_0_Amount 1
+Blueprint_14_Supply_0_Critical
+Blueprint_14_Outputs 2
+Blueprint_14_Output_0_ID 48432
+Blueprint_14_Output_0_Amount 1
+Blueprint_14_Output_1_ID 1443
+Blueprint_14_Output_1_Amount 1
+Blueprint_14_Build 48315
+
+Blueprint_15_Type Tool
+Blueprint_15_Supplies 1
+Blueprint_15_Supply_0_ID 48433
+Blueprint_15_Supply_0_Amount 1
+Blueprint_15_Supply_0_Critical
+Blueprint_15_Outputs 2
+Blueprint_15_Output_0_ID 48432
+Blueprint_15_Output_0_Amount 1
+Blueprint_15_Output_1_ID 1302
+Blueprint_15_Output_1_Amount 1
+Blueprint_15_Build 48315
+
+Blueprint_16_Type Tool
+Blueprint_16_Supplies 1
+Blueprint_16_Supply_0_ID 48433
+Blueprint_16_Supply_0_Amount 1
+Blueprint_16_Supply_0_Critical
+Blueprint_16_Outputs 2
+Blueprint_16_Output_0_ID 48432
+Blueprint_16_Output_0_Amount 1
+Blueprint_16_Output_1_ID 1339
+Blueprint_16_Output_1_Amount 1
+Blueprint_16_Build 48315
+
+Blueprint_17_Type Tool
+Blueprint_17_Supplies 1
+Blueprint_17_Supply_0_ID 48433
+Blueprint_17_Supply_0_Amount 1
+Blueprint_17_Supply_0_Critical
+Blueprint_17_Outputs 2
+Blueprint_17_Output_0_ID 48432
+Blueprint_17_Output_0_Amount 1
+Blueprint_17_Output_1_ID 1340
+Blueprint_17_Output_1_Amount 1
+Blueprint_17_Build 48315
+
+Blueprint_18_Type Tool
+Blueprint_18_Supplies 1
+Blueprint_18_Supply_0_ID 48433
+Blueprint_18_Supply_0_Amount 1
+Blueprint_18_Supply_0_Critical
+Blueprint_18_Outputs 2
+Blueprint_18_Output_0_ID 48432
+Blueprint_18_Output_0_Amount 1
+Blueprint_18_Output_1_ID 1341
+Blueprint_18_Output_1_Amount 1
+Blueprint_18_Build 48315
+
+Blueprint_19_Type Tool
+Blueprint_19_Supplies 1
+Blueprint_19_Supply_0_ID 48433
+Blueprint_19_Supply_0_Amount 1
+Blueprint_19_Supply_0_Critical
+Blueprint_19_Outputs 2
+Blueprint_19_Output_0_ID 48432
+Blueprint_19_Output_0_Amount 1
+Blueprint_19_Output_1_ID 1342
+Blueprint_19_Output_1_Amount 1
+Blueprint_19_Build 48315
+
+Blueprint_20_Type Tool
+Blueprint_20_Supplies 1
+Blueprint_20_Supply_0_ID 48433
+Blueprint_20_Supply_0_Amount 1
+Blueprint_20_Supply_0_Critical
+Blueprint_20_Outputs 2
+Blueprint_20_Output_0_ID 48432
+Blueprint_20_Output_0_Amount 1
+Blueprint_20_Output_1_ID 1343
+Blueprint_20_Output_1_Amount 1
+Blueprint_20_Build 48315
+
+Blueprint_21_Type Tool
+Blueprint_21_Supplies 1
+Blueprint_21_Supply_0_ID 48433
+Blueprint_21_Supply_0_Amount 1
+Blueprint_21_Supply_0_Critical
+Blueprint_21_Outputs 2
+Blueprint_21_Output_0_ID 48432
+Blueprint_21_Output_0_Amount 1
+Blueprint_21_Output_1_ID 1344
+Blueprint_21_Output_1_Amount 1
+Blueprint_21_Build 48315
+
+Add_Default_Actions false
+
+Use_Auto_Icon_Measurements false
+Should_Drop_On_Death false
+Bundle_Override_Path Tools/Duplicator_Ammunition
