@@ -1,0 +1,26 @@
+GUID f3068735e8b64a5e9767c0fb8c171976
+Type Structure
+Useable Structure
+Construct Wall
+ID 48447
+
+Size_X 1
+Size_Y 1
+Size_Z 0.45
+
+Health 10000
+Range 10
+
+Explosion 36
+
+Armor_Tier High
+Proof_Explosion
+Can_Be_Damaged false
+Unsalvageable
+Requires_Pillars false
+
+Has_Clip_Prefab false
+Use_Auto_Icon_Measurements false
+Procedurally_Animate_Inertia false
+Should_Drop_On_Death false
+PlacementAudioClip Structures/Floor/Use.mp3
