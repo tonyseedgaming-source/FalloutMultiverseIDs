@@ -1,0 +1,39 @@
+GUID aae5de5ac08d4ac38c4cd99116e2b0b3
+
+Type Magazine
+Rarity Rare
+ID 10915
+
+Size_X 1
+Size_Y 2
+Size_Z 0.15
+
+Amount 4
+Count_Min 1
+Count_Max 4
+
+Calibers 1
+Caliber_0 10915
+
+Tracer 106
+
+Range 3
+Player_Damage 30
+Zombie_Damage 30
+Animal_Damage 30
+Barricade_Damage 5
+Structure_Damage 5
+Vehicle_Damage 15
+Resource_Damage 50
+Object_Damage 15
+Explosion 53
+Explosive
+
+Blueprints 1
+Blueprint_0_Type Ammo
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 10915
+Blueprint_0_Build 30	
+
+
+Exclude_From_Master_Bundle
