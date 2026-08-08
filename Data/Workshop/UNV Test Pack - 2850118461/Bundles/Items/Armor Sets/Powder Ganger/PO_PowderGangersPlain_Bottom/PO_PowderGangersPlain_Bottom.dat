@@ -1,0 +1,16 @@
+GUID 931cbf7f565b4c7d9d0f4ed1d063ace6
+
+Type Pants
+Useable Clothing
+ID 11246
+
+Size_X 2
+Size_Y 2
+Size_Z 0.65
+
+Width 4
+Height 3
+
+Armor 0.85
+
+Exclude_From_Master_Bundle
