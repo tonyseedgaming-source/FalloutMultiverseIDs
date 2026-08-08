@@ -1,0 +1,23 @@
+GUID e08c08e6bf654ce58693baa178749234
+Type Magazine
+ID 48397
+
+Size_X 1
+Size_Y 1
+Size_Z 0.14
+
+Amount 250
+Count_Min 250
+Count_Max 250
+
+Spread 0
+Firerate 1
+
+Calibers 1
+Caliber_0 48312
+
+Tracer 48310
+Impact 48311
+
+Use_Auto_Icon_Measurements false
+Should_Drop_On_Death false
