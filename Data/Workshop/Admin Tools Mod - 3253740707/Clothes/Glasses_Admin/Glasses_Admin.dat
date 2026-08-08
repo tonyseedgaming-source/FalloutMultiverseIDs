@@ -1,0 +1,43 @@
+GUID 5e0970bd8c664648a7e64d3c24ad3cac
+Type Glasses
+Useable Clothing
+ID 48377
+
+Size_X 1
+Size_Y 1
+Size_Z 0.26
+
+Falling_Damage_Multiplier 0.0
+Prevents_Falling_Broken_Bones true
+Proof_Water
+
+Vision Military
+Nightvision_Color #c0c0c0
+Nightvision_Fog_Intensity 0.0
+Nightvision_Allowed_In_ThirdPerson true
+
+Hair
+Beard
+Priority_Over_Cosmetic false
+
+Blueprints 1
+Blueprint_0_Type Apparel
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 48377
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Outputs 1
+Blueprint_0_Output_0_ID 48467
+Blueprint_0_Output_0_Amount 1
+Blueprint_0_Build 48321
+
+Actions 1
+Action_0_Type Blueprint
+Action_0_Source 48377
+Action_0_Blueprints 1
+Action_0_Blueprint_0_Index 0
+Action_0_Text Headlamp
+Action_0_Tooltip Switch to headlamp.
+
+Use_Auto_Icon_Measurements false
+Procedurally_Animate_Inertia false
+Should_Drop_On_Death false
