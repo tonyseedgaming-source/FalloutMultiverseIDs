@@ -1,0 +1,18 @@
+GUID 382ae32dce7e430189f4c5191fedfeb0
+Type Cloud
+Useable Cloud
+ID 48476
+
+Size_X 1
+Size_Y 1
+Size_Z 0.26
+
+Gravity -0.5
+Equipable_Movement_Speed_Multiplier 3.0
+
+Use_Auto_Icon_Measurements false
+Procedurally_Animate_Inertia false
+Should_Drop_On_Death false
+
+Instantiated_Item_Name_Override 48306
+EquipablePrefab Tools/Levitation_Up_Transparent/Equip.prefab
