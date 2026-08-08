@@ -1,0 +1,23 @@
+GUID c35fb177d0784c558ef3b82bdbff30af
+Type Magazine
+Rarity Rare
+ID 10949
+
+Size_X 1
+Size_Y 2
+Size_Z 0.3
+
+Amount 1
+Count_Min 1
+Count_Max 1
+
+Calibers 1
+Caliber_0 10949
+
+Tracer 48
+
+Delete_Empty
+
+Paintable
+
+Exclude_From_Master_Bundle
